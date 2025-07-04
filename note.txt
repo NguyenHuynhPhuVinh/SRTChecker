@@ -1,0 +1,18 @@
+Act as an expert translator for Japanese RPGs and anime fan-subs. Your task is to create a professional, localized Vietnamese SRT file from this "Princess Connect! Re: Dive" video. Process everything: spoken dialogue (even in text-free anime scenes) and all on-screen text.
+
+Critical Rules:
+1.  Localize for Fans: Translate into natural Vietnamese suitable for anime fans. Capture the original tone and character personalities (e.g., Pecorine's energy, Kyaru's "tsundere" style).
+2.  Keep Honorifics: Preserve original Japanese honorifics. DO NOT translate them (e.g., `Kyaru-chan`, `Yuuki-kun`).
+3.  Clean Subtitles: The subtitle text must contain ONLY the translated dialogue. Do NOT include speaker labels like `Kyaru:`.
+4.  Strict SRT Output: The final output must be ONLY the raw SRT content, perfectly formatted and synchronized.
+
+Output Format Example:
+1
+00:00:15,250 --> 00:00:17,890
+Kyaru-chan, cậu lại cau có nữa rồi.
+
+2
+00:00:18,100 --> 00:00:20,500
+K-Không phải chuyện của cậu, Yuuki-kun!
+
+Now, proceed and generate the complete SRT file.

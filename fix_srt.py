@@ -11,116 +11,260 @@ import sys
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import threading
+from tkinter import font
 
 class SRTFixer:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("SRT Format Fixer - Sửa lỗi định dạng file SRT")
-        self.root.geometry("600x500")
+        self.root.title("🔧 SRT Format Fixer - Công cụ sửa lỗi định dạng file SRT")
+        self.root.geometry("900x700")
         self.root.resizable(True, True)
-        
+
+        # Cấu hình theme và màu sắc
+        self.setup_theme()
+
         # Tạo giao diện
         self.create_widgets()
+
+    def setup_theme(self):
+        """Cấu hình theme và màu sắc"""
+        # Cấu hình màu nền
+        self.root.configure(bg='#f0f0f0')
+
+        # Tạo style cho ttk
+        self.style = ttk.Style()
+
+        # Thử sử dụng theme hiện đại
+        try:
+            self.style.theme_use('clam')
+        except:
+            try:
+                self.style.theme_use('alt')
+            except:
+                pass
+
+        # Cấu hình màu sắc custom
+        self.colors = {
+            'primary': '#2196F3',      # Blue
+            'secondary': '#4CAF50',    # Green
+            'accent': '#FF9800',       # Orange
+            'danger': '#F44336',       # Red
+            'dark': '#212121',         # Dark Gray
+            'light': '#FAFAFA',        # Light Gray
+            'white': '#FFFFFF',
+            'text': '#333333'
+        }
+
+        # Cấu hình style cho các widget
+        self.style.configure('Title.TLabel',
+                           font=('Segoe UI', 18, 'bold'),
+                           foreground=self.colors['primary'])
+
+        self.style.configure('Heading.TLabel',
+                           font=('Segoe UI', 11, 'bold'),
+                           foreground=self.colors['dark'])
+
+        self.style.configure('Custom.TButton',
+                           font=('Segoe UI', 10),
+                           padding=(10, 5))
+
+        self.style.configure('Primary.TButton',
+                           font=('Segoe UI', 11, 'bold'),
+                           padding=(15, 8))
+
+        self.style.configure('Custom.TFrame',
+                           relief='solid',
+                           borderwidth=1)
+
+        # Cấu hình icon cho window
+        try:
+            # Tạo icon đơn giản bằng text
+            self.root.iconname("SRT Fixer")
+        except:
+            pass
         
     def create_widgets(self):
-        # Frame chính
-        main_frame = ttk.Frame(self.root, padding="10")
-        main_frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
-        
-        # Tiêu đề
-        title_label = ttk.Label(main_frame, text="SRT Format Fixer", 
-                               font=("Arial", 16, "bold"))
-        title_label.grid(row=0, column=0, columnspan=2, pady=(0, 20))
-        
-        # Chọn file chính
-        ttk.Label(main_frame, text="File SRT chính (cần sửa):").grid(row=1, column=0, sticky=tk.W, pady=5)
+        # Container chính với padding
+        main_container = ttk.Frame(self.root)
+        main_container.pack(fill=tk.BOTH, expand=True, padx=20, pady=20)
 
-        file_frame = ttk.Frame(main_frame)
-        file_frame.grid(row=2, column=0, columnspan=2, sticky=(tk.W, tk.E), pady=5)
+        # Header với icon và tiêu đề
+        header_frame = ttk.Frame(main_container)
+        header_frame.pack(fill=tk.X, pady=(0, 20))
+
+        title_label = ttk.Label(header_frame,
+                               text="🔧 SRT Format Fixer",
+                               style='Title.TLabel')
+        title_label.pack(side=tk.LEFT)
+
+        subtitle_label = ttk.Label(header_frame,
+                                 text="Công cụ chuyên nghiệp sửa lỗi định dạng file SRT",
+                                 font=('Segoe UI', 10),
+                                 foreground='#666666')
+        subtitle_label.pack(side=tk.LEFT, padx=(10, 0))
+        
+        # Section chọn file với card style
+        files_card = ttk.LabelFrame(main_container, text="📁 Chọn File",
+                                   style='Custom.TFrame', padding="15")
+        files_card.pack(fill=tk.X, pady=(0, 15))
+
+        # File chính
+        main_file_frame = ttk.Frame(files_card)
+        main_file_frame.pack(fill=tk.X, pady=(0, 10))
+
+        ttk.Label(main_file_frame, text="File SRT chính (cần sửa):",
+                 style='Heading.TLabel').pack(anchor=tk.W, pady=(0, 5))
+
+        file_input_frame = ttk.Frame(main_file_frame)
+        file_input_frame.pack(fill=tk.X)
 
         self.file_path_var = tk.StringVar()
-        self.file_entry = ttk.Entry(file_frame, textvariable=self.file_path_var, width=50)
-        self.file_entry.grid(row=0, column=0, sticky=(tk.W, tk.E), padx=(0, 10))
+        self.file_entry = ttk.Entry(file_input_frame, textvariable=self.file_path_var,
+                                   font=('Segoe UI', 10))
+        self.file_entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 10))
 
-        ttk.Button(file_frame, text="Chọn file",
-                  command=self.select_file).grid(row=0, column=1)
+        ttk.Button(file_input_frame, text="📂 Chọn file",
+                  command=self.select_file, style='Custom.TButton').pack(side=tk.RIGHT)
 
-        file_frame.columnconfigure(0, weight=1)
+        # File phụ để merge
+        merge_file_frame = ttk.Frame(files_card)
+        merge_file_frame.pack(fill=tk.X)
 
-        # Chọn file phụ để merge
-        ttk.Label(main_frame, text="File SRT phụ (để chèn vào chỗ thiếu) - Tùy chọn:").grid(row=3, column=0, sticky=tk.W, pady=(15, 5))
+        ttk.Label(merge_file_frame, text="File SRT phụ (để chèn vào chỗ thiếu) - Tùy chọn:",
+                 style='Heading.TLabel').pack(anchor=tk.W, pady=(0, 5))
 
-        merge_frame = ttk.Frame(main_frame)
-        merge_frame.grid(row=4, column=0, columnspan=2, sticky=(tk.W, tk.E), pady=5)
+        merge_input_frame = ttk.Frame(merge_file_frame)
+        merge_input_frame.pack(fill=tk.X)
 
         self.merge_file_var = tk.StringVar()
-        self.merge_entry = ttk.Entry(merge_frame, textvariable=self.merge_file_var, width=50)
-        self.merge_entry.grid(row=0, column=0, sticky=(tk.W, tk.E), padx=(0, 10))
+        self.merge_entry = ttk.Entry(merge_input_frame, textvariable=self.merge_file_var,
+                                   font=('Segoe UI', 10))
+        self.merge_entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 10))
 
-        ttk.Button(merge_frame, text="Chọn file",
-                  command=self.select_merge_file).grid(row=0, column=1)
-
-        merge_frame.columnconfigure(0, weight=1)
+        ttk.Button(merge_input_frame, text="📂 Chọn file",
+                  command=self.select_merge_file, style='Custom.TButton').pack(side=tk.RIGHT)
         
-        # Tùy chọn
-        options_frame = ttk.LabelFrame(main_frame, text="Tùy chọn", padding="5")
-        options_frame.grid(row=5, column=0, columnspan=2, sticky=(tk.W, tk.E), pady=10)
+        # Section tùy chọn với card style
+        options_card = ttk.LabelFrame(main_container, text="⚙️ Tùy chọn xử lý",
+                                     style='Custom.TFrame', padding="15")
+        options_card.pack(fill=tk.X, pady=(0, 15))
 
+        # Chia thành 2 cột
+        left_options = ttk.Frame(options_card)
+        left_options.pack(side=tk.LEFT, fill=tk.BOTH, expand=True, padx=(0, 20))
+
+        right_options = ttk.Frame(options_card)
+        right_options.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True)
+
+        # Cột trái
         self.fix_structure_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(options_frame, text="Sửa cấu trúc SRT",
-                       variable=self.fix_structure_var).grid(row=0, column=0, sticky=tk.W)
+        ttk.Checkbutton(left_options, text="🔧 Sửa cấu trúc SRT",
+                       variable=self.fix_structure_var,
+                       style='Custom.TCheckbutton').pack(anchor=tk.W, pady=2)
 
         self.fix_encoding_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(options_frame, text="Sửa lỗi encoding",
-                       variable=self.fix_encoding_var).grid(row=0, column=1, sticky=tk.W)
+        ttk.Checkbutton(left_options, text="🔤 Sửa lỗi encoding",
+                       variable=self.fix_encoding_var,
+                       style='Custom.TCheckbutton').pack(anchor=tk.W, pady=2)
 
         self.validate_time_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(options_frame, text="Kiểm tra logic thời gian",
-                       variable=self.validate_time_var).grid(row=1, column=0, sticky=tk.W)
+        ttk.Checkbutton(left_options, text="⏰ Kiểm tra logic thời gian",
+                       variable=self.validate_time_var,
+                       style='Custom.TCheckbutton').pack(anchor=tk.W, pady=2)
 
+        # Cột phải
         self.merge_subtitles_var = tk.BooleanVar(value=False)
-        ttk.Checkbutton(options_frame, text="Chèn subtitle từ file phụ",
-                       variable=self.merge_subtitles_var).grid(row=1, column=1, sticky=tk.W)
+        ttk.Checkbutton(right_options, text="🔗 Chèn subtitle từ file phụ",
+                       variable=self.merge_subtitles_var,
+                       style='Custom.TCheckbutton').pack(anchor=tk.W, pady=2)
 
-        # Tùy chọn merge
-        merge_options_frame = ttk.Frame(options_frame)
-        merge_options_frame.grid(row=2, column=0, columnspan=2, sticky=(tk.W, tk.E), pady=5)
+        self.check_strange_chars_var = tk.BooleanVar(value=True)
+        ttk.Checkbutton(right_options, text="🔍 Kiểm tra ký tự lạ",
+                       variable=self.check_strange_chars_var,
+                       style='Custom.TCheckbutton').pack(anchor=tk.W, pady=2)
 
-        ttk.Label(merge_options_frame, text="Khoảng cách tối thiểu (giây):").grid(row=0, column=0, sticky=tk.W)
+        # Tùy chọn merge (hiển thị khi cần)
+        merge_options_frame = ttk.Frame(options_card)
+        merge_options_frame.pack(fill=tk.X, pady=(10, 0))
+
+        ttk.Label(merge_options_frame, text="🔧 Cài đặt merge:",
+                 style='Heading.TLabel').pack(anchor=tk.W, pady=(0, 5))
+
+        merge_settings = ttk.Frame(merge_options_frame)
+        merge_settings.pack(fill=tk.X)
+
+        # Khoảng cách tối thiểu
+        gap_frame = ttk.Frame(merge_settings)
+        gap_frame.pack(side=tk.LEFT, padx=(0, 20))
+
+        ttk.Label(gap_frame, text="Khoảng cách tối thiểu (giây):").pack(anchor=tk.W)
         self.min_gap_var = tk.StringVar(value="2.0")
-        ttk.Entry(merge_options_frame, textvariable=self.min_gap_var, width=10).grid(row=0, column=1, padx=5)
+        ttk.Entry(gap_frame, textvariable=self.min_gap_var, width=8,
+                 font=('Segoe UI', 10)).pack(anchor=tk.W, pady=(2, 0))
 
-        ttk.Label(merge_options_frame, text="Độ dài tối thiểu (giây):").grid(row=0, column=2, sticky=tk.W, padx=(20, 0))
+        # Độ dài tối thiểu
+        duration_frame = ttk.Frame(merge_settings)
+        duration_frame.pack(side=tk.LEFT)
+
+        ttk.Label(duration_frame, text="Độ dài tối thiểu (giây):").pack(anchor=tk.W)
         self.min_duration_var = tk.StringVar(value="1.0")
-        ttk.Entry(merge_options_frame, textvariable=self.min_duration_var, width=10).grid(row=0, column=3, padx=5)
+        ttk.Entry(duration_frame, textvariable=self.min_duration_var, width=8,
+                 font=('Segoe UI', 10)).pack(anchor=tk.W, pady=(2, 0))
 
-        # Nút sửa
-        ttk.Button(main_frame, text="Sửa lỗi SRT",
-                  command=self.fix_srt_threaded).grid(row=6, column=0, columnspan=2, pady=20)
-        
-        # Progress bar
-        self.progress = ttk.Progressbar(main_frame, mode='indeterminate')
-        self.progress.grid(row=7, column=0, columnspan=2, sticky=(tk.W, tk.E), pady=5)
+        # Section action với nút chính
+        action_frame = ttk.Frame(main_container)
+        action_frame.pack(fill=tk.X, pady=(0, 15))
 
-        # Text area để hiển thị log
-        ttk.Label(main_frame, text="Kết quả:").grid(row=8, column=0, sticky=tk.W, pady=(20, 5))
+        # Nút chính với style đẹp
+        self.main_button = ttk.Button(action_frame, text="🚀 Bắt đầu xử lý SRT",
+                                     command=self.fix_srt_threaded,
+                                     style='Primary.TButton')
+        self.main_button.pack(pady=10)
 
-        text_frame = ttk.Frame(main_frame)
-        text_frame.grid(row=9, column=0, columnspan=2, sticky=(tk.W, tk.E, tk.N, tk.S), pady=5)
-        
-        self.log_text = tk.Text(text_frame, height=15, width=70)
+        # Progress bar với style đẹp hơn
+        progress_frame = ttk.Frame(action_frame)
+        progress_frame.pack(fill=tk.X, pady=(0, 5))
+
+        self.progress = ttk.Progressbar(progress_frame, mode='indeterminate', length=400)
+        self.progress.pack()
+
+        # Status label
+        self.status_label = ttk.Label(action_frame, text="Sẵn sàng xử lý",
+                                     font=('Segoe UI', 9), foreground='#666666')
+        self.status_label.pack()
+
+        # Section kết quả với card style
+        results_card = ttk.LabelFrame(main_container, text="📋 Kết quả xử lý",
+                                     style='Custom.TFrame', padding="15")
+        results_card.pack(fill=tk.BOTH, expand=True)
+
+        # Text area với style đẹp hơn
+        text_frame = ttk.Frame(results_card)
+        text_frame.pack(fill=tk.BOTH, expand=True)
+
+        self.log_text = tk.Text(text_frame,
+                               font=('Consolas', 10),
+                               bg='#f8f9fa',
+                               fg='#333333',
+                               relief='flat',
+                               borderwidth=0,
+                               wrap=tk.WORD,
+                               padx=10,
+                               pady=10)
+
+        # Scrollbar với style đẹp
         scrollbar = ttk.Scrollbar(text_frame, orient=tk.VERTICAL, command=self.log_text.yview)
         self.log_text.configure(yscrollcommand=scrollbar.set)
+
+        self.log_text.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+        scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+
+        # Thêm placeholder text
+        self.log_text.insert(tk.END, "💡 Chọn file SRT và nhấn 'Bắt đầu xử lý' để bắt đầu...\n")
+        self.log_text.insert(tk.END, "📝 Kết quả xử lý sẽ hiển thị ở đây.\n")
+        self.log_text.configure(state='disabled')
         
-        self.log_text.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
-        scrollbar.grid(row=0, column=1, sticky=(tk.N, tk.S))
-        
-        text_frame.columnconfigure(0, weight=1)
-        text_frame.rowconfigure(0, weight=1)
-        
-        # Cấu hình grid weights
-        main_frame.columnconfigure(0, weight=1)
-        main_frame.rowconfigure(9, weight=1)
+        # Cấu hình responsive
         self.root.columnconfigure(0, weight=1)
         self.root.rowconfigure(0, weight=1)
         
@@ -141,10 +285,38 @@ class SRTFixer:
             self.merge_file_var.set(file_path)
             
     def log(self, message):
-        """Thêm message vào log text"""
-        self.log_text.insert(tk.END, message + "\n")
+        """Thêm message vào log text với style đẹp"""
+        self.log_text.configure(state='normal')
+
+        # Xóa placeholder text nếu đây là log đầu tiên
+        if "💡 Chọn file SRT" in self.log_text.get(1.0, tk.END):
+            self.log_text.delete(1.0, tk.END)
+
+        # Thêm timestamp
+        import datetime
+        timestamp = datetime.datetime.now().strftime("%H:%M:%S")
+
+        # Format message với màu sắc
+        if message.startswith("✓"):
+            # Success message - màu xanh
+            self.log_text.insert(tk.END, f"[{timestamp}] {message}\n")
+        elif message.startswith("⚠️") or message.startswith("Cảnh báo"):
+            # Warning message - màu cam
+            self.log_text.insert(tk.END, f"[{timestamp}] {message}\n")
+        elif message.startswith("❌") or message.startswith("Lỗi"):
+            # Error message - màu đỏ
+            self.log_text.insert(tk.END, f"[{timestamp}] {message}\n")
+        else:
+            # Normal message
+            self.log_text.insert(tk.END, f"[{timestamp}] {message}\n")
+
         self.log_text.see(tk.END)
+        self.log_text.configure(state='disabled')
         self.root.update_idletasks()
+
+    def update_status(self, status):
+        """Cập nhật status label"""
+        self.status_label.configure(text=status)
         
     def normalize_time_components(self, hours, minutes, seconds, milliseconds):
         """Chuẩn hóa các thành phần thời gian"""
@@ -384,7 +556,7 @@ class SRTFixer:
                 try:
                     with open(input_file, 'r', encoding=encoding) as f:
                         content = f.read()
-                    self.log(f"Đã đọc file với encoding: {encoding}")
+                    self.log(f"📖 Đã đọc file với encoding: {encoding}")
                     break
                 except UnicodeDecodeError:
                     continue
@@ -392,7 +564,7 @@ class SRTFixer:
             if content is None:
                 raise Exception("Không thể đọc file với bất kỳ encoding nào")
 
-            self.log(f"Đã đọc file: {input_file}")
+            self.log(f"📁 Đã đọc file: {input_file}")
 
             # Chuẩn hóa line endings
             content = content.replace('\r\n', '\n').replace('\r', '\n')
@@ -401,15 +573,22 @@ class SRTFixer:
             # Bước 1: Sửa cấu trúc SRT (nếu được chọn)
             structure_fixes = 0
             if self.fix_structure_var.get():
-                self.log("Đang kiểm tra cấu trúc SRT...")
+                self.log("🔧 Đang kiểm tra cấu trúc SRT...")
                 original_lines_count = len(lines)
                 lines = self.validate_srt_structure(lines)
                 structure_fixes = abs(len(lines) - original_lines_count)
                 if structure_fixes > 0:
                     self.log(f"Đã sửa {structure_fixes} lỗi cấu trúc")
 
-            # Bước 2: Sửa định dạng thời gian
-            self.log("Đang sửa định dạng thời gian...")
+            # Bước 2: Kiểm tra ký tự lạ (nếu được chọn)
+            strange_char_count = 0
+            if self.check_strange_chars_var.get():
+                self.log("🔍 Đang kiểm tra ký tự lạ...")
+                strange_chars = self.check_strange_characters(lines)
+                strange_char_count = self.report_strange_characters(strange_chars)
+
+            # Bước 3: Sửa định dạng thời gian
+            self.log("⏰ Đang sửa định dạng thời gian...")
             fixed_lines = []
             time_fixes = 0
             encoding_fixes = 0
@@ -463,7 +642,7 @@ class SRTFixer:
             base_name = os.path.splitext(input_file)[0]
             output_file = f"{base_name}_fixed.srt"
 
-            # Bước 3: Merge subtitle từ file phụ (nếu được chọn)
+            # Bước 4: Merge subtitle từ file phụ (nếu được chọn)
             merge_count = 0
             if self.merge_subtitles_var.get() and self.merge_file_var.get():
                 merge_file = self.merge_file_var.get()
@@ -508,6 +687,8 @@ class SRTFixer:
             self.log(f"Sửa lỗi encoding: {encoding_fixes}")
             self.log(f"Sửa lỗi cấu trúc: {structure_fixes}")
             self.log(f"Chèn subtitle: {merge_count}")
+            if self.check_strange_chars_var.get():
+                self.log(f"Ký tự lạ phát hiện: {strange_char_count}")
             self.log(f"Tổng cộng: {total_fixes} thay đổi")
             self.log(f"File đã sửa được lưu tại: {output_file}")
 
@@ -605,6 +786,187 @@ class SRTFixer:
             normalized.pop()
 
         return normalized
+
+    def check_strange_characters(self, lines):
+        """Kiểm tra và báo cáo ký tự lạ trong file"""
+        strange_chars_found = []
+
+        # Định nghĩa các ký tự được phép
+        allowed_chars = set()
+
+        # Chữ cái tiếng Anh
+        allowed_chars.update('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
+
+        # Số
+        allowed_chars.update('0123456789')
+
+        # Ký tự đặc biệt thông thường
+        allowed_chars.update(' .,!?;:()[]{}"\'-_+=*&%$#@/\\|`~^<>')
+
+        # Ký tự xuống dòng và tab
+        allowed_chars.update('\n\r\t')
+
+        # Ký tự tiếng Việt có dấu
+        vietnamese_chars = 'àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ'
+        vietnamese_chars += vietnamese_chars.upper()
+        allowed_chars.update(vietnamese_chars)
+
+        # CHỈ cho phép ký tự cơ bản - TẤT CẢ ký tự tượng hình sẽ được báo cáo
+        # Chỉ một số ký tự đặc biệt cơ bản nhất
+        allowed_chars.update('…""''–—')
+
+        # KHÔNG cho phép:
+        # - Emoji và ký tự tượng hình
+        # - Ký tự Nhật Bản (Hiragana, Katakana, Kanji)
+        # - Ký tự Trung Quốc
+        # - Các biểu tượng khác
+        # => TẤT CẢ sẽ được báo cáo là ký tự lạ
+
+        for line_num, line in enumerate(lines, 1):
+            for char_pos, char in enumerate(line, 1):
+                if char not in allowed_chars:
+                    # Phân loại ký tự lạ
+                    char_type = self.classify_strange_char(char)
+
+                    # Tìm thấy ký tự lạ
+                    char_info = {
+                        'line': line_num,
+                        'position': char_pos,
+                        'char': char,
+                        'unicode': ord(char),
+                        'hex': hex(ord(char)),
+                        'type': char_type,
+                        'context': line.strip()[:50] + ('...' if len(line.strip()) > 50 else '')
+                    }
+                    strange_chars_found.append(char_info)
+
+        return strange_chars_found
+
+    def classify_strange_char(self, char):
+        """Phân loại ký tự lạ"""
+        unicode_val = ord(char)
+
+        # Ký tự Nhật Bản
+        if (0x3041 <= unicode_val <= 0x3096 or  # Hiragana
+            0x30A1 <= unicode_val <= 0x30FA):   # Katakana
+            return "KÝ TỰ NHẬT BẢN (HIRAGANA/KATAKANA)"
+
+        # Ký tự Trung Quốc/Kanji
+        if 0x4E00 <= unicode_val <= 0x9FFF:
+            return "KÝ TỰ TRUNG QUỐC/KANJI"
+
+        # Emoji và ký tự tượng hình
+        if (0x1F600 <= unicode_val <= 0x1F64F or  # Emoticons
+            0x1F300 <= unicode_val <= 0x1F5FF or  # Miscellaneous Symbols
+            0x1F680 <= unicode_val <= 0x1F6FF or  # Transport and Map
+            0x1F700 <= unicode_val <= 0x1F77F or  # Alchemical Symbols
+            0x1F780 <= unicode_val <= 0x1F7FF or  # Geometric Shapes Extended
+            0x1F800 <= unicode_val <= 0x1F8FF or  # Supplemental Arrows-C
+            0x1F900 <= unicode_val <= 0x1F9FF or  # Supplemental Symbols and Pictographs
+            0x1FA00 <= unicode_val <= 0x1FA6F or  # Chess Symbols
+            0x1FA70 <= unicode_val <= 0x1FAFF or  # Symbols and Pictographs Extended-A
+            0x2600 <= unicode_val <= 0x26FF or    # Miscellaneous Symbols
+            0x2700 <= unicode_val <= 0x27BF or    # Dingbats
+            0x2B00 <= unicode_val <= 0x2BFF):     # Miscellaneous Symbols and Arrows
+            return "EMOJI/BIỂU TƯỢNG"
+
+        # Ký tự điều khiển
+        if unicode_val < 32 and char not in '\n\r\t':
+            return "KÝ TỰ ĐIỀU KHIỂN"
+
+        # BOM và ký tự đặc biệt
+        if unicode_val == 0xFEFF:
+            return "BOM (BYTE ORDER MARK)"
+
+        # Ký tự thay thế/lỗi
+        if unicode_val == 0xFFFD:
+            return "KÝ TỰ THAY THẾ (ENCODING LỖI)"
+
+        # Ký tự Latin mở rộng có thể là lỗi encoding
+        if 0x00C0 <= unicode_val <= 0x024F:
+            return "LATIN MỞ RỘNG (CÓ THỂ LỖI ENCODING)"
+
+        # Các ký tự tượng hình khác
+        if (0x2000 <= unicode_val <= 0x206F or  # General Punctuation
+            0x2070 <= unicode_val <= 0x209F or  # Superscripts and Subscripts
+            0x20A0 <= unicode_val <= 0x20CF or  # Currency Symbols
+            0x20D0 <= unicode_val <= 0x20FF or  # Combining Diacritical Marks for Symbols
+            0x2100 <= unicode_val <= 0x214F or  # Letterlike Symbols
+            0x2150 <= unicode_val <= 0x218F or  # Number Forms
+            0x2190 <= unicode_val <= 0x21FF or  # Arrows
+            0x2200 <= unicode_val <= 0x22FF or  # Mathematical Operators
+            0x2300 <= unicode_val <= 0x23FF or  # Miscellaneous Technical
+            0x2400 <= unicode_val <= 0x243F or  # Control Pictures
+            0x2440 <= unicode_val <= 0x245F or  # Optical Character Recognition
+            0x2460 <= unicode_val <= 0x24FF or  # Enclosed Alphanumerics
+            0x2500 <= unicode_val <= 0x257F or  # Box Drawing
+            0x2580 <= unicode_val <= 0x259F or  # Block Elements
+            0x25A0 <= unicode_val <= 0x25FF):   # Geometric Shapes
+            return "KÝ TỰ TƯỢNG HÌNH/BIỂU TƯỢNG"
+
+        # Ký tự khác
+        return "KÝ TỰ KHÔNG XÁC ĐỊNH"
+
+    def report_strange_characters(self, strange_chars):
+        """Báo cáo ký tự lạ lên UI"""
+        if not strange_chars:
+            self.log("✓ Không tìm thấy ký tự lạ nào trong file")
+            return 0
+
+        self.log(f"\n⚠️  PHÁT HIỆN {len(strange_chars)} KÝ TỰ LẠ:")
+        self.log("=" * 60)
+
+        # Thống kê theo loại
+        type_stats = {}
+        for char_info in strange_chars:
+            char_type = char_info.get('type', 'KHÔNG XÁC ĐỊNH')
+            if char_type not in type_stats:
+                type_stats[char_type] = 0
+            type_stats[char_type] += 1
+
+        self.log("📊 THỐNG KÊ THEO LOẠI:")
+        for char_type, count in sorted(type_stats.items()):
+            self.log(f"  • {char_type}: {count} ký tự")
+        self.log("")
+
+        # Thống kê theo loại
+        type_stats = {}
+        for char_info in strange_chars:
+            char_type = char_info.get('type', 'KHÔNG XÁC ĐỊNH')
+            if char_type not in type_stats:
+                type_stats[char_type] = 0
+            type_stats[char_type] += 1
+
+        self.log("📊 THỐNG KÊ THEO LOẠI:")
+        for char_type, count in sorted(type_stats.items()):
+            self.log(f"  • {char_type}: {count} ký tự")
+        self.log("")
+
+        # Nhóm theo ký tự để tránh spam
+        char_groups = {}
+        for char_info in strange_chars:
+            char = char_info['char']
+            if char not in char_groups:
+                char_groups[char] = []
+            char_groups[char].append(char_info)
+
+        for char, occurrences in char_groups.items():
+            char_type = occurrences[0].get('type', 'KHÔNG XÁC ĐỊNH')
+            self.log(f"\nKý tự: '{char}' - Loại: {char_type}")
+            self.log(f"Unicode: {occurrences[0]['unicode']}, Hex: {occurrences[0]['hex']}")
+            self.log(f"Xuất hiện {len(occurrences)} lần tại:")
+
+            # Hiển thị tối đa 5 vị trí đầu tiên
+            for i, info in enumerate(occurrences[:5]):
+                self.log(f"  - Dòng {info['line']}, vị trí {info['position']}: {info['context']}")
+
+            if len(occurrences) > 5:
+                self.log(f"  ... và {len(occurrences) - 5} vị trí khác")
+
+        self.log("=" * 60)
+        self.log("💡 Gợi ý: Kiểm tra encoding file hoặc sử dụng tùy chọn 'Sửa lỗi encoding'")
+
+        return len(strange_chars)
 
     def parse_srt_file(self, file_path):
         """Parse file SRT thành danh sách các subtitle"""
@@ -841,28 +1203,35 @@ class SRTFixer:
                     messagebox.showerror("Lỗi", "File SRT phụ không tồn tại!")
                     return
                 
-            # Bắt đầu progress bar
+            # Bắt đầu progress bar và cập nhật UI
             self.progress.start()
-            
+            self.main_button.configure(state='disabled', text="⏳ Đang xử lý...")
+            self.update_status("Đang xử lý file...")
+
             # Xóa log cũ
+            self.log_text.configure(state='normal')
             self.log_text.delete(1.0, tk.END)
-            
-            self.log("Bắt đầu sửa file SRT...")
+            self.log_text.configure(state='disabled')
+
+            self.log("🚀 Bắt đầu xử lý file SRT...")
             
             success, output_file, fixes_count = self.fix_srt_file(file_path)
             
-            # Dừng progress bar
+            # Dừng progress bar và khôi phục UI
             self.progress.stop()
-            
+            self.main_button.configure(state='normal', text="🚀 Bắt đầu xử lý SRT")
+
             if success:
+                self.update_status("✅ Hoàn thành!")
                 merge_text = ""
                 if self.merge_subtitles_var.get() and self.merge_file_var.get():
-                    merge_text = f"\nĐã merge subtitle từ file phụ!"
+                    merge_text = f"\n🔗 Đã merge subtitle từ file phụ!"
 
-                messagebox.showinfo("Thành công",
-                                  f"Hoàn thành xử lý với {fixes_count} thay đổi!{merge_text}\nFile đã lưu: {output_file}")
+                messagebox.showinfo("🎉 Thành công!",
+                                  f"✅ Hoàn thành xử lý với {fixes_count} thay đổi!{merge_text}\n\n📁 File đã lưu: {output_file}")
             else:
-                messagebox.showerror("Lỗi", "Có lỗi xảy ra khi xử lý file!")
+                self.update_status("❌ Có lỗi xảy ra")
+                messagebox.showerror("❌ Lỗi", "Có lỗi xảy ra khi xử lý file!")
         
         # Chạy trong thread riêng để không block UI
         thread = threading.Thread(target=run_fix)

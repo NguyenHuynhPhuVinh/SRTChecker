@@ -19,3 +19,6 @@ Kyaru-chan, cậu lại cau có nữa rồi.
 K-Không phải chuyện của cậu, Yuuki-kun!
 
 Now, proceed and generate the complete SRT file.
+
+pip install pyinstaller
+python -m PyInstaller --onefile --windowed --name="SRT_Fixer" fix_srt.py

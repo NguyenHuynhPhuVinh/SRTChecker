@@ -36,3 +36,36 @@ Now, proceed with the provided video and generate the complete SRT file.
 
 pip install pyinstaller
 python -m PyInstaller --onefile --windowed --name="SRT_Fixer" fix_srt.py
+
+Act as a meticulous Quality Assurance (QA) specialist for subtitles. You have just generated a Vietnamese SRT file for a "Princess Connect! Re: Dive" video. Your new, critical task is to perform a rigorous quality check on the SRT file you just created.
+
+Follow this verification checklist precisely:
+
+1.  SRT Format Validation:
+    - Verify that every entry strictly follows the standard SRT format: an index number, a timestamp line (`HH:MM:SS,ms --> HH:MM:SS,ms`), and the subtitle text.
+    - Ensure there are no formatting errors, especially in the timestamp (e.g., using a period `.` instead of a comma `,` before milliseconds).
+
+2.  Content and Language Integrity Check:
+    - Duplicate Lines: Scan for and remove any identical, consecutive subtitle lines.
+    - Language Validation (Crucial): The subtitle text must be 100% Vietnamese. Scan every line for any characters that do not belong to the Vietnamese alphabet (quốc ngữ), standard numbers, or common punctuation.
+    - Explicitly look for and correct any text mistakenly left in Japanese (Kanji, Hiragana, Katakana), Chinese, Russian (Cyrillic), or any other non-Vietnamese script.
+    - Artifact Check: Check for any leftover OCR artifacts, encoding errors (like `��` or `Â`), or placeholder text (`???`). These must be corrected.
+
+3.  Gap Analysis (Crucial):
+    - Identify any long time gaps (e.g., longer than 15 seconds) where no subtitles are present.
+    - For each gap, re-analyze the corresponding video segment.
+    - Was dialogue missed? If you find any untranslated dialogue or on-screen text in these gaps, you MUST add the missing subtitles and integrate them correctly into the file.
+    - Is the gap intentional? If the gap contains only music, sound effects, or visual action with no speech/text, make a note of it.
+
+Output Instructions (Follow this logic strictly):
+
+- IF you find ANY errors (formatting issues, duplicates, strange characters, or missed dialogue during gaps):
+    + Do NOT list the errors.
+    + Instead, regenerate and provide a single, complete, and fully corrected version of the entire SRT file. The output must be ONLY the raw SRT content.
+
+- IF the SRT file passes ALL checks and is error-free:
+    - Do NOT return the SRT file again.
+    - Instead, provide a confirmation message in VIETNAMESE.
+    - This Vietnamese message should state that the file is valid. If you identified any intentional long gaps (with no dialogue), briefly explain in Vietnamese what is happening in the video during those specific timecodes (e.g., "Từ 00:01:25 đến 00:01:40 là cảnh chiến đấu và nhạc nền, không có lời thoại.").
+
+Now, perform the QA check on the SRT file you previously created.

@@ -1,432 +1,817 @@
 ﻿1
-00:00:02,110 --> 00:00:03,800
-Hai người lướt qua nhau
+00:00:01,800 --> 00:00:04,200
+(Hội Bí Mật Lắm Mồm)
 
 2
-00:00:05,370 --> 00:00:09,200
-Ối chà... lỡ tán gẫu mất rồi.
+00:00:05,530 --> 00:00:06,430
+Này bọn kia!
 
 3
-00:00:10,200 --> 00:00:12,600
-Trời đã tối hẳn rồi nhỉ~
+00:00:06,870 --> 00:00:09,870
+Cái quái gì đây, sao bọn bây đột nhiên xông ra thế!
 
 4
-00:00:14,600 --> 00:00:19,800
-Chẳng lẽ, đó là cách câu giờ cho đến khi vết thương của cậu được chữa xong sao?
+00:00:10,070 --> 00:00:12,870
+Nếu muốn kiếm chuyện thì ta sẽ tiếp cho!
 
 5
-00:00:20,800 --> 00:00:24,200
-Phiền phức thật đấy~, tôi là người khá thong thả mà, nhỉ?
+00:00:14,560 --> 00:00:15,700
+Nhào vô đây!
 
 6
-00:00:25,900 --> 00:00:27,200
-À, đúng vậy nhỉ.
+00:00:16,060 --> 00:00:18,230
+Bên này cũng đang bực mình đây!
 
 7
-00:00:28,200 --> 00:00:31,600
-Thế nên, chúng ta mới là một cặp bài trùng tuyệt vời với một người nóng nảy như tôi.
+00:00:18,500 --> 00:00:21,830
+Bọn bây là người của guild nào!?
 
 8
-00:00:33,400 --> 00:00:35,200
-Này cậu~...
+00:00:24,290 --> 00:00:25,560
+Fufufu~♪
 
 9
-00:00:35,200 --> 00:00:40,200
-Cái gì vậy, cậu nói cứ như thể tôi và cậu đã quen nhau từ trước vậy~?
+00:00:26,230 --> 00:00:29,260
+Được hỏi đến danh tính, thật là... ô dề quá đi~!
 
 10
-00:00:41,400 --> 00:00:45,600
-Nếu chứng hoang tưởng quá nặng thì cậu nên đi gặp bác sĩ đấy.
+00:00:30,660 --> 00:00:31,900
+Mọi người ơi~!
 
 11
-00:00:46,600 --> 00:00:50,400
-Tôi đã điều tra về cậu rồi. Vì cậu thật sự quá chướng mắt.
+00:00:32,160 --> 00:00:35,930
+Rino-chan có lẽ là muốn nói "Thật là mạo muội" đó ạ♪
 
 12
-00:00:51,200 --> 00:00:57,200
-Cậu vẫn còn ở tuổi cần người giám hộ mà, nên tôi muốn cậu nhanh chóng được ba mẹ rước về.
+00:00:37,200 --> 00:00:38,660
+Đúng rồi đó, Shizuru onee-chan!
 
 13
-00:00:58,400 --> 00:01:05,400
-Cậu ấy, trên giấy tờ là con gái của một nhà nghiên cứu tại cơ sở thí nghiệm nào đó... đúng không nhỉ.
+00:00:39,130 --> 00:00:40,200
+Xin được giới thiệu lại...
 
 14
-00:01:06,600 --> 00:01:10,600
-Người của cơ sở đó đang muốn thu hồi cậu đấy.
+00:00:40,560 --> 00:00:42,930
+Dù được hỏi đến danh tính, thật là mạo muội!
 
 15
-00:01:11,600 --> 00:01:13,800
-Tôi rất giỏi trong việc điều tra.
+00:00:43,460 --> 00:00:48,500
+Chúng tôi là hội bí mật chuyên tìm kiếm những bí ẩn của thế giới, [Labyrinthus]!
 
 16
-00:01:14,600 --> 00:01:16,200
-Nên tôi đã biết được nhiều thứ...
+00:00:49,360 --> 00:00:53,830
+Bọn tôi không có thù oán gì với các người,
+nhưng xin phép được can thiệp một chút!
 
 17
-00:01:17,200 --> 00:01:21,200
-Cậu ấy, nói thẳng ra là một thứ như động vật thí nghiệm nhỉ?
+00:00:54,330 --> 00:00:56,360
+Bây giờ, nếu... ừm...
 
 18
-00:01:22,600 --> 00:01:25,800
-Cảm giác như là cậu đã than khóc cho thân phận của mình và bỏ trốn~?
+00:00:57,200 --> 00:01:01,870
+Noem bị thu hồi và cách ly ở đâu đó
+thì sẽ phiền phức lắm!
 
 19
-00:01:28,400 --> 00:01:29,200
-...
+00:01:02,800 --> 00:01:03,800
+Rino-chan~.
 
 20
-00:01:30,400 --> 00:01:33,200
-Mà, tôi cũng chẳng có hứng thú gì với chuyện của cậu cả~
+00:01:04,270 --> 00:01:08,810
+Đã là hội bí mật mà lại đường đường chính chính xưng danh
+thì chị thấy hơi sao sao đó... nha☆
 
 21
-00:01:34,400 --> 00:01:39,400
-Chỉ là... cứ lảng vảng quanh dinh thự mãi thế này thì phiền phức lắm~
+00:01:09,740 --> 00:01:10,510
+Bốp!?
 
 22
-00:01:40,400 --> 00:01:44,400
-Nên tôi đã chấp nhận yêu cầu bắt giữ một người như cậu.
+00:01:10,870 --> 00:01:11,940
+Đ-Đừng có húc đầu!
 
 23
-00:01:45,200 --> 00:01:47,400
-Mà, đôi bên cùng có lợi mà nhỉ~♪
+00:01:12,180 --> 00:01:17,080
+Làm ơn đừng húc đầu nữa mà onee-chan, đau lắm đó!
 
 24
-00:01:48,400 --> 00:01:53,400
-Nhân tiện, người ủy thác có nói là khi thu hồi cậu, sống chết không thành vấn đề.
+00:01:18,510 --> 00:01:24,850
+Với lại, mục đích của chúng ta là phải giữ bí mật,
+mà em cứ bô bô ra như vậy là không được đâu... nha☆
 
 25
-00:01:54,600 --> 00:02:00,000
-Nếu cậu gây quá nhiều phiền phức, tôi sẽ xử lý cậu gọn lẹ... rồi giao xác cho người ủy thác,
+00:01:26,520 --> 00:01:27,320
+Hí daaa!?
 
 26
-00:02:00,000 --> 00:02:03,600
-và thế là hoàn thành công việc~, tôi sẽ làm vậy đấy?
+00:01:27,890 --> 00:01:29,620
+Đ-Đã bảo là đừng húc đầu nữa mà!
 
 27
-00:02:04,400 --> 00:02:06,200
-Thế nên.
+00:01:30,820 --> 00:01:32,560
+Tha cho em đi mà, onee-chan!
 
 28
-00:02:06,200 --> 00:02:12,400
-Đừng gây khó dễ nữa, mau chóng từ bỏ và để tôi bắt giữ có được không~... Muimi-chan♪
+00:01:32,960 --> 00:01:34,560
+Em biết lỗi rồi mà!
 
 29
-00:02:13,600 --> 00:02:15,200
-...Tôi không phải là Muimi.
+00:01:34,790 --> 00:01:37,790
+Ri-Rino sẽ làm một đứa trẻ ngoan mà...!
 
 30
-00:02:16,400 --> 00:02:19,200
-Ở thế giới này, tôi không phải là Muimi.
+00:01:40,490 --> 00:01:44,460
+Cái quái gì vậy, cặp đôi nhắng nhít đó là sao...?
 
 31
-00:02:20,000 --> 00:02:22,400
-Tôi đã tìm thấy ý nghĩa, cuộc đời của mình.
+00:01:45,230 --> 00:01:46,900
+Hừm~ [Labyrinthus] à?
 
 32
-00:02:23,400 --> 00:02:27,800
-Không, là chính ngươi đã dạy cho tôi... Octo.
+00:01:47,400 --> 00:01:52,570
+Chưa từng nghe đến cái guild này bao giờ,
+mà còn tự xưng là hội bí mật nữa chứ?
 
 33
-00:02:28,400 --> 00:02:30,400
-Một người lười biếng, không hề dịu dàng...
+00:01:55,240 --> 00:01:57,510
+Ôi chà, lơ là là... tai heo đó!
 
 34
-00:02:31,800 --> 00:02:34,200
-nhưng lại là người bạn đồng hành mà tôi yêu quý nhất.
+00:01:58,070 --> 00:02:00,780
+Onee-chan, em sẽ yểm trợ,
+chị hãy bắt giữ mục tiêu đi!
 
 35
-00:02:35,400 --> 00:02:36,800
-Người bạn đồng hành duy nhất!
+00:02:03,180 --> 00:02:04,010
+Rõ~♪
 
 36
-00:02:38,200 --> 00:02:40,200
-Có vẻ như ngươi đã quên rồi, nên ta sẽ nói lại cho ngươi nhớ!
+00:02:04,580 --> 00:02:08,880
+Nhưng mà, chị nghĩ là "tai họa"
+chứ không phải "tai heo" đâu...☆
 
 37
-00:02:41,400 --> 00:02:43,200
-Ta sẽ xưng danh, bao nhiêu lần cũng được!
+00:02:12,520 --> 00:02:15,150
+Ồ, lao thẳng tới luôn à!
 
 38
-00:02:45,200 --> 00:02:48,800
-Vểnh tai lên mà nghe cho rõ đây! Ta là Noem!
+00:02:16,290 --> 00:02:17,820
+Cũng can đảm lắm!
 
 39
-00:02:50,400 --> 00:02:51,800
-Thành viên của [Eternal Society],
+00:02:18,320 --> 00:02:20,520
+Tới đây, ta sẽ tiếp chiêu!
 
 40
-00:02:52,200 --> 00:02:53,600
-của [Kaleidoscope],
+00:02:21,490 --> 00:02:25,330
+Ta đây là Thú nhân, đừng có tưởng sẽ ngoan ngoãn
+như thỏ rừng để cho ngươi săn...
 
 41
-00:02:54,400 --> 00:02:55,800
-của [Round Table]...
+00:02:25,330 --> 00:02:27,830
+...mà không kháng cự gì nhé!
 
 42
-00:02:57,400 --> 00:03:01,400
-Không, là Noem, bạn đồng hành của ngươi! Không phải Muimi!
+00:02:28,500 --> 00:02:31,070
+Các người lui ra đi, nguy hiểm lắm!
 
 43
-00:03:03,400 --> 00:03:04,600
-Noem?
+00:02:32,300 --> 00:02:34,540
+Solo một trận nào, tên khốn!
 
 44
-00:03:06,200 --> 00:03:07,400
-Noem,
+00:02:37,470 --> 00:02:40,540
+T-Tình hình trở nên hỗn loạn rồi...
 
 45
-00:03:08,200 --> 00:03:11,200
-Noem, Noem...
+00:02:42,380 --> 00:02:44,610
+Aruji-sama, Suzume-sama, lối này ạ!
 
 46
-00:03:12,600 --> 00:03:15,600
-Hửm? Xin lỗi nhé, vẫn là một cái tên lạ hoắc~
+00:02:47,450 --> 00:02:49,520
+Ủa, là em trai-kun à!
 
 47
-00:03:17,000 --> 00:03:20,200
-Chắc là cậu không phân biệt được giữa ảo tưởng và thực tại nhỉ~ Tội nghiệp.
+00:02:50,050 --> 00:02:51,290
+Chúng ta hay gặp nhau nhỉ!
 
 48
-00:03:20,200 --> 00:03:24,600
-À há há, chuyện thường thấy ở tuổi dậy thì mà~♪
+00:02:51,750 --> 00:02:56,060
+Thiệt tình, để con gái bảo vệ thật là đáng thương... nha☆
 
 49
-00:03:25,600 --> 00:03:29,600
-...Nhưng mà không hiểu sao, nghe giọng cậu làm tôi thấy bực bội quá~
+00:02:57,090 --> 00:02:57,890
+(Thật ngại quá.)
 
 50
-00:03:30,600 --> 00:03:33,400
-Cậu có thể ngậm cái miệng đó lại một chút được không~?
+00:02:59,190 --> 00:03:00,990
+Ahaha! Đúng là một câu trả lời ngốc nghếch!
 
 51
-00:03:34,200 --> 00:03:35,600
-Thôi, hết giờ nói chuyện rồi nhé?
+00:03:01,360 --> 00:03:02,960
+Rất giống em trai-kun đó!
 
 52
-00:03:36,400 --> 00:03:41,800
-Tôi sẽ nhanh chóng thu hồi và giao cậu cho người ủy thác, nên hãy biến khỏi cuộc đời tôi đi~?
+00:03:03,830 --> 00:03:05,290
+Gặp được em chị vui lắm♪
 
 53
-00:03:44,400 --> 00:03:45,200
-Grừ...
+00:03:06,660 --> 00:03:10,230
+...Ngài cũng quen biết vị đó sao, Aruji-sama?
 
 54
-00:03:45,800 --> 00:03:47,800
-Này, mấy người mau chạy đi!
+00:03:11,100 --> 00:03:17,570
+Phải nói sao nhỉ, cứ như là ngài
+quen biết tất cả mọi người trên thế giới này vậy ạ?
 
 55
-00:03:48,600 --> 00:03:51,600
-Tôi sẽ câu giờ cho, coi như là lời xin lỗi vì đã lôi mọi người vào chuyện này♪
+00:03:19,270 --> 00:03:22,410
+Fufu~n♪ Vì em trai-kun là một sự tồn tại đặc biệt mà!
 
 56
-00:03:54,400 --> 00:03:56,000
-Tới đây, Octo!
+00:03:23,710 --> 00:03:26,110
+Em ấy đang ở giữa dòng chảy vĩ đại của định mệnh đó!
 
 57
-00:03:56,800 --> 00:03:59,200
-Tôi đã muốn đấm cho ngươi một trận rồi!
+00:03:27,110 --> 00:03:29,680
+Là một người giống như nhân vật chính vậy đó!
 
 58
-00:04:01,800 --> 00:04:03,600
-U-hyaa, đừng liều lĩnh thế chứ!
+00:03:30,280 --> 00:03:32,080
+Nên là đành chịu thôi nhỉ♪
 
 59
-00:04:04,400 --> 00:04:06,400
-Vết thương sẽ hở ra mất!
+00:03:33,520 --> 00:03:34,920
+Ối... Xin lỗi nhé.
 
 60
-00:04:07,200 --> 00:04:09,200
-L-l-làm sao bây giờ...!?
+00:03:35,450 --> 00:03:38,550
+Mục tiêu lần này của chị không phải là em trai-kun đâu♪
 
 61
-00:04:11,000 --> 00:04:11,800
-Hừm.
+00:03:56,800 --> 00:03:58,030
+Nhìn đi đâu đấy hả, tên ngốc!
 
 62
-00:04:12,400 --> 00:04:18,400
-Dù cô ấy đã bảo chúng ta chạy đi, và tôi cũng muốn nghe theo lời cô ấy mà rút lui, nhưng...
+00:03:58,570 --> 00:04:00,470
+Đối thủ của ngươi là ta đây!
 
 63
-00:04:19,200 --> 00:04:22,400
-Không hiểu sao, tôi không thể bỏ mặc cô ấy được...
+00:04:23,550 --> 00:04:24,350
+Uoah!?
 
 64
-00:04:23,400 --> 00:04:25,600
-Chúng ta nên làm gì đây, Aruji-sama?
+00:04:24,920 --> 00:04:26,820
+Con nhỏ này, đỡ được nhát chém của mình...!
 
 65
-00:04:26,000 --> 00:04:27,800
-> Đúng là không thể bỏ mặc họ được.
-> Để tớ suy nghĩ một chút.
+00:04:27,250 --> 00:04:31,860
+Rồi lợi dụng lực đó để nhảy một khoảng xa kinh khủng!?
 
 66
-00:04:28,200 --> 00:04:31,600
-Vâng. Đúng vậy ạ, tôi hiểu rồi.
+00:04:32,560 --> 00:04:35,830
+Hành động thì ngốc nghếch, mà không ngờ lại mạnh gớm!
 
 67
-00:04:32,000 --> 00:04:40,600
-Theo lời sấm truyền của Ames-sama... Aruji-sama không phải là người sẽ bỏ rơi một cô gái đang gặp khó khăn và chạy trốn.
+00:04:36,460 --> 00:04:38,830
+Thú vị thật, ta bắt đầu thấy vui rồi đây!
 
 68
-00:04:44,400 --> 00:04:46,800
-Này, Kuri-a! Người ở đó là Kuri-a phải không!?
+00:04:40,230 --> 00:04:43,470
+Đứng lại đó, chơi với ta thêm chút nữa đi...☆
 
 69
-00:04:47,400 --> 00:04:54,600
-Ồ, lại thêm một cô gái mới... Chắc hẳn cũng là người quen của Aruji-sama ạ?
+00:04:47,370 --> 00:04:48,510
+Đã~ bảo~ là~
 
 70
-00:04:55,200 --> 00:04:56,800
-> Ừm. Là người quen của mình, Makoto-chan.
+00:04:49,740 --> 00:04:52,280
+Để lần sau chơi với cún con nhé?
 
 71
-00:04:57,200 --> 00:04:58,200
-Aruji-sama.
+00:04:52,780 --> 00:04:54,110
+Về chuồng đi?
 
 72
-00:04:58,800 --> 00:05:04,800
-Chỉ trong vòng một tháng thôi mà, ngài đã thân thiết với bao nhiêu cô gái rồi vậy ạ...?
+00:04:55,480 --> 00:04:58,120
+Con gái mà cứ bám dai là bị ghét đó?
 
 73
-00:05:07,400 --> 00:05:08,800
-Vậy sao ạ.
+00:04:59,180 --> 00:05:02,120
+Mà được em quý mến thì chị cũng vui một chút...☆
 
 74
-00:05:09,600 --> 00:05:12,000
-Đúng như lời sấm truyền của Ames-sama.
+00:05:03,020 --> 00:05:04,820
+Mục tiêu của chị là~ bên này!
 
 75
-00:05:13,400 --> 00:05:18,600
-Thật là, không có chút tiết tháo nào... *lầm bầm*. Đúng là Aruji-sama mà...
+00:05:05,520 --> 00:05:09,120
+Toryaa, Onee-chan Kííí~~ck☆
 
 76
-00:05:20,600 --> 00:05:22,600
-Này! Tình hình này là sao đây hả?
+00:05:12,190 --> 00:05:13,260
+Ể, tôi á!?
 
 77
-00:05:23,600 --> 00:05:26,200
-Người trên xe ngựa là cậu sao... Kuri-a?
+00:05:13,630 --> 00:05:16,860
+Chờ đã, tôi không thể nào cùng lúc
+đấu với nhiều người như vậy được!
 
 78
-00:05:27,000 --> 00:05:28,800
-Ở đây nguy hiểm lắm, mau di tản đi!
+00:05:17,830 --> 00:05:22,030
+Như cậu thấy đấy, tôi chuyên về lao động trí óc~... Oé!?
 
 79
-00:05:31,200 --> 00:05:40,600
-Ừm... nếu bên đó không tấn công trước, thì chúng tôi đã có thể tận hưởng chuyến đi xe ngựa yên bình rồi?
+00:05:26,070 --> 00:05:28,270
+Okuto~!? Cậu không sao chứ!?
 
 80
-00:05:42,400 --> 00:05:45,200
-Hả? Đành chịu thôi, đây là công việc!
+00:05:30,470 --> 00:05:34,040
+Ahaha♪ Chẳng phải lúc nãy cô
+đang đánh nhau với cậu trai này sao?
 
 81
-00:05:46,000 --> 00:05:54,200
-Phải dùng đến biện pháp vũ lực vô cớ thế này, tôi cũng xin lỗi! Nhưng tất cả là tại tên ngốc đó, tại Octo-senpai đấy!
+00:05:34,510 --> 00:05:38,910
+Sao lại lo lắng cho cậu ta thế nhỉ, hửm~?
 
 82
-00:05:55,200 --> 00:05:56,200
-Senpai...?
+00:05:39,450 --> 00:05:41,580
+A, onee-chan hiểu ra rồi!
 
 83
-00:05:58,400 --> 00:06:01,000
-Dù sao thì, tôi sẽ cho các cậu trốn!
+00:05:43,320 --> 00:05:45,550
+Ra là... yêu rồi nhỉ...☆
 
 84
-00:06:01,800 --> 00:06:03,600
-Ít nhất là đến nơi an toàn!
+00:05:46,720 --> 00:05:47,790
+C-Cái gì?
 
 85
-00:06:04,200 --> 00:06:07,200
-Đi theo tôi, phần giới thiệu để sau đi!
+00:05:48,390 --> 00:05:51,590
+Cô đang nói cái gì vậy hả, cô là cái thá gì!?
 
 86
-00:06:10,200 --> 00:06:11,200
-...Woah!?
+00:05:52,560 --> 00:05:57,530
+Nếu là cô thì chắc cũng hiểu khi nghe đến tên [Labyrinthus] nhỉ?
 
 87
-00:06:11,200 --> 00:06:12,400
-Nguy hiểm quá!?
+00:05:58,800 --> 00:06:02,770
+Mà, chuyện đó để sau đi nhé! Onee-chan Chop...☆
 
 88
-00:06:12,800 --> 00:06:15,600
-Gì vậy, tự nhiên lại có mũi tên bay tới!
+00:06:03,940 --> 00:06:04,770
+Hự!
 
 89
-00:06:18,800 --> 00:06:20,000
-Ồ~...?
+00:06:09,110 --> 00:06:10,280
+Muimi-chan!?
 
 90
-00:06:20,800 --> 00:06:24,200
-Tiếc quá, xui quá, hẹn năm sau nhé, đã né được rồi sao?
+00:06:10,540 --> 00:06:11,110
+K-
 
 91
-00:06:25,000 --> 00:06:26,000
-Đã là một đòn đánh lén mà!
+00:06:11,540 --> 00:06:14,880
+Khụ, một đòn hạ gục bằng cách chặt vào gáy à?
 
 92
-00:06:28,400 --> 00:06:32,200
-Hmm~ Thú nhân có giác quan phát triển mà.
+00:06:15,350 --> 00:06:18,920
+Đúng là muốn làm gì thì làm nhỉ~
+Mà sao ra tay điêu luyện thế!
 
 93
-00:06:33,000 --> 00:06:37,200
-Bị bắn tỉa từ phía sau, ở khoảng cách này mà vẫn phản ứng được...
+00:06:19,850 --> 00:06:22,120
+Vâng, đã bảo vệ được Noem!
 
 94
-00:06:38,000 --> 00:06:41,200
-Đơn giản là do cô bé trông giống chó kia rất tài giỏi thôi?
+00:06:22,390 --> 00:06:25,560
+Chuẩn bị rút lui thôi! Rino-chan, yểm trợ đi!
 
 95
-00:06:45,200 --> 00:06:49,000
-E hèm. Lời khuyên nhỏ từ Onee-chan~☆
+00:06:28,330 --> 00:06:29,330
+Vâng ạ~!
 
 96
-00:06:51,800 --> 00:06:57,400
-Trường hợp hạ gục được bằng một phát bắn là rất hiếm, nên hãy nhắm vào yếu huyệt và bắn ít nhất hai phát!
+00:06:29,800 --> 00:06:34,370
+Với những ông anh xấu tính làm con gái phải khóc,
+cần phải được giáo dục lại...☆
 
 97
-00:06:58,000 --> 00:07:01,600
-Nếu có thể, hãy cứ bắn bao nhiêu phát cũng được cho đến khi hạ gục được đối phương♪
+00:06:37,540 --> 00:06:38,210
+Ch-
 
 98
-00:07:02,400 --> 00:07:04,400
-Em đã học được rất nhiều~!
+00:06:38,340 --> 00:06:40,780
+Chờ đã, chờ đã, đừng bắn~!
 
 99
-00:07:05,000 --> 00:07:08,400
-Vậy thì, em sẽ làm theo lời khuyên và tiếp tục tấn công!
+00:06:41,510 --> 00:06:45,080
+Hay đúng hơn, đừng có bắt cóc Muimi-chan đi như thế chứ~
 
 100
-00:07:21,200 --> 00:07:22,800
-Bắn nè! Vút nè!
+00:06:45,410 --> 00:06:48,650
+Thu hồi cô bé đó là công việc của tôi mà?
 
 101
-00:07:28,600 --> 00:07:29,600
-Hả!?
+00:06:49,950 --> 00:06:53,120
+Xin lỗi nhé, đó cũng là nhiệm vụ của chúng tôi!
 
 102
-00:07:30,200 --> 00:07:33,800
-Gì thế kia, sao nó lại bắn loạn xạ tên như vậy!
+00:06:54,120 --> 00:06:57,090
+Nếu mục tiêu giống nhau, thì ai nhanh hơn sẽ thắng!
 
 103
-00:07:35,600 --> 00:07:36,400
-Ừm...
+00:06:57,490 --> 00:07:01,730
+Có phàn nàn cũng vô ích thôi~ anh chàng rùa chậm♪
 
 104
-00:07:37,400 --> 00:07:42,400
-Nếu cô ta đang nhắm vào chúng ta, nghĩa là cô ta không phải là đồng đội của các bạn sao?
+00:07:05,400 --> 00:07:06,870
+Vâng, đã đến nơi.
 
 105
-00:07:43,600 --> 00:07:44,600
-Ai mà biết!
+00:07:07,170 --> 00:07:10,370
+Về tới nhà rồi~ Về nhà thôi nào, Rino-chan♪
 
 106
-00:07:45,400 --> 00:07:48,800
-Ít nhất thì cô ta không phải là Thú nhân, cũng không phải đồng đội của tôi!
+00:07:11,370 --> 00:07:13,270
+Rõ ạ, onee-chan...
 
 107
-00:07:49,600 --> 00:07:51,200
-Cái quái gì vậy, chết tiệt.
+00:07:14,570 --> 00:07:15,640
+Master!
 
 108
-00:07:51,800 --> 00:07:54,200
-Lời tiên tri của "Hime-san" là hôm nay là ngày xui à!?
+00:07:15,740 --> 00:07:20,380
+Chúng ta sẽ rút lui, để những người khác không đuổi theo,
+hãy thay đổi "Object" đi.
+
+109
+00:07:23,750 --> 00:07:25,250
+Gì thế?
+
+110
+00:07:25,250 --> 00:07:26,050
+Uwa, gì vậy!?
+
+111
+00:07:26,620 --> 00:07:31,760
+Để che giấu hai người đó,
+cây cối xung quanh bị bóp méo, mặt đất thì trồi lên...
+
+112
+00:07:32,590 --> 00:07:33,760
+Ma pháp sao?
+
+113
+00:07:34,390 --> 00:07:37,860
+Thứ ma pháp này, mình chưa từng nghe thấy bao giờ...!
+
+114
+00:07:39,130 --> 00:07:41,630
+Oaaa, không đứng vững được!
+
+115
+00:07:42,200 --> 00:07:44,300
+Cái gì thế này, sợ quá~!
+
+116
+00:07:45,130 --> 00:07:46,840
+> Trấn an Kokkoro.
+> Đỡ lấy Suzume.
+
+117
+00:07:47,770 --> 00:07:48,770
+...Fua?
+
+118
+00:07:49,470 --> 00:07:53,610
+A, Aruji-sama, xin đừng đột nhiên ôm lấy em!
+
+119
+00:07:55,040 --> 00:07:55,710
+Auu.
+
+120
+00:07:57,510 --> 00:07:59,380
+Đ-Được rồi ạ.
+
+121
+00:07:59,980 --> 00:08:04,550
+Em đã bình tĩnh lại rồi,
+nên xin ngài đừng ôm em nữa ạ.
+
+122
+00:08:06,120 --> 00:08:07,020
+...Ưu.
+
+123
+00:08:07,590 --> 00:08:11,260
+Xin lỗi Aruji-sama, em đã hoảng loạn mất rồi.
+
+124
+00:08:12,660 --> 00:08:15,860
+Tuy nhiên, chuyện này không thể nào xảy ra được.
+
+125
+00:08:17,290 --> 00:08:21,500
+Việc thay đổi địa hình như thế này,
+chỉ có Thần hoặc Ác quỷ mới làm được.
+
+126
+00:08:22,430 --> 00:08:29,070
+Chúng ta hiện tại, đang ở giữa một phép màu
+cứ như được vẽ ra trong thần thoại...
+
+127
+00:08:30,170 --> 00:08:32,010
+Này, có phải lúc lảm nhảm đâu!
+
+128
+00:08:32,440 --> 00:08:34,710
+Chỗ này nền đất yếu lắm, sập bây giờ!
+
+129
+00:08:35,110 --> 00:08:38,550
+Nếu không mau sơ tán, tất cả sẽ đi đời đó!
+
+130
+00:08:41,050 --> 00:08:41,850
+(Còn tiếp...)
+
+131
+00:10:15,700 --> 00:10:18,500
+(Thông báo, Trailer tập sau)
+
+132
+00:10:18,500 --> 00:10:28,000
+Bọn tôi, guild của tộc Thú nhân, Kaon, đã bị Christine của guild trực thuộc hoàng gia, Nightmare, đột nhập.
+
+133
+00:10:28,000 --> 00:10:33,800
+(Chương 2: Lời Thề Nữ Vương - Regina Getch)
+
+134
+00:10:35,000 --> 00:10:37,200
+(Một lần nữa, câu chuyện kết nối với bạn)
+
+135
+00:10:42,500 --> 00:10:44,500
+(Màn kịch chuyển cảnh - II)
+
+136
+00:10:46,600 --> 00:10:48,100
+Vâng, vất vả cho cậu rồi.
+
+137
+00:10:49,500 --> 00:10:51,700
+Chào mừng đến với thế giới của những giấc mơ.
+
+138
+00:10:52,400 --> 00:10:57,800
+Đến với câu chuyện ngoài lề
+trong màn kịch chuyển cảnh... Đùa thôi♪
+
+139
+00:10:58,500 --> 00:11:02,500
+Nào, cuối cùng thì câu chuyện của cậu
+cũng đã chính thức bắt đầu rồi nhỉ.
+
+140
+00:11:03,800 --> 00:11:06,000
+Tớ cũng xem nãy giờ rồi~
+
+141
+00:11:06,300 --> 00:11:11,500
+Nào là đột nhiên xe ngựa bị nổ tung,
+rồi bị bọn kỳ lạ tấn công, đúng là xui xẻo thật.
+
+142
+00:11:12,500 --> 00:11:14,500
+Mà này, đúng là một mớ hỗn độn nhỉ.
+
+143
+00:11:15,000 --> 00:11:18,500
+Cậu cũng đột nhiên bị cuốn vào mớ bòng bong này
+nên chắc cũng chẳng hiểu gì đâu,
+
+144
+00:11:19,200 --> 00:11:22,500
+nên theo như đã hứa, tớ sẽ bổ sung vài điều cho cậu.
+
+145
+00:11:23,500 --> 00:11:29,500
+Lần này, điều quan trọng là Muimi...
+...hay còn được gọi là Noem.
+
+146
+00:11:30,500 --> 00:11:34,500
+Ở thế giới này, đây là lần đầu
+cậu gặp cô bé đó nhỉ.
+
+147
+00:11:35,800 --> 00:11:42,000
+Những người khác... như Suzume-chan, Shizuru-chan,
+và Makoto-chan, có hơi khác một chút, đúng không?
+
+148
+00:11:42,800 --> 00:11:48,500
+Đối với cậu bây giờ, chắc con bé đó chỉ là một đứa kỳ lạ
+nói những chuyện khó hiểu thôi.
+
+149
+00:11:49,500 --> 00:11:53,500
+Nhưng con bé đó là một sự tồn tại rất quan trọng
+trong thế giới này đó.
+
+150
+00:11:55,000 --> 00:12:00,000
+Con bé đang nắm giữ chiếc chìa khóa
+để giải mã những bí ẩn xoay quanh thế giới này.
+
+151
+00:12:00,500 --> 00:12:03,500
+Vì vậy, mọi người đều đang truy tìm con bé đó.
+
+152
+00:12:04,500 --> 00:12:11,500
+Các cậu chỉ tình cờ có mặt ở đó,
+và bị cuốn vào cuộc tranh giành của những kẻ muốn bắt con bé.
+
+153
+00:12:12,500 --> 00:12:13,800
+Xin chia buồn nhé.
+
+154
+00:12:14,500 --> 00:12:21,000
+Nhưng mà... hay bị cuốn vào rắc rối như vậy
+mới là nhân vật chính chứ.
+
+155
+00:12:21,800 --> 00:12:23,800
+Làm nhân vật chính cũng thật vất vả nhỉ, Kuria.
+
+156
+00:12:24,500 --> 00:12:26,000
+Dù sao thì.
+
+157
+00:12:26,500 --> 00:12:28,500
+Thế giới này có một bí ẩn.
+
+158
+00:12:29,500 --> 00:12:34,000
+Không, có lẽ không phải bí ẩn,
+mà nên gọi là lời nói dối.
+
+159
+00:12:35,000 --> 00:12:40,000
+Một lời nói dối vĩ đại... lừa gạt, sai lầm, mâu thuẫn.
+
+160
+00:12:40,500 --> 00:12:47,500
+Trong khi khiến mọi người tin vào lời nói dối đó,
+có một thế lực đang cố gắng loại bỏ những kẻ nghi ngờ.
+
+161
+00:12:48,000 --> 00:12:52,500
+Đó chính là những kẻ đã giật dây Okuto-kun từ phía sau lần này.
+
+162
+00:12:53,000 --> 00:12:58,500
+Ngược lại, cũng có thế lực nhìn thấu lời nói dối đó
+và cố gắng giải mã bí ẩn của thế giới.
+
+163
+00:12:59,500 --> 00:13:04,000
+Đó chính là những người trong hội bí mật [Labyrinthus].
+
+164
+00:13:04,500 --> 00:13:14,500
+[Labyrinthus], những người cố gắng giải mã bí ẩn của thế giới,
+đã tấn công như vậy để giành lấy Muimi-chan, người đang nắm giữ chiếc chìa khóa đó.
+
+165
+00:13:15,000 --> 00:13:22,000
+Và rồi họ đã đụng độ với nhóm của Okuto-kun,
+những người đã trở thành con tốt cho thế lực không muốn bí ẩn thế giới bị giải mã.
+
+166
+00:13:22,800 --> 00:13:25,500
+Đó là toàn cảnh sự việc lần này.
+
+167
+00:13:26,500 --> 00:13:29,000
+Kết quả là, lần này [Labyrinthus] đã thắng.
+
+168
+00:13:30,000 --> 00:13:35,500
+Muimi-chan đã được [Labyrinthus] bảo vệ,
+và sẽ biến mất một thời gian.
+
+169
+00:13:36,500 --> 00:13:39,500
+Sau đó, Muimi-chan sẽ ra sao
+thì ở thời điểm hiện tại tớ cũng không biết.
+
+170
+00:13:40,500 --> 00:13:47,500
+Mà, [Labyrinthus] không phải là một nhóm nguy hiểm,
+nên tớ muốn tin là con bé sẽ không bị đối xử tệ bạc.
+
+171
+00:13:48,000 --> 00:13:53,500
+Cậu cũng quen biết và thân thiết với Shizuru-chan
+và Rino-chan của [Labyrinthus] mà, phải không.
+
+172
+00:13:54,800 --> 00:13:58,800
+Họ đều là những cô bé tốt,
+nên chắc sẽ không làm những điều vô nhân đạo đâu.
+
+173
+00:13:59,500 --> 00:14:06,500
+Việc những cô bé đó phải dùng đến cách đột kích và bắt cóc...
+nghĩa là họ không còn lựa chọn nào khác.
+
+174
+00:14:07,500 --> 00:14:11,500
+Điều đó cho thấy Muimi-chan là một sự tồn tại quan trọng đến mức nào.
+
+175
+00:14:12,000 --> 00:14:21,000
+Thế nên đương nhiên... thế lực đối địch với [Labyrinthus],
+những kẻ không muốn bí ẩn thế giới bị giải mã, vẫn chưa từ bỏ đâu.
+
+176
+00:14:21,500 --> 00:14:28,500
+Sau thất bại lần này, chắc chắn họ sẽ cử ra những kẻ mạnh hơn
+và hành động một cách rầm rộ hơn.
+
+177
+00:14:29,000 --> 00:14:34,500
+Okuto-kun trông vẫn còn rất ung dung,
+biết đâu cậu ta vẫn còn đang âm mưu gì đó.
+
+178
+00:14:35,500 --> 00:14:37,500
+Hãy cẩn thận nhé, Kuria.
+
+179
+00:14:37,800 --> 00:14:42,500
+Các cậu đang bị cuốn vào một dòng chảy định mệnh khổng lồ,
+giống như một thảm họa vậy.
+
+180
+00:14:43,000 --> 00:14:47,500
+Nếu lơ là, cậu sẽ dễ dàng đánh mất những thứ quan trọng đó.
+
+181
+00:14:48,000 --> 00:14:51,500
+Hãy thận trọng, và suy nghĩ kỹ trước khi hành động nhé.
+
+182
+00:14:52,000 --> 00:14:58,500
+Mà có lẽ cậu cũng chẳng có thời gian mà nói thế đâu,
+vì cậu sẽ liên tục bị cuốn vào những rắc rối nối tiếp nhau.
+
+183
+00:14:59,000 --> 00:15:05,000
+Hãy cố gắng đối phó, sống sót...
+và tiến gần hơn đến bí ẩn của thế giới nhé.
+
+184
+00:15:06,000 --> 00:15:16,000
+Trước hết, hãy nói chuyện với những người đã bảo vệ các cậu
+khi gặp nguy hiểm... những người trong guild võ phái của Makoto-chan, (Tự Vệ Đoàn [Kaon]).
+
+185
+00:15:17,000 --> 00:15:21,000
+Ừm. Các cậu sẽ được họ bảo vệ.
+
+186
+00:15:22,000 --> 00:15:27,500
+Trong [Kaon] cũng có người quen của cậu,
+nên cứ yên tâm giao phó bản thân cho họ đi.
+
+187
+00:15:28,000 --> 00:15:31,500
+Cuối cùng, người quyết định phải làm gì là cậu.
+
+188
+00:15:32,500 --> 00:15:36,000
+Tớ chỉ đưa ra lời khuyên khi cậu gặp khó khăn thôi.
+
+189
+00:15:36,500 --> 00:15:40,500
+Tớ không có quyền can thiệp vào thực tại mà cậu đang sống.
+
+190
+00:15:41,000 --> 00:15:44,500
+Thế nên, đừng có dựa dẫm vào tớ quá nhé.
+
+191
+00:15:45,500 --> 00:15:47,000
+Hãy tin tớ nhé.
+
+192
+00:15:47,500 --> 00:15:50,500
+Tớ sẽ luôn là đồng minh của cậu, Kuria.

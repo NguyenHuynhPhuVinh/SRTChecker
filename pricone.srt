@@ -349,256 +349,286 @@ Trong trường hợp tệ nhất, chiến tranh có thể thực sự nổ ra.
 Nhưng tớ sẽ cố dập tắt ngòi nổ xung đột trước khi điều đó xảy ra.
 
 78
-06:03,018 --> 06:08,008
-Tớ tuyệt đối sẽ ngăn chặn cảnh người dân vô tội
-phải chìm trong máu và nước mắt.
+06:04,118 --> 06:07,818
+Giá mà nó chỉ dừng lại ở một cuộc xô xát nhỏ
+giữa các guild thì tốt biết mấy.
 
 79
-06:08,008 --> 06:12,888
+06:08,018 --> 06:10,038
+Cuộc tấn công đã diễn ra rồi.
+
+80
+06:10,038 --> 06:12,148
+Sự thật đã xảy ra không thể thay đổi được.
+
+81
+06:13,000 --> 06:14,700
+Xử lý hậu quả mới là quan trọng.
+
+82
+06:14,700 --> 06:17,800
+Vì thế, dù có phải thức trắng đêm hay làm gì tớ cũng sẽ làm.
+
+83
+06:18,900 --> 06:22,800
+Nếu chiến tranh nổ ra, những người yếu đuối
+sẽ là nạn nhân đầu tiên.
+
+84
+06:23,500 --> 06:27,500
+Phụ nữ, người bệnh, người già, trẻ em...
+
+85
+06:28,000 --> 06:33,500
+Tình cảnh những người dân vô tội phải chìm trong máu và nước mắt,
+tớ tuyệt đối sẽ ngăn chặn.
+
+86
+06:35,500 --> 06:40,500
 Thiệt tình. Nếu biết sẽ thế này, đáng lẽ tớ không nên rời khỏi
 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】.
 
-80
-06:12,888 --> 06:15,888
+87
+06:41,200 --> 06:45,500
 Nếu có tớ ở đó, tớ đã không để một người như
 Christina tự tung tự tác rồi.
 
-81
+88
 06:49,391 --> 06:51,981
 Ojou-sama~, tay người dừng lại rồi kìa.
 
-82
+89
 06:52,471 --> 06:55,751
 Xin hãy dùng bữa khi nó còn nóng ạ.
 
-83
+90
 06:56,081 --> 06:58,251
 Nào, a~ đi ạ...♪
 
-84
+91
 06:59,381 --> 07:01,311
 N-Này, thôi đi, ngại chết đi được.
 
-85
+92
 07:02,101 --> 07:05,101
 Trời ạ, chúng ta đang nói chuyện nghiêm túc đó, biết không?
 
-86
+93
 07:06,477 --> 07:11,107
 Ojou-sama, mỗi khi người tập trung vào việc gì
 là lại quên cả ăn uống.
 
-87
+94
 07:11,107 --> 07:13,907
 Nếu không ép người ăn thì...
 
-88
+95
 07:14,647 --> 07:18,637
 Kuria-san cũng đừng ngại, nào, a~ đi ạ♪
 
-89
+96
 07:20,117 --> 07:21,507
 A, ngoan quá!
 
-90
+97
 07:22,277 --> 07:25,057
 Bình thường không phải sẽ ngượng hơn sao ạ?
 
-91
+98
 07:26,897 --> 07:28,217
 > Cho tớ ăn nữa đi.
 > Tớ nên ngượng ngùng thì tốt hơn à?
 
-92
+99
 07:28,497 --> 07:30,817
 Vâng ạ, xin mời người cứ ăn thật nhiều ạ.
 
-93
+100
 07:31,647 --> 07:34,447
 Món ăn của em không ngon lắm nhưng mà...
 
-94
+101
 07:36,734 --> 07:39,074
 Tự mình nói thế mà không thấy buồn à, Suzume?
 
-95
+102
 07:39,954 --> 07:41,734
 Để tớ chỉ cho vài mẹo nấu ăn nhé?
 
-96
+103
 07:43,594 --> 07:47,874
 Ư~... Không hiểu sao từ xưa đến giờ,
 em nấu ăn dở tệ.
 
-97
+104
 07:48,744 --> 07:51,554
 E-Em đang cố gắng luyện tập lắm đó ạ?
 
-98
+105
 07:53,464 --> 07:57,214
 Ahaha. Suzume là kiểu người mà
 nhiệt tình quá lại thành hỏng việc mà.
 
-99
+106
 07:57,984 --> 08:01,844
 Hay là, cậu đừng cố quá
 thì có khi lại giỏi lên đấy?
 
-100
+107
 08:05,807 --> 08:08,307
 Oái, em lại cắt ngang câu chuyện rồi...
 
-101
+108
 08:09,747 --> 08:14,487
 Để em giải thích cho anh,
 người có vẻ không rõ tình hình...
 
-102
+109
 08:14,487 --> 08:18,177
 Ojou-sama vốn dĩ thuộc về
 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 đó ạ.
 
-103
+110
 08:19,657 --> 08:23,597
 Trong 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】,
 Guild Master được gọi là "Đoàn Trưởng" ạ.
 
-104
+111
 08:24,717 --> 08:29,227
 Ojou-sama từng giữ chức vụ cao thứ hai,
 là "Phó Đoàn Trưởng" đó ạ.
 
-105
+112
 08:31,107 --> 08:32,197
 (Saren-chan, cậu thật là một người tuyệt vời nhỉ.)
 
-106
+113
 08:33,527 --> 08:35,937
 Hừm, tớ chỉ thừa kế chức vị từ cha thôi.
 
-107
+114
 08:39,788 --> 08:44,528
 Ở đó, theo truyền thống thì quý tộc sẽ đảm nhiệm
 các chức vụ quan trọng như Đoàn Trưởng.
 
-108
+115
 08:45,188 --> 08:49,308
 Nhà tớ tuy chỉ là trọc phú,
 nhưng cũng là một gia đình quý tộc nhỏ mà.
 
-109
+116
 08:50,568 --> 08:55,278
 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 thật sự đã bị thu hẹp
 quy mô đến mức thiếu nhân lực.
 
-110
+117
 08:55,938 --> 09:01,818
 Vì không có ai khác phù hợp,
 nên tớ đành phải làm Phó Đoàn Trưởng thôi.
 
-111
+118
 09:02,627 --> 09:05,977
 Nhưng trong thời đại hòa bình,
 quân đội đâu có cần thiết, phải không?
 
-112
+119
 09:06,447 --> 09:12,147
 Thật sự là không có việc gì làm, rảnh rỗi quá
 nên tớ đã bịa ra một lý do vớ vẩn rồi rời đi.
 
-113
+120
 09:13,297 --> 09:20,017
 Như tớ đã nói lúc nãy. 【Princess Knight】 quản lý và vận hành
 các cơ quan công cộng trực thuộc hoàng gia.
 
-114
+121
 09:20,777 --> 09:26,737
 Cũng có những guild giống như trại trẻ mồ côi,
 nhận nuôi và chăm sóc trẻ em mồ côi vì chiến tranh.
 
-115
+122
 09:30,909 --> 09:37,849
 Ở thời hiện đại, đó chỉ là một guild tồn tại trên giấy tờ,
 không có ngân sách, hữu danh vô thực.
 
-116
+123
 09:38,479 --> 09:45,179
 Tớ đã quyết định phục hồi guild đó,
 đặt tên là 【Viện Cứu Trợ Salendia】 và vận hành nó.
 
-117
+124
 09:45,809 --> 09:50,299
 Tớ nghĩ việc đó có ý nghĩa hơn nhiều
 so với việc chỉ ngồi phơi nắng ở hoàng cung.
 
-118
+125
 09:50,969 --> 09:54,349
 Gần đây, hiện tượng kỳ lạ được gọi là "Lost"...
 
-119
+126
 09:54,349 --> 10:00,109
 những vụ án bí ẩn mà cha mẹ hay người thân biến mất
 đã tăng lên.
 
-120
+127
 10:00,109 --> 10:02,500
 Có những đứa trẻ mất gia đình và không còn nơi nào để đi.
 
-121
+128
 10:02,500 --> 10:04,189
 Cậu cũng quen biết đó, cô bé Kurumi là một trong số đó.
 
-122
+129
 10:04,189 --> 10:09,149
 Tớ đã nhận những đứa trẻ như vậy
 và đang bảo hộ cho chúng.
 
-123
+130
 10:13,676 --> 10:18,526
 Tớ muốn bọn trẻ có được một cuộc sống
 yên bình, hạnh phúc, đúng nghĩa con người.
 
-124
+131
 10:19,436 --> 10:22,886
 Guild được lập ra vì mục đích đó
 chính là 【Viện Cứu Trợ Salendia】.
 
-125
+132
 10:23,616 --> 10:26,386
 Tớ rất tự hào về công việc này.
 
-126
+133
 10:27,346 --> 10:32,886
 Đó là một sứ mệnh cao cả,
 đáng để tớ cống hiến cả cuộc đời mình.
 
-127
+134
 10:33,356 --> 10:34,446
 (Cậu thật tuyệt vời, Saren-chan.)
 
-128
+135
 10:35,536 --> 10:36,446
 Cảm ơn cậu.
 
-129
+136
 10:36,926 --> 10:44,246
 Mà, hiện tại lý tưởng cứ đi trước thực tế...
 mọi chuyện không được suôn sẻ lắm, nên tớ thấy xấu hổ thật.
 
-130
+137
 10:45,396 --> 10:48,046
 Bảo vệ và nuôi nấng bọn trẻ.
 
-131
+138
 10:48,586 --> 10:51,326
 Vì điều đó, tớ sẽ làm bất cứ điều gì.
 
-132
+139
 10:52,046 --> 10:57,406
 Trước hết, phải tóm gọn lũ ngốc đang định gây chiến tranh
 và cho chúng một trận mới được.
 
-133
+140
 10:58,266 --> 11:02,886
 Tớ không thể để tương lai của bọn trẻ
 bị vấy bẩn bởi máu được.

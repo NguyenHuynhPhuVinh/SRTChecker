@@ -184,7 +184,6 @@ cython_debug/
 .vscode/
 
 # SRT Fixer specific files
-*_fixed.srt
 *_backup.srt
 test_*.srt
 temp_*.srt

@@ -7,559 +7,614 @@
 (Sự hiếu khách của Maho-hime)
 
 3
-00:00:11,042 --> 00:00:12,662
-(Nhà Hội Caon - Vài giờ sau)
+00:00:11,042 --> 00:00:11,832
+(Nhà Hội Caon)
 
 4
-00:00:13,292 --> 00:00:16,172
-(Sau khi thoát khỏi vòng xoáy náo loạn, cả nhóm được Makoto dẫn đến...)
+00:00:11,832 --> 00:00:12,662
+(Vài giờ sau)
 
 5
-00:00:16,172 --> 00:00:18,592
-(...cứ điểm của [Đội Tự Vệ (Caon)] và tạm thời nghỉ ngơi.)
+00:00:13,292 --> 00:00:15,962
+(Sau khi thoát khỏi vòng xoáy náo loạn, nhóm Kuria)
 
 6
+00:00:15,962 --> 00:00:18,172
+(được Makoto dẫn đến cứ điểm của [Caon] để tạm nghỉ ngơi.)
+
+7
 00:00:24,534 --> 00:00:27,784
 Miracle Mahorin, Kururinpa~!
 
-7
+8
 00:00:28,544 --> 00:00:28,874
 Á...
 
-8
+9
 00:00:33,834 --> 00:00:34,334
 A...
 
-9
+10
 00:00:35,664 --> 00:00:36,754
 Ồ...
 
-10
-00:00:38,524 --> 00:00:43,134
-Được rồi, như vầy là mọi người đã hồi phục gần như cũ rồi ha. Ehehe.
-
 11
+00:00:38,424 --> 00:00:39,004
+Haizz.
+
+12
+00:00:39,004 --> 00:00:43,134
+Được rồi, như vầy là mọi người đã hồi phục gần như cũ rồi ha. Ehe.
+
+13
 00:00:44,054 --> 00:00:45,344
 Cảm ơn nhé, Maho-san.
 
-12
+14
 00:00:47,384 --> 00:00:52,434
 Yaaan, đừng gọi là Maho-san, hãy gọi tui là Maho-hime nha.
 
-13
+15
 00:00:53,604 --> 00:00:56,314
 Thật là xấu tính quá đi à, thiệt tình.
 
-14
+16
 00:00:57,484 --> 00:01:00,194
 Với lại, không cần cảm ơn đâu.
 
-15
+17
 00:01:01,364 --> 00:01:05,454
 Để mọi người bị thương như vậy mà mặc kệ, tui thấy khó chịu lắm đó.
 
-16
+18
 00:01:07,334 --> 00:01:09,874
 Ồ, cơn đau biến mất tăm rồi!
 
-17
-00:01:11,334 --> 00:01:13,594
+19
+00:01:11,334 --> 00:01:13,924
 Mà khoan, cả quần áo cũng trở lại như cũ...
 
-18
-00:01:14,464 --> 00:01:17,674
+20
+00:01:14,334 --> 00:01:17,674
 Không, chúng như mới tinh luôn rồi nhỉ?
 
-19
+21
 00:01:19,254 --> 00:01:23,594
 Tui giỏi sửa quần áo hơn là chữa cho sinh vật đó.
 
-20
+22
 00:01:25,054 --> 00:01:27,974
-Tiện thể nên tui sửa lại cho nhanh luôn.
+Tiện thể nên tui sửa lại cho nhanh luôn đó.
 
-21
+23
 00:01:29,354 --> 00:01:33,564
 Nếu là tui nhiều chuyện quá thì xin lượng thứ cho tui nha~♪
 
-22
+24
 00:01:35,144 --> 00:01:37,524
 Dạ không, chị đã giúp chúng em nhiều lắm ạ~
 
-23
-00:01:38,364 --> 00:01:42,454
+25
+00:01:38,364 --> 00:01:42,574
 Quần áo mà rách bươm thì tiểu thư sẽ lo lắng lắm.
 
-24
-00:01:42,954 --> 00:01:45,954
+26
+00:01:42,914 --> 00:01:45,954
 Em cảm ơn chị vì tất cả mọi thứ ạ!♪
 
-25
+27
 00:01:47,414 --> 00:01:51,124
 Yaa~ Không cần phải cảm ơn tui đâu mà.
 
-26
+28
 00:01:52,674 --> 00:01:56,764
 Dù gì thì, có vẻ Makoto-han đã gây phiền phức cho mọi người rồi.
 
-27
+29
 00:01:58,684 --> 00:02:02,684
 Chắc mọi người sợ lắm phải không? Tội nghiệp quá đi à...?
 
-28
+30
 00:02:04,564 --> 00:02:08,194
 Mong là chút lòng thành này có thể xem như lời xin lỗi.
 
-29
+31
 00:02:09,994 --> 00:02:13,034
 Tội nghiệp, tội nghiệp...♪
 
-30
+32
 00:02:16,624 --> 00:02:20,004
 A, nếu được, xin người đừng xoa đầu tôi ạ.
 
-31
-00:02:21,084 --> 00:02:22,504
-Thôi nào, mọi người...
-
-32
-00:02:23,084 --> 00:02:25,924
-Có vẻ như [Đội Tự Vệ (Caon)] không có ác ý đâu.
-
 33
-00:02:26,514 --> 00:02:31,684
-Thiệt hại cũng đã ở mức tối thiểu rồi, xin mọi người đừng bận tâm quá.
+00:02:21,084 --> 00:02:25,924
+Thôi nào, mọi người... có vẻ như [Đội Tự Vệ (Caon)] không có ác ý đâu.
 
 34
+00:02:26,514 --> 00:02:31,684
+Thiệt hại cũng đã ở mức tối thiểu rồi, xin mọi người đừng bận tâm quá ạ.
+
+35
 00:02:32,564 --> 00:02:37,234
 Nhưng mà~ tui đã làm gián đoạn công việc của mọi người.
 
-35
+36
 00:02:38,574 --> 00:02:43,494
 Nên tui sẽ cố gắng đền bù cho mọi người hết mức có thể nha.
 
-36
+37
 00:02:44,794 --> 00:02:48,964
 Giờ tui đang khẩn trương sắp xếp một cỗ xe ngựa đó.
 
-37
+38
 00:02:50,554 --> 00:02:55,014
 Có vẻ như cỗ xe ngựa đã bị nổ tung và bay mất tiêu rồi.
 
-38
-00:02:56,394 --> 00:03:00,484
+39
+00:02:56,394 --> 00:02:59,984
 Người đánh xe có vẻ vẫn bình an vô sự...
 
-39
-00:03:01,484 --> 00:03:06,524
+40
+00:03:01,154 --> 00:03:06,524
 nhưng vì bị thương nên tui đã đưa anh ta đến một trạm cứu thương đàng hoàng rồi.
 
-40
-00:03:09,324 --> 00:03:17,034
-V-Vậy sao ạ. Thật là trong cái rủi có cái may khi không có ai thiệt mạng trong trận chiến hỗn loạn đó nhỉ.
-
 41
-00:03:18,164 --> 00:03:22,964
-Cô bé Muimi-chan đó, hay là Noem-chan...
+00:03:09,324 --> 00:03:11,574
+V-Vậy sao ạ.
 
 42
-00:03:22,964 --> 00:03:27,964
-cuối cùng lại bị nhóm người [Labyrinth] bắt cóc mất rồi.
+00:03:11,574 --> 00:03:17,034
+Thật là trong cái rủi có cái may khi không có ai thiệt mạng trong trận chiến hỗn loạn đó nhỉ.
 
 43
+00:03:18,164 --> 00:03:22,834
+Cô bé Muimi-chan đó, hay là Noem-chan...
+
+44
+00:03:22,834 --> 00:03:27,964
+cuối cùng lại bị nhóm người [Labyrinth] bắt cóc mất rồi.
+
+45
 00:03:29,134 --> 00:03:32,094
 Bên đó thì, dĩ nhiên là bọn tui đã cử người truy đuổi rồi.
 
-44
+46
 00:03:32,974 --> 00:03:36,894
 [Đội Tự Vệ (Caon)] của bọn tui đang lùng sục ráo riết đó.
 
-45
-00:03:37,604 --> 00:03:45,324
-Nhưng mà... có vẻ đám người [Labyrinth] đó giỏi ẩn nấp và trốn chạy lắm đó nha.
+47
+00:03:37,604 --> 00:03:41,604
+Nhưng mà... có vẻ đám người [Labyrinth] đó
 
-46
+48
+00:03:41,604 --> 00:03:45,324
+giỏi ẩn nấp và trốn chạy lắm đó nha.
+
+49
 00:03:46,654 --> 00:03:51,914
 Ngay cả khứu giác của Thú nhân tộc Chó cũng bị chúng qua mặt, để chúng trốn thoát ngon ơ.
 
-47
-00:03:52,834 --> 00:03:54,714
+50
+00:03:52,834 --> 00:03:56,424
 Thiệt tình, tui chẳng hiểu gì cả...
 
-48
-00:03:57,214 --> 00:04:02,174
+51
+00:03:57,214 --> 00:04:01,634
 Nhưng vì lỗi của bọn tui mà mọi người bị cuốn vào rắc rối,
+
+52
+00:04:02,184 --> 00:04:05,344
 nên bọn tui sẽ giúp đỡ hết sức có thể.
 
-49
+53
 00:04:06,344 --> 00:04:09,224
 Cần gì cứ nói với tui, đừng ngại nha.
 
-50
+54
 00:04:11,564 --> 00:04:13,984
 Tôi rất cảm kích lòng tốt của chị.
 
-51
+55
 00:04:15,194 --> 00:04:22,034
 Cá nhân tôi thì thấy áy náy vì đã làm gián đoạn công việc của Suzume-sama...
 
-52
+56
 00:04:22,704 --> 00:04:30,834
 Việc hộ tống xe ngựa cũng là một phần nhiệm vụ, nhưng chúng tôi đã không thể hoàn thành. Thật đáng hổ thẹn.
 
-53
-00:04:33,464 --> 00:04:35,464
-A, không sao đâu ạ~
+57
+00:04:33,464 --> 00:04:37,214
+A, không sao đâu ạ~ Chị đừng bận tâm nhiều.
 
-54
-00:04:35,464 --> 00:04:37,214
-Chị đừng bận tâm nhiều.
-
-55
+58
 00:04:37,714 --> 00:04:42,384
 Đó là một tai nạn không may, không phải lỗi của ai cả.
 
-56
+59
 00:04:42,884 --> 00:04:47,724
-Với lại, có vẻ như các thành viên của [Đội Tự Vệ (Caon)] cũng sẽ sắp xếp xe ngựa giúp chúng ta.
+Với lại, có vẻ như các thành viên của [Caon] cũng sẽ sắp xếp xe ngựa giúp chúng ta.
 
-57
+60
 00:04:48,394 --> 00:04:52,234
 Chúng ta hãy vực lại tinh thần và lên đường đến dinh thự thôi.
 
-58
+61
 00:04:54,534 --> 00:04:57,914
 Nói thì nói vậy, nhưng trời đã tối rồi...
 
-59
+62
 00:04:58,454 --> 00:05:03,124
 Nếu giờ khởi hành, chúng ta sẽ phải di chuyển trong đêm đó.
 
-60
+63
 00:05:03,674 --> 00:05:10,674
 Khi mặt trời lặn, ma vật sẽ trở nên hung tợn hơn, nguy hiểm lắm đó.
 
-61
+64
 00:05:11,474 --> 00:05:15,974
 Tối nay, mọi người hãy ở lại nhà hội của bọn tui nha.
 
-62
+65
 00:05:17,434 --> 00:05:20,604
 Dĩ nhiên là không cần trả tiền trọ đâu.
 
-63
-00:05:21,434 --> 00:05:25,944
+66
+00:05:21,434 --> 00:05:26,564
 Nói đúng hơn, bọn tui mới là người phải bồi thường cho mọi người đó.
 
-64
-00:05:27,734 --> 00:05:33,824
-Ít nhất thì, hãy để [Đội Tự Vệ (Caon)] trả tiền cho số hàng mà mọi người đang vận chuyển nha.
-
-65
-00:05:35,534 --> 00:05:42,044
-Dạ không đâu ạ. Chúng em chỉ đang vận chuyển những chiếc hộp rỗng để đựng hàng thôi, nên chị đừng bận tâm.
-
-66
-00:05:43,124 --> 00:05:47,464
-Quan trọng hơn là, chúng em mãi chưa thấy đến nên...
-
 67
-00:05:47,464 --> 00:05:50,424
-chắc tiểu thư đang lo lắng lắm đó~?
+00:05:27,734 --> 00:05:33,824
+Ít nhất thì, hãy để [Caon] trả tiền cho số hàng mà mọi người đang vận chuyển nha.
 
 68
-00:05:51,344 --> 00:05:57,974
-Cho em liên lạc một chút được không ạ? Phép thuật liên lạc em không giỏi lắm, nhưng...
+00:05:35,534 --> 00:05:38,414
+Dạ không đâu ạ.
 
 69
-00:05:58,684 --> 00:06:10,484
-Tính toán tọa độ và mấy thứ đó khó nhằn lắm ha~ Tui cũng dở tệ vì cách dùng phép của tui khá là qua loa.
+00:05:38,414 --> 00:05:42,044
+Chúng em chỉ đang vận chuyển những chiếc hộp rỗng để đựng hàng thôi, nên chị đừng bận tâm.
 
 70
-00:06:11,484 --> 00:06:18,744
-Kasumi-han trong [Đội Tự Vệ (Caon)] của bọn tui thì giỏi mấy phép thuật tỉ mỉ đó lắm, nhưng...
+00:05:43,124 --> 00:05:50,424
+Quan trọng hơn là, chúng em mãi chưa thấy đến nên chắc tiểu thư đang lo lắng lắm đó~?
 
 71
+00:05:51,344 --> 00:05:53,974
+Cho em liên lạc một chút được không ạ?
+
+72
+00:05:54,724 --> 00:05:57,974
+Phép thuật liên lạc em không giỏi lắm, nhưng...
+
+73
+00:05:58,684 --> 00:06:03,774
+Tính toán tọa độ và mấy thứ đó khó nhằn lắm ha~
+
+74
+00:06:05,024 --> 00:06:10,484
+Tui cũng dở tệ vì cách dùng phép của tui khá là qua loa.
+
+75
+00:06:11,484 --> 00:06:18,744
+Kasumi-han trong [Caon] của bọn tui thì giỏi mấy phép thuật tỉ mỉ đó lắm, nhưng...
+
+76
 00:06:19,284 --> 00:06:22,874
 Giờ cô ấy đang đi ra ngoài rồi.
 
-72
-00:06:24,584 --> 00:06:32,054
-Để xem nào... có vẻ cô ấy đang điều tra một vụ án liên quan đến "Shadow" gì đó.
+77
+00:06:24,584 --> 00:06:26,084
+Để xem nào...
 
-73
-00:06:33,054 --> 00:06:42,354
-Makoto-han cũng đang bận rộn thẩm vấn thủ phạm của vụ náo loạn lần này, một người tên là Octo-han, bận lắm đó nha.
+78
+00:06:26,964 --> 00:06:32,054
+có vẻ cô ấy đang điều tra một vụ án liên quan đến "Shadow" gì đó.
 
-74
-00:06:42,354 --> 00:06:47,604
+79
+00:06:33,054 --> 00:06:42,274
+Makoto-han cũng đang bận rộn thẩm vấn thủ phạm của vụ náo loạn lần này... một người tên là Octo-han.
+
+80
+00:06:42,944 --> 00:06:47,604
 Cho đến khi mọi chuyện xong xuôi, tui sẽ bầu bạn với Ouji-han nha~♪
 
-75
-00:06:51,104 --> 00:06:54,774
+81
+00:06:51,204 --> 00:06:54,364
 ...Ouji-han?
 
-76
+82
 00:06:55,614 --> 00:07:00,034
 Người đó... là Ouji-han của tui đó~♪
 
-77
+83
 00:07:01,364 --> 00:07:04,784
 Chị đang nói đến Aruji-sama, phải không ạ?
 
-78
+84
 00:07:05,494 --> 00:07:11,634
-Ừm... chị là Maho-sama, Guild Master của [Đội Tự Vệ (Caon)]... phải không ạ?
+Ừm... Guild Master của [Caon]... là Maho-sama, phải không ạ?
 
-79
-00:07:12,504 --> 00:07:15,634
+85
+00:07:12,174 --> 00:07:15,634
 Chị cũng là người quen của Aruji-sama sao?
 
-80
-00:07:18,174 --> 00:07:27,514
-Vâng, vâng. Người đó là Ouji-han định mệnh mà tui đã gặp được đó~♪
-
-81
-00:07:30,814 --> 00:07:38,814
-Ừm. Trong khoảng thời gian ngắn mà ngài đã quen biết được nhiều cô gái quá nhỉ... Aruji-sama.
-
-82
+86
 00:07:38,814 --> 00:07:40,944
 > Thật vui vì có thêm nhiều bạn.
 > Ừm, xin lỗi nhé?
 
-83
+87
 00:07:41,274 --> 00:07:44,574
 Hà, ra là vậy sao ạ.
 
-84
+88
 00:07:45,494 --> 00:07:50,744
-Vậy là ngài không có ý đồ xấu khi bắt chuyện với hết cô gái này đến cô gái khác, phải không ạ?
+Vậy là ngài không có ý đồ xấu, hết người này đến người khác bắt chuyện với các cô gái, phải không ạ?
 
-85
+89
 00:07:52,244 --> 00:07:54,294
 Nếu vậy thì tôi không bận tâm.
 
-86
+90
 00:07:55,254 --> 00:07:59,344
 Vốn dĩ, tôi cũng không có quyền phàn nàn.
 
-87
-00:08:04,144 --> 00:08:06,774
+91
+00:08:04,144 --> 00:08:06,184
 Haitai~, mình về rồi đây☆
 
-88
-00:08:07,104 --> 00:08:11,274
+92
+00:08:06,854 --> 00:08:11,274
 Nhân tiện đi tuần, mình đã sắp xếp xe ngựa theo yêu cầu rồi đó~♪
 
-89
+93
 00:08:14,654 --> 00:08:18,114
-A, Kaori-han, mừng cậu trở về~ Vất vả rồi ha.
+A, Kaori-han, mừng cậu trở về~
 
-90
-00:08:18,654 --> 00:08:22,664
-Ngồi xuống nghỉ ngơi đi nha.
+94
+00:08:18,114 --> 00:08:22,664
+Vất vả rồi ha. Ngồi xuống nghỉ ngơi đi nha.
 
-91
+95
 00:08:25,504 --> 00:08:31,634
 Mình không mệt nên không sao đâu~ Hôm nay mình cũng tràn đầy năng lượng nè~! Ahaha~♪
 
-92
-00:08:35,594 --> 00:08:39,474
-Ồ~ Kuria cũng ở đây! Cậu làm gì ở đây vậy~
+96
+00:08:35,594 --> 00:08:37,264
+Ồ~ Kuria cũng ở đây!
 
-93
-00:08:39,474 --> 00:08:45,234
-Nếu đến chơi thì được chào đón nồng nhiệt luôn~! Ahaha~ Cùng hát và nhảy múa nào~♪
+97
+00:08:37,264 --> 00:08:41,774
+Cậu làm gì ở đây vậy~ Nếu đến chơi thì được chào đón nồng nhiệt luôn~!
 
-94
+98
+00:08:42,474 --> 00:08:45,234
+Ahaha~ Cùng hát và nhảy múa nào~♪
+
+99
 00:08:46,064 --> 00:08:47,694
 Hôm nay cậu cũng năng động ghê, Kaori-chan.
 
-95
+100
 00:08:48,154 --> 00:08:51,074
 Ừm ừm, năng động là ưu điểm duy nhất của mình đó~!
 
-96
+101
 00:08:51,994 --> 00:08:56,704
 Cậu lúc nào cũng điềm tĩnh, nhưng thỉnh thoảng cũng nên quẩy lên chứ~?
 
-97
-00:08:58,624 --> 00:09:02,754
-Ủa? Mùi hương này...
-
-98
-00:09:02,754 --> 00:09:07,094
-của Kaori-san sao... cũng là người quen của Aruji-sama.
-
-99
-00:09:07,844 --> 00:09:13,224
-Để mà nói đây là "ngẫu nhiên, tình cờ" thì có hơi thiếu tự nhiên.
-
-100
-00:09:14,264 --> 00:09:18,064
-Hừm... đúng như lời tiên tri của Ames-sama.
-
-101
-00:09:18,064 --> 00:09:23,314
-Có vẻ như Aruji-sama đang ở trung tâm của một nhân quả kỳ lạ.
-
 102
-00:09:24,224 --> 00:09:29,354
-Hửm~? Cô bé đằng kia, sao mặt mày khó đăm đăm vậy~?
+00:08:58,624 --> 00:08:59,334
+Ủa?
 
 103
+00:09:00,414 --> 00:09:06,754
+Chị Kaori...-san này cũng là người quen của Aruji-sama sao ạ.
+
+104
+00:09:07,554 --> 00:09:13,224
+"Ngẫu nhiên, tình cờ" để giải thích thì có hơi thiếu tự nhiên.
+
+105
+00:09:14,264 --> 00:09:15,184
+Hừm...
+
+106
+00:09:15,184 --> 00:09:23,314
+Đúng như lời tiên tri của Ames-sama, có vẻ như Aruji-sama đang ở trung tâm của một nhân quả kỳ lạ.
+
+107
+00:09:24,224 --> 00:09:28,854
+Hửm~? Cô bé đằng kia, sao mặt mày khó đăm đăm vậy~?
+
+108
 00:09:30,234 --> 00:09:34,864
 Cười lên trông dễ thương hơn đó~ Tiếng cười mang đến vận may!
 
-104
+109
 00:09:35,614 --> 00:09:38,914
 Hay là, cậu đói bụng hả?
 
-105
-00:09:39,874 --> 00:09:44,594
+110
+00:09:39,874 --> 00:09:45,714
 Mình cũng đi tuần thay cho Makoto, đi một vòng quanh thị trấn rồi!
 
-106
-00:09:44,594 --> 00:09:50,124
+111
+00:09:45,714 --> 00:09:50,124
 Chạy nhiều quá nên bụng mình đói meo luôn~♪
 
-107
-00:09:51,464 --> 00:09:55,804
-A... Nếu được, em xin phụ chị nấu ăn ạ~?
-
-108
-00:09:55,804 --> 00:10:01,894
-Không không, khách thì cứ nghỉ ngơi đi ha~? Cứ chờ đó, mình sẽ đãi một bữa no nê luôn~♪
-
-109
-00:10:01,894 --> 00:10:04,974
-Nếu có nguyên liệu, mình còn làm được mấy món ngon hơn nữa đó~?
-
-110
-00:10:07,314 --> 00:10:12,114
-Sata... đó là gì vậy ạ?
-
-111
-00:10:12,114 --> 00:10:15,364
-Tôi ăn không nhiều nên... không cần phiền chị đâu ạ.
-
 112
-00:10:15,364 --> 00:10:20,534
-Nghĩ lại thì, từ trưa đến giờ tôi chưa ăn gì cả. Nếu chị có thể đãi một bữa ăn thì tôi cảm kích vô cùng.
+00:09:51,464 --> 00:09:55,804
+A! Hay là mình mượn bếp của nhà hội, làm chút bánh kẹo nhỉ~?
 
 113
-00:10:22,534 --> 00:10:27,624
-A... tôi, nếu được tôi xin phụ một tay ạ~?
+00:09:56,384 --> 00:09:58,554
+Mấy món ngon như Sata Andagi chẳng hạn♪
 
 114
+00:09:58,624 --> 00:10:00,714
+Saata...
+
+115
+00:10:01,084 --> 00:10:03,174
+À... ý chị là gì ạ?
+
+116
+00:10:03,174 --> 00:10:06,714
+Tôi ăn ít lắm, nên không sao đâu ạ.
+
+117
+00:10:11,384 --> 00:10:15,184
+Nghĩ lại thì, từ trưa đến giờ tôi chưa ăn gì.
+
+118
+00:10:16,144 --> 00:10:20,854
+Nếu chị có thể đãi một bữa thì tôi sẽ rất biết ơn.
+
+119
+00:10:22,874 --> 00:10:27,594
+A... Nếu được, em xin phụ chị nấu ăn ạ~?
+
+120
 00:10:28,214 --> 00:10:32,844
 Không không, khách thì cứ nghỉ ngơi đi ha~?
 
-115
-00:10:33,184 --> 00:10:35,894
+121
+00:10:33,184 --> 00:10:35,764
 Cứ chờ đó, mình sẽ đãi một bữa no nê luôn~♪
 
-116
-00:10:36,434 --> 00:10:41,274
+122
+00:10:36,474 --> 00:10:41,274
 Nếu có nguyên liệu, mình còn làm được mấy món ngon hơn nữa đó~?
 
-117
-00:10:43,484 --> 00:10:50,784
-A, nếu vậy thì... hay là nhờ Makoto-han mua giúp trên đường về ha?
+123
+00:10:43,484 --> 00:10:45,404
+A, nếu vậy thì...
 
-118
-00:10:51,454 --> 00:10:57,554
-Makoto-han là người quen nên phép thuật liên lạc sẽ kết nối ngay thôi. Chắc cô ấy cũng đang ở gần đây thôi.
+124
+00:10:46,074 --> 00:10:50,784
+hay là nhờ Makoto-han mua giúp trên đường về ha?
 
-119
-00:10:57,554 --> 00:11:02,474
+125
+00:10:51,454 --> 00:10:57,834
+Makoto-han là người quen nên phép thuật liên lạc sẽ kết nối ngay thôi.
+
+126
+00:10:58,634 --> 00:11:02,464
+Chắc cô ấy cũng đang ở gần đây thôi.
+
+127
+00:11:03,334 --> 00:11:08,804
 Chắc cô ấy đang tranh luận nảy lửa với Octo-han...
 
-120
-00:11:02,474 --> 00:11:17,224
-Hay là mình cứ dùng phép liên lạc đơn giản, để cô ấy có thời gian thì mở tin nhắn ra xem. Miracle Mahorin, Kururinpa~...♪
+128
+00:11:10,054 --> 00:11:17,224
+Hay là mình cứ dùng phép liên lạc đơn giản, để khi nào có thời gian cô ấy mở ra xem.
 
-121
-00:11:28,734 --> 00:11:31,744
-Hử? Gì vậy trời...
+129
+00:11:18,184 --> 00:11:22,144
+Mirakuru Mahorin, Kururinpaa~...♪
 
-122
-00:11:31,744 --> 00:11:34,744
-không có phản hồi gì hết...
+130
+00:11:28,734 --> 00:11:29,984
+Hử?
 
-123
+131
+00:11:31,074 --> 00:11:34,744
+Gì vậy trời, không có phản hồi gì hết...
+
+132
 00:11:36,664 --> 00:11:40,294
 Ưm~ Phép thuật bị thất bại sao?
 
-124
+133
 00:11:42,924 --> 00:11:48,764
-Ư ưm, có cảm giác như tín hiệu bị nhiễu rồi...?
+Ư ưm, có cảm giác như tín hiệu bị nhiễu rồi...
 
-125
+134
 00:11:51,644 --> 00:11:56,314
-Hừm~ Maho mà làm hỏng phép thuật thì hiếm lắm đó~?
+Hửm~ Maho mà làm hỏng phép thuật thì hiếm lắm đó~?
 
-126
+135
 00:11:58,064 --> 00:12:00,774
-Ừm, có chuyện gì sao ạ?
+Ano, có chuyện gì sao ạ?
 
-127
+136
 00:12:02,114 --> 00:12:05,654
 Không... mong là do tui cả nghĩ.
 
-128
+137
 00:12:07,154 --> 00:12:13,204
 Kaori-han, trên đường về cậu có thấy điểm nào đáng ngờ không?
 
-129
-00:12:14,084 --> 00:12:16,214
+138
+00:12:14,834 --> 00:12:16,334
 Điểm đáng ngờ sao?
 
-130
-00:12:18,214 --> 00:12:22,884
-Nói mới nhớ, xung quanh nhà hội hôm nay yên tĩnh hơn mọi khi...
-
-131
-00:12:23,594 --> 00:12:27,014
-với cả không khí có hơi nặng nề thì phải?
-
-132
-00:12:27,644 --> 00:12:34,734
-[Đội Tự Vệ (Caon)] được động vật yêu mến, nên bình thường sẽ rất ồn ào vì tiếng chim và mèo.
-
-133
-00:12:35,444 --> 00:12:39,404
-Nhưng hôm nay, chúng nó đều im hơi lặng tiếng.
-
-134
-00:12:40,284 --> 00:12:47,164
-Chuyện đó thì sao chứ? Nếu cần thì mình sẽ ra ngoài xem xét lại một lần nữa?
-
-135
-00:12:48,374 --> 00:12:51,134
-Ừm, không cần đâu.
-
-136
-00:12:52,214 --> 00:12:55,014
-Tại sao, mình lại không nhận ra sớm hơn chứ?
-
-137
-00:12:56,644 --> 00:13:02,064
-Thôi rồi... Tui đúng là đãng trí mà.
-
-138
-00:13:03,194 --> 00:13:06,194
-Một điềm báo chẳng lành đang đến gần.
-
 139
-00:13:07,194 --> 00:13:11,574
-Kaori-han, hãy vào tư thế sẵn sàng chiến đấu đi.
+00:12:18,174 --> 00:12:20,094
+À mà nói mới nhớ,
 
 140
-00:13:12,164 --> 00:13:15,834
-Mọi người, mau lùi lại phía sau bọn tui đi.
+00:12:20,094 --> 00:12:23,344
+xung quanh nhà hội hôm nay yên tĩnh hơn mọi khi.
 
 141
-00:13:17,044 --> 00:13:22,474
-...Có vẻ như, có vị khách không mời mà đến rồi đó.
+00:12:23,344 --> 00:12:26,844
+Không khí có hơi nặng nề thì phải?
+
+142
+00:12:27,594 --> 00:12:30,224
+[Caon] rất được động vật yêu quý,
+
+143
+00:12:30,224 --> 00:12:34,764
+bình thường phải ồn ào vì tiếng chim bồ câu với mèo lắm,
+
+144
+00:12:35,764 --> 00:12:39,874
+nhưng hôm nay, mọi thứ đều im bặt như nín thở vậy đó~?
+
+145
+00:12:40,294 --> 00:12:42,214
+Chuyện đó, có sao không?
+
+146
+00:12:42,214 --> 00:12:47,014
+Nếu cần thì mình ra ngoài xem lại lần nữa nhé?
+
+147
+00:12:48,374 --> 00:12:51,004
+Ừm, không cần đâu.
+
+148
+00:12:52,464 --> 00:12:55,254
+Sao mình không nhận ra sớm hơn nhỉ?
+
+149
+00:12:57,004 --> 00:12:58,004
+Thiệt tình...
+
+150
+00:12:59,384 --> 00:13:02,304
+mình đúng là đãng trí quá mà.
+
+151
+00:13:03,134 --> 00:13:06,134
+Một luồng khí đáng sợ đang đến gần.
+
+152
+00:13:07,264 --> 00:13:11,394
+Kaori-han, chuẩn bị sẵn sàng chiến đấu đi.
+
+153
+00:13:12,274 --> 00:13:15,564
+Mọi người, mau lùi lại phía sau bọn tui đi.
+
+154
+00:13:16,564 --> 00:13:18,314
+...Có vẻ như,
+
+155
+00:13:18,314 --> 00:13:22,474
+có vị khách không mời mà đến rồi đó.

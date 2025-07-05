@@ -37,35 +37,41 @@ Now, proceed with the provided video and generate the complete SRT file.
 pip install pyinstaller
 python -m PyInstaller --onefile --windowed --name="SRT_Fixer" fix_srt.py
 
-Act as a meticulous Quality Assurance (QA) specialist for subtitles. You have just generated a Vietnamese SRT file for a "Princess Connect! Re: Dive" video. Your new, critical task is to perform a rigorous quality check on the SRT file you just created.
+Act as a hyper-vigilant, senior Quality Assurance (QA) specialist for subtitles. You have generated a Vietnamese SRT file for a "Princess Connect! Re: Dive" video. Your new, definitive task is to perform an exhaustive quality check on this file, addressing common but critical AI errors.
 
-Follow this verification checklist precisely:
+Follow this multi-layered verification checklist with extreme precision:
+1. Structural & Timestamp Integrity Check:
+- SRT Format: Verify every entry has the standard structure: index, timestamp, text.
+- Timestamp Syntax: Ensure all timestamps use a comma for milliseconds (HH:MM:SS,ms) and the --> separator is correct.
+- Timestamp Logic (Crucial):
+    + Invalid Timing: Verify the start time is strictly less than the end time (start_time < end_time). An entry where start_time >= end_time is a critical failure.
+    + Excessive Duration: Flag any single subtitle entry that remains on-screen for too long (e.g., more than 8 seconds). Long-duration subtitles must be broken into smaller, consecutive entries.
 
-1.  SRT Format Validation:
-    - Verify that every entry strictly follows the standard SRT format: an index number, a timestamp line (`HH:MM:SS,ms --> HH:MM:SS,ms`), and the subtitle text.
-    - Ensure there are no formatting errors, especially in the timestamp (e.g., using a period `.` instead of a comma `,` before milliseconds).
+2. Synchronization & Contextual Accuracy Check (Highest Priority):
+- This is the most critical check. You must perform a frame-by-frame re-analysis. For each subtitle entry, verify that the Vietnamese text is an accurate and direct translation of the dialogue spoken or text displayed within that exact time window.
+- Actively hunt for synchronization errors, where the subtitle content is mismatched. For example, the text for scene B appearing during scene A. If a mismatch is found, you must find the correct text for that timestamp and place it there.
 
-2.  Content and Language Integrity Check:
-    - Duplicate Lines: Scan for and remove any identical, consecutive subtitle lines.
-    - Language Validation (Crucial): The subtitle text must be 100% Vietnamese. Scan every line for any characters that do not belong to the Vietnamese alphabet (quốc ngữ), standard numbers, or common punctuation.
-    - Explicitly look for and correct any text mistakenly left in Japanese (Kanji, Hiragana, Katakana), Chinese, Russian (Cyrillic), or any other non-Vietnamese script.
-    - Artifact Check: Check for any leftover OCR artifacts, encoding errors (like `��` or `Â`), or placeholder text (`???`). These must be corrected.
+3. Content and Language Integrity Check:
+- 100% Vietnamese: The subtitle text must be pure Vietnamese (quốc ngữ), with standard numbers and punctuation. No exceptions.
+- Foreign Character Removal: Explicitly find and correct any remaining Japanese (Kanji, Kana), Chinese, or other non-Vietnamese characters.
+- Artifact & Error Cleanup: Remove any OCR artifacts, encoding errors (��), or duplicate consecutive lines.
 
-3.  Gap Analysis (Crucial):
-    - Identify any long time gaps (e.g., longer than 15 seconds) where no subtitles are present.
-    - For each gap, re-analyze the corresponding video segment.
-    - Was dialogue missed? If you find any untranslated dialogue or on-screen text in these gaps, you MUST add the missing subtitles and integrate them correctly into the file.
-    - Is the gap intentional? If the gap contains only music, sound effects, or visual action with no speech/text, make a note of it.
+4. Readability and Line Length Check:
+- Line Limit: No subtitle entry can exceed two lines.
+- Length Limit: No single line should be excessively long (over ~45-50 characters).
+- Correction Mandate: If a subtitle is too long or has too many lines, you MUST fix it by intelligently splitting it across two lines or breaking it into two separate, properly-timed subtitle entries.
+
+5. Gap Analysis (Stricter):
+- Threshold: Identify any time gaps longer than 2.5 seconds where no subtitles are present.
+- Investigation: For each gap, re-analyze the video. If any audible dialogue or significant on-screen text was missed, you MUST translate and insert it as a new subtitle entry. If the gap is just music or action, it is intentional.
 
 Output Instructions (Follow this logic strictly):
-
-- IF you find ANY errors (formatting issues, duplicates, strange characters, or missed dialogue during gaps):
+- IF you find ANY error from ANY check above (format, timestamp logic, synchronization, language, length, or missed content):
     + Do NOT list the errors.
     + Instead, regenerate and provide a single, complete, and fully corrected version of the entire SRT file. The output must be ONLY the raw SRT content.
 
-- IF the SRT file passes ALL checks and is error-free:
-    - Do NOT return the SRT file again.
-    - Instead, provide a confirmation message in VIETNAMESE.
-    - This Vietnamese message should state that the file is valid. If you identified any intentional long gaps (with no dialogue), briefly explain in Vietnamese what is happening in the video during those specific timecodes (e.g., "Từ 00:01:25 đến 00:01:40 là cảnh chiến đấu và nhạc nền, không có lời thoại.").
+- IF the SRT file passes ALL checks flawlessly:
+    + Do NOT return the SRT file again.
+    + Instead, provide a confirmation message in VIETNAMESE.
 
-Now, perform the QA check on the SRT file you previously created.
+This message should state that the file is valid. If you identified any intentional gaps, briefly explain in Vietnamese what is happening in the video during those specific timecodes.

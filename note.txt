@@ -1,43 +1,24 @@
-Act as an expert translator and subtitler specializing in Japanese RPGs and anime. Your task is to analyze this "Princess Connect! Re: Dive" video clip, process all Japanese content (audio and on-screen text), and create a professional Vietnamese SRT subtitle file.
+Act as an expert translator and subtitler specializing in Japanese RPGs and anime. Your task is to analyze this video clip from the "Princess Connect! Re: Dive" franchise (game cutscene or anime). You must process all Japanese content—both spoken dialogue and on-screen text—and create a Vietnamese SRT subtitle file that preserves the original Japanese honorifics.
 
 Critical Rules:
-
-1.  Localize for Fans: Translate into natural, flowing Vietnamese suitable for anime/game fans. Capture character personalities (Pecorine's energy, Kyaru's "tsundere" style).
-2.  Keep Honorifics: Preserve original Japanese honorifics like `Kyaru-chan`, `Yuuki-kun`, `Kokkoro-sama`. Do not translate them.
-3.  Clean Subtitles: Subtitle text must contain ONLY the translated dialogue, no speaker labels (`Kyaru:`).
-4.  Dialogue Choices: When a choice box appears, translate all options and list them in a single subtitle block, starting each with a hyphen (`- `).
-5.  Anime Cutscene Handling: For full-screen anime sequences, you must also translate:
-    - Onomatopoeia (Sound Effects): Place the translated sound effect in parentheses, e.g., `(Rầm!)`, `(Vút!)`.
-    - Song Lyrics: Format song lyrics in italics.
-    - Background Text: Translate any plot-relevant text on signs or notes.
-6.  Formatting:
-    - Max 2 lines per block (unless it's a choice list).
-    - Split long/fast dialogue across consecutive blocks for readability.
-7.  Strict SRT Output: The final output must be ONLY the raw SRT content, perfectly formatted and synchronized.
+1. Localize for Fans: Translate into natural Vietnamese suitable for anime fans. Capture the original tone and character personalities (e.g., Pecorine's energy, Kyaru's "tsundere" style).
+2. Keep Honorifics: Preserve original Japanese honorifics. DO NOT translate them (e.g., `Kyaru-chan`, `Yuuki-kun`).
+3. Clean Subtitles: The subtitle text must contain ONLY the translated dialogue. Do NOT include speaker labels like `Kyaru:`.
+4. Strict SRT Output: The final output must be ONLY the raw SRT content, perfectly formatted and synchronized.
+5. Line Limit: Each subtitle block must have a maximum of 2 lines.
+6. Reading Speed: For long or fast-paced sentences, you must split the dialogue intelligently across multiple, consecutive subtitle blocks to ensure it's readable.
+7. Conciseness: Keep each line concise and easy to grasp.
 
 Output Format Example:
 1
 00:00:15,250 --> 00:00:17,890
-Kyaru-chan, trông cậu lại cau có nữa rồi.
+Kyaru-chan, cậu lại cau có nữa rồi.
 
 2
 00:00:18,100 --> 00:00:20,500
-K-Không phải chuyện của cậu đâu, Yuuki-kun!
+K-Không phải chuyện của cậu, Yuuki-kun!
 
-3
-00:00:25,000 --> 00:00:29,500
-- Cảm ơn Kokkoro-chan.
-- Chúng ta ăn côn trùng nhé!
-
-4
-00:00:32,100 --> 00:00:33,500
-(RẦM!)
-
-5
-00:00:35,000 --> 00:00:38,500
-*Một thế giới mới đang chờ chúng ta ở phía trước*
-
-Now, proceed with the video and generate the complete SRT file.
+Now, proceed and generate the complete SRT file.
 
 pip install pyinstaller
 python -m PyInstaller --onefile --windowed --name="SRT_Fixer" fix_srt.py

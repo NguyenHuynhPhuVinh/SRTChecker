@@ -1,383 +1,479 @@
 1
-00:00:02,300 --> 00:00:03,800
+00:00:02,070 --> 00:00:04,110
 Vị khách không mời
 
 2
-00:00:05,200 --> 00:00:05,700
+00:00:05,080 --> 00:00:05,780
 Xe ngựa
 
 3
-00:00:05,876 --> 00:00:06,866
-Con xin phép.
+00:00:06,060 --> 00:00:07,220
+Con xin phép ạ.
 
 4
-00:00:10,211 --> 00:00:12,381
-Xin mời, xin mời dùng bữa ạ~♪
+00:00:10,320 --> 00:00:12,580
+Mời mọi người dùng bữa ạ~♪
 
 5
-00:00:13,831 --> 00:00:17,391
+00:00:13,850 --> 00:00:17,390
 Ehehe. Xin lỗi vì phải dùng bữa trong lúc di chuyển,
 
 6
-00:00:18,041 --> 00:21,391
-vì việc chuẩn bị xe ngựa tốn khá nhiều thời gian...
+00:00:17,730 --> 00:00:21,070
+vì việc sắp xếp xe ngựa tốn khá nhiều thời gian...
 
 7
-00:00:21,591 --> 00:00:23,791
-nên chúng ta đành phải vội vàng xuất phát thôi ạ.
+00:00:21,490 --> 00:00:23,950
+nên chúng ta phải vội vàng khởi hành ạ.
 
 8
-00:00:25,515 --> 00:00:27,625
-Dạo gần đây, khu vực này khá là nguy hiểm.
+00:00:25,580 --> 00:00:27,780
+Dạo gần đây khu này khá là nguy hiểm.
 
 9
-00:00:28,245 --> 00:00:32,105
-Vì có người tạm thời sơ tán đến thị trấn khác,
+00:00:28,360 --> 00:00:32,040
+Có những người phải tạm thời sơ tán đến thị trấn khác,
 
 10
-00:00:32,105 --> 00:00:34,805
-nên việc thuê xe ngựa không được dễ dàng cho lắm.
+00:00:32,450 --> 00:00:34,950
+nên mãi mà không thuê được xe ngựa.
 
 11
-00:00:36,366 --> 00:00:38,986
-Thật tệ quá đi~ Chuẩn bị chẳng đâu vào đâu cả...
+00:00:36,330 --> 00:00:39,040
+Em tệ thật đó~ Chuẩn bị chẳng đâu vào đâu...
 
 12
-00:00:40,046 --> 00:00:42,326
-Lúc nào tớ cũng bị Ojou-sama mắng,
+00:00:40,120 --> 00:00:42,500
+Lúc nào em cũng bị Ojou-sama mắng là,
 
 13
-00:00:43,456 --> 00:00:47,606
-bảo là "Phải chuẩn bị mọi thứ sẵn sàng rồi mới được hành động".
+00:00:42,830 --> 00:00:47,750
+"Phải chuẩn bị mọi thứ sẵn sàng rồi mới được hành động".
 
 14
-00:00:49,368 --> 00:00:50,078
+00:00:49,290 --> 00:00:50,130
 Hừm...
 
 15
-00:00:51,208 --> 00:00:54,348
-Vì chúng ta đang chuyển nhà nên xe ngựa là thứ cần thiết ạ.
+00:00:51,130 --> 00:00:54,420
+Vì là mọi người đang chuyển nhà, nên xe ngựa là rất cần thiết.
 
 16
-00:00:55,398 --> 00:01:01,008
-Bọn con cũng đang rảnh rỗi, nên dù có tốn thời gian một chút cũng không phiền hà gì đâu ạ.
+00:00:55,510 --> 00:01:01,050
+Bọn con cũng đang rảnh nên dù có tốn thời gian cũng không thấy phiền chút nào đâu ạ.
 
 17
-00:01:02,327 --> 00:01:02,967
+01:02,100 --> 01:02,520
 Ahaha.
 
 18
-00:01:03,267 --> 00:01:08,217
-Để bù lại cho sự bất tiện này, tớ sẽ đảm bảo việc ăn ở cho mọi người
+01:03,350 --> 01:08,190
+Để bù lại cho sự bất tiện này, em sẽ lo chi phí ăn ở cho mọi người đến khi công việc kết thúc.
 
 19
-00:01:08,217 --> 00:01:12,117
-đến khi công việc kết thúc. Cứ tự nhiên dùng bữa nhé~♪
+01:08,440 --> 01:12,020
+Mọi người cứ ăn thỏa thích nhé~♪
 
 20
-00:01:13,382 --> 00:01:15,102
-Nào, xin mời, đừng ngại ngùng.
+01:13,320 --> 01:15,030
+Nào, xin mời, đừng ngại ạ.
 
 21
-00:01:15,992 --> 00:01:19,572
-Tớ đã dậy sớm để làm đó, nào là bánh sandwich♪
+01:15,820 --> 01:19,650
+Em đã dậy sớm để làm đó, sandwich này♪
 
 22
-00:01:20,538 --> 00:01:21,398
-Con rất biết ơn.
+01:20,650 --> 01:21,570
+Con rất biết ơn ạ.
 
 23
-00:01:22,388 --> 00:01:25,388
-Xin lỗi vì đã làm phiền.
+01:22,280 --> 01:25,120
+Xin lỗi vì đã để mọi người mời bọn con một bữa.
 
 24
-00:01:26,058 --> 00:01:29,608
-Chuyện là... số Rubi bọn con mang theo sắp cạn kiệt rồi...
+01:26,200 --> 01:29,580
+Bọn con... đang sắp hết Lupi mang theo rồi ạ...
 
 25
-00:01:30,688 --> 00:01:34,578
-Đến cả bữa ăn hàng ngày cũng đang rất khó khăn ạ.
+01:30,660 --> 01:34,500
+Đến cả bữa ăn trong ngày cũng đang là một vấn đề.
 
 26
-00:01:36,005 --> 00:01:39,465
-Ừm ừm. Thế nên mọi người mới đi tìm việc làm, phải không ạ?
+01:36,130 --> 01:39,420
+Vâng vâng. Nên mọi người mới đi tìm việc đúng không ạ?
 
 27
-00:01:40,435 --> 00:01:44,985
-Không được đâu~ Onii-chan. Anh là anh trai mà, phải ra dáng một chút chứ.
+01:40,510 --> 01:42,680
+Không được đâu~ Onii-san.
 
 28
-00:01:46,125 --> 00:01:50,865
-Cho em gái ăn uống đầy đủ là nghĩa vụ của một người anh trai đó, anh biết không?
+01:42,680 --> 01:45,140
+Anh là Onii-chan mà, phải ra dáng chứ.
 
 29
-00:01:52,868 --> 00:01:53,888
-Không, thưa cô.
+01:46,220 --> 01:51,020
+Chăm lo cho Imouto-chan ăn uống đầy đủ là nghĩa vụ của Onii-chan đó?
 
 30
-00:01:55,348 --> 00:01:59,948
-Ý con là, con không phải em gái của Aruji-sama đâu ạ.
+01:53,020 --> 01:54,480
+Không, thưa là...
 
 31
-02:05,861 --> 00:02:08,121
-...Măm, măm?
+01:55,650 --> 02:00,190
+Bởi vì, con không phải là em gái của Aruji-sama.
 
 32
-02:08,121 --> 00:02:10,651
-Cái bánh sandwich này, có vị gì đó thật đặc biệt nhỉ?
+02:01,900 --> 02:04,570
+...
 
 33
-02:11,691 --> 00:02:16,771
-A, xin lỗi ạ! Tớ là hầu gái mà lại không giỏi nấu ăn,
+02:05,950 --> 02:10,740
+...Mugu? Cái sandwich này, có vị gì đó thật độc đáo nhỉ?
 
 34
-02:16,771 --> 00:02:19,661
-không hợp khẩu vị của cậu sao?
+02:11,830 --> 02:12,910
+A, xin lỗi!
 
 35
-02:21,189 --> 00:02:25,759
-Không ạ. Chắc là do con chưa quen với khẩu vị của vùng này thôi.
+02:14,200 --> 02:17,540
+Em đã là hầu gái mà lại không giỏi nấu ăn...
 
 36
-02:26,599 --> 00:02:28,349
-Măm măm♪
+02:17,870 --> 02:19,790
+Không hợp khẩu vị của chị ạ?
 
 37
-02:30,229 --> 00:02:33,639
-Aruji-sama vẫn đang ăn rất ngon lành kia mà.
+02:21,210 --> 02:25,710
+Không đâu ạ. Chỉ là con chưa quen với khẩu vị của vùng này thôi.
 
 38
-02:34,705 --> 00:02:37,925
-N-Nếu không ngon thì không cần phải cố ăn đâu ạ?
+02:26,590 --> 02:29,130
+Nhom nhom♪
 
 39
-02:38,985 --> 00:02:43,445
-Nhưng mà, để đến được dinh thự cũng mất nửa ngày,
+02:30,220 --> 02:33,680
+Aruji-sama vẫn đang ăn ngon lành mà.
 
 40
-02:43,445 --> 00:02:46,925
-nên có gì đó lót dạ vẫn tốt hơn, phải không ạ?
+02:34,850 --> 02:38,220
+N-Nếu không ngon thì chị không cần cố ăn đâu ạ?
 
 41
-02:48,318 --> 00:02:53,408
-A, phải rồi! Tớ có một câu thần chú giúp món ăn trở nên ngon hơn đó~♪
+02:39,060 --> 02:43,020
+Nhưng mà phải mất nửa ngày mới đến được dinh thự,
 
 42
-02:54,588 --> 00:02:58,688
-Dùng hai tay tạo thành hình trái tim...
+02:43,440 --> 02:46,810
+nên có gì đó lót dạ vẫn tốt hơn, đúng không ạ?
 
 43
-02:58,688 --> 00:03:01,848
-Nè, trở nên ngon hơn nhé☆
+02:48,440 --> 02:50,190
+A, đúng rồi!
 
 44
-03:06,625 --> 00:03:10,245
-...Đó là một loại ma pháp nào đó sao ạ?
+02:50,650 --> 02:53,820
+Em có câu thần chú giúp món ăn ngon hơn đó~♪
 
 45
-03:11,465 --> 00:03:16,515
-Không ạ, chỉ là một câu thần chú thôi. Ít nhất cũng giúp tâm trạng tốt hơn, nên nó sẽ ngon hơn đó♪
+02:54,780 --> 02:58,030
+Dùng hai tay làm hình trái tim...
 
 46
-03:19,410 --> 00:03:22,800
-Haizz, chỉ để cho an tâm thôi sao...
+02:58,030 --> 03:01,820
+và... Eei, trở nên ngon hơn đi☆
 
 47
-03:26,358 --> 00:03:30,128
-Ủa, miếng sandwich con đang ăn dở đâu mất rồi.
+03:04,780 --> 03:06,030
+...
 
 48
-03:31,438 --> 00:03:34,138
-Aruji-sama, ngài ăn mất rồi sao ạ?
+03:06,660 --> 03:10,540
+...Đó là một loại ma pháp nào đó sao ạ?
 
 49
-03:37,222 --> 00:03:41,602
-Còn nhiều bánh sandwich lắm mà, anh không được ăn tranh đâu đấy nhé?
+03:11,500 --> 03:13,830
+Không ạ, chỉ là một câu thần chú thôi.
 
 50
-03:42,209 --> 00:03:43,489
-Không hiểu cậu đang nói gì.
+03:14,210 --> 03:16,790
+Ít nhất cũng giúp an lòng, chắc là sẽ ngon hơn đó ạ♪
 
 51
-03:44,792 --> 00:03:47,762
-Ể, không phải là anh ăn sao?
+03:19,500 --> 03:22,800
+Haizz, chỉ để an lòng thôi sao ạ...
 
 52
-03:48,652 --> 00:03:54,162
-Vậy nghĩa là, câu thần chú của tớ có sức mạnh như tia hủy diệt,
+03:25,970 --> 03:29,800
+Ơ, miếng sandwich ăn dở của con đâu rồi nhỉ.
 
 53
-03:54,162 --> 00:03:57,212
-và nó đã làm bánh sandwich biến mất sao?
+03:30,890 --> 03:33,850
+Aruji-sama, ngài ăn mất rồi sao ạ?
 
 54
-04:00,539 --> 00:04:03,519
-Ngoạm, ngoạm, ngoạm.
+03:37,270 --> 03:41,560
+Sandwich còn nhiều mà, anh không được giật lấy của người khác đâu nhé?
 
 55
-04:05,432 --> 00:04:06,692
-...Hửm? Ủa?
+03:42,270 --> 03:43,650
+Mình không biết gì hết.
 
 56
-04:10,192 --> 00:04:15,102
-Trong cái thùng rỗng tớ chuẩn bị để đóng đồ, có một cô bé kìa?
+03:44,780 --> 03:47,700
+Ể, không phải anh ăn sao ạ?
 
 57
-04:15,102 --> 00:04:19,692
-Có vẻ như cô bé đó đã thò tay ra và chộp lấy miếng bánh sandwich nhỉ?
+03:48,700 --> 03:53,990
+Thế nghĩa là, câu thần chú của em có sức mạnh như tia hủy diệt,
 
 58
-04:20,802 --> 00:04:25,502
-Ừm... ? Alo~, xin hỏi ai ở đó vậy ạ?
+03:54,370 --> 03:57,210
+và đã làm cái sandwich bay màu luôn rồi sao?
 
 59
-05:16,047 --> 00:05:18,877
-K-Không có nhỏ! Tớ không có nhỏ đâu đấy!?
+04:00,580 --> 04:03,710
+Nhom, nhom, nhom.
 
 60
-05:21,437 --> 00:05:25,277
-Nhỏ mà... Ừm thì, đi xe lậu là không được đâu.
+04:05,210 --> 04:06,750
+...Hửm? Ơ?
 
 61
-05:26,207 --> 00:05:30,227
-Tớ sẽ không làm gì xấu đâu, nên cậu có thể kể cho tớ nghe mọi chuyện được không?
+04:09,840 --> 04:13,010
+Trong cái thùng rỗng em chuẩn bị để đóng đồ, có một cô bé kìa?
 
 62
-05:31,047 --> 00:05:35,167
-Bỏ nhà đi sao, giống như Ayane-chan vậy...
+04:13,380 --> 04:15,760
+Có vẻ như cô bé đó đã thò tay ra
 
 63
-05:35,937 --> 00:05:40,587
-Một cô bé nhỏ thế này không thể đi du hành một mình được.
+04:16,050 --> 04:19,800
+và chôm mất cái sandwich rồi.
 
 64
-05:40,587 --> 00:05:43,907
-Hừm, phải làm sao đây?
+04:20,720 --> 04:22,090
+Này...?
 
 65
-05:45,548 --> 00:05:48,328
-Đ-Đã bảo là! Đừng có gọi tớ là nhỏ nữa~!?
+04:22,470 --> 04:25,850
+Alo~, xin hỏi ai ở đó vậy ạ?
 
 66
-05:50,338 --> 00:05:52,658
-Hửm? A, cậu!
+04:28,850 --> 04:31,980
+Mugu!? Khụ, khụ khụ!
 
 67
-05:52,658 --> 00:05:55,758
-Tớ biết cậu! Tớ đã từng gặp cậu rồi!
+04:33,690 --> 04:35,110
+Có chuyện gì vậy ạ?
 
 68
-05:57,597 --> 00:05:59,337
-Hả, với Suzume sao ạ?
+04:35,730 --> 04:40,230
+Trong thùng rỗng... có kẻ đi lậu vé sao?
 
 69
-06:00,437 --> 00:06:06,947
-Ừm... Cậu không phải là trẻ con ở【Viện Cứu Tế Sarendia】đúng không, bạn?
+04:41,150 --> 04:45,490
+Đi lậu vé... hay đi xe chùa nhỉ...
 
 70
-06:07,317 --> 00:06:11,107
-Ừm, có lẽ cậu nhầm tớ với ai đó rồi chăng?
+04:45,490 --> 04:48,450
+Ừm~, rắc rối rồi đây?
 
 71
-06:12,683 --> 00:06:15,313
-Đúng rồi, Suzume! Tên đó đó!
+04:49,700 --> 04:51,120
+Làm sao đây...
 
 72
-06:15,833 --> 00:06:17,673
-Gặp ngươi ở đây đúng là hết đời...!
+04:51,120 --> 04:57,000
+Theo hợp đồng thuê xe, chúng ta không được chở quá số người đã khai báo.
 
 73
-06:18,483 --> 00:06:21,503
-Này! Cậu có nhớ tớ không!?
+04:57,830 --> 05:00,380
+Sẽ bị tính thêm phí đó.
 
 74
-06:22,546 --> 00:06:23,996
-Ơ, ừm...?
+05:01,630 --> 05:03,840
+Nhưng trông cô bé còn nhỏ quá.
 
 75
-06:26,626 --> 00:06:29,266
-Oa oa, đừng có lắc tớ!
+05:04,420 --> 05:08,170
+Đuổi ra ngoài thì cũng tội nghiệp.
 
 76
-06:29,266 --> 00:06:34,706
-Đừng quậy phá như thế, xe ngựa sẽ bị lật mất đó!?
+05:09,260 --> 05:13,430
+...Ừm, này cô bé? Em đang làm gì ở đó vậy?
 
 77
-06:35,773 --> 00:06:38,913
-Hửm? Này, này này này!
+05:16,010 --> 05:18,970
+N-Không có nhỏ! Tui không có nhỏ nha!?
 
 78
-06:41,257 --> 00:06:44,797
-Không thể nào, cậu! Là cậu đó, sao cậu lại ở một nơi như thế này?
+05:21,520 --> 05:22,890
+Nhỏ mà...
 
 79
-06:45,397 --> 00:06:48,827
-Tớ chẳng thấy cậu đâu cả, lo lắng lắm đó, biết không hả!?
+05:23,480 --> 05:25,560
+Ừm, đi xe chùa là không được đâu.
 
 80
-06:49,552 --> 00:06:50,902
-... "Cậu" là đang nói tớ sao?
+05:25,940 --> 05:30,230
+Bọn chị sẽ không làm gì em đâu, nên em kể cho chị nghe được không?
 
 81
-06:52,438 --> 00:06:54,038
-Hửm?
+05:31,190 --> 05:34,860
+Chắc là bỏ nhà đi, giống như Ayane-chan...
 
 82
-06:54,408 --> 00:07:04,118
-Cô là người quen của Aruji-sama sao, thưa cô? Chẳng hiểu sao Aruji-sama lại có nhiều người quen là con gái thế nhỉ...?
+05:35,900 --> 05:39,410
+Một cô bé nhỏ thế này không thể đi du lịch một mình được.
 
 83
-07:05,274 --> 00:07:08,244
-Tránh ra, ta không quen ngươi! Vướng víu quá!
+05:39,410 --> 05:43,490
+Ừm, phải làm sao đây?
 
 84
-07:10,756 --> 00:07:14,796
-Quan trọng hơn là cậu đó! Cậu đã ở đâu, làm gì suốt thời gian qua vậy!
+05:45,580 --> 05:48,710
+Đã, đã bảo là! Đừng có nói tui nhỏ nữa~!?
 
 85
-07:15,366 --> 00:07:17,896
-Tớ nhớ cậu lắm đó~ Princess Knight...!
+05:50,500 --> 05:51,340
+Hử?
 
 86
-07:19,268 --> 00:07:24,678
-【Princess Knight】? Cậu là người có liên quan đến【Princess Knight】sao?
+05:51,710 --> 05:52,920
+A, ngươi!
 
 87
-07:25,568 --> 00:07:32,198
-Tớ cũng thuộc Guild dưới trướng của【Princess Knight】,【Viện Cứu Tế Sarendia】đó...?
+05:53,250 --> 05:55,750
+Ta biết ngươi! Chúng ta từng gặp nhau rồi!
 
 88
-07:32,678 --> 00:07:37,708
-Ừm, chúng ta có từng gặp nhau vì chuyện đó không nhỉ?
+05:57,670 --> 05:59,380
+Hả, với Suzume sao ạ?
 
 89
-07:43,622 --> 00:07:44,242
-Sai rồi!
+06:00,550 --> 06:04,680
+Ừm... Em không phải là trẻ con ở【Viện Cứu Tế Sarendia】đúng không?
 
 90
-07:44,652 --> 00:07:48,842
-Princess Knight không phải tên Guild! Chắc chắn là có sự nhầm lẫn gán ghép nào đó rồi!
+06:04,680 --> 06:06,890
+Bạn à?
 
 91
-07:49,392 --> 00:07:52,292
-Không phải thế! Princess Knight là...
+06:07,720 --> 06:11,430
+Chị nghĩ là, em nhầm với ai đó rồi thì phải?
 
 92
-07:56,410 --> 00:07:59,160
-Chết rồi! Cái cảm giác khó chịu này...
+06:12,600 --> 06:14,940
+Đúng rồi, Suzume! Tên đó đó!
 
 93
-08:03,139 --> 00:08:05,629
-Các ngươi, mau nhảy khỏi chiếc xe ngựa này ngay!
+06:15,690 --> 06:17,730
+Gặp ngươi ở đây là hết đời rồi...!
 
 94
-08:05,629 --> 00:08:06,129
-Ể?
+06:18,650 --> 06:21,570
+Này! Ngươi có nhớ ta là ai không!?
 
 95
-08:06,469 --> 00:08:07,249
-Chết đó!
+06:22,530 --> 06:24,200
+Ơ, ờm...?
 
 96
-08:07,249 --> 00:08:13,859
-Ểểể!? C-Cái gì vậy, Suzume không hiểu chuyện gì đang xảy ra nữa rồi!
+06:26,570 --> 06:29,200
+Woaah, đừng có lắc em!
+
+97
+06:29,780 --> 06:34,620
+Đừng quậy nữa, xe ngựa sẽ bị lật mất đó!?
+
+98
+06:35,790 --> 06:38,920
+Hửm? Này, này này này!
+
+99
+06:41,210 --> 06:44,760
+Giỡn hả, ngươi! Là ngươi đó, sao lại ở đây?
+
+100
+06:45,260 --> 06:48,800
+Không thấy ngươi đâu cả, ta đã lo lắm đó, biết không!?
+
+101
+06:49,380 --> 06:51,010
+... "Ngươi" là đang nói mình sao?
+
+102
+06:52,430 --> 06:53,260
+Hửm?
+
+103
+06:54,140 --> 06:57,930
+Em là người quen của Aruji-sama sao, bạn à?
+
+104
+06:58,970 --> 07:04,810
+Không hiểu sao Aruji-sama lại có nhiều người quen là con gái thế nhỉ...?
+
+105
+07:05,690 --> 07:08,230
+Tránh ra, ta không biết ngươi! Vướng víu quá!
+
+106
+07:10,730 --> 07:12,230
+Quan trọng hơn, là ngươi đó!
+
+107
+07:12,570 --> 07:14,950
+Ngươi đã ở đâu làm gì suốt thời gian qua!
+
+108
+07:15,610 --> 07:18,320
+Ta nhớ ngươi lắm đó~ Princess Knight...!
+
+109
+07:19,160 --> 07:20,950
+【Princess Knight】?
+
+110
+07:21,540 --> 07:24,870
+Em là người có liên quan đến【Princess Knight】sao?
+
+111
+07:25,750 --> 07:32,010
+Chị cũng thuộc【Viện Cứu Tế Sarendia】, một guild dưới trướng của【Princess Knight】đó...?
+
+112
+07:32,920 --> 07:37,720
+Ừm, chúng ta có gặp nhau ở đâu đó liên quan đến việc này không nhỉ?
+
+113
+07:43,600 --> 07:46,060
+Sai rồi! Princess Knight không phải là tên Guild.
+
+114
+07:46,640 --> 07:48,930
+Chắc là ở đâu đó đã có sự nhầm lẫn gán ghép rồi.
+
+115
+07:49,600 --> 07:52,850
+Không phải thế. Princess Knight là... A...
+
+116
+07:56,230 --> 07:59,730
+Chết rồi! Cái cảm giác khó chịu này...
+
+117
+08:03,400 --> 08:05,650
+Mấy người, mau nhảy khỏi xe ngựa này ngay!
+
+118
+08:05,780 --> 08:06,280
+Hả!?
+
+119
+08:06,570 --> 08:07,240
+Chết bây giờ!
+
+120
+08:07,660 --> 08:13,870
+Aaaaaa!? Gì vậy chứ! Suzume không hiểu chuyện gì đang xảy ra hết

@@ -32,6 +32,7 @@ K-Không phải chuyện của cậu, Yuuki-kun!
 00:00:23,500 --> 00:00:26,000
 > Hỏi xem có chuyện gì không.
 > An ủi Kyaru-chan.
+```
 
 Now, proceed with the provided video and generate the complete SRT file.
 

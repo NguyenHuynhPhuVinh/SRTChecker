@@ -618,230 +618,251 @@ Dù sao thì.
 Lần này cảm giác như là sân khấu của Christina-chan vậy.
 
 145
-00:11:28,490 --> 00:11:35,170
-Mà cô ấy nổi bật một cách tiêu cực cũng là điều khó tránh,
-vì cô ấy cũng là một nhân vật khá quan trọng trong thế giới này.
+00:11:28,490 --> 00:11:31,970
+Mà cô ấy nổi bật một cách tiêu cực
+cũng là điều khó tránh,
 
 146
+00:11:32,210 --> 00:11:35,170
+vì cô ấy cũng là một nhân vật
+khá quan trọng trong thế giới này.
+
+147
 00:11:36,250 --> 00:11:38,130
 Cũng giống như cậu vậy đó.
 
-147
+148
 00:11:38,690 --> 00:11:43,970
 Nơi nào có những nhân vật quan trọng như thế,
 câu chuyện sẽ biến động dữ dội.
 
-148
+149
 00:11:45,130 --> 00:11:48,650
 Lần này, cậu đã bị cuốn vào dòng chảy lớn đó...
 
-149
+150
 00:11:49,530 --> 00:11:51,690
 dòng chảy của định mệnh.
 
-150
+151
 00:11:52,650 --> 00:11:55,500
 Dù sao đi nữa, những sự kiện cậu trải qua lần này,
 
-151
+152
 00:11:55,700 --> 00:12:00,530
 nếu không hiểu khái niệm "Guild" thì chắc sẽ khó nắm bắt.
 
-152
+153
 00:12:01,690 --> 00:12:07,610
 Chắc là đã có người khác giải thích rồi, nên nếu muốn biết
 chi tiết thì hãy thử hồi tưởng lại những ký ức khác nhau xem.
 
-153
+154
 00:12:08,610 --> 00:12:12,130
 Mà lần này, tôi cũng sẽ tóm tắt sơ qua cho cậu.
 
-154
+155
 00:12:13,490 --> 00:12:16,810
 Ở thành phố Landosol nơi các cậu đang sống...
 
-155
+156
 00:12:17,450 --> 00:12:21,650
 Tất cả cư dân đều bắt buộc phải thuộc về
 một tập thể gọi là Guild.
 
-156
-00:12:22,730 --> 00:12:28,290
-Nó cũng giống như hộ khẩu vậy, nếu không thuộc Guild nào
+157
+00:12:22,730 --> 00:12:25,050
+Nó cũng giống như hộ khẩu vậy,
+
+158
+00:12:25,050 --> 00:12:28,290
+nếu không thuộc Guild nào
 thì sẽ không được công nhận là cư dân.
 
-157
+159
 00:12:28,810 --> 00:12:34,090
 Cậu sẽ không thể nhận được các dịch vụ công cộng,
 như là phúc lợi xã hội.
 
-158
+160
 00:12:35,370 --> 00:12:37,250
 Cũng sẽ bất lợi cho việc tìm việc làm nữa.
 
-159
+161
 00:12:38,130 --> 00:12:42,500
 Mà đó chỉ là khái niệm lưu hành trong Landosol thôi,
 
-160
+162
 00:12:42,700 --> 00:12:46,050
 nên những lữ khách từ nơi khác đến đôi khi sẽ được miễn trừ đặc biệt.
 
-161
+163
 00:12:47,010 --> 00:12:51,010
 Dù sao thì câu chuyện hiện tại của cậu
 cũng đang xoay quanh Landosol...
 
-162
+164
 00:12:51,930 --> 00:12:55,500
 nên Guild là một thứ tuyệt đối không thể bỏ qua.
 
-163
-00:12:55,800 --> 00:12:59,500
+165
+00:12:55,800 --> 00:13:03,450
 Và đất nước này từ xưa đến nay, được hoàng tộc cai trị
-
-164
-00:12:59,500 --> 00:13:03,450
 theo chế độ chính trị trung ương tập quyền.
 
-165
+166
 00:13:04,570 --> 00:13:09,490
 Nơi ở của hoàng tộc, những người cai trị đó,
 là tòa kiến trúc được gọi là Cung điện Hoàng gia.
 
-166
+167
 00:13:10,410 --> 00:13:15,000
 Vì thế, để chỉ hoàng tộc... những người cai trị đất nước này,
 
-167
+168
 00:13:15,000 --> 00:13:18,050
 người ta cũng thường dùng danh xưng "Vương Cung".
 
-168
+169
 00:13:19,250 --> 00:13:23,410
 Guild trực thuộc "Vương Cung" đó
 được gọi là 【Princess Knight】.
 
-169
-00:13:29,010 --> 00:13:31,610
-Nơi mà Christina-chan,
-người đã tấn công các cậu, đang thuộc về...
-
 170
-00:13:32,090 --> 00:13:37,770
-...cũng là một Guild dưới trướng 【Princess Knight】,
-chính là【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 đó.
+00:13:23,930 --> 00:13:28,250
+Các ban ngành của chính phủ, cảnh sát hay cứu hỏa,
+tòa án và các cơ quan khác...
 
 171
+00:13:28,250 --> 00:13:34,170
+tất cả các cơ quan thực hiện vai trò công cộng
+đều là 【Princess Knight】 cả.
+
+172
+00:13:35,130 --> 00:13:37,850
+Mà thực ra, cũng chỉ là "công sở" thôi.
+
+173
+00:13:38,490 --> 00:13:47,730
+Guild mà Christina-chan, người đã tấn công các cậu, đang thuộc về...
+cũng là một Guild dưới trướng【Princess Knight】: 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 đó.
+
+174
 00:13:48,370 --> 00:13:53,810
 Đó là lực lượng quân sự trực thuộc "Vương Cung",
 một Guild đảm nhận vai trò của cảnh sát và quân đội.
 
-172
+175
 00:13:54,770 --> 00:14:00,970
 Vì thế giới này đã trải qua một thời gian dài hòa bình,
 nên ngân sách bị cắt giảm và họ có vẻ đã yếu đi, nhưng...
 
-173
+176
 00:14:01,890 --> 00:14:07,410
 dù vậy, 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 vẫn là một cơ quan công quyền,
 là chính nghĩa của đất nước này.
 
-174
+177
 00:14:08,250 --> 00:14:12,170
 Không hiểu sao các cậu lại bị
 những người như thế để mắt tới.
 
-175
-00:14:13,490 --> 00:14:20,650
+178
+00:14:13,490 --> 00:14:17,000
 Mà, lần này có vẻ là do Christina-chan tự ý hành động,
+
+179
+00:14:17,200 --> 00:14:20,650
 nhưng cũng giống như bị cảnh sát để ý và bị coi là tội phạm vậy.
 
-176
+180
 00:14:21,730 --> 00:14:26,570
 Nguy hiểm trước mắt đã qua,
 nhưng tình hình có thể khá là tệ đấy.
 
-177
+181
 00:14:27,210 --> 00:14:30,010
 Nếu xử lý hậu quả sai cách là sẽ tàn đời đó.
 
-178
+182
 00:14:31,250 --> 00:14:34,810
 Đối phương dù có mục nát cũng là
 cảnh sát của đất nước này...
 
-179
+183
 00:14:35,370 --> 00:14:37,810
 là một cơ quan công quyền, 【Princess Knight】 đấy.
 
-180
+184
 00:14:38,810 --> 00:14:42,770
 ...Cái tên Princess Knight,
 bản thân nó cậu cũng hãy nhớ cho kỹ nhé.
 
-181
+185
 00:14:43,730 --> 00:14:50,090
 Này. Muimi-chan, người nắm giữ chìa khóa bí ẩn của thế giới,
 đã phản ứng rất mạnh với cái tên đó, đúng không?
 
-182
+186
 00:14:51,050 --> 00:14:55,730
 Cậu thì chắc đã quên rồi,
 nhưng đó là một cái tên rất quan trọng đấy.
 
-183
+187
 00:14:56,690 --> 00:14:57,690
 Dù sao thì.
 
-184
+188
 00:14:57,930 --> 00:15:04,450
 Một ngày dài cuối cùng cũng đã kết thúc,
 từ giờ cậu có thể nghỉ ngơi ở một nơi an toàn rồi.
 
-185
+189
 00:15:05,250 --> 00:15:10,730
 Đó là nơi gọi là 【Viện Cứu Tế Salendia】,
 nơi mà từ giờ sẽ trở thành nơi sinh sống của cậu.
 
-186
+190
 00:15:11,690 --> 00:15:16,610
 Đó là cứ điểm của Guild mà Suzume-chan,
 người đã ở cùng cậu cả ngày hôm nay, đang thuộc về.
 
-187
+191
 00:15:17,530 --> 00:15:23,010
 Chủ nhân của Suzume-chan, Saren-chan,
 cũng sẽ bảo vệ các cậu.
 
-188
+192
 00:15:24,210 --> 00:15:28,810
 Hôm nay cứ như vậy, cậu sẽ nương nhờ cô ấy
 và qua đêm.
 
-189
+193
 00:15:29,210 --> 00:15:30,930
 Tạm thời hãy yên tâm...
 
-190
-00:15:32,010 --> 00:15:38,210
-Tôi muốn nói với cậu rằng hãy ngủ một giấc thật ngon
-trên chiếc giường ấm áp, nhưng mà.
+194
+00:15:32,010 --> 00:15:35,500
+...ngủ một giấc thật ngon trên chiếc giường ấm áp,
 
-191
+195
+00:15:35,500 --> 00:15:38,210
+tôi muốn nói với cậu như vậy, nhưng mà.
+
+196
 00:15:40,010 --> 00:15:45,050
 A cha~ Xem ra "một ngày dài"
 vẫn chưa kết thúc thì phải.
 
-192
+197
 00:15:46,210 --> 00:15:49,370
 Một bóng đen tà ác đang lẻn đến chỗ cậu.
 
-193
+198
 00:15:50,610 --> 00:15:53,490
 Đừng lơ là cảnh giác, hãy chuẩn bị sẵn sàng đi.
 
-194
+199
 00:15:54,250 --> 00:15:58,450
 Thật đáng tiếc, có vẻ như anh hùng
 thì không có thời gian nghỉ ngơi đâu nhỉ, Kuri-ah.

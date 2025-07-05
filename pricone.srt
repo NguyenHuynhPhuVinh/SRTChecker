@@ -1,476 +1,604 @@
 1
-00:02,200 --> 00:03,800
-(Gia đình ở Viện Cứu Hộ)
+00:02,152 --> 00:03,452
+(Sẽ không để chiến tranh xảy ra!)
 
 2
-00:04,900 --> 00:08,200
-Sau đó. Cuối cùng tôi cũng dậy,
-và quyết định dùng bữa cùng Suzume và mọi người.
+00:06,851 --> 00:09,351
+Thành phố của chúng ta... Landsol,
 
 3
-00:09,100 --> 00:11,800
-Nhân tiện, Suzume cũng có một việc nhỏ muốn nhờ tôi.
+00:09,351 --> 00:14,261
+là thủ đô của quốc gia đã thống trị
+lục địa Astraea này trong nhiều năm.
 
 4
-00:14,200 --> 00:17,800
-Zzz, zzz, zzz...♪
+00:16,114 --> 00:19,254
+Là một quốc gia kiểu tập quyền trung ương cổ hủ...
 
 5
-00:19,000 --> 00:21,500
-A haha. Xin lỗi, Kuria-san.
+00:19,924 --> 00:22,864
+Đời đời, hoàng gia đã cai trị
+với tư cách là người nắm quyền.
 
 6
-00:22,000 --> 00:25,000
-Đã để anh phải bế Kurumi-chan về phòng ngủ...
+00:23,781 --> 00:27,511
+Lâu đài của hoàng gia chính là
+hoàng cung nằm ở trung tâm thành phố đó.
 
 7
-00:26,000 --> 00:30,800
-Một mình tôi thì bế một bé gái đi cũng vất vả lắm ạ.
+00:28,498 --> 00:33,888
+Hoàng gia quản lý việc điều hành và chính trị của đất nước,
+các cơ quan công cộng và cả Tháp Sol nữa.
 
 8
-00:31,800 --> 00:34,000
-Có con trai giúp đỡ thật tốt quá.
+00:35,160 --> 00:39,470
+【Princess Knight】 là tên gọi chung
+cho các guild trực thuộc hoàng gia.
 
 9
-00:34,500 --> 00:35,500
-Không có gì.
+00:40,432 --> 00:43,452
+Bưu chính, cảnh sát, cứu hoả, phòng chống lũ lụt...
 
 10
-00:37,200 --> 00:44,800
-Vâng ạ. Thật đó ạ, nếu được thì anh cứ ở lại (Viện Cứu Hộ Sarendia)
-luôn cũng không sao đâu.
+00:44,382 --> 00:50,832
+Việc vận hành các cơ quan công cộng khác
+đều do các guild thuộc 【Princess Knight】 đảm nhiệm.
 
 11
-00:45,800 --> 00:48,500
-Nếu anh giúp việc nhà thì em sẽ vui lắm.
+00:55,183 --> 01:01,233
+À mà, tại sao lại có cái tên
+là 【Princess Knight】 vậy ạ?
 
 12
-00:48,800 --> 00:51,800
-Vì là Kuria-san nên em rất yên tâm.
+01:02,150 --> 01:08,360
+Muimi-chan... Noem-chan đã có
+phản ứng rất lạ với cái tên đó ạ.
 
 13
-00:57,500 --> 01:00,000
-Hử? A, Suzume!
+01:09,796 --> 01:14,886
+Chà... Hình như nó bắt nguồn từ
+một truyền thuyết xa xưa nào đó.
 
 14
-01:00,000 --> 01:01,800
-Cậu về rồi à?
+01:16,086 --> 01:18,976
+Nếu cậu có hứng thú thì
+có thể đến thư viện tìm hiểu.
 
 15
-01:02,500 --> 01:05,500
-Vâng. Em vừa về tới đó ạ.
+01:19,926 --> 01:23,656
+Với quyền hạn của tớ, chắc là
+cả những cuốn sách cấm cũng có thể xem được đó.
 
 16
-01:05,800 --> 01:07,800
-Em về rồi đây, Ayane-chan♪
+01:24,783 --> 01:27,333
+Noem à... Tớ cũng lo cho cô bé đó.
 
 17
-01:09,200 --> 01:10,800
-Ừm, mừng cậu về!
+01:27,333 --> 01:31,523
+Cô bé bị đám người 【Labyrinth】
+bắt cóc đúng không?
 
 18
-01:11,500 --> 01:13,200
-Đừng có bỏ nhà đi lâu quá chứ.
+01:33,083 --> 01:36,923
+Tớ cứ thấy lo lo,
+có lẽ nên thử đi tìm tung tích cô bé.
 
 19
-01:13,200 --> 01:18,500
-Tớ là chị cả nên không sao,
-nhưng Kurumi sẽ buồn đó, biết chưa?
+01:38,206 --> 01:41,286
+Dù sao thì, một trong những guild thuộc 【Princess Knight】,
 
 20
-01:19,800 --> 01:23,000
-A haha. Xin lỗi cậu, Ayane-chan.
+01:41,286 --> 01:42,886
+【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 là...
 
 21
-01:23,800 --> 01:28,500
-Lần này có chút sự cố bất ngờ nên
-em về muộn...
+01:44,059 --> 01:47,159
+Đúng như tên gọi, đó là guild có mục đích
+bảo vệ hoàng cung.
 
 22
-01:29,000 --> 01:32,800
-nhưng em sẽ cố gắng
-ở bên mọi người nhiều nhất có thể mà.
+01:48,309 --> 01:51,119
+Kiểu như đội cận vệ
+trực thuộc hoàng gia vậy.
 
 23
-01:35,000 --> 01:36,500
-Haư, aư...?
+01:51,916 --> 01:55,546
+Mà, đó chính là lực lượng quân sự
+mà hoàng gia luôn duy trì.
 
 24
-01:37,000 --> 01:39,500
-A, ơ...?
+01:56,696 --> 01:59,576
+Bây giờ là thời bình nên không có việc gì làm,
 
 25
-01:40,500 --> 01:42,500
-Em... ngủ quên mất ạ...?
+01:59,576 --> 02:02,326
+nhưng nếu chiến tranh nổ ra,
+họ sẽ phải đứng ở tiền tuyến.
 
 26
-01:45,000 --> 01:47,500
-A, làm em ấy dậy mất rồi.
+02:03,636 --> 02:05,986
+Đúng là quân đội mà.
 
 27
-01:47,500 --> 01:49,800
-Cứ ngủ tiếp đi cũng được mà, Kurumi-chan?
+02:06,606 --> 02:07,706
+Đáng sợ quá.
 
 28
-01:51,200 --> 01:54,800
-Ơ? Người đang bế Kurumi là Onii-chan à?
+02:11,689 --> 02:15,319
+Người phụ nữ hào nhoáng đã tấn công
+【Đoàn Tự Vệ (Caon)】...
 
 29
-01:56,000 --> 02:01,200
-Haư... Ayane-chan cũng biết Onii-chan ạ...?
+02:15,849 --> 02:17,899
+cũng cực kỳ mạnh và đáng sợ.
 
 30
-02:02,500 --> 02:04,800
-Ừ. Kurumi cũng biết à?
+02:18,529 --> 02:22,149
+Dù gì cũng là một người lính mà.
 
 31
-02:05,500 --> 02:10,000
-A haha. Kuria-san thật sự quen biết rộng ghê.
+02:23,289 --> 02:25,319
+À, Christina nhỉ.
 
 32
-02:11,200 --> 02:14,200
-Chuyện là thế này thế kia...
+02:26,509 --> 02:30,599
+Thân thế của cô ta cũng không rõ ràng lắm
+nên rất đáng ngờ.
 
 33
-02:14,200 --> 02:18,200
-Kuria-san sẽ ở lại (Viện Cứu Hộ Sarendia)
-một thời gian đó ạ.
+02:31,699 --> 02:37,259
+Mà 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 là một guild cao quý,
+tập trung toàn quý tộc hoàng gia.
 
 34
-02:19,200 --> 02:23,000
-Mọi người hãy hòa thuận với anh ấy nhé.
-Kurumi-chan, Ayane-chan.
+02:37,819 --> 02:41,529
+Chắc là thân phận của cô ta
+cũng rõ ràng thôi.
 
 35
-02:24,500 --> 02:26,800
-Ừ, tất nhiên rồi! Cứ để đó cho tớ!
+02:44,976 --> 02:49,366
+Dù sao thì, gần đây an ninh có hơi xấu đi...
 
 36
-02:27,500 --> 02:32,000
-Kuria Onii-chan, ở (Viện Cứu Hộ Sarendia)
-này thì tớ là senpai đó nha?
+02:50,056 --> 02:53,926
+nhưng ở lục địa này đã lâu lắm rồi
+không có cuộc chiến tranh nào cả.
 
 37
-02:32,800 --> 02:35,800
-Phải gọi tớ là Ayane-senpai đó, nghe chưa♪
+02:54,956 --> 02:57,986
+Thời đại hòa bình cứ kéo dài mãi.
 
 38
-02:37,200 --> 02:42,200
-"Vậy thì, hãy gọi ta là Buukichi-senpai.
-Rất vui được gặp, người mới."
+02:58,616 --> 03:03,136
+Vì vậy mà quân đội như
+【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 cũng rảnh rỗi quá mức.
 
 39
-02:46,200 --> 02:50,500
-Haư... Vậy thì, em là Kurumi-senpai...?
+03:04,136 --> 03:08,616
+Ngân sách và nhân sự liên tục bị cắt giảm,
+quy mô cũng bị thu hẹp lại.
 
 40
-02:51,200 --> 02:57,500
-Được Onii-chan gọi là senpai,
-cảm giác lạ quá... Ehehe♪
+03:10,024 --> 03:14,844
+Bất mãn với tình hình đó,
+Christina đang cố gắng gây ra chiến tranh.
 
 41
-02:59,500 --> 03:02,800
-Lúc nãy em chưa chào hỏi đàng hoàng được...
+03:15,951 --> 03:21,121
+Nếu chiến tranh bắt đầu, quân đội như
+【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 sẽ được mở rộng quy mô.
 
 42
-03:02,800 --> 03:05,800
-nhưng nếu sống chung thì chúng ta là gia đình rồi nhỉ.
+03:22,088 --> 03:24,428
+Có nghĩa là họ có thể lấy lại quyền lực ngày xưa.
 
 43
-03:07,000 --> 03:10,800
-Mong được anh giúp đỡ, Onii-chan.
+03:25,568 --> 03:28,888
+【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 đang trên đà suy tàn
+sẽ có thể phục hưng và trở lại.
 
 44
-03:12,200 --> 03:13,500
-Ừm.
+03:29,818 --> 03:32,608
+Đó chẳng phải là mục đích của Christina sao?
 
 45
-03:14,500 --> 03:20,500
-Rất vui được gặp, Onii-chan!
+03:33,188 --> 03:34,518
+Tớ đoán là vậy.
 
 46
-03:25,000 --> 03:31,000
-A haha. Cả hai đều ôm lấy Kuria-san,
-đúng là những cô bé hay làm nũng...♪
+03:35,938 --> 03:39,848
+Mặc dù, có thể có lý do sâu xa nào đó.
 
 47
-03:32,200 --> 03:37,000
-Dù vậy, cũng muộn rồi nên
-hai em đi ngủ đi nhé.
+03:41,475 --> 03:45,545
+Nhân tiện... đất nước của tớ do các điều kiện địa lý và nhiều yếu tố khác,
 
 48
-03:37,800 --> 03:43,000
-Nếu thức khuya là sẽ bị ma xấu
-bắt đi ăn thịt đó~♪
+03:45,545 --> 03:48,345
+nên về mặt lịch sử thì con người bình thường chiếm đa số.
 
 49
-03:49,200 --> 03:51,000
-Nào, mời.
+03:49,365 --> 03:53,245
+Thú nhân, Elf, Ma tộc...
+là thiểu số (minority) đó.
 
 50
-03:51,000 --> 03:54,500
-Xin lỗi vì chỉ là đồ thừa,
-nhưng cứ ăn tự nhiên nhé.
+03:54,499 --> 03:58,859
+Ở những vùng khác, cũng có những quốc gia của
+các chủng tộc khác ngoài con người bình thường, nhưng...
 
 51
-03:55,200 --> 03:57,000
-Cậu cũng gặp xui xẻo nhỉ, Kuria.
+04:00,496 --> 04:04,366
+Mà, ở Landsol thì
+các chủng tộc khác có hơi khó sống.
 
 52
-03:57,200 --> 04:01,200
-Ít nhất cũng hãy ăn gì đó ngon
-rồi ngủ trên một chiếc giường ấm áp đi.
+04:05,536 --> 04:12,146
+Vì vậy trong các chủng tộc khác, có những người mang trong mình
+sự bất bình và bất mãn đối với con người.
 
 53
-04:02,000 --> 04:04,800
-Kết thúc tốt đẹp thì mọi chuyện đều tốt đẹp cả mà.
+04:13,443 --> 04:17,043
+Những kẻ như vậy có thể bị sự việc lần này kích động,
 
 54
-04:06,000 --> 04:10,500
-Ơ? Ojou-sama cũng quen biết vị này ạ?
+04:17,043 --> 04:19,263
+và gây ra bạo loạn.
 
 55
-04:11,500 --> 04:14,000
-Ừ. Do một duyên phận tình cờ thôi.
+04:20,133 --> 04:21,553
+Nếu vậy thì tiêu rồi.
 
 56
-04:14,500 --> 04:17,000
-Cậu ấy đã giúp ta vài việc rồi.
+04:22,123 --> 04:25,753
+Xung đột giữa các chủng tộc có thể phát triển
+thành một cuộc nội chiến đẫm máu.
 
 57
-04:17,800 --> 04:21,000
-Xem ra, Suzume cũng được cậu giúp đỡ nhỉ...
+04:27,243 --> 04:28,493
+Điểm đến cuối cùng là địa ngục.
 
 58
-04:21,500 --> 04:23,800
-Kuria, không ngờ cậu lại quen biết rộng như vậy đấy.
+04:28,493 --> 04:31,500
+Nếu họ vươn tay ra cả nước ngoài,
 
 59
-04:25,000 --> 04:31,500
-A haha. Ayane-chan và Kurumi-chan
-dường như cũng quen biết vị này đó ạ.
+04:31,500 --> 04:33,703
+nó sẽ trở thành một cuộc đại chiến lôi kéo cả thế giới vào.
 
 60
-04:32,000 --> 04:38,500
-Kurumi-chan lúc nãy đã cùng Ayane-chan ở chung phòng,
-chào hỏi Kuria-san rất thân thiết đó ạ.
+04:34,603 --> 04:38,253
+Không... S-Sẽ thành chiến tranh sao?
 
 61
-04:39,200 --> 04:44,500
-Cả hai còn gọi vị này là "Onii-chan"
-và rất quấn quýt anh ấy♪
+04:38,713 --> 04:44,573
+Thường ngày mọi người vẫn sống hòa thuận,
+không hề để ý đến sự khác biệt chủng tộc mà~?
 
 62
-04:48,000 --> 04:49,000
-Hừm.
+04:45,959 --> 04:48,509
+Cùng lắm thì, trường hợp xấu nhất sẽ là như vậy.
 
 63
-04:49,800 --> 04:54,800
-Nói trước để cậu biết, nếu dám làm gì không phải
-với các bé nhà ta thì ta sẽ không tha đâu.
+04:49,599 --> 04:52,629
+Cũng chưa đến mức căng như dây đàn đâu.
 
 64
-04:55,500 --> 04:58,800
-Kuria trông có vẻ là người tốt đến ngốc nghếch...
+04:53,499 --> 04:58,229
+Con người cũng không có sự phân biệt đối xử
+rõ ràng nào với các chủng tộc khác cả.
 
 65
-04:59,200 --> 05:01,800
-mà, chắc ta chỉ lo thừa thôi.
+04:58,809 --> 05:02,879
+Gia tộc của tớ cũng là Elf,
+nhưng vẫn được ban cho tước hiệu quý tộc.
 
 66
-05:02,500 --> 05:06,500
-Ta có nghĩa vụ bảo vệ những đứa trẻ của
-(Viện Cứu Hộ Sarendia).
+05:04,119 --> 05:08,219
+Mà, có cảm giác như là do ông bố trọc phú của tớ
+đã dùng giá cao để ép mua vậy.
 
 67
-05:07,500 --> 05:12,500
-Kẻ bất lương nào dám làm tổn thương chúng,
-ta sẽ cho nếm mùi gươm của ta.
+05:09,056 --> 05:15,626
+Tuy nhiên... chiến tranh có thể dễ dàng nổ ra
+vì sự khác biệt về chủng tộc, văn hóa và tôn giáo, tức là hệ tư tưởng.
 
 68
-05:14,200 --> 05:16,500
-Aaa, mệt thật đấy.
+05:16,776 --> 05:20,836
+Đó là một sự thật hiển nhiên
+đã được lịch sử chứng minh.
 
 69
-05:17,500 --> 05:24,000
-Vội vàng chạy từ dinh thự trên núi xuống,
-rồi phải hòa giải cuộc ẩu đả giữa
-(Đội Tự Vệ Caon) và (Hiệp Sĩ Đoàn Vương Cung NIGHTMARE).
+05:21,836 --> 05:26,356
+Để đề phòng, chúng ta cần phải lường trước
+và chuẩn bị cho tình huống xấu nhất.
 
 70
-05:25,000 --> 05:28,000
-Sau đây còn phải đi lấy lời khai nữa.
+05:29,218 --> 05:31,408
+Dù sao thì, 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 đã...
 
 71
-05:28,500 --> 05:33,800
-Chắc là phải thức trắng đêm mất...
-Già mất thôi, da dẻ chắc chắn sẽ xấu đi.
+05:32,498 --> 05:38,598
+tấn công 【Đoàn Tự Vệ (Caon)】, một guild thuộc tổ chức tương trợ
+của các thú nhân là 【Vườn Thú】.
 
 72
-05:35,200 --> 05:39,000
-A haha. Ojou-sama vất vả rồi ạ.
+05:38,598 --> 05:41,808
+Việc này đã tạo ra một thế đối đầu
+giữa thú nhân và con người bình thường.
 
 73
-05:39,500 --> 05:41,200
-Mà khoan.
+05:42,208 --> 05:45,718
+Ngòi nổ chiến tranh đã được châm rồi đó.
 
 74
-05:41,200 --> 05:44,500
-Nếu là lấy lời khai, bọn em có nên đi cùng không ạ?
+05:46,758 --> 05:48,808
+Nếu biết đồng tộc của mình bị tấn công...
 
 75
-05:45,000 --> 05:49,000
-So với Ojou-sama, bọn em có vẻ
-là người trong cuộc hơn mà nhỉ?
+05:48,808 --> 05:53,948
+không chỉ 【Vườn Thú】 mà các quốc gia thú nhân ở vùng khác
+cũng sẽ không ngồi yên đâu.
 
 76
-05:51,000 --> 05:57,000
-Không cần đâu. Tối nay, chỉ là buổi nói chuyện sơ qua
-giữa các chủ hội thôi.
+05:54,238 --> 05:57,208
+Trong trường hợp tệ nhất, chiến tranh có thể thực sự nổ ra.
 
 77
-05:57,500 --> 06:01,000
-Ta từ (Viện Cứu Hộ Sarendia),
-Jun-san từ (Hiệp Sĩ Đoàn Vương Cung NIGHTMARE)...
+05:57,208 --> 06:03,018
+Nhưng tớ sẽ cố dập tắt ngòi nổ xung đột trước khi điều đó xảy ra.
 
 78
-06:01,800 --> 06:04,000
-và Maho-san từ (Đội Tự Vệ Caon)?
+06:03,018 --> 06:08,008
+Tớ tuyệt đối sẽ ngăn chặn cảnh người dân vô tội
+phải chìm trong máu và nước mắt.
 
 79
-06:04,800 --> 06:07,000
-Ba người chúng ta sẽ có một cuộc họp.
+06:08,008 --> 06:12,888
+Thiệt tình. Nếu biết sẽ thế này, đáng lẽ tớ không nên rời khỏi
+【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】.
 
 80
-06:07,800 --> 06:11,500
-Cũng muộn rồi, việc lấy lời khai của các cậu
-sẽ để sang ngày mai.
+06:12,888 --> 06:15,888
+Nếu có tớ ở đó, tớ đã không để một người như
+Christina tự tung tự tác rồi.
 
 81
-06:12,000 --> 06:17,500
-Sẽ hơi phiền một chút nhưng
-mong các cậu dành thời gian nhé.
+06:49,391 --> 06:51,981
+Ojou-sama~, tay người dừng lại rồi kìa.
 
 82
-06:18,200 --> 06:22,500
-Trong lúc đó, Kuria và mọi người cứ ở lại
-(Viện Cứu Hộ Sarendia) là được.
+06:52,471 --> 06:55,751
+Xin hãy dùng bữa khi nó còn nóng ạ.
 
 83
-06:23,200 --> 06:27,200
-Chuyện ăn ở, bên này sẽ lo miễn phí.
+06:56,081 --> 06:58,251
+Nào, a~ đi ạ...♪
 
 84
-06:27,800 --> 06:31,800
-Nếu không có nơi nào để đi,
-các cậu cứ ở đây luôn cũng được.
+06:59,381 --> 07:01,311
+N-Này, thôi đi, ngại chết đi được.
 
 85
-06:32,200 --> 06:33,800
-Vậy thì đỡ quá, nhưng có được không ạ?
+07:02,101 --> 07:05,101
+Trời ạ, chúng ta đang nói chuyện nghiêm túc đó, biết không?
 
 86
-06:35,200 --> 06:39,000
-Ừ. Tất nhiên là cậu phải tự kiếm ăn rồi.
+07:06,477 --> 07:11,107
+Ojou-sama, mỗi khi người tập trung vào việc gì
+là lại quên cả ăn uống.
 
 87
-06:39,500 --> 06:42,200
-Bên này cũng sẽ giới thiệu việc làm cho.
+07:11,107 --> 07:13,907
+Nếu không ép người ăn thì...
 
 88
-06:43,200 --> 06:45,500
-Nói trước, đừng có trốn đấy.
+07:14,647 --> 07:18,637
+Kuria-san cũng đừng ngại, nào, a~ đi ạ♪
 
 89
-06:46,000 --> 06:51,800
-Việc nhận các cậu vào cũng có nghĩa là để giám sát
-cho đến khi việc lấy lời khai kết thúc.
+07:20,117 --> 07:21,507
+A, ngoan quá!
 
 90
-06:52,800 --> 06:55,200
-Mà, cứ coi như là quản chế tại gia đi.
+07:22,277 --> 07:25,057
+Bình thường không phải sẽ ngượng hơn sao ạ?
 
 91
-06:55,800 --> 07:00,200
-Guild House của (Đội Tự Vệ Caon)
-đã bị tấn công nên hư hại nặng...
+07:26,897 --> 07:28,217
+> Cho tớ ăn nữa đi.
+> Tớ nên ngượng ngùng thì tốt hơn à?
 
 92
-07:00,200 --> 07:05,800
-còn căn cứ của (Hiệp Sĩ Đoàn Vương Cung NIGHTMARE)
-thì ở trong Vương Cung, người không liên quan thì cấm vào.
+07:28,497 --> 07:30,817
+Vâng ạ, xin mời người cứ ăn thật nhiều ạ.
 
 93
-07:06,500 --> 07:10,000
-Nên là, chỉ có bên ta nhận các cậu thôi.
+07:31,647 --> 07:34,447
+Món ăn của em không ngon lắm nhưng mà...
 
 94
-07:10,500 --> 07:14,500
-Trong cuộc xung đột lần này, bên ta gần như là bên thứ ba,
+07:36,734 --> 07:39,074
+Tự mình nói thế mà không thấy buồn à, Suzume?
 
 95
-07:14,500 --> 07:18,000
-nên xét về mặt đó cũng tiện.
+07:39,954 --> 07:41,734
+Để tớ chỉ cho vài mẹo nấu ăn nhé?
 
 96
-07:18,800 --> 07:21,800
-Bên ta về cơ bản là thuộc phe
-(Hiệp Sĩ Đoàn Vương Cung NIGHTMARE)...
+07:43,594 --> 07:47,874
+Ư~... Không hiểu sao từ xưa đến giờ,
+em nấu ăn dở tệ.
 
 97
-07:22,000 --> 07:24,500
-Là guild dưới trướng của Princess Knight,
+07:48,744 --> 07:51,554
+E-Em đang cố gắng luyện tập lắm đó ạ?
 
 98
-07:24,700 --> 07:28,000
-nên không thể hoàn toàn công bằng
-hay trung lập được.
+07:53,464 --> 07:57,214
+Ahaha. Suzume là kiểu người mà
+nhiệt tình quá lại thành hỏng việc mà.
 
 99
-07:29,200 --> 07:34,000
-Chuyện có vẻ phức tạp quá nhỉ.
-Rắc rối thật đấy.
+07:57,984 --> 08:01,844
+Hay là, cậu đừng cố quá
+thì có khi lại giỏi lên đấy?
 
 100
-07:34,800 --> 07:39,500
-Một guild yên bình như của chúng ta
-lại bị cuốn vào xung đột thế này.
+08:05,807 --> 08:08,307
+Oái, em lại cắt ngang câu chuyện rồi...
 
 101
-07:41,800 --> 07:44,500
-Ch-Chắc là tại em phải không ạ?
+08:09,747 --> 08:14,487
+Để em giải thích cho anh,
+người có vẻ không rõ tình hình...
 
 102
-07:45,000 --> 07:46,200
-Em xin lỗi!
+08:14,487 --> 08:18,177
+Ojou-sama vốn dĩ thuộc về
+【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 đó ạ.
 
 103
-07:47,500 --> 07:50,000
-Sao lại là lỗi của em chứ, Suzume.
+08:19,657 --> 08:23,597
+Trong 【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】,
+Guild Master được gọi là "Đoàn Trưởng" ạ.
 
 104
-07:50,500 --> 07:53,500
-Chúng ta chỉ là nạn nhân bị cuốn vào rắc rối thôi.
+08:24,717 --> 08:29,227
+Ojou-sama từng giữ chức vụ cao thứ hai,
+là "Phó Đoàn Trưởng" đó ạ.
 
 105
-07:54,000 --> 07:58,800
-Cứ ngẩng cao đầu lên.
-Nếu để lộ điểm yếu, họ sẽ lợi dụng đấy.
+08:31,107 --> 08:32,197
+(Saren-chan, cậu thật là một người tuyệt vời nhỉ.)
 
 106
-08:00,500 --> 08:05,000
-Ừm. Kuria có vẻ mới đến Landosol chưa lâu,
+08:33,527 --> 08:35,937
+Hừm, tớ chỉ thừa kế chức vị từ cha thôi.
 
 107
-08:05,500 --> 08:09,000
-nên chắc không rành về quan hệ
-giữa các guild nhỉ.
+08:39,788 --> 08:44,528
+Ở đó, theo truyền thống thì quý tộc sẽ đảm nhiệm
+các chức vụ quan trọng như Đoàn Trưởng.
 
 108
-08:09,500 --> 08:12,200
-Trông mặt cậu có vẻ không hiểu gì cả...
+08:45,188 --> 08:49,308
+Nhà tớ tuy chỉ là trọc phú,
+nhưng cũng là một gia đình quý tộc nhỏ mà.
 
 109
-08:12,800 --> 08:18,000
-Thôi được, để ta giải thích đơn giản cho.
-Cứ vừa ăn vừa nghe qua loa đi.
+08:50,568 --> 08:55,278
+【Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE)】 thật sự đã bị thu hẹp
+quy mô đến mức thiếu nhân lực.
+
+110
+08:55,938 --> 09:01,818
+Vì không có ai khác phù hợp,
+nên tớ đành phải làm Phó Đoàn Trưởng thôi.
+
+111
+09:02,627 --> 09:05,977
+Nhưng trong thời đại hòa bình,
+quân đội đâu có cần thiết, phải không?
+
+112
+09:06,447 --> 09:12,147
+Thật sự là không có việc gì làm, rảnh rỗi quá
+nên tớ đã bịa ra một lý do vớ vẩn rồi rời đi.
+
+113
+09:13,297 --> 09:20,017
+Như tớ đã nói lúc nãy. 【Princess Knight】 quản lý và vận hành
+các cơ quan công cộng trực thuộc hoàng gia.
+
+114
+09:20,777 --> 09:26,737
+Cũng có những guild giống như trại trẻ mồ côi,
+nhận nuôi và chăm sóc trẻ em mồ côi vì chiến tranh.
+
+115
+09:30,909 --> 09:37,849
+Ở thời hiện đại, đó chỉ là một guild tồn tại trên giấy tờ,
+không có ngân sách, hữu danh vô thực.
+
+116
+09:38,479 --> 09:45,179
+Tớ đã quyết định phục hồi guild đó,
+đặt tên là 【Viện Cứu Trợ Salendia】 và vận hành nó.
+
+117
+09:45,809 --> 09:50,299
+Tớ nghĩ việc đó có ý nghĩa hơn nhiều
+so với việc chỉ ngồi phơi nắng ở hoàng cung.
+
+118
+09:50,969 --> 09:54,349
+Gần đây, hiện tượng kỳ lạ được gọi là "Lost"...
+
+119
+09:54,349 --> 10:00,109
+những vụ án bí ẩn mà cha mẹ hay người thân biến mất
+đã tăng lên.
+
+120
+10:00,109 --> 10:02,500
+Có những đứa trẻ mất gia đình và không còn nơi nào để đi.
+
+121
+10:02,500 --> 10:04,189
+Cậu cũng quen biết đó, cô bé Kurumi là một trong số đó.
+
+122
+10:04,189 --> 10:09,149
+Tớ đã nhận những đứa trẻ như vậy
+và đang bảo hộ cho chúng.
+
+123
+10:13,676 --> 10:18,526
+Tớ muốn bọn trẻ có được một cuộc sống
+yên bình, hạnh phúc, đúng nghĩa con người.
+
+124
+10:19,436 --> 10:22,886
+Guild được lập ra vì mục đích đó
+chính là 【Viện Cứu Trợ Salendia】.
+
+125
+10:23,616 --> 10:26,386
+Tớ rất tự hào về công việc này.
+
+126
+10:27,346 --> 10:32,886
+Đó là một sứ mệnh cao cả,
+đáng để tớ cống hiến cả cuộc đời mình.
+
+127
+10:33,356 --> 10:34,446
+(Cậu thật tuyệt vời, Saren-chan.)
+
+128
+10:35,536 --> 10:36,446
+Cảm ơn cậu.
+
+129
+10:36,926 --> 10:44,246
+Mà, hiện tại lý tưởng cứ đi trước thực tế...
+mọi chuyện không được suôn sẻ lắm, nên tớ thấy xấu hổ thật.
+
+130
+10:45,396 --> 10:48,046
+Bảo vệ và nuôi nấng bọn trẻ.
+
+131
+10:48,586 --> 10:51,326
+Vì điều đó, tớ sẽ làm bất cứ điều gì.
+
+132
+10:52,046 --> 10:57,406
+Trước hết, phải tóm gọn lũ ngốc đang định gây chiến tranh
+và cho chúng một trận mới được.
+
+133
+10:58,266 --> 11:02,886
+Tớ không thể để tương lai của bọn trẻ
+bị vấy bẩn bởi máu được.

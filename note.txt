@@ -11,7 +11,6 @@ Critical Rules:
 8.  Strict SRT Output: The final output must be ONLY the raw SRT content, perfectly formatted and synchronized. Do not add any commentary.
 
 Output Format Example:
-```
 1
 00:00:13,100 --> 00:00:15,050
 (Bảng hiệu: Hội Sành Ăn)
@@ -32,7 +31,6 @@ K-Không phải chuyện của cậu, Yuuki-kun!
 00:00:23,500 --> 00:00:26,000
 > Hỏi xem có chuyện gì không.
 > An ủi Kyaru-chan.
-```
 
 Now, proceed with the provided video and generate the complete SRT file.
 

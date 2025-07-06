@@ -70,3 +70,31 @@ Output Instructions (Follow this logic strictly):
 - IF the SRT file passes ALL checks flawlessly:
     + Do NOT return the SRT file again.
     + Instead, provide a confirmation message in VIETNAMESE, stating that the file is valid and ready for use.
+
+Tiêu đề: [Vietsub] Hội Nghiên Cứu Những Điều Chưa Biết - Tập 1: Ngày Khai Trường! (Manga Lồng Tiếng Hololive)
+
+Mô tả:
+
+Đây là bản phụ đề tiếng Việt cho manga lồng tiếng "Hội Nghiên Cứu Những Điều Chưa Biết" - Tập 1.
+
+▶ LƯU Ý VỀ PHỤ ĐỀ (DỊCH BỞI AI)
+Toàn bộ phần dịch thuật và phụ đề tiếng Việt trong video này được thực hiện bởi Trí Tuệ Nhân Tạo (AI). Mục đích chính là để khám phá khả năng của AI trong việc dịch và bản địa hóa nội dung từ Hololive, đồng thời truyền tải đúng cá tính độc đáo của từng thành viên.
+
+Bản dịch có thể chứa những điểm chưa hoàn hảo.
+
+▶ NGUỒN VIDEO GỐC (IMPORTANT: ORIGINAL VIDEO SOURCE)
+Video gốc trong clip này được lấy từ kênh YouTube chính thức Flare Ch. 不知火フレア. Mình chỉ thực hiện việc thêm phụ đề tiếng Việt do AI dịch để chia sẻ với cộng đồng fan Hololive tại Việt Nam.
+
+Các bạn hãy ghé thăm và ủng hộ kênh gốc để xem thêm nhiều nội dung chất lượng khác nhé!
+Link kênh gốc: https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg
+
+▶ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM BẢN QUYỀN
+Video này hoàn toàn phi lợi nhuận và chỉ phục vụ mục đích giải trí và chia sẻ.
+- Mọi bản quyền về hình ảnh, nhân vật, và nội dung gốc đều thuộc về © COVER Corp.
+- Bản quyền video gốc thuộc về kênh Flare Ch. 不知火フレア.
+
+Vui lòng ủng hộ các talent của Hololive và kênh gốc đã sản xuất video.
+
+This video is for entertainment and fair use purposes only. All rights to the characters and original content belong to © COVER Corp. The original video footage belongs to the YouTube channel "Flare Ch. 不知火フレア". Please support the official creators.
+
+#Hololive #Vietsub #Shiraken #しらけん #Flare Ch. #不知火フレア #Manga #OmaruPolka #HoshimachiSuisei #SakuraMiko #ShiroganeNoel #ShiranuiFlare #AITranslation

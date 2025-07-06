@@ -1,566 +1,414 @@
 1
-00:00:01,800 --> 00:00:05,500
-(Chương 4: Trang Trại Tai Ương - Elizabeth Park)
+00:01,450 --> 00:02,850
+(Nền hòa bình bị đe dọa)
 
 2
-00:00:08,800 --> 00:00:10,500
-(Cuộc họp Guild của ba bên)
+00:03,800 --> 00:06,600
+Chúng tôi đã xuất sắc đánh lui lũ quái vật đang tấn công Rin.
 
 3
-00:00:13,000 --> 00:00:14,500
-(Landsol ~Nhà Guild~)
+00:07,300 --> 00:10,200
+Cứ thế, theo lời mời của Rin,
+chúng tôi để cô ấy kéo tay dẫn đến nông trại.
 
 4
-00:00:16,300 --> 00:00:19,500
-Haizz... Thật là chán ngấy mà.
+00:10,500 --> 00:12,200
+Ở đó, thứ mà chúng tôi nhìn thấy là...
 
 5
-00:00:21,500 --> 00:00:25,250
-Ngày nào cũng như ngày nào... phải xử lý hậu quả vụ Christina
+00:14,350 --> 00:16,000
+Uwa? Chuyện này...
 
 6
-00:00:25,250 --> 00:00:28,800
-tấn công Nhà Guild của Hội Tự Vệ (Caon) hôm trước, khiến mình rối tung cả lên.
+00:16,500 --> 00:19,000
+rốt cuộc là sao vậy ạ?
 
 7
-00:00:29,900 --> 00:00:33,000
-Bên này cũng đâu có rảnh rỗi, tha cho mình đi mà...
+00:20,000 --> 00:23,500
+Cảm giác như quái vật đang lấp đầy cả tầm mắt vậy nhỉ~
 
 8
-00:00:34,000 --> 00:00:38,800
-Cứ đà này thì công việc thường ngày của Viện Cứu Tế Sarendia cũng sẽ bị ảnh hưởng mất.
+00:24,000 --> 00:27,500
+Với tôi thì đây không phải là tình huống hiếm gặp gì đâu nhưng...
 
 9
-00:00:40,500 --> 00:00:43,500
-Viện Cứu Tế Sarendia là nơi sinh sống của bọn trẻ vậy mà.
+00:28,500 --> 00:31,500
+số lượng quái vật có hơi nhiều bất thường nhỉ.
 
 10
-00:00:44,500 --> 00:00:48,000
-Mình, chiến lực gần như duy nhất, lại bị vùi đầu
+00:32,300 --> 00:33,800
+Tôi xin xác nhận một chút.
 
 11
-00:00:48,000 --> 00:00:51,500
-vào các cuộc họp liên miên, khiến cho việc phòng thủ trở nên lỏng lẻo.
+00:34,500 --> 00:39,000
+Ở cái (Nông trại Elizabeth Park) này,
+mọi người có nuôi quái vật không vậy ạ?
 
 12
-00:00:52,500 --> 00:00:57,500
-Nếu bị tấn công bởi thứ gì đó giống ma vật gọi là Shadow như hôm trước thì không thể đối phó được.
+00:40,500 --> 00:41,500
+Không có đâu~
 
 13
-00:00:58,500 --> 01:03,500
-Lo lắng quá đi~ Mình đâu có thời gian để lãng phí ở đây đâu chứ.
+00:42,000 --> 00:43,500
+Chỉ có động vật bình thường thôi.
 
 14
-01:04,800 --> 01:10,800
-Tạm thời... mình đã nhờ Otou-sama phái lính gác đến rồi, nhưng mà.
+00:44,500 --> 00:46,500
+Đây chỉ là một nông trại bình thường thôi.
 
 15
-01:11,500 --> 01:16,500
-Otou-sama ấy à, đến cả người nhà mà cũng lấy tiền nữa. Đúng là cứng đầu mà.
+00:47,000 --> 00:49,500
+Dù cũng có nuôi vài con quái vật...
 
 16
-01:17,500 --> 01:21,500
-Nếu có thể dùng tiền để mua sự an toàn cho bọn trẻ thì cũng rẻ thôi, nhưng...
+00:50,500 --> 00:53,000
+nhưng về cơ bản, đây là một nông trại bình thường.
 
 17
-01:22,500 --> 01:26,500
-cứ thế này thì việc kinh doanh của Viện Cứu Tế Sarendia sẽ lao đao mất.
+00:54,500 --> 00:56,500
+Aaa, sao lại ra nông nỗi này chứ?
 
 18
-01:27,500 --> 01:31,500
-Số người phải nuôi cũng tăng lên, tài chính gia đình đang nguy cấp lắm rồi.
+00:57,500 --> 1:01,000
+H-Hôm qua vẫn còn bình thường mà!
 
 19
-01:34,800 --> 01:37,300
-Sắc mặt cô không được tốt lắm, Saren-chan.
+1:02,500 --> 1:04,500
+Tớ, hôm nay lại ngủ nướng mất...
 
 20
-01:38,300 --> 01:41,300
-...Xin đừng gọi tôi là "-chan" nữa, Jun-san.
+1:05,500 --> 1:09,000
+Đến trưa mới dậy thì đã thấy cảnh này!
 
 21
-01:42,300 --> 01:45,000
-Xin lỗi, tôi đã quá suồng sã.
+1:09,500 --> 1:12,000
+T-Tớ không hiểu gì hết!
 
 22
-01:46,000 --> 01:48,800
-Tuy nhiên, tôi biết Saren-chan...
+1:13,000 --> 1:15,500
+Rima bảo tớ đi gọi người giúp...
 
 23
-01:49,000 --> 01:51,800
-à không, Saren từ khi còn là một đứa trẻ.
+1:15,500 --> 1:18,500
+nên tớ đã vội vàng xuống núi.
 
 24
-01:52,800 --> 01:55,300
-Thế nào tôi cũng vô tình coi cô như một đứa trẻ.
+1:18,500 --> 1:22,000
+*hức*, rồi gặp được mọi người đó~!
 
 25
-01:56,300 --> 01:59,000
-Tôi đã thất lễ rồi. Xin tạ lỗi.
+1:22,500 --> 1:27,000
+Mọi người khác vẫn còn bị kẹt lại trong nông trại!
 
 26
-02:00,300 --> 02:04,800
-Không sao đâu ạ. Jun-san cũng từng chơi với tôi mà.
+1:28,000 --> 1:30,000
+C-Cứu với~!
 
 27
-02:06,300 --> 02:10,800
-Lúc nào cũng phải tỏ ra cứng rắn để không bị xem thường... cũng khá là mệt mỏi.
+1:31,000 --> 1:33,500
+Xin cậu đó, tớ sẽ làm bất cứ điều gì!
 
 28
-02:12,300 --> 02:15,800
-Hai vị, dùng trà không ạ~?
+1:34,500 --> 1:38,000
+Nè, tớ sẽ cho cậu quả sồi quý giá nhất của tớ...!
 
 29
-02:18,000 --> 02:23,500
-À... xin lỗi vì đã để cô phải làm việc phục vụ thế này. Tôi xin tạ lỗi vì đã thất lễ.
+1:40,000 --> 1:41,000
+(Núi Oral ~Sườn núi~)
 
 30
-02:24,800 --> 02:28,500
-Không sao đâu ạ, em thích tiếp đãi mọi người lắm...
+1:41,500 --> 1:44,800
+A, quả sồi, ngon lắm nhỉ.
 
 31
-02:29,500 --> 02:36,000
-Ngày nào cũng tranh luận gay gắt nên cổ họng em đau quá chừng.
+1:45,500 --> 1:48,800
+Nhất là dạo gần đây, chúng còn được cải tiến giống nữa...
 
 32
-02:37,000 --> 02:39,500
-Chính em cũng muốn uống trà nữa đó~♪
+1:49,500 --> 1:52,500
+Thôi nào, cậu hãy bình tĩnh lại đi, tôi sẽ làm gì đó.
 
 33
-02:43,000 --> 02:49,000
-(Ừm. Chị ấy đúng là người tốt nhỉ, Guild Master của Hội Tự Vệ (Caon)... Maho-san.)
+1:55,200 --> 1:58,000
+Kuria-kun, cậu là người quen của Rin-chan đúng không?
 
 34
-02:49,500 --> 02:52,500
-(Một người theo chủ nghĩa hòa bình, dịu dàng và ôn hòa.)
+1:58,500 --> 1:59,500
+Ừm. Là bạn bè.
 
 35
-02:53,000 --> 02:56,500
-(Nếu là thời bình, mình cũng muốn kết bạn với chị ấy lắm, nhưng...)
+2:00,500 --> 2:01,500
+Vậy sao~.
 
 36
-02:57,500 --> 03:00,500
-(Bây giờ là tình trạng khẩn cấp, không, là thời chiến.)
+2:02,000 --> 2:06,500
+Vậy thì trong lúc bảo vệ cô bé này,
+cậu hãy nhanh chóng đến Landosol gọi cứu viện nhé.
 
 37
-03:01,500 --> 03:03,500
-(Sự dịu dàng sẽ trở thành gánh nặng.)
+2:07,000 --> 2:10,500
+Tôi sẽ đi giải cứu những người còn bị kẹt lại trong nông trại.
 
 38
-03:04,500 --> 03:07,800
-(Hội Tự Vệ (Caon) là nạn nhân trong vụ này, vậy mà...)
+2:11,000 --> 2:15,000
+Đúng là quái vật có hơi nhiều,
+nên sẽ hơi vất vả một chút...
 
 39
-03:08,800 --> 03:12,300
-(Họ không thể đàm phán một cách cứng rắn, và đang bị ép phải chấp nhận phương án thỏa hiệp.)
+2:15,000 --> 2:17,500
+nhưng mà, chắc sẽ ổn thôi ạ♪
 
 40
-03:13,300 --> 03:15,300
-(Thật không thể nhìn nổi, nhưng...)
+2:19,500 --> 2:21,500
+A, tớ cũng sẽ chiến đấu!
 
 41
-03:15,800 --> 03:22,300
-(mình là bên thứ ba, không thể quá thiên vị một phe nào được.)
+2:22,500 --> 2:27,500
+Vốn dĩ việc canh gác (Nông trại Elizabeth Park)
+là nhiệm vụ của tớ mà!
 
 42
-03:24,500 --> 03:28,000
-Cảm ơn lòng tốt của cô, nhưng tôi không cần trà đâu.
+2:28,500 --> 2:31,000
+Vậy mà, tớ chỉ toàn lười biếng rong chơi.
 
 43
-03:28,500 --> 03:31,500
-Thực tế thì chúng ta không phải đang mở tiệc trà con gái.
+2:32,000 --> 2:35,500
+Ngay cả hôm nay, cũng thản nhiên ngủ nướng...
 
 44
-03:32,500 --> 03:37,000
-Đâu có, em đâu có ý định hối lộ đâu chứ?
+2:36,000 --> 2:40,500
+Mọi người ở (Nông trại Elizabeth Park)
+đã giúp đỡ tớ rất nhiều vậy mà!
 
 45
-03:38,500 --> 03:43,000
-À... tôi không có ý nghi ngờ, không, không có ý xúc phạm cô.
+2:41,500 --> 2:45,000
+Mọi người đều ổn cả chứ, không có ai chết đâu nhỉ?
 
 46
-03:44,000 --> 03:47,500
-Như cô thấy đấy, tôi không thể uống được.
+2:46,500 --> 2:49,000
+Không biết nữa, tôi cũng mong là họ bình an.
 
 47
-03:48,500 --> 03:51,000
-Thấy không, mũ giáp vướng quá.
+2:50,500 --> 2:54,500
+Nhưng mà, xung quanh toàn là quái vật...
+nên tầm nhìn không rõ ràng lắm.
 
 48
-03:52,500 --> 03:55,500
-Vậy thì, cởi nó ra là được mà, phải không ạ?
+2:55,500 --> 2:58,000
+Mọi thứ đều hỗn loạn cả lên.
 
 49
-03:56,500 --> 03:59,500
-Không cho thấy mặt thì thất lễ lắm đó?
+2:59,000 --> 3:00,000
+(Gọi Pecorine.)
 
 50
-04:01,500 --> 04:05,000
-Không, tôi có lý do riêng nên không thể cho thấy mặt được...
+3:02,500 --> 3:04,000
+Hửm? Có chuyện gì vậy, Kuria-kun?
 
 51
-04:06,000 --> 04:11,500
-Tuyệt đối không có ý coi thường Maho-san, Hội Tự Vệ (Caon), hay Thú nhân đâu.
+3:04,500 --> 3:06,500
+Kuria-kun cũng muốn chiến đấu sao?
 
 52
-04:12,500 --> 04:16,500
-Vụ náo loạn lần này là do phó đoàn trưởng của chúng tôi, Kỵ Sĩ Đoàn Hoàng Gia (NIGHTMARE)...
+3:08,500 --> 3:13,000
+Hừm. Vì cậu lo lắng cho mọi người
+ở (Nông trại Elizabeth Park)... à?
 
 53
-04:17,000 --> 04:18,800
-Christina, tự ý hành động.
+3:13,500 --> 3:16,500
+Ahaha, yếu ớt thế mà~...
 
 54
-04:19,500 --> 04:24,500
-Cấu trúc của sự việc là cô ta đã nổi điên vì lý do cá nhân và gây phiền phức cho bên cô.
+3:17,500 --> 3:22,500
+Mà, để con gái chiến đấu một mình rồi co giò bỏ chạy
+thì cũng mất mặt đàn ông lắm nhỉ.
 
 55
-04:25,000 --> 04:28,500
-Tôi đã ra lệnh cấm túc và bắt cô ta phải tự kiểm điểm.
+3:23,500 --> 3:29,500
+Với lại... quái vật lúc nhúc nhiều thế này,
+việc thoát ra cũng có vẻ khó khăn nhỉ~
 
 56
-04:29,500 --> 04:34,000
-Cứ như vậy, tôi muốn coi như vụ náo loạn lần này đã được giải quyết.
+3:30,500 --> 3:34,500
+Cả hai người, ở bên cạnh tôi có lẽ sẽ an toàn hơn đó.
 
 57
-04:35,500 --> 04:39,500
-Tôi cũng đã quá mệt mỏi với những cuộc họp liên miên rồi.
+3:35,500 --> 3:37,500
+Đừng rời xa tôi, hãy đi theo tôi nhé!
 
 58
-04:42,800 --> 04:46,300
-Mà, chắc Chris-chan cũng chẳng hối lỗi chút nào đâu...
+3:38,000 --> 4:02,500
+Tôi sẽ quậy tưng bừng một chút đó~
+Cẩn thận đừng để bị vạ lây nhé♪
 
 59
-04:47,300 --> 04:49,500
-Việc cấm túc chỉ là bề ngoài,
+4:03,800 --> 4:06,500
+Uwah, người này mạnh ghê ta?
 
 60
-04:50,000 --> 04:54,800
-cô ta dường như đang thực hiện một hành động đáng ngờ theo mật lệnh bên ngoài Landsol.
+4:07,000 --> 4:10,000
+Lũ quái vật bị thổi bay hết cả đám...!
 
 61
-04:57,300 --> 05:01,500
-Việc không nhận được lời xin lỗi chính thức làm em có chút vướng bận.
+4:10,500 --> 4:14,500
+Cậu quen biết một người ghê gớm thật đấy nhỉ~?
 
 62
-05:02,500 --> 05:05,500
-Bên em cũng có những đứa trẻ bị thương đó.
+4:15,500 --> 4:18,500
+Oái, tớ cũng không thể lơ là được.
 
 63
-05:06,500 --> 05:12,500
-Cũng có những đứa trẻ sợ hãi không biết khi nào lại bị tấn công mà đêm không ngủ được.
+4:19,500 --> 4:23,500
+Đúng là bốn phương tám hướng... toàn là quái vật.
 
 64
-05:13,500 --> 05:14,500
-Xin lỗi.
+4:25,500 --> 4:29,500
+Hửm? Rin-chan Rin-chan,
+cậu có thấy khói bốc lên ở đằng kia không?
 
 65
-05:15,000 --> 05:20,000
-Chúng tôi, Kỵ Sĩ Đoàn Hoàng Gia (NIGHTMARE), không thể chính thức thừa nhận lỗi và xin lỗi được.
+4:30,000 --> 4:32,000
+Ở đó có gì vậy ạ?
 
 66
-05:21,000 --> 05:24,000
-Chúng tôi là Guild trực thuộc Hoàng gia.
+4:35,500 --> 4:38,000
+Ở đó có chuồng ngựa...
 
 67
-05:25,000 --> 05:28,000
-Việc đó sẽ khiến cả đất nước phải cúi đầu.
+4:38,500 --> 4:42,000
+Khói có màu lạ quá, có khi là tín hiệu gì đó?
 
 68
-05:29,000 --> 05:31,500
-Sẽ là để lộ điểm yếu cho các nước khác.
+4:43,000 --> 4:45,000
+Là gì ấy nhỉ...?
 
 69
-05:32,500 --> 05:34,500
-Dân chúng cũng sẽ nảy sinh lòng bất tín.
+4:45,500 --> 4:52,000
+Trong buổi huấn luyện của (Đội Tự Vệ Kaon),
+hình như tớ có được dạy về các loại pháo hiệu thì phải?
 
 70
-05:35,500 --> 05:39,000
-Hoàng gia phải luôn trị vì một cách đường đường chính chính.
+4:53,500 --> 4:56,000
+Ừm~, ừm~?
 
 71
-05:40,500 --> 05:43,500
-Về mặt cá nhân, tôi thực sự cảm thấy có lỗi.
+4:57,500 --> 4:59,500
+A, đúng rồi, là tín hiệu cầu cứu!
 
 72
-05:45,000 --> 05:49,500
-Hơn nữa... chi phí sửa chữa Nhà Guild của Hội Tự Vệ (Caon) đã bị phá hủy,
+5:00,500 --> 5:04,500
+Có vẻ như có ai đó đang cầu cứu ở đằng kia?
 
 73
-05:50,000 --> 05:52,800
-lẽ ra Christina đã phải trả dưới dạng tiền bồi thường thiệt hại rồi.
+5:05,500 --> 5:11,500
+Rõ rồi ạ~ Vậy thì, trước mắt cứ nhắm thẳng
+hướng có khói mà tiến lên thôi!
 
 74
-05:53,500 --> 05:56,000
-Cả tiền bồi thường cho những người bị thương nữa.
+5:12,000 --> 5:16,500
+Một, hai, ba... Nào, let's go~☆
 
 75
-05:56,800 --> 05:59,500
-Cô ta là một người cực kỳ giàu có mà.
+5:22,000 --> 5:23,000
+(Rừng Mysterion)
 
 76
-06:00,500 --> 06:03,500
-Nên đã trả hết một cách dễ dàng rồi.
+5:25,500 --> 5:26,500
+(......)
 
 77
-06:04,500 --> 06:07,500
-Không ạ, đây không phải là vấn đề tiền bạc.
+5:28,500 --> 5:32,000
+Haa~... Haa, haa!
 
 78
-06:08,500 --> 06:12,000
-Đây là vấn đề của sự chân thành, của tấm lòng đó ạ.
+5:32,500 --> 5:35,500
+Chết tiệt, không thể kiểm soát được! Tại sao chứ?
 
 79
-06:13,500 --> 06:14,500
-Hừm...
+5:36,500 --> 5:39,000
+Chết tiệt, mình đâu có định làm thế này!
 
 80
-06:15,500 --> 06:18,500
-Nếu tôi chặt đầu Christina rồi dâng lên,
+5:39,500 --> 5:42,000
+Chẳng suôn sẻ gì cả, sẽ bị Bệ hạ mắng mất~!
 
 81
-06:19,500 --> 06:21,000
-cô sẽ hài lòng chứ?
+5:42,500 --> 5:46,000
+Không muốn, mình không muốn lại bị trừng phạt đâu...!
 
 82
-06:22,500 --> 06:26,000
-A-Ai mà lại nói chuyện ghê rợn như vậy chứ.
+5:46,500 --> 5:53,500
+(Tiana... không phải, Pecorine và Kuria, mình định đợi sau khi họ
+vào nông trại rồi mới để lũ quái vật nổi điên cơ mà.)
 
 83
-06:27,000 --> 06:30,000
-Mấy người, tanh mùi máu quá đó?
+5:54,500 --> 5:59,000
+(Vậy mà trước đó, chúng đã thoát khỏi sự kiểm soát của mình
+và nổi điên lên rồi.)
 
 84
-06:31,500 --> 06:35,000
-Đó là phong thái của chúng tôi, Kỵ Sĩ Đoàn Hoàng Gia (NIGHTMARE).
+6:00,000 --> 6:04,000
+(Chúng không nghe lệnh của mình, cứ tự do quậy phá.)
 
 85
-06:35,500 --> 06:38,500
-Đây là một vấn đề mang tính chính trị cao.
+6:04,500 --> 6:11,000
+(Không được, Pecorine thì không nói...
+nhưng mình được lệnh là phải để Kuria sống cơ mà.)
 
 86
-06:39,500 --> 06:45,000
-Coi đó là hành động bộc phát cá nhân của Christina... và giải quyết như vậy là tốt cho cả hai bên, phải không?
+6:11,500 --> 6:14,500
+(Cả Pecorine nữa, cũng được lệnh là cố gắng bắt sống...)
 
 87
-06:46,500 --> 06:48,500
-Chuyện đó thì, đúng là vậy nhưng...
+6:15,500 --> 6:19,500
+(Không được giết họ, vậy mà lũ quái vật
+hoàn toàn không nghe lời!)
 
 88
-06:49,500 --> 06:53,000
-Cứ như vậy thì mọi người sẽ không chấp nhận đâu.
+6:20,500 --> 6:24,000
+(Cứ thế này, bọn Kuria... sẽ chết mất.)
 
 89
-06:56,500 --> 07:03,000
-(Haizz, mệt mỏi quá... Nhưng mà, mình phải cố gắng thôi.)
+6:25,000 --> 6:29,500
+(Lấy ít địch nhiều. Dù Pecorine có mạnh đến đâu,
+cũng có giới hạn.)
 
 90
-07:04,000 --> 07:08,000
-(Nếu cứ giải quyết đơn giản bằng tiền bạc,
-thì vụ việc lần này có thể sẽ xong, nhưng...)
+6:30,000 --> 6:37,500
+(『Trang bị Hoàng gia』 tiêu hao năng lượng quá nhiều.
+Rồi sẽ có lúc cô ta dùng hết calo, kiệt sức và gục ngã.)
 
 91
-07:08,000 --> 07:12,000
-(Nếu không giải quyết tận gốc,
-chuyện tương tự sẽ lại lặp lại mất.)
+6:38,500 --> 6:40,000
+(Và rồi, chết.)
 
 92
-07:13,000 --> 07:16,500
-(Nếu lần sau lại có chuyện tương tự,)
+6:41,000 --> 6:44,500
+(Quái vật không phải chỉ có một hai trăm con đâu.)
 
 93
-07:16,500 --> 07:20,000
-(lần này có lẽ sẽ thành chiến tranh thật...)
+6:44,500 --> 6:47,500
+(Chỉ với vài người thì không thể nào đối phó được.)
 
 94
-07:21,000 --> 07:24,500
-(Một cuộc chiến tranh toàn diện giữa con người và Thú nhân.)
+6:48,000 --> 6:55,500
+(Bọn chúng sẽ chết. Bị giẫm nát, bị xé xác,
+bị ăn tươi nuốt sống mà chết.)
 
 95
-07:25,000 --> 07:28,000
-(Nếu vậy, sẽ có nhiều máu đổ hơn nữa.)
+6:56,000 --> 7:01,000
+(Chẳng phải mình đã biết trước chuyện này rồi sao.
+Rằng một ngày nào đó, mọi chuyện sẽ thành ra thế này.)
 
 96
-07:29,000 --> 07:33,500
-(Mọi người trong Hội Tự Vệ (Caon) thì mình đang xoa dịu, nhưng...)
+7:01,500 --> 7:04,500
+(Vậy mà, tại sao lồng ngực mình lại đau thế này...?)
 
 97
-07:34,000 --> 07:38,500
-(Bọn Thú nhân, cả Vườn Thú đang trong tâm trạng không ngần ngại khai chiến.)
+7:05,500 --> 7:09,000
+(Mình đáng lẽ phải là một con búp bê vô cảm cơ mà!)
 
 98
-07:39,000 --> 07:42,500
-(Thú nhân, vốn dĩ khá là nóng tính mà?)
-
-99
-07:43,000 --> 07:46,500
-(Ghét thật, chuyện này... Mình muốn giải quyết êm đẹp, nhưng...)
-
-100
-07:47,000 --> 07:51,000
-(Chuyện đã xảy ra rồi thì không thể coi như 'chưa từng có' được.)
-
-101
-07:51,500 --> 07:56,000
-(Phải làm sao đó để hướng tình thế đang dẫn đến chiến tranh này sang một hướng hòa bình.)
-
-102
-07:56,500 --> 08:01,000
-(Những Thú nhân sống ở Landsol đã mất một thời gian dài)
-
-103
-08:01,000 --> 08:04,500
-(mới có thể sống một cuộc sống yên bình.)
-
-104
-08:05,000 --> 08:08,500
-(Họ đã nỗ lực, đã chịu đựng biết bao điều không vui.)
-
-105
-08:09,000 --> 08:13,000
-(Mình không thể để quá khứ mà họ đã vun đắp
-bị hủy hoại chỉ vì một sự cố được.)
-
-106
-08:13,500 --> 08:17,000
-(Làm vậy thì, em không còn mặt mũi nào nhìn tổ tiên nữa.)
-
-107
-08:17,500 --> 08:20,500
-(Nhưng mà. Một sứ mệnh lịch sử, to lớn như vậy...)
-
-108
-08:21,000 --> 08:25,500
-(Gánh nặng này, trách nhiệm này,)
-
-109
-08:26,000 --> 08:28,500
-(liệu mình có gánh vác nổi không?)
-
-110
-08:29,000 --> 08:33,500
-(Trong khi mình còn chạy trốn khỏi cả chuyện gia đình của bản thân.)
-
-111
-09:14,000 --> 09:16,500
-Maho-san. Chuyện này không liên quan, nhưng mà,
-
-112
-09:17,000 --> 09:19,500
-việc điều tra về Shadow có tiến triển gì không ạ?
-
-113
-09:20,500 --> 09:27,000
-Hở? À, Kasumi-han trong guild của em đang điều tra đó ạ.
-
-114
-09:28,500 --> 09:33,500
-Hiện tại, có vẻ như Shadow chỉ được nhìn thấy trong thị trấn thôi.
-
-115
-09:34,500 --> 09:37,000
-Nếu chị thực sự cảm thấy nguy hiểm,
-
-116
-09:37,500 --> 09:41,500
-em nghĩ sơ tán ra ngoài thị trấn là tốt nhất đó ạ.
-
-117
-09:42,500 --> 09:44,500
-Ừm~ Có lẽ đó là ý hay.
-
-118
-09:45,500 --> 09:49,000
-Bọn trẻ nhà tôi đang rất sợ hãi.
-
-119
-09:50,000 --> 09:56,000
-Cho đến khi việc điều tra về Shadow có tiến triển... có lẽ tôi nên cho chúng sơ tán đến một nơi an toàn nào đó?
-
-120
-09:57,500 --> 10:01,500
-Nếu được thì em giới thiệu nơi sơ tán cho chị nhé?
-
-121
-10:02,000 --> 10:05,500
-Có một guild thân thiết với Hội Tự Vệ (Caon) của em,
-
-122
-10:05,500 --> 10:08,500
-tên là Trang Trại (Elizabeth Park) đó ạ.
-
-123
-10:09,500 --> 10:14,500
-Họ sống an toàn và yên bình ở sâu trong núi, cách xa thị trấn.
-
-124
-10:15,500 --> 10:21,000
-Guild Master ở đó là một Người, nhưng cũng rất thân với các Thú nhân.
-
-125
-10:22,000 --> 10:25,000
-Em nghĩ đó là một vùng an toàn, trung lập đó ạ.
-
-126
-10:27,000 --> 10:29,500
-Ừm~ Nghe có vẻ tốt đấy.
-
-127
-10:30,500 --> 10:33,500
-Có thể sẽ làm phiền chị, nhưng chị giới thiệu cho tôi được không?
-
-128
-10:34,500 --> 10:37,500
-Chị còn đang giúp điều tra về Shadow nữa...
-
-129
-10:38,000 --> 10:40,500
-Tôi cảm thấy mang ơn chị rất nhiều.
-
-130
-10:41,500 --> 10:43,500
-Tôi đồng ý với ý định của Maho-san.
-
-131
-10:44,000 --> 10:47,500
-Tôi cũng muốn tránh chiến tranh, nên tôi sẽ ủng hộ chị nhé?
-
-132
-10:51,000 --> 10:57,500
-Khoan, khoan đã. Viện Cứu Tế Sarendia không phải là bên thứ ba trung lập sao, Saren-chan?
-
-133
-10:58,500 --> 11:02,000
-Viện Cứu Tế Sarendia là Guild dưới trướng của Princess Knight mà.
-
-134
-11:02,500 --> 11:04,500
-Về lập trường thì, chúng tôi ở phe đó.
-
-135
-11:05,500 --> 11:10,500
-Bằng cách tiến lại gần phía Thú nhân, mọi chuyện mới trở nên công bằng, phải không?
-
-136
-11:11,500 --> 11:13,500
-Nói một câu là cãi lại một câu...
-
-137
-11:14,000 --> 11:16,000
-Cô vẫn luôn lanh miệng như vậy từ xưa.
-
-138
-11:17,000 --> 11:19,500
-Tôi thì vụng về ăn nói, nên ghen tị lắm đấy.
-
-139
-11:20,500 --> 11:24,500
-Thôi được rồi, tôi cũng mong muốn hòa bình.
-
-140
-11:25,500 --> 11:30,500
-Chúng ta hãy cẩn trọng và tỉ mỉ tìm kiếm một tương lai mà ai cũng có thể sống yên ổn.
-
-141
-11:31,000 --> 11:35,500
-Thời gian không phải là vô hạn, nhưng chúng ta vẫn còn một chút thời gian.
+7:10,000 --> 7:15,500
+(Bệ hạ! Con, rốt cuộc vẫn chỉ là
+một món đồ lỗi vô dụng thôi sao...?)

@@ -1,548 +1,633 @@
 1
-00:00:02,065 --> 00:00:03,815
-(Chương: Đêm Tối Dậy Sóng)
+00:01,000 --> 00:05,000
+(Chương 4: Trang Trại Tai Ương - Elizabeth Park)
 
 2
-00:00:05,248 --> 00:00:06,328
-Kurumi~
+00:08,700 --> 00:10,200
+(Cuộc họp Guild ba bên ba kiểu)
 
 3
-00:00:07,358 --> 00:00:09,348
-Này, Kurumi?
+00:12,900 --> 00:14,400
+(Landosol ~Nhà Guild~)
 
 4
-00:00:10,258 --> 00:00:13,268
-Xin lỗi, dậy đi chứ...?
+00:16,230 --> 00:19,850
+A~... Thiệt là, phát chán lên được.
 
 5
-00:00:16,211 --> 00:00:16,771
-Fueh...
+00:21,680 --> 00:25,980
+Ngày nào cũng như ngày nào... tôi phải tất bật xử lý hậu quả
+vụ Christina tấn công nhà Guild của Hội Tự Vệ (Caon).
 
 6
-00:00:17,441 --> 00:00:20,381
-Có chuyện gì vậy, Ayane-chan...?
+00:25,980 --> 00:28,880
+Thật là xoay sở không kịp.
 
 7
-00:00:21,399 --> 00:00:22,039
-Hửm...
+00:29,860 --> 00:32,860
+Bên này cũng có rảnh rỗi gì đâu, tha cho tôi đi mà...
 
 8
-00:00:22,789 --> 00:00:25,549
-Hình như... có tiếng động lạ phải không...?
+00:33,880 --> 00:38,980
+Cứ đà này thì công việc thường ngày của
+Viện Cứu Tế Sarendia cũng sẽ bị ảnh hưởng mất.
 
 9
-00:00:28,092 --> 00:00:28,942
-Tiếng động...?
+00:40,280 --> 00:43,620
+Viện Cứu Tế Sarendia là nơi sinh sống của bọn trẻ mà.
 
 10
-00:00:29,662 --> 00:00:33,402
-Chắc là Mama Saren-tachi vẫn còn thức đó...?
+00:44,790 --> 00:48,960
+Tôi, chiến lực gần như là duy nhất,
+lại bị quay cuồng với các cuộc họp mỗi ngày,
 
 11
-00:00:34,442 --> 00:00:35,932
-Bây giờ... là mấy giờ rồi...?
+00:48,960 --> 00:51,550
+khiến việc phòng thủ trở nên lỏng lẻo.
 
 12
-00:00:36,782 --> 00:00:42,672
-Uu, hôm nay thức khuya hơn mọi khi nên mình buồn ngủ lắm...
+00:52,530 --> 00:57,590
+Nếu bị lũ quái vật như Shadow tấn công như hôm trước
+thì sẽ không đối phó nổi.
 
 13
-00:00:44,230 --> 00:00:44,670
-Ừm.
+00:58,670 --> 01:03,630
+Lo quá đi~ Mà mình cũng chẳng có thời gian
+để lãng phí ở đây.
 
 14
-00:00:45,430 --> 00:00:47,780
-Xin lỗi nhé, vì đã đánh thức cậu.
+01:04,900 --> 01:10,810
+Tạm thời... tôi đã nhờ Otou-sama
+phái lính gác đến rồi, nhưng mà...
 
 15
-00:00:49,308 --> 00:00:53,008
-Không sao đâu... Thỉnh thoảng lúc mình gặp ác mộng,
+01:11,540 --> 01:14,400
+Otou-sama ấy à,
+đến người nhà mà cũng lấy tiền nữa đó.
 
 16
-00:00:53,008 --> 00:00:56,368
-Ayane-chan cũng lo lắng rồi ngủ cùng mình mà...
+01:14,400 --> 01:16,620
+Đúng là đồ keo kiệt.
 
 17
-00:00:57,808 --> 00:01:02,748
-Lần này đến lượt mình, hay nói đúng hơn là mình muốn trả ơn cậu...♪
+01:17,540 --> 01:21,500
+Nếu có thể dùng tiền mua được sự an toàn cho bọn trẻ
+thì cũng đáng,
 
 18
-00:01:04,414 --> 00:01:07,174
-Ayane-chan, nếu được thì chúng ta ngủ chung nhé...?
+01:22,480 --> 01:26,520
+nhưng cứ thế này thì việc kinh doanh của
+Viện Cứu Tế Sarendia sẽ lao dốc mất.
 
 19
-00:01:08,014 --> 00:01:10,514
-Có mình ở bên thì cậu sẽ an tâm,
+01:27,510 --> 01:31,480
+Gia đình nuôi dưỡng cũng đông lên,
+kinh tế gia đình đang khó khăn chồng chất.
 
 20
-00:01:10,514 --> 00:01:13,014
-chắc chắn sẽ ngủ ngon cho xem...♪
+01:34,800 --> 01:37,280
+Sắc mặt cậu không tốt lắm, Saren-chan.
 
 21
-00:01:15,571 --> 00:01:18,521
-Ưm~ Không ngủ một mình được cứ như trẻ con ấy.
+01:38,410 --> 01:41,410
+...Xin đừng gọi tôi là "-chan" nữa, Jun-san.
 
 22
-00:01:19,001 --> 00:01:24,241
-Tớ còn là chị của Kurumi nữa cơ mà?
+01:42,500 --> 01:45,130
+Xin lỗi, ta đã suồng sã quá.
 
 23
-00:01:25,121 --> 00:01:28,701
-Nhưng mà thôi, lần này nể mặt Kurumi...
+01:46,650 --> 01:51,770
+Nhưng mà, ta biết Saren-chan...
+biết Saren từ lúc còn là một đứa trẻ.
 
 24
-00:01:28,701 --> 00:01:31,071
-nên tớ sẽ ngủ cùng cậu cũng được...
+01:52,690 --> 01:55,270
+Nên không thể không xem cậu như một đứa trẻ được.
 
 25
-00:01:32,151 --> 00:01:32,961
-Hửm?
+01:56,660 --> 01:58,970
+Ta đã thất lễ rồi, xin tạ lỗi.
 
 26
-00:01:35,274 --> 00:01:36,084
-.........
+02:00,340 --> 02:04,800
+Không sao đâu ạ.
+Jun-san cũng từng chơi với tôi mà.
 
 27
-00:01:41,607 --> 00:01:44,727
-Cậu sao vậy Kurumi?
-Tự nhiên im bặt...
+02:06,170 --> 02:10,950
+Lúc nào cũng phải tỏ ra cứng rắn để không bị coi thường...
+cũng mệt mỏi lắm ạ.
 
 28
-00:01:44,727 --> 00:01:46,927
-đừng có đùa kiểu kỳ cục đó chứ.
+02:12,270 --> 02:15,640
+Hai vị~, dùng trà không ạ~?
 
 29
-00:01:47,447 --> 00:01:49,157
-A, Ayane-chan...
+02:18,170 --> 02:23,590
+A... Xin lỗi vì đã để cô phải đóng giả người hầu,
+ta xin tạ lỗi vì đã thất lễ.
 
 30
-00:01:51,707 --> 00:01:52,507
-Hả?
+02:24,960 --> 02:28,490
+Không sao đâu ạ~, con thích tiếp đãi khách mà...
 
 31
-00:02:00,817 --> 00:02:01,817
-Ể!?
+02:29,620 --> 02:36,130
+Ngày nào cũng tranh luận nảy lửa
+nên cổ họng con đau quá đi.
 
 32
-00:02:03,347 --> 00:02:04,927
-Kia là... mình sao!?
+02:37,220 --> 02:39,520
+Chính con mới là người muốn uống trà đó~.
 
 33
-00:02:06,127 --> 00:02:08,797
-Tại sao mình lại ở ngoài cửa sổ chứ!?
+02:43,440 --> 02:49,200
+(Ưm... Chị ấy đúng là người tốt,
+Guild Master của Caon... Maho-san.)
 
 34
-00:02:09,726 --> 00:02:12,656
-Kya, kyaaaaaa!?
+02:49,700 --> 02:52,820
+Một người theo chủ nghĩa hòa bình,
+hiền lành và dịu dàng.
 
 35
-00:02:17,046 --> 00:02:18,176
-Aruji-sama.
+02:53,490 --> 02:56,480
+Nếu là thời bình, tôi cũng muốn làm bạn với chị ấy lắm.
 
 36
-00:02:18,506 --> 00:02:20,556
-Xin hãy tỉnh lại đi ạ, Aruji-sama.
+02:57,590 --> 03:01,230
+Nhưng giờ là tình trạng khẩn cấp, không, là thời chiến.
 
 37
-00:02:21,436 --> 00:02:22,816
-Chào buổi sáng.
+03:02,110 --> 03:03,630
+Lòng tốt sẽ trở thành gánh nặng.
 
 38
-00:02:23,106 --> 00:02:25,976
-Xin thất lễ vì đã làm phiền ngài lúc đêm hôm, Aruji-sama.
+03:04,490 --> 03:08,010
+Hội Tự Vệ (Caon) là nạn nhân trong vụ việc lần này,
 
 39
-00:02:26,556 --> 00:02:29,036
-Ngài đang nghỉ ngơi mà, thật xin lỗi.
+03:08,890 --> 03:12,310
+vậy mà không thể đàm phán một cách cứng rắn,
+lại bị ép chấp nhận thỏa hiệp.
 
 40
-00:02:30,226 --> 00:02:32,046
-Cho phép tôi làm phiền một chút được không ạ?
+03:13,380 --> 03:17,440
+Thật không thể khoanh tay đứng nhìn...
+nhưng tôi là người ngoài cuộc,
 
 41
-00:02:33,836 --> 00:02:34,806
-Không ạ, chuyện là.
+03:18,040 --> 03:22,340
+cũng không thể quá thiên vị một bên nào được.
 
 42
-00:02:36,536 --> 00:02:39,076
-Không phải là vì em cảm thấy cô đơn khi ngủ một mình...
+03:24,310 --> 03:28,210
+Ta cảm kích lòng tốt của cô, nhưng không cần trà đâu.
 
 43
-00:02:39,076 --> 00:02:41,946
-...nên mới vậy đâu ạ.
+03:28,950 --> 03:31,650
+Thực tế, chúng ta không phải đang họp hội chị em.
 
 44
-00:02:43,476 --> 00:02:47,156
-Sau khi được Suzume-sama khuyên nhủ,
+03:32,820 --> 03:36,920
+Đâu có, đây không phải là hối lộ đâu à nha?
 
 45
-00:02:47,156 --> 00:02:50,606
-em đã miễn cưỡng chấp nhận lý do đó rồi ạ.
+03:38,620 --> 03:42,880
+À... Ta không có ý suy diễn lung tung,
+hay xúc phạm cô.
 
 46
-00:02:51,306 --> 00:02:54,996
-Dù sao thì, em đã được giao cho phòng ngủ
+03:44,580 --> 03:47,840
+Như cô thấy đấy, ta không thể uống nước được.
 
 47
-00:02:54,996 --> 00:02:57,996
-gần phòng của Aruji-sama nhất,
+03:49,150 --> 03:51,210
+Đấy, mũ giáp vướng quá mà.
 
 48
-00:02:59,386 --> 00:03:03,136
-để có thể đến ngay lập tức nếu có chuyện gì bất thường xảy ra.
+03:52,650 --> 03:55,600
+Thế thì, cởi ra là được chứ sao.
 
 49
-00:03:04,266 --> 00:03:08,216
-Vì vậy, nếu vào ban đêm,
-ngài có bất kỳ điều gì lo lắng...
+03:56,660 --> 03:59,970
+Không cho thấy mặt, thất lễ đó à nha?
 
 50
-00:03:09,196 --> 00:03:12,946
-xin đừng ngần ngại la lớn lên để báo cho em biết.
+04:01,560 --> 04:05,240
+Không, ta có lý do riêng
+nên không thể cho thấy mặt thật được...
 
 51
-00:03:14,216 --> 00:03:16,776
-Em sẽ có mặt trong vài giây ạ.
+04:06,420 --> 04:11,810
+Ta tuyệt đối không có ý coi thường Maho-san,
+Hội Tự Vệ (Caon), hay các Thú Nhân đâu.
 
 52
-00:03:17,546 --> 00:03:18,226
-E hèm.
+04:12,710 --> 04:16,360
+Vụ ồn ào lần này là do Phó đoàn trưởng của
+Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE) chúng ta...
 
 53
-00:03:19,536 --> 00:03:22,666
-Dù sao thì, ban nãy ngài có nghe thấy tiếng hét không ạ?
+04:17,470 --> 04:18,970
+Christina, tự ý hành động.
 
 54
-00:03:23,326 --> 00:03:25,326
-> Tiếng hét……?
+04:19,850 --> 04:23,890
+Kịch bản là cô ta hành động cá nhân
+và gây phiền toái cho các cô.
 
 55
-00:03:25,856 --> 00:03:26,386
-Vâng ạ.
+04:24,960 --> 04:28,850
+Ta đã ra lệnh cấm túc để cô ta tự kiểm điểm.
 
 56
-00:03:26,886 --> 00:03:31,046
-Hình như là của một cô gái, một tiếng hét rất cao...
+04:29,910 --> 04:34,350
+Cứ như vậy, ta muốn coi như
+vụ việc lần này đã được giải quyết.
 
 57
-00:03:32,566 --> 00:03:36,196
-Nếu là em nghe nhầm thì tốt quá.
+04:36,170 --> 04:39,890
+Ta cũng đã quá mệt mỏi
+với các cuộc họp liên miên rồi.
 
 58
-00:03:37,296 --> 00:03:39,100
-> Chắc là cậu nghĩ nhiều quá thôi?
+04:42,500 --> 04:46,260
+(Mà, chắc Chris-chan cũng chẳng kiểm điểm gì đâu...)
 
 59
-00:03:39,436 --> 00:03:40,106
-Vâng.
+04:47,440 --> 04:54,720
+Việc cấm túc chỉ là bề ngoài, nghe đâu cô ta đang mang
+mật lệnh và có hành động đáng ngờ bên ngoài Landosol.
 
 60
-00:03:40,296 --> 00:03:43,776
-Ban ngày, chúng ta đã nhiều lần đối mặt với nguy hiểm đến tính mạng mà...
+04:56,600 --> 05:01,360
+Việc không nhận được lời xin lỗi chính thức
+khiến con hơi khúc mắc.
 
 61
-00:03:44,386 --> 00:03:47,756
-Cảnh giác một chút cũng không thừa đâu ạ.
+05:02,320 --> 05:05,370
+Bên con cũng có người bị thương đó.
 
 62
-00:03:48,346 --> 00:03:52,006
-Trong trường hợp xấu nhất, có thể sẽ có một cuộc tấn công khác.
+05:06,310 --> 05:12,140
+Còn có những đứa trẻ vì sợ hãi không biết
+khi nào bị tấn công lại mà đêm không ngủ được.
 
 63
-00:03:52,706 --> 00:03:56,386
-Để có thể hành động ngay khi có tình huống khẩn cấp...
+05:13,670 --> 05:14,750
+Xin lỗi.
 
 64
-00:03:56,926 --> 00:03:59,386
-em đã thức canh gác đấy ạ.
+05:15,530 --> 05:20,290
+Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE) chúng ta
+không thể chính thức nhận lỗi và xin lỗi được.
 
 65
-00:04:00,436 --> 00:04:02,776
-Dù em có hơi lơ mơ một chút.
+05:21,280 --> 05:24,200
+Chúng ta là Guild trực thuộc Hoàng gia.
 
 66
-00:04:03,896 --> 00:04:06,476
-Rồi em nghe thấy tiếng hét.
+05:25,050 --> 05:28,160
+Làm vậy sẽ khiến cả đất nước phải cúi đầu.
 
 67
-00:04:07,316 --> 00:04:10,956
-Để chắc chắn, em đã đến xem tình hình của Aruji-sama.
+05:29,190 --> 05:31,900
+Sẽ để lộ điểm yếu cho các nước khác.
 
 68
-00:04:11,596 --> 00:04:13,006
-Fufu.
+05:32,900 --> 05:34,920
+Người dân cũng sẽ mất lòng tin.
 
 69
-00:04:13,306 --> 00:04:18,526
-Aruji-sama vẫn đang ngủ ngon lành
-nên em cũng thấy an tâm phần nào.
+05:35,760 --> 05:39,120
+Hoàng gia phải luôn đường đường chính chính trị vì.
 
 70
-00:04:19,396 --> 00:04:21,806
-May quá, ngài vẫn bình an...
+05:40,510 --> 05:43,450
+Về mặt cá nhân, ta rất lấy làm tiếc.
 
 71
-00:04:22,236 --> 00:04:27,706
-Đúng là để Aruji-sama ngủ một mình
-khiến em lo không yên.
+05:44,720 --> 05:49,460
+Hơn nữa... chi phí sửa chữa nhà Guild của Hội Tự Vệ (Caon)
+bị phá hủy,
 
 72
-00:04:28,686 --> 00:04:30,706
-Aah, Aruji-sama.
+05:49,460 --> 05:52,650
+Christina đã trả bằng tiền bồi thường thiệt hại rồi.
 
 73
-00:04:31,406 --> 00:04:35,366
-Aruji-sama quý giá, vô cùng quý giá của em...♪
+05:53,490 --> 05:56,120
+Cả tiền an ủi cho những người bị thương nữa.
 
 74
-00:04:37,236 --> 00:04:38,836
-Kyaaaaa!?
+05:56,920 --> 05:59,600
+Cô ta giàu nứt đố đổ vách mà.
 
 75
-00:04:42,336 --> 00:04:45,046
-A, lại có tiếng hét nữa!
+06:01,090 --> 06:03,420
+Trả một cái vèo là xong ngay.
 
 76
-00:04:46,076 --> 00:04:48,936
-Đúng là không phải em ảo giác rồi.
+06:04,490 --> 06:07,880
+Ưm ưm, đây không phải vấn đề tiền bạc đâu.
 
 77
-00:04:49,766 --> 00:04:50,476
-Hừm.
+06:09,000 --> 06:12,180
+Đây là vấn đề thành ý, vấn đề của con tim đó.
 
 78
-00:04:51,356 --> 00:04:53,806
-Tiếng hét là từ... Viện Cứu Tế...
+06:13,850 --> 06:21,020
+Hừm... Nếu ta chặt đầu Christina rồi dâng lên cho cô,
+liệu cô có hài lòng không?
 
 79
-00:04:54,306 --> 00:04:56,436
-Hình như phát ra từ phía sảnh lớn.
+06:22,460 --> 06:26,090
+Đ-Đâu có ai nói chuyện ghê rợn như vậy.
 
 80
-00:04:57,596 --> 00:05:00,386
-Em sẽ đi xem tình hình một chút.
+06:27,340 --> 06:30,490
+Mấy người các cô, tanh mùi máu quá đó?
 
 81
-00:05:01,296 --> 00:05:03,116
-Aruji-sama, xin hãy đợi ở đây.
+06:31,480 --> 06:34,800
+Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE) là thế đấy.
 
 82
-00:05:05,336 --> 00:05:07,876
-Không... ở đây cũng chưa chắc an toàn...
+06:35,930 --> 06:38,440
+Đây là một vấn đề chính trị cấp cao.
 
 83
-00:05:07,876 --> 00:05:10,236
-xin ngài hãy đi cùng em.
+06:39,780 --> 06:45,300
+Coi như đây là hành động bộc phát cá nhân của Christina...
+để giải quyết ổn thỏa cho cả hai bên, phải không?
 
 84
-00:05:10,656 --> 00:05:13,446
-Nếu là một cuộc tấn công...
+06:46,940 --> 06:49,500
+Chuyện đó, thì đúng là vậy...
 
 85
-00:05:13,446 --> 00:05:16,366
-em sẽ bằng mọi cách để ít nhất Aruji-sama có thể trốn thoát.
+06:50,000 --> 06:53,240
+nhưng mà như thế thì mọi người sẽ không chấp nhận đâu.
 
 86
-00:05:17,336 --> 00:05:20,386
-Mặc nguyên đồ ngủ thì cũng không tiện lắm,
+06:56,430 --> 06:58,680
+U~ mệt mỏi quá đi...
 
 87
-00:05:20,386 --> 00:05:22,866
-ngài hãy khoác áo choàng vào đi ạ.
+07:00,160 --> 07:03,170
+Nhưng mà, con phải cố gắng thôi.
 
 88
-00:05:23,546 --> 00:05:26,896
-À, ngoài ra, chỉ cần mang theo kiếm là được rồi.
+07:04,330 --> 07:08,240
+Nếu chỉ giải quyết đơn giản bằng tiền bạc,
+thì vụ này có thể coi như xong...
 
 89
-00:05:27,616 --> 00:05:29,286
-Chúng ta đi thôi, Aruji-sama.
+07:08,240 --> 07:12,100
+nhưng...
 
 90
-00:05:30,226 --> 00:05:32,976
-Xin ngài hãy hết sức cẩn thận.
+07:12,500 --> 07:15,680
+nếu không giải quyết tận gốc,
 
 91
-00:05:33,566 --> 00:05:35,766
-Và đừng rời xa em quá nhé.
+07:15,680 --> 07:18,200
+chuyện tương tự sẽ lại lặp lại.
 
 92
-00:05:40,022 --> 00:05:42,482
-Oa oa oa! Em không muốn!
+07:18,200 --> 07:19,950
+Mãi mãi.
 
 93
-00:05:45,556 --> 00:05:47,316
-Sợ quá, sợ quá, sợ quá!
+07:21,040 --> 07:25,560
+Nếu lần sau lại có chuyện như vậy,
+lần này có thể sẽ dẫn đến chiến tranh mất...
 
 94
-00:05:47,886 --> 00:05:51,436
-E-em đã ở đó! Em đã đứng ở ngoài cửa sổ!
+07:25,560 --> 07:28,320
+...một cuộc chiến toàn diện giữa con người và Thú nhân.
 
 95
-00:05:52,286 --> 00:05:54,496
-Không phải nói dối đâu, tin em đi!
+07:29,480 --> 07:33,000
+Nếu vậy, sẽ có nhiều máu đổ hơn nữa.
 
 96
-00:05:54,496 --> 00:05:56,876
-Em không bao giờ nói dối, vì em là một đứa trẻ ngoan mà!
+07:33,000 --> 07:34,200
+Phải không?
 
 97
-00:05:57,546 --> 00:06:02,406
-Quả nhiên là vậy! Giống như ba và mẹ,
-em cũng không phải là "thật"!
+07:35,010 --> 07:39,950
+Mọi người trong Hội Tự Vệ (Caon) thì con sẽ xoa dịu được.
 
 98
-00:06:03,456 --> 00:06:06,486
-Người đứng ngoài cửa sổ đó mới là "em thật sự"!
+07:41,200 --> 07:45,520
+Nhưng các Thú nhân, cả Vườn Thú,
+đang trong tâm thế không ngần ngại khai chiến.
 
 99
-00:06:06,946 --> 00:06:11,546
-Cho nên, cho nên... Oa oa oa!
+07:46,650 --> 07:49,760
+Thú nhân, cũng khá là nóng tính đó nha?
 
 100
-00:06:15,648 --> 00:06:17,998
-B-bình tĩnh lại đi Ayane-chan!
+07:51,270 --> 07:54,760
+Ghét quá đi, chuyện này...
 
 101
-00:06:18,598 --> 00:06:20,838
-Không sao đâu mà, đừng khóc nữa~?
+07:55,270 --> 07:58,000
+Con muốn giải quyết mọi chuyện trong êm đẹp.
 
 102
-00:06:23,195 --> 00:06:26,985
-Thất lễ. Xin lỗi, có chuyện ồn ào gì vậy ạ?
+07:58,000 --> 08:02,170
+Nhưng mà.
 
 103
-00:06:28,345 --> 00:06:33,705
-A, Kokkoro-chan, cả Aruji-sama nữa...
-Xin lỗi, đã đánh thức mọi người rồi nhỉ?
+08:08,210 --> 08:12,250
+Chuyện đã xảy ra rồi
+thì không thể coi như "chưa từng có" được.
 
 104
-00:06:34,515 --> 00:06:38,205
-Ừm, tớ cũng vừa mới nghe thấy tiếng hét nên chạy vội đến thôi,
+08:13,740 --> 08:18,920
+Phải tìm cách hướng tình thế đang dẫn đến chiến tranh này
+theo một con đường hòa bình.
 
 105
-00:06:38,205 --> 00:06:40,975
-cũng không rõ chuyện gì...
+08:20,380 --> 08:26,000
+Các Thú nhân sống ở Landosol đã phải mất một thời gian dài
+mới có được cuộc sống yên bình.
 
 106
-00:06:41,405 --> 00:06:44,975
-Hình như Ayane-chan đã gặp ác mộng thì phải?
+08:26,300 --> 08:29,200
+Họ đã nỗ lực, đã phải chịu đựng rất nhiều điều không vui.
 
 107
-00:06:47,192 --> 00:06:48,702
-K-không phải mơ đâu!
+08:29,500 --> 08:34,910
+Quá khứ mà họ đã gây dựng không thể bị hủy hoại
+chỉ bằng một câu trả lời được.
 
 108
-00:06:49,172 --> 00:06:51,332
-Tớ thật sự đã thấy, tớ đã ở đó!
+08:35,840 --> 08:42,210
+Làm vậy, con sẽ không còn mặt mũi nào
+nhìn tổ tiên nữa.
 
 109
-00:06:51,332 --> 00:06:53,602
-Kurumi tin tớ chứ?
+08:43,510 --> 08:45,500
+Nhưng mà.
 
 110
-00:06:55,272 --> 00:06:58,692
-Hauu... M-mình không biết nữa nhưng...
+08:46,940 --> 08:49,500
+Chuyện đó...
 
 111
-00:07:03,137 --> 00:07:07,037
-Ayane-chan đã nằm cạnh mình mà...
+08:49,500 --> 08:52,900
+một sứ mệnh lịch sử, vĩ đại như vậy...
 
 112
-00:07:07,727 --> 00:07:11,947
-lại có một Ayane-chan khác ở ngoài cửa sổ...
+08:53,400 --> 08:56,300
+một gánh nặng, một trách nhiệm,
 
 113
-00:07:13,617 --> 00:07:16,567
-Ờm, chuyện là sao vậy?
+08:56,300 --> 08:59,000
+liệu con có gánh vác nổi không?
 
 114
-00:07:17,497 --> 00:07:23,657
-Kurumi-chan cũng, ừm thì...
-đã nhìn thấy "một Ayane-chan khác" sao?
+09:00,500 --> 09:06,500
+Khi mà chính con còn đang trốn chạy
+khỏi chuyện gia đình của mình.
 
 115
-00:07:25,187 --> 00:07:28,877
-Cả hai đều không phải là những đứa trẻ hay nói dối nhưng...
+09:13,950 --> 09:16,210
+Maho-san.
 
 116
-00:07:30,287 --> 00:07:33,507
-Ừm, có phải chỉ là mặt Ayane-chan
-phản chiếu trên cửa kính thôi không?
+09:16,210 --> 09:19,620
+Đổi chủ đề một chút, việc điều tra về Shadow
+có tiến triển gì không?
 
 117
-00:07:37,427 --> 00:07:42,397
-Nhìn thấy nó, cậu liền có cảm giác có một Ayane-chan
-không thể nào ở ngoài cửa sổ được...
+09:20,680 --> 09:21,500
+Hử?
 
 118
-00:07:42,397 --> 00:07:46,017
-...nên giật mình, có phải là như vậy không?
+09:22,460 --> 09:27,240
+À à, Kasumi-han của Guild con đang điều tra rồi ạ.
 
 119
-00:07:47,426 --> 00:07:51,906
-Không phải! Người ở ngoài cửa sổ là tớ nhưng cũng không phải là tớ!
+09:28,490 --> 09:33,780
+Hiện tại, có vẻ Shadow
+chỉ được phát hiện trong thành phố thôi.
 
 120
-00:07:52,656 --> 00:07:55,906
-Mắt người đó phát sáng, màu mắt khác với của tớ!
+09:34,700 --> 09:41,400
+Nếu thật sự lo lắng cho tính mạng của mình,
+con nghĩ di tản ra ngoài thành phố là tốt nhất.
 
 121
-00:07:56,666 --> 00:08:00,326
-Rồi người đó nhìn tớ, vừa cười vừa nói gì đó!
+09:42,760 --> 09:45,990
+Hừm~ có lẽ đó là ý hay.
 
 122
-00:08:04,385 --> 00:08:05,255
-U, ư~m.
+09:46,470 --> 09:49,390
+Bọn trẻ nhà tôi đang rất sợ hãi.
 
 123
-00:08:06,475 --> 00:08:10,315
-Tớ không hiểu rõ lắm, nhưng phải làm sao đây...?
+09:50,300 --> 09:53,420
+Cho đến khi cuộc điều tra về Shadow có tiến triển...
 
 124
-00:08:11,185 --> 00:08:14,845
-Tớ sẽ ra ngoài xem tình hình một chút.
+09:53,420 --> 09:56,360
+có lẽ tôi nên cho chúng đi sơ tán ở một nơi an toàn?
 
 125
-00:08:15,475 --> 00:08:19,255
-Nếu là kẻ đáng ngờ hay ma vật thì phiền phức lắm, để chắc chắn tớ sẽ đi.
+09:57,840 --> 10:02,120
+Nếu được thì để con giới thiệu nơi sơ tán cho nhé?
 
 126
-00:08:20,385 --> 00:08:25,005
-Hừm. Nếu là ma vật thì đi một mình không phải nguy hiểm sao?
+10:02,680 --> 10:08,710
+Có một Guild tên là Trang Trại (Elizabeth Park)
+rất thân với Hội Tự Vệ (Caon) của con.
 
 127
-00:08:25,005 --> 00:08:29,805
-Dù sao thì, Suzume-sama có vẻ không quen với chuyện đánh đấm.
+10:09,230 --> 10:14,570
+Họ sống an toàn, hòa bình
+ở một nơi sâu trong núi, cách xa thành phố.
 
 128
-00:08:31,045 --> 00:08:35,765
-K-không sao đâu, tớ chỉ đi xem tình hình một chút thôi mà.
+10:15,770 --> 10:20,830
+Guild Master ở đó là con người,
+nhưng rất thân thiết với các Thú nhân.
 
 129
-00:08:36,445 --> 00:08:40,255
-Kokkoro-chan-tachi hãy ở bên cạnh Ayane-chan-tachi nhé.
+10:21,990 --> 10:25,320
+Con nghĩ đó là một vùng an toàn, trung lập đó.
 
 130
-00:08:41,045 --> 00:08:43,475
-Nếu có vẻ nguy hiểm tớ sẽ la lớn,
+10:27,260 --> 10:29,900
+Hừm~ nghe có vẻ tốt đấy.
 
 131
-00:08:43,475 --> 00:08:45,905
-lúc đó mọi người hãy dẫn nhau đi sơ tán nhé.
+10:30,810 --> 10:33,830
+Hơi phiền cho chị một chút,
+nhưng có thể giới thiệu giúp tôi được không?
 
 132
-00:08:45,905 --> 00:08:50,005
-Tớ sẽ câu đủ thời gian để mọi người chạy thoát.
+10:34,710 --> 10:40,280
+Chị còn đang giúp tôi điều tra về Shadow nữa...
+tôi cảm thấy mắc nợ chị quá.
 
 133
-00:08:50,905 --> 00:08:53,885
-Tiểu thư đang đi vắng để tham gia hội họp...
+10:41,270 --> 10:44,380
+Tôi đồng ý với ý định của Maho-san.
 
 134
-00:08:54,305 --> 00:08:57,000
-nên việc bảo vệ mọi người ở【Viện Cứu Tế Sarendia】
+10:44,380 --> 10:47,560
+Tôi cũng muốn tránh chiến tranh, nên sẽ ủng hộ chị nhé?
 
 135
-00:08:57,000 --> 00:08:59,385
-bây giờ là nhiệm vụ của tớ.
+10:51,190 --> 10:52,360
+Chờ đã, chờ đã.
+
+136
+10:52,650 --> 10:57,490
+Viện Cứu Tế Sarendia không phải là bên thứ ba trung lập sao,
+Saren-chan?
+
+137
+10:58,690 --> 11:02,230
+Viện Cứu Tế Sarendia là Guild trực thuộc Princess Knight mà.
+
+138
+11:02,960 --> 11:04,740
+Về lập trường thì, tôi ở phe đó.
+
+139
+11:05,740 --> 11:10,340
+Chỉ khi tiến lại gần phía Thú nhân,
+chúng ta mới có thể đạt được sự công bằng, đúng không?
+
+140
+11:11,540 --> 11:13,440
+Nói một câu lại cãi một câu...
+
+141
+11:14,240 --> 11:16,230
+Miệng lưỡi sắc sảo thật, từ xưa đã vậy.
+
+142
+11:17,330 --> 11:19,850
+Ta vụng về ăn nói, nên ghen tị lắm đấy.
+
+143
+11:20,530 --> 11:23,940
+Mà thôi, ta cũng mong muốn hòa bình như cậu.
+
+144
+11:24,930 --> 11:30,680
+Chúng ta hãy cùng nhau thận trọng, tỉ mỉ tìm kiếm
+một tương lai mà ai cũng có thể sống trong yên bình.
+
+145
+11:31,440 --> 11:35,760
+Thời gian không phải là vô hạn,
+nhưng chúng ta vẫn còn một chút dư dả.

@@ -351,184 +351,216 @@ Chuyện đó thì, đúng là vậy nhưng...
 Cứ như vậy thì mọi người sẽ không chấp nhận đâu.
 
 89
-00:06:56,500 --> 00:06:59,000
-(Haizz, mệt mỏi quá...)
+00:06:56,500 --> 00:07:03,000
+(Haizz, mệt mỏi quá... Nhưng mà, mình phải cố gắng thôi.)
 
 90
-00:07:00,000 --> 00:07:03,000
-(Nhưng mà, mình phải cố gắng thôi.)
-
-91
 00:07:04,000 --> 00:07:08,000
 (Nếu cứ giải quyết đơn giản bằng tiền bạc,
 thì vụ việc lần này có thể sẽ xong, nhưng...)
 
-92
+91
 00:07:08,000 --> 00:07:12,000
 (Nếu không giải quyết tận gốc,
 chuyện tương tự sẽ lại lặp lại mất.)
 
+92
+00:07:13,000 --> 00:07:16,500
+(Nếu lần sau lại có chuyện tương tự,)
+
 93
-00:07:13,000 --> 00:07:19,000
-(Phải làm sao đó để hướng tình thế đang dẫn đến chiến tranh này sang một hướng hòa bình.)
+00:07:16,500 --> 00:07:20,000
+(lần này có lẽ sẽ thành chiến tranh thật...)
 
 94
-00:07:20,000 --> 00:07:24,500
-(Những Thú nhân sống ở Landsol đã mất một thời gian dài)
+00:07:21,000 --> 00:07:24,500
+(Một cuộc chiến tranh toàn diện giữa con người và Thú nhân.)
 
 95
-00:07:24,500 --> 00:07:29,000
-(mới có thể sống một cuộc sống yên bình.)
+00:07:25,000 --> 00:07:28,000
+(Nếu vậy, sẽ có nhiều máu đổ hơn nữa.)
 
 96
-00:07:30,000 --> 00:07:35,000
-(Họ đã nỗ lực, đã chịu đựng biết bao điều không vui.)
+00:07:29,000 --> 00:07:33,500
+(Mọi người trong Hội Tự Vệ (Caon) thì mình đang xoa dịu, nhưng...)
 
 97
-00:07:35,500 --> 00:07:42,000
+00:07:34,000 --> 00:07:38,500
+(Bọn Thú nhân, cả Vườn Thú đang trong tâm trạng không ngần ngại khai chiến.)
+
+98
+00:07:39,000 --> 00:07:42,500
+(Thú nhân, vốn dĩ khá là nóng tính mà?)
+
+99
+00:07:43,000 --> 00:07:46,500
+(Ghét thật, chuyện này... Mình muốn giải quyết êm đẹp, nhưng...)
+
+100
+00:07:47,000 --> 00:07:51,000
+(Chuyện đã xảy ra rồi thì không thể coi như 'chưa từng có' được.)
+
+101
+00:07:51,500 --> 00:07:56,000
+(Phải làm sao đó để hướng tình thế đang dẫn đến chiến tranh này sang một hướng hòa bình.)
+
+102
+00:07:56,500 --> 00:08:01,000
+(Những Thú nhân sống ở Landsol đã mất một thời gian dài)
+
+103
+00:08:01,000 --> 00:08:04,500
+(mới có thể sống một cuộc sống yên bình.)
+
+104
+00:08:05,000 --> 00:08:08,500
+(Họ đã nỗ lực, đã chịu đựng biết bao điều không vui.)
+
+105
+00:08:09,000 --> 00:08:13,000
 (Mình không thể để quá khứ mà họ đã vun đắp
 bị hủy hoại chỉ vì một sự cố được.)
 
-98
-00:07:43,000 --> 00:07:48,000
+106
+00:08:13,500 --> 00:08:17,000
 (Làm vậy thì, em không còn mặt mũi nào nhìn tổ tiên nữa.)
 
-99
-00:08:49,500 --> 00:08:50,500
-(Nhưng mà.)
+107
+00:08:17,500 --> 00:08:20,500
+(Nhưng mà. Một sứ mệnh lịch sử, to lớn như vậy...)
 
-100
-00:08:51,000 --> 00:08:55,500
-(Một sứ mệnh lịch sử, to lớn như vậy...)
+108
+00:08:21,000 --> 00:08:25,500
+(Gánh nặng này, trách nhiệm này,)
 
-101
-00:08:56,000 --> 00:09:03,500
-(Gánh nặng này, trách nhiệm này, liệu mình có gánh vác nổi không?)
+109
+00:08:26,000 --> 00:08:28,500
+(liệu mình có gánh vác nổi không?)
 
-102
-00:09:04,500 --> 00:09:10,000
+110
+00:08:29,000 --> 00:08:33,500
 (Trong khi mình còn chạy trốn khỏi cả chuyện gia đình của bản thân.)
 
-103
+111
 00:09:14,000 --> 00:09:16,500
 Maho-san. Chuyện này không liên quan, nhưng mà,
 
-104
+112
 00:09:17,000 --> 00:09:19,500
 việc điều tra về Shadow có tiến triển gì không ạ?
 
-105
+113
 00:09:20,500 --> 00:09:27,000
 Hở? À, Kasumi-han trong guild của em đang điều tra đó ạ.
 
-106
+114
 00:09:28,500 --> 00:09:33,500
 Hiện tại, có vẻ như Shadow chỉ được nhìn thấy trong thị trấn thôi.
 
-107
+115
 00:09:34,500 --> 00:09:37,000
 Nếu chị thực sự cảm thấy nguy hiểm,
 
-108
+116
 00:09:37,500 --> 00:09:41,500
 em nghĩ sơ tán ra ngoài thị trấn là tốt nhất đó ạ.
 
-109
+117
 00:09:42,500 --> 00:09:44,500
 Ừm~ Có lẽ đó là ý hay.
 
-110
+118
 00:09:45,500 --> 00:09:49,000
 Bọn trẻ nhà tôi đang rất sợ hãi.
 
-111
+119
 00:09:50,000 --> 00:09:56,000
 Cho đến khi việc điều tra về Shadow có tiến triển... có lẽ tôi nên cho chúng sơ tán đến một nơi an toàn nào đó?
 
-112
+120
 00:09:57,500 --> 00:10:01,500
 Nếu được thì em giới thiệu nơi sơ tán cho chị nhé?
 
-113
+121
 00:10:02,000 --> 00:10:05,500
 Có một guild thân thiết với Hội Tự Vệ (Caon) của em,
 
-114
+122
 00:10:05,500 --> 00:10:08,500
 tên là Trang Trại (Elizabeth Park) đó ạ.
 
-115
+123
 00:10:09,500 --> 00:10:14,500
 Họ sống an toàn và yên bình ở sâu trong núi, cách xa thị trấn.
 
-116
+124
 00:10:15,500 --> 00:10:21,000
 Guild Master ở đó là một Người, nhưng cũng rất thân với các Thú nhân.
 
-117
+125
 00:10:22,000 --> 00:10:25,000
 Em nghĩ đó là một vùng an toàn, trung lập đó ạ.
 
-118
+126
 00:10:27,000 --> 00:10:29,500
 Ừm~ Nghe có vẻ tốt đấy.
 
-119
+127
 00:10:30,500 --> 00:10:33,500
 Có thể sẽ làm phiền chị, nhưng chị giới thiệu cho tôi được không?
 
-120
+128
 00:10:34,500 --> 00:10:37,500
 Chị còn đang giúp điều tra về Shadow nữa...
 
-121
+129
 00:10:38,000 --> 00:10:40,500
 Tôi cảm thấy mang ơn chị rất nhiều.
 
-122
+130
 00:10:41,500 --> 00:10:43,500
 Tôi đồng ý với ý định của Maho-san.
 
-123
+131
 00:10:44,000 --> 00:10:47,500
 Tôi cũng muốn tránh chiến tranh, nên tôi sẽ ủng hộ chị nhé?
 
-124
+132
 00:10:51,000 --> 00:10:57,500
 Khoan, khoan đã. Viện Cứu Tế Sarendia không phải là bên thứ ba trung lập sao, Saren-chan?
 
-125
+133
 00:10:58,500 --> 00:11:02,000
 Viện Cứu Tế Sarendia là Guild dưới trướng của Princess Knight mà.
 
-126
+134
 00:11:02,500 --> 00:11:04,500
 Về lập trường thì, chúng tôi ở phe đó.
 
-127
+135
 00:11:05,500 --> 00:11:10,500
 Bằng cách tiến lại gần phía Thú nhân, mọi chuyện mới trở nên công bằng, phải không?
 
-128
+136
 00:11:11,500 --> 00:11:13,500
 Nói một câu là cãi lại một câu...
 
-129
+137
 00:11:14,000 --> 00:11:16,000
 Cô vẫn luôn lanh miệng như vậy từ xưa.
 
-130
+138
 00:11:17,000 --> 00:11:19,500
 Tôi thì vụng về ăn nói, nên ghen tị lắm đấy.
 
-131
+139
 00:11:20,500 --> 00:11:24,500
 Thôi được rồi, tôi cũng mong muốn hòa bình.
 
-132
+140
 00:11:25,500 --> 00:11:30,500
 Chúng ta hãy cẩn trọng và tỉ mỉ tìm kiếm một tương lai mà ai cũng có thể sống yên ổn.
 
-133
+141
 00:11:31,000 --> 00:11:35,500
 Thời gian không phải là vô hạn, nhưng chúng ta vẫn còn một chút thời gian.

@@ -1,414 +1,654 @@
 1
-00:01,450 --> 00:02,850
-(Nền hòa bình bị đe dọa)
+00:00:00,800 --> 00:00:02,500
+(Lòng dũng cảm ở trong mỗi người)
 
 2
-00:03,800 --> 00:06,600
-Chúng tôi đã xuất sắc đánh lui lũ quái vật đang tấn công Rin.
+00:00:04,100 --> 00:00:05,800
+Tooryaaaaa!
 
 3
-00:07,300 --> 00:10,200
-Cứ thế, theo lời mời của Rin,
-chúng tôi để cô ấy kéo tay dẫn đến nông trại.
+00:00:10,000 --> 00:00:11,500
+(Elizabeth Park)
 
 4
-00:10,500 --> 00:12,200
-Ở đó, thứ mà chúng tôi nhìn thấy là...
+00:00:11,600 --> 00:00:12,800
+Vâng, đến nơi rồi!
 
 5
-00:14,350 --> 00:16,000
-Uwa? Chuyện này...
+00:00:14,000 --> 00:00:17,500
+Bằng cách nào đó, chúng ta đã đến được
+nơi phát tín hiệu cầu cứu rồi đó~☆
 
 6
-00:16,500 --> 00:19,000
-rốt cuộc là sao vậy ạ?
+00:00:17,900 --> 00:00:19,900
+> Tuyệt vời!
+> Cậu có bị thương không?
 
 7
-00:20,000 --> 00:23,500
-Cảm giác như quái vật đang lấp đầy cả tầm mắt vậy nhỉ~
+00:00:20,300 --> 00:00:22,300
+Ahaha. Cậu nói cứ như người ngoài cuộc vậy.
 
 8
-00:24,000 --> 00:27,500
-Với tôi thì đây không phải là tình huống hiếm gặp gì đâu nhưng...
+00:00:23,300 --> 00:00:25,500
+Chẳng phải cậu cũng đã rất năng nổ sao,
 
 9
-00:28,500 --> 00:31,500
-số lượng quái vật có hơi nhiều bất thường nhỉ.
+00:00:26,000 --> 00:00:29,500
+còn dùng sức mạnh đáng ngờ đó
+để cường hóa cho chúng tôi nữa...♪
 
 10
-00:32,300 --> 00:33,800
-Tôi xin xác nhận một chút.
+00:00:30,500 --> 00:00:32,800
+...Khoan đã, không được lơ là cảnh giác nhỉ.
 
 11
-00:34,500 --> 00:39,000
-Ở cái (Nông trại Elizabeth Park) này,
-mọi người có nuôi quái vật không vậy ạ?
+00:00:33,500 --> 00:00:36,500
+Umm, người đang cần giúp đỡ ơi~?
 
 12
-00:40,500 --> 00:41,500
-Không có đâu~
+00:00:37,000 --> 00:00:39,800
+Mọi người ở đâu ạ,
+chúng tôi đến cứu đây~?
 
 13
-00:42,000 --> 00:43,500
-Chỉ có động vật bình thường thôi.
+00:04:42,800 --> 00:04:44,800
+Á! C-Cái gì?
 
 14
-00:44,500 --> 00:46,500
-Đây chỉ là một nông trại bình thường thôi.
+00:04:45,000 --> 00:04:46,000
+Ngươi là ai?
 
 15
-00:47,000 --> 00:49,500
-Dù cũng có nuôi vài con quái vật...
+00:04:47,000 --> 00:04:51,000
+Hửm? Ừm, là... ma vật sao ạ?
 
 16
-00:50,500 --> 00:53,000
-nhưng về cơ bản, đây là một nông trại bình thường.
+00:04:52,500 --> 00:04:54,500
+Nhưng mà, cô vừa nói tiếng người mà phải không?
 
 17
-00:54,500 --> 00:56,500
-Aaa, sao lại ra nông nỗi này chứ?
+00:04:55,000 --> 00:04:59,500
+Về cơ bản thì ma vật hầu như
+không thể hiểu được ngôn ngữ của con người mà nhỉ~?
 
 18
-00:57,500 --> 1:01,000
-H-Hôm qua vẫn còn bình thường mà!
+01:01,500 --> 01:03,500
+Thất lễ, ta không phải ma vật!
 
 19
-1:02,500 --> 1:04,500
-Tớ, hôm nay lại ngủ nướng mất...
+01:04,500 --> 01:07,000
+Dù bị hiểu lầm cũng đành chịu thôi~
 
 20
-1:05,500 --> 1:09,000
-Đến trưa mới dậy thì đã thấy cảnh này!
+01:07,800 --> 01:10,500
+Dù thế này nhưng tâm hồn ta là của con người đó?
 
 21
-1:09,500 --> 1:12,000
-T-Tớ không hiểu gì hết!
+01:13,000 --> 01:15,000
+Rima~ Cậu không sao chứ?
 
 22
-1:13,000 --> 1:15,500
-Rima bảo tớ đi gọi người giúp...
+01:16,000 --> 01:17,800
+Mừng quá...♪
 
 23
-1:15,500 --> 1:18,500
-nên tớ đã vội vàng xuống núi.
+01:19,500 --> 01:21,000
+Ara, Rin-chan!
 
 24
-1:18,500 --> 1:22,000
-*hức*, rồi gặp được mọi người đó~!
+01:21,500 --> 01:26,500
+Chẳng phải cậu đi gọi người giúp sao,
+về sớm thế?
 
 25
-1:22,500 --> 1:27,000
-Mọi người khác vẫn còn bị kẹt lại trong nông trại!
+01:27,800 --> 01:29,800
+Ừm, tại tớ gặp được cậu ta trên đường núi!
 
 26
-1:28,000 --> 1:30,000
-C-Cứu với~!
+01:32,800 --> 01:35,000
+À, cả người màu mè kia cũng là đồng minh đó!
 
 27
-1:31,000 --> 1:33,500
-Xin cậu đó, tớ sẽ làm bất cứ điều gì!
+01:36,000 --> 01:38,500
+Họ đến để cứu chúng ta đó~?
 
 28
-1:34,500 --> 1:38,000
-Nè, tớ sẽ cho cậu quả sồi quý giá nhất của tớ...!
+01:40,500 --> 01:42,000
+Vậy sao?
 
 29
-1:40,000 --> 1:41,000
-(Núi Oral ~Sườn núi~)
+01:42,200 --> 01:44,800
+Ara, đúng là có cả Yuuki-kun thật! Yahhoo~♪
 
 30
-1:41,500 --> 1:44,800
-A, quả sồi, ngon lắm nhỉ.
+01:45,500 --> 01:46,500
+> Yahhoo.
 
 31
-1:45,500 --> 1:48,800
-Nhất là dạo gần đây, chúng còn được cải tiến giống nữa...
+01:47,500 --> 01:52,000
+Ahaha. Yuuki-kun quen biết rộng thật đấy nhỉ...?
 
 32
-1:49,500 --> 1:52,500
-Thôi nào, cậu hãy bình tĩnh lại đi, tôi sẽ làm gì đó.
+01:53,500 --> 01:56,000
+Dù sao thì, lúc nãy tôi đã thất lễ, xin lỗi cô.
 
 33
-1:55,200 --> 1:58,000
-Kuria-kun, cậu là người quen của Rin-chan đúng không?
+01:57,000 --> 01:59,000
+Cô là người của (Nông Trại Elizabeth Park) ạ?
 
 34
-1:58,500 --> 1:59,500
-Ừm. Là bạn bè.
+02:00,500 --> 02:02,800
+Ừm, chỉ là một kẻ ăn nhờ ở đậu thôi.
 
 35
-2:00,500 --> 2:01,500
-Vậy sao~.
+02:04,500 --> 02:07,500
+Ta đã tập hợp mọi người lại
+và trốn vào chuồng ngựa này.
 
 36
-2:02,000 --> 2:06,500
-Vậy thì trong lúc bảo vệ cô bé này,
-cậu hãy nhanh chóng đến Landosol gọi cứu viện nhé.
+02:08,500 --> 02:13,000
+Chuyện xảy ra đột ngột quá, nên khó mà
+thoát khỏi khuôn viên nông trại được.
 
 37
-2:07,000 --> 2:10,500
-Tôi sẽ đi giải cứu những người còn bị kẹt lại trong nông trại.
+02:14,800 --> 02:18,000
+Chỉ có mình tớ ngủ nướng nên còn ở nhà trọ...
 
 38
-2:11,000 --> 2:15,000
-Đúng là quái vật có hơi nhiều,
-nên sẽ hơi vất vả một chút...
+02:19,000 --> 02:25,800
+nên không bị đám ma vật đang tiến đến chuồng ngựa
+chặn đường lui, thế là trốn thoát được.
 
 39
-2:15,000 --> 2:17,500
-nhưng mà, chắc sẽ ổn thôi ạ♪
+02:27,500 --> 02:31,500
+Ừm. Ta đã nghĩ là dù chỉ mình Rin-chan thôi
+cũng phải trốn thoát được.
 
 40
-2:19,500 --> 2:21,500
-A, tớ cũng sẽ chiến đấu!
+02:32,500 --> 02:34,800
+Vậy mà cậu lại quay lại, Rin-chan.
 
 41
-2:22,500 --> 2:27,500
-Vốn dĩ việc canh gác (Nông trại Elizabeth Park)
-là nhiệm vụ của tớ mà!
+02:35,500 --> 02:36,800
+Cậu bé này thật kỳ lạ.
 
 42
-2:28,500 --> 2:31,000
-Vậy mà, tớ chỉ toàn lười biếng rong chơi.
+02:37,500 --> 02:41,800
+Lúc nào cũng trốn việc phiền phức, vậy mà.
 
 43
-2:32,000 --> 2:35,500
-Ngay cả hôm nay, cũng thản nhiên ngủ nướng...
+02:43,500 --> 02:47,500
+Tớ cũng biết lúc nào không được phép bỏ chạy chứ...
 
 44
-2:36,000 --> 2:40,500
-Mọi người ở (Nông trại Elizabeth Park)
-đã giúp đỡ tớ rất nhiều vậy mà!
+02:48,500 --> 02:55,500
+Mọi người ở (Nông Trại Elizabeth Park) đều là gia đình mà,
+tớ không muốn bỏ rơi họ đâu.
 
 45
-2:41,500 --> 2:45,000
-Mọi người đều ổn cả chứ, không có ai chết đâu nhỉ?
+02:57,500 --> 02:58,800
+...Là gia đình sao.
 
 46
-2:46,500 --> 2:49,000
-Không biết nữa, tôi cũng mong là họ bình an.
+03:00,500 --> 03:03,500
+Điều đó quan trọng lắm,
+phải liều mạng để bảo vệ.
 
 47
-2:50,500 --> 2:54,500
-Nhưng mà, xung quanh toàn là quái vật...
-nên tầm nhìn không rõ ràng lắm.
+03:04,500 --> 03:09,800
+Dù sao thì, tôi sẽ làm mồi nhử và gây náo loạn,
+trong lúc đó mọi người hãy sơ tán đi.
 
 48
-2:55,500 --> 2:58,000
-Mọi thứ đều hỗn loạn cả lên.
+03:10,500 --> 03:13,500
+Không hiểu sao tôi rất dễ bị ma vật nhắm tới...
 
 49
-2:59,000 --> 3:00,000
-(Gọi Pecorine.)
+03:14,000 --> 03:18,500
+Nếu tôi thu hút chúng, chắc chắn sẽ tạo ra được
+kẽ hở để mọi người trốn thoát.
 
 50
-3:02,500 --> 3:04,000
-Hửm? Có chuyện gì vậy, Kuria-kun?
+03:20,500 --> 03:22,500
+N-Nhưng mà như thế...?
 
 51
-3:04,500 --> 3:06,500
-Kuria-kun cũng muốn chiến đấu sao?
+03:22,800 --> 03:25,800
+Cô sẽ gặp nguy hiểm lắm đó, sẽ chết mất!
 
 52
-3:08,500 --> 3:13,000
-Hừm. Vì cậu lo lắng cho mọi người
-ở (Nông trại Elizabeth Park)... à?
+03:27,500 --> 03:33,500
+Ahaha. Vì hy sinh tính mạng để bảo vệ người dân,
+vốn dĩ là vai trò của "chúng tôi" mà.
 
 53
-3:13,500 --> 3:16,500
-Ahaha, yếu ớt thế mà~...
+03:34,500 --> 03:37,000
+...Những người sống sót, tất cả đều ở đây phải không ạ?
 
 54
-3:17,500 --> 3:22,500
-Mà, để con gái chiến đấu một mình rồi co giò bỏ chạy
-thì cũng mất mặt đàn ông lắm nhỉ.
+03:37,800 --> 03:39,500
+Có ai bị kẹt lại không?
 
 55
-3:23,500 --> 3:29,500
-Với lại... quái vật lúc nhúc nhiều thế này,
-việc thoát ra cũng có vẻ khó khăn nhỉ~
+03:42,500 --> 03:44,800
+Hả? Mahiru và Shiorin không có ở đây!
 
 56
-3:30,500 --> 3:34,500
-Cả hai người, ở bên cạnh tôi có lẽ sẽ an toàn hơn đó.
+03:46,800 --> 03:51,000
+Ừm. Mahiru-chan nói là lo cho mấy bạn bò,
+bạn cừu được nuôi ở nông trại này...
 
 57
-3:35,500 --> 3:37,500
-Đừng rời xa tôi, hãy đi theo tôi nhé!
+03:51,500 --> 03:54,500
+nên đã đi về phía đồng cỏ.
 
 58
-3:38,000 --> 4:02,500
-Tôi sẽ quậy tưng bừng một chút đó~
-Cẩn thận đừng để bị vạ lây nhé♪
+03:58,000 --> 04:01,500
+Với con bé, các bạn động vật cũng là gia đình.
 
 59
-4:03,800 --> 4:06,500
-Uwah, người này mạnh ghê ta?
+04:02,500 --> 04:09,500
+Còn Shiori-chan thì... với vẻ mặt đầy quyết tâm,
+đã lao vào giữa bầy ma vật rồi.
 
 60
-4:07,000 --> 4:10,000
-Lũ quái vật bị thổi bay hết cả đám...!
+04:10,500 --> 04:15,500
+Nói rằng bảo vệ sự bình yên của nông trại
+là sứ mệnh của mình.
 
 61
-4:10,500 --> 4:14,500
-Cậu quen biết một người ghê gớm thật đấy nhỉ~?
+04:17,500 --> 04:22,500
+Không phải... Vốn dĩ đó là vai trò của tớ mà.
 
 62
-4:15,500 --> 4:18,500
-Oái, tớ cũng không thể lơ là được.
+04:23,500 --> 04:29,500
+Shiorin chỉ là thấy tớ hay lười biếng nên không đành lòng,
+mới giúp một tay thôi mà.
 
 63
-4:19,500 --> 4:23,500
-Đúng là bốn phương tám hướng... toàn là quái vật.
+04:31,500 --> 04:34,000
+Vì Shiori-chan rất nghiêm túc mà...
 
 64
-4:25,500 --> 4:29,500
-Hửm? Rin-chan Rin-chan,
-cậu có thấy khói bốc lên ở đằng kia không?
+04:34,800 --> 04:39,000
+Với lại, con bé đã nhặt một bé ma vật về nuôi mà,
+phải không?
 
 65
-4:30,000 --> 4:32,000
-Ở đó có gì vậy ạ?
+04:39,500 --> 04:42,500
+Đặt tên là Nyatto.
 
 66
-4:35,500 --> 4:38,000
-Ở đó có chuồng ngựa...
+04:43,500 --> 04:47,000
+Lần này, bầy ma vật tấn công nông trại...
 
 67
-4:38,500 --> 4:42,000
-Khói có màu lạ quá, có khi là tín hiệu gì đó?
+04:47,500 --> 04:51,500
+con bé nghĩ là chúng đến để đòi lại Nyatto.
 
 68
-4:43,000 --> 4:45,000
-Là gì ấy nhỉ...?
+04:52,500 --> 04:56,000
+Nên con bé nghĩ đó là trách nhiệm của mình,
+đã ôm Nyatto đi về phía bầy ma vật.
 
 69
-4:45,500 --> 4:52,000
-Trong buổi huấn luyện của (Đội Tự Vệ Kaon),
-hình như tớ có được dạy về các loại pháo hiệu thì phải?
+04:56,500 --> 05:06,500
+Nghĩ rằng nếu giao Nyatto ra,
+chúng sẽ đạt được mục đích và bỏ đi.
 
 70
-4:53,500 --> 4:56,000
-Ừm~, ừm~?
+05:08,000 --> 05:11,000
+Không, tớ nghĩ không liên quan đến Nyatto đâu...
 
 71
-4:57,500 --> 4:59,500
-A, đúng rồi, là tín hiệu cầu cứu!
+05:12,000 --> 05:15,500
+Đám ma vật tấn công có đủ loại chủng tộc khác nhau mà.
 
 72
-5:00,500 --> 5:04,500
-Có vẻ như có ai đó đang cầu cứu ở đằng kia?
+05:16,500 --> 05:22,500
+Cảm giác chúng không có mục đích mà chỉ đang
+phá phách lung tung, hơn là tìm kiếm thứ gì đó.
 
 73
-5:05,500 --> 5:11,500
-Rõ rồi ạ~ Vậy thì, trước mắt cứ nhắm thẳng
-hướng có khói mà tiến lên thôi!
+05:26,500 --> 05:29,000
+Ừ ừ! Đúng như Rinrin nói đó!
 
 74
-5:12,000 --> 5:16,500
-Một, hai, ba... Nào, let's go~☆
+05:30,000 --> 05:34,500
+Bọn ma vật, có vẻ chỉ đang phá phách
+mọi thứ chúng thấy một cách bừa bãi thôi.
 
 75
-5:22,000 --> 5:23,000
-(Rừng Mysterion)
+05:35,000 --> 05:38,500
+Nếu né tránh khéo léo thì
+cũng không nguy hiểm đến thế đâu, phải không?
 
 76
-5:25,500 --> 5:26,500
-(......)
+05:39,500 --> 05:45,000
+Oa, Mahiru! Mừng quá, cậu vẫn còn sống♪
 
 77
-5:28,500 --> 5:32,000
-Haa~... Haa, haa!
+05:46,500 --> 05:51,000
+Ahaha. Tớ không thể chết mà bỏ lại
+các bạn động vật và mọi người được đâu♪
 
 78
-5:32,500 --> 5:35,500
-Chết tiệt, không thể kiểm soát được! Tại sao chứ?
+05:52,000 --> 05:58,500
+Các bạn động vật thì, tớ nghĩ thà vậy còn hơn là chết...
+nên đã thả chúng đi về phía đường núi.
 
 79
-5:36,500 --> 5:39,000
-Chết tiệt, mình đâu có định làm thế này!
+05:59,000 --> 06:03,000
+Nếu may mắn, chúng sẽ trốn thoát
+và được các làng mạc gần đó bảo vệ.
 
 80
-5:39,500 --> 5:42,000
-Chẳng suôn sẻ gì cả, sẽ bị Bệ hạ mắng mất~!
+06:04,000 --> 06:08,500
+Dù sau khi mọi chuyện xong xuôi, chúng ta sẽ phải
+đi tìm và đưa chúng về an toàn.
 
 81
-5:42,500 --> 5:46,000
-Không muốn, mình không muốn lại bị trừng phạt đâu...!
+06:09,500 --> 06:16,500
+Mà, các bạn động vật ở nông trại của tớ đều khỏe mạnh
+và cứng cáp lắm, sẽ không bị ma vật làm hại đâu.
 
 82
-5:46,500 --> 5:53,500
-(Tiana... không phải, Pecorine và Kuria, mình định đợi sau khi họ
-vào nông trại rồi mới để lũ quái vật nổi điên cơ mà.)
+06:17,000 --> 06:21,000
+Có vẻ như chỉ có bọn ma vật là
+mất trí và đang nổi điên thôi.
 
 83
-5:54,500 --> 5:59,000
-(Vậy mà trước đó, chúng đã thoát khỏi sự kiểm soát của mình
-và nổi điên lên rồi.)
+06:21,500 --> 06:28,000
+Các bạn động vật đã nghe lời tớ,
+tất cả đều ngoan ngoãn đi sơ tán rồi.
 
 84
-6:00,000 --> 6:04,000
-(Chúng không nghe lệnh của mình, cứ tự do quậy phá.)
+06:29,000 --> 06:32,500
+Giờ chỉ cần mọi người trốn thoát được là tớ yên tâm rồi.
 
 85
-6:04,500 --> 6:11,000
-(Không được, Pecorine thì không nói...
-nhưng mình được lệnh là phải để Kuria sống cơ mà.)
+06:33,000 --> 06:40,000
+Dù các tòa nhà trong nông trại bị phá hủy,
+nhưng còn sống là còn tất cả mà~♪
 
 86
-6:11,500 --> 6:14,500
-(Cả Pecorine nữa, cũng được lệnh là cố gắng bắt sống...)
+06:40,500 --> 06:43,500
+Shioshio cũng, này, vẫn bình an vô sự đó.
 
 87
-6:15,500 --> 6:19,500
-(Không được giết họ, vậy mà lũ quái vật
-hoàn toàn không nghe lời!)
+06:46,000 --> 06:50,500
+Nguy hiểm thật, cậu ấy ngã gục giữa bầy ma vật...
 
 88
-6:20,500 --> 6:24,000
-(Cứ thế này, bọn Kuria... sẽ chết mất.)
+06:51,500 --> 06:55,500
+Nếu tớ không phát hiện và đưa cậu ấy đi,
+chắc đã bị giẫm nát rồi đó?
 
 89
-6:25,000 --> 6:29,500
-(Lấy ít địch nhiều. Dù Pecorine có mạnh đến đâu,
-cũng có giới hạn.)
+06:56,500 --> 06:57,500
+...A.
 
 90
-6:30,000 --> 6:37,500
-(『Trang bị Hoàng gia』 tiêu hao năng lượng quá nhiều.
-Rồi sẽ có lúc cô ta dùng hết calo, kiệt sức và gục ngã.)
+06:59,800 --> 07:05,500
+Shiorin! Đồ ngốc này,
+đừng có liều lĩnh như vậy chứ~...?
 
 91
-6:38,500 --> 6:40,000
-(Và rồi, chết.)
+07:07,000 --> 07:11,500
+X-Xin lỗi... đã làm mọi người lo lắng rồi.
 
 92
-6:41,000 --> 6:44,500
-(Quái vật không phải chỉ có một hai trăm con đâu.)
+07:12,500 --> 07:16,500
+Nhưng em vốn ốm yếu,
+không biết sẽ chết lúc nào.
 
 93
-6:44,500 --> 6:47,500
-(Chỉ với vài người thì không thể nào đối phó được.)
+07:17,500 --> 07:22,000
+Nếu em liều chết để bảo vệ mọi người,
+để mọi người được sống sót...
 
 94
-6:48,000 --> 6:55,500
-(Bọn chúng sẽ chết. Bị giẫm nát, bị xé xác,
-bị ăn tươi nuốt sống mà chết.)
+07:23,000 --> 07:26,800
+thì có lẽ em cũng có giá trị khi được sinh ra.
 
 95
-6:56,000 --> 7:01,000
-(Chẳng phải mình đã biết trước chuyện này rồi sao.
-Rằng một ngày nào đó, mọi chuyện sẽ thành ra thế này.)
+07:29,000 --> 07:34,500
+Thiệt tình. Đừng bao giờ nghĩ đến chuyện ngốc nghếch
+như vậy nữa, Shiori-chan?
 
 96
-7:01,500 --> 7:04,500
-(Vậy mà, tại sao lồng ngực mình lại đau thế này...?)
+07:35,500 --> 07:38,500
+Không cần phải hy sinh bản thân như vậy đâu...
 
 97
-7:05,500 --> 7:09,000
-(Mình đáng lẽ phải là một con búp bê vô cảm cơ mà!)
+07:39,000 --> 07:45,500
+Mọi người ở (Nông Trại Elizabeth Park) đều nghĩ rằng
+việc Shiori-chan được sinh ra là có giá trị mà?
 
 98
-7:10,000 --> 7:15,500
-(Bệ hạ! Con, rốt cuộc vẫn chỉ là
-một món đồ lỗi vô dụng thôi sao...?)
+07:47,000 --> 07:55,500
+Vâng. Em xin lỗi.
+Rima-san, Mahiru-san, Rin-chan, mọi người...
+
+99
+07:56,500 --> 07:58,000
+Ừm.
+
+100
+07:58,500 --> 08:01,000
+Nhưng mà thôi, việc dạy dỗ để sau nhé.
+
+101
+08:02,000 --> 08:04,500
+Trước mắt, chúng ta mau sơ tán thôi?
+
+102
+08:05,500 --> 08:07,500
+Vâng.
+
+103
+08:07,800 --> 08:10,800
+Nếu vậy, em biết hướng nào dễ trốn thoát nhất.
+
+104
+08:11,500 --> 08:14,000
+Em sẽ dẫn đường.
+
+105
+08:14,800 --> 08:20,000
+Có vẻ như bọn ma vật đang phá phách xung quanh
+một "điểm nhất định" trong núi.
+
+106
+08:20,500 --> 08:25,500
+Càng đi xa khỏi đó, em nghĩ sẽ càng an toàn.
+
+107
+08:28,000 --> 08:35,000
+Hừm... Xin lỗi chen ngang,
+"điểm nhất định" đó ở khoảng nào vậy ạ?
+
+108
+08:36,000 --> 08:38,500
+Hành động của bọn ma vật có vẻ không tự nhiên.
+
+109
+08:39,000 --> 08:42,500
+Có khả năng chúng đang bị ai đó
+điều khiển bằng ma pháp.
+
+110
+08:43,000 --> 08:49,000
+Nếu vậy, kẻ đang điều khiển ma vật...
+chắc chắn đang ở trung tâm của dòng chảy ma lực.
+
+111
+08:50,000 --> 08:53,500
+Nếu có gì đáng ngờ,
+thì đó chính là "điểm nhất định" trong núi.
+
+112
+08:54,000 --> 08:58,500
+Nếu bọn ma vật chỉ đơn thuần bị điều khiển, chỉ cần hạ gục
+kẻ sử dụng thuật là mọi chuyện sẽ được giải quyết.
+
+113
+08:59,500 --> 09:02,500
+Tôi sẽ đột kích vào đó và hạ gục kẻ đó.
+
+114
+09:03,000 --> 09:06,500
+Cách đó có vẻ dễ hơn là đánh bại tất cả ma vật.
+
+115
+09:07,500 --> 09:12,500
+Nhưng nếu tôi đi hướng đó,
+việc bảo vệ mọi người sẽ trở nên mỏng manh hơn.
+
+116
+09:14,500 --> 09:19,500
+Không sao đâu. Chuyện chạy trốn thì
+bọn tớ cũng làm được.
+
+117
+09:20,000 --> 09:25,500
+Tớ thì không nói... nhưng Rima, Mahiru
+và Shiorin đều mạnh mà.
+
+118
+09:28,000 --> 09:34,500
+Rin-chan cũng là người mạnh mẽ...
+Dù có thể chạy trốn nhưng cậu vẫn quay lại mà.
+
+119
+09:36,500 --> 09:42,500
+Hừm... Yuuki-kun, cậu hãy cùng mọi người ở
+(Nông Trại Elizabeth Park) đi sơ tán nhé.
+
+120
+09:43,500 --> 09:48,500
+Tôi sẽ vừa gây náo loạn để thu hút địch,
+vừa đi xử lý kẻ có vẻ đang điều khiển ma vật.
+
+121
+09:49,500 --> 09:51,500
+Lúc mới gặp Yuuki-kun cũng vậy.
+
+122
+09:52,000 --> 09:55,500
+Chuyện như thế này với tôi không có gì lạ cả đâu.
+
+123
+09:56,000 --> 09:58,500
+Bị một lượng lớn ma vật tấn công ấy.
+
+124
+09:59,000 --> 10:07,000
+Nếu không giải quyết tận gốc, chuyện này sẽ cứ lặp đi lặp lại mãi...
+Tôi muốn giải quyết gọn gàng chuyện này ở đây.
+
+125
+10:07,500 --> 10:11,500
+Tôi đâu phải công chúa trong truyện cổ tích
+như Bạch Tuyết.
+
+126
+10:12,000 --> 10:14,500
+Tôi đã quá chán ngán việc bị nhắm vào tính mạng rồi.
+
+127
+10:15,500 --> 10:20,500
+Tôi muốn sống một cuộc sống yên bình, vô tư lự...
+ăn những món ngon.
+
+128
+10:21,500 --> 10:26,000
+Với lại, tôi luôn ăn những ma vật
+mình đã hạ gục.
+
+129
+10:26,500 --> 10:29,500
+Ngày nào cũng bị tấn công dai dẳng thế này...
+
+130
+10:30,000 --> 10:35,000
+Mỗi lần như vậy lại hạ gục rồi ăn ma vật,
+đến tôi cũng bị khó tiêu mất.
+
+131
+10:38,500 --> 10:41,000
+Ừm. Vậy, chúng ta cứ theo hướng đó đi.
+
+132
+10:42,000 --> 10:46,500
+Yuuki-kun thì thôi,
+nhưng cô bé kia là ai thì tớ không biết.
+
+133
+10:47,000 --> 10:49,500
+Phần giới thiệu để sau nhé~?
+
+134
+10:50,000 --> 10:53,000
+Việc tốt không nên trì hoãn, hành động ngay thôi!
+
+135
+10:53,500 --> 10:56,000
+Một, hai, ba~ xuất phát nào?
+
+136
+10:57,000 --> 10:58,500
+Đi theo tớ!
+
+137
+10:59,500 --> 11:05,000
+Nông trại này như sân nhà của tớ vậy,
+tớ biết rõ từng chỗ lõm trên mặt đất!
+
+138
+11:05,500 --> 11:09,000
+Nào đi thôi~ Một, hai, ba~
+
+139
+11:16,800 --> 11:20,500
+Nào đi thôi! Một, hai, ba!
+
+140
+11:42,300 --> 11:43,300
+Rin-chan nguy hiểm!
+
+141
+11:43,500 --> 11:44,000
+Ha!
+
+142
+12:02,500 --> 12:04,500
+Em sẽ yểm trợ, Mahiru-san.
+
+143
+12:05,500 --> 12:08,000
+...Dù chỉ một mình, em cũng sẽ không để chị chết.
+
+144
+12:10,500 --> 12:13,000
+Shiori-chan, leo lên lưng ta đi!
+
+145
+12:13,500 --> 12:16,500
+Thiệt tình, cậu đang loạng choạng kìa?
+
+146
+12:17,000 --> 12:20,500
+À, còn Rin-chan thì tự đi bộ nhé~♪
+
+147
+12:22,500 --> 12:24,000
+Ể~...
+
+148
+12:25,000 --> 12:26,500
+Thôi, cũng được.
+
+149
+12:27,000 --> 12:31,500
+Thỉnh thoảng, tớ cũng phải nghiêm túc chứ nhỉ~?

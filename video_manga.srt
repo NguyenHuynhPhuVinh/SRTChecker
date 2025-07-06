@@ -1,269 +1,315 @@
 1
-00:00:05,250 --> 00:00:06,550
-<i>*Hộc... hộc...*</i>
+00:00,380 --> 00:04,380
+(Sau giờ học, Miko đang dẫn Suisei đi tham quan trong trường.)
 
 2
-00:10,150 --> 00:12,020
-Kịp... Kịp giờ rồi~!
+00:05,430 --> 00:06,830
+Đây là! Phòng Âm nhạc đó!
 
 3
-00:12,020 --> 00:13,850
-(Học viện Hololive, Năm 1, Omaru Polka)
+00:07,170 --> 00:09,170
+(Nhìn kiểu gì cũng ra phòng Mỹ thuật mà nhỉ.)
 
 4
-00:13,850 --> 00:14,650
-<i>*Phù...*</i>
+00:09,580 --> 00:10,480
+<i>*Gào*</i> Phòng Thư viện!
+(Phòng Âm nhạc)
 
 5
-00:15,000 --> 00:17,700
-Suýt nữa thì gục ngã vì áp suất không khí ngay trong ngày khai giảng rồi.
+00:10,880 --> 00:11,680
+<i>*Gào*</i> Phòng Khoa học!
+(Phòng Thư viện)
 
 6
-00:18,300 --> 00:20,300
-May mà đã cố gắng dậy lúc 4 giờ sáng~
+00:11,980 --> 00:12,980
+<i>*Gào*</i> Phòng Kinh tế gia đình!
+(Lớp học trống)
 
 7
-00:21,200 --> 00:21,700
-Ồ!
+00:13,800 --> 00:14,500
+......
 
 8
-00:22,200 --> 00:24,800
-(Bảng hiệu: Lễ Nhập Học)
-Mấy cái bảng hiệu thế này trông ra dáng sự kiện ghê!
+00:15,100 --> 00:16,600
+Đây là "elite" đó sao~
 
 9
-00:25,200 --> 00:26,500
-Hưng phấn quá đi!
+00:17,000 --> 00:18,300
+Cậu đang chế giễu tớ đấy à!
 
 10
-00:27,200 --> 00:27,700
-Hửm?
+00:18,870 --> 00:21,270
+Sao lại thế chứ!? Bình thường tớ có nhầm đâu!
 
 11
-00:27,800 --> 00:29,800
-(Bảng hiệu: Lễ Nhập Học Trường Tiểu Học Hololive)
+00:21,870 --> 00:22,570
+(Đây là đâu?)
 
 12
-00:31,800 --> 00:32,800
-(Đây là đâu...)
+00:22,870 --> 00:26,170
+Mấy tiết chuyển phòng thì cậu toàn đi theo mọi người thôi, đúng không?
+<i>*Lũ lượt...*</i>
 
 13
-00:33,000 --> 00:34,500
-(Polka xác định trễ học)
+00:27,150 --> 00:28,000
+(Thiên tài...?)
 
 14
-00:38,000 --> 00:39,000
-(Bảng hiệu: Học viện Hololive)
+00:28,000 --> 00:28,700
+(Đúng là vậy thật...)
 
 15
-00:39,800 --> 00:42,500
-(Lớp 3-B)
-Nào các em, hôm nay chúng ta sẽ giới thiệu một học sinh chuyển trường.
+00:28,850 --> 00:31,350
+À~, ừm, chắc vậy đó~
 
 16
-00:43,400 --> 00:45,200
-Mình đến từ Học viện Inonaka.
+00:33,020 --> 00:34,820
+Thôi thì tớ sẽ nhớ dần đường trong trường sau vậy.
 
 17
-00:45,200 --> 00:47,800
-Tên là Hoshimachi Suisei. Rất mong được giúp đỡ.
+00:35,320 --> 00:36,820
+Cảm ơn vì đã dẫn đường hôm nay nhé.
 
 18
-00:48,200 --> 00:49,500
-(Học viện Hololive, Năm 3, Hoshimachi Suisei)
-
-19
-00:50,300 --> 00:51,500
-Để xem nào, chỗ ngồi thì...
-
-20
-00:51,700 --> 00:52,800
-<i>*Phắt*</i>
-Thưa cô, thưa cô!
-
-21
-00:53,400 --> 00:55,800
-Chỗ này! Chỗ của Miko còn trống đây ạ!
-
-22
-00:56,500 --> 00:58,000
-Hoshimachi-san, em ngồi ở đó được không?
-
-23
-00:58,400 --> 00:59,300
-Ở đâu cũng được ạ.
-
-24
-01:00,300 --> 01:00,900
-Rất mong được giúp đỡ.
-
-25
-01:01,400 --> 01:03,800
-Mình là Sakura Miko đó! Rất vui được làm quen nha!
-
-26
-01:04,000 --> 01:05,500
-(Học viện Hololive, Năm 3, Sakura Miko)
-
-27
-01:06,400 --> 01:09,000
-Nè nè, sau giờ học cậu có rảnh không?
-Để mình dẫn cậu tham quan trường!
-
-28
-01:09,500 --> 01:10,300
-Ơ, nhưng mà...
-
-29
-01:11,200 --> 01:12,000
-Được mà, được mà!
-
-30
-01:13,000 --> 01:16,000
-Để Miko ưu tú này dẫn đường cho mà xem...
-
-31
-01:16,200 --> 01:18,500
-(Trông có vẻ ngốc nghếch nhỉ...)
-
-32
-01:19,200 --> 01:21,000
-<i>*Nhìn chằm chằm...*</i>
-
-33
-01:21,800 --> 01:24,000
-Hả, c-có chuyện gì vậy? Cậu nhìn mình kỹ quá đó~
-
-34
-01:24,500 --> 01:25,800
-Không... không phải là ngược rồi sao?
-
-35
-01:26,000 --> 01:27,500
-Mặt trong mặt ngoài ấy.
-(Mác áo) (Đường may)
-
-36
-01:27,900 --> 01:29,000
-<i>*Gừưưư!?*</i>
-
-37
-01:29,000 --> 01:30,000
-Sakura-san, trật tự nào!!
-
-38
-01:30,300 --> 01:31,200
-(Đúng là ngốc mà.)
-
-39
-01:33,000 --> 01:33,800
-<i>*Uỳnh*</i>
-
-40
-01:34,300 --> 01:35,000
-<i>*Ngoạm*</i>
-
-41
-01:35,500 --> 01:37,800
-(Học viện Hololive, Năm 2, Shirogane Noel)
-Ừm~
-
-42
-01:38,400 --> 01:39,800
-Hôm nay cậu cũng ăn nhiều ghê nhỉ.
-
-43
-01:40,000 --> 01:41,500
-(Học viện Hololive, Năm 2, Shiranui Flare)
-
-44
-01:42,400 --> 01:44,000
-Ăn cái này là sung sức nhất đó.
-
-45
-01:44,000 --> 01:45,200
-Flare cũng muốn một miếng không?
-
-46
-01:45,700 --> 01:46,300
-A~
-
-47
-01:46,500 --> 01:47,800
-(Một miếng mà to quá.)
-
-48
-01:50,000 --> 01:51,800
-Noel, hôm nay sau giờ học cậu cũng đi sinh hoạt câu lạc bộ à?
-
-49
-01:52,400 --> 01:55,500
-Đúng vậy đó~ Dạo này tớ hơi bận rộn một chút.
-
-50
-01:56,500 --> 01:59,000
-Thỉnh thoảng tớ cũng muốn về cùng Flare lắm nhưng mà...
-
-51
-01:59,800 --> 02:01,800
-<i>*Liếc*</i>
-
-52
-02:03,500 --> 02:04,500
-Hửm? Flare...?
-
-53
-02:05,000 --> 02:06,500
-Mà này, tụi mình cũng lên năm hai rồi nhỉ?
-
-54
-02:07,300 --> 02:10,000
-Tớ đã bỏ lỡ thời điểm tham gia câu lạc bộ rồi,
-
-55
-02:10,000 --> 02:13,200
-nhưng tớ cũng đang nghĩ muốn làm gì đó.
-
-56
-02:15,800 --> 02:17,500
-(...!! Không lẽ Flare cũng muốn vào câu lạc bộ Kendo,)
-
-57
-02:17,500 --> 02:18,500
-(vào câu lạc bộ của mình sao...!?)
-
-58
-02:19,300 --> 02:21,800
-Đội trưởng lúc nào cũng sẵn sàng giúp sức đó nha!
-
-59
-02:22,000 --> 02:23,000
-<i>*Hừm hừm hừm hừm*</i>
-
-60
-02:23,000 --> 02:24,800
-Ơ, ừm... Cảm ơn cậu...?
-
-61
-02:26,000 --> 02:27,000
+00:37,120 --> 00:37,720
 À...
 
+19
+00:38,520 --> 00:39,520
+<i>*Ủ rũ...*</i>
+
+20
+00:40,220 --> 00:41,220
+......
+
+21
+00:41,920 --> 00:42,520
+O๊ะ!?
+
+22
+00:43,420 --> 00:44,820
+Ể, có chuyện gì...
+
+23
+00:45,420 --> 00:46,220
+Về nhanh thôi.
+
+24
+00:48,020 --> 00:48,720
+A...!
+
+25
+00:50,020 --> 00:51,220
+Nhà cậu ở đâu thế?
+
+26
+00:51,420 --> 00:53,020
+Miko ở đền Sakura gần đây đó!...
+
+27
+00:53,320 --> 00:54,020
+Đền thờ á!?
+
+28
+00:57,800 --> 00:59,500
+(Cùng lúc đó)
+...A.
+
+29
+01:00,100 --> 01:00,700
+Polka!?
+
+30
+01:01,000 --> 01:02,500
+Hửm?
+A!
+
+31
+01:03,100 --> 01:04,500
+Lâu rồi không gặp, từ hồi cấp hai~!
+
+32
+01:04,900 --> 01:06,000
+Chúc mừng chị nhập học nhé!
+
+33
+01:06,200 --> 01:07,500
+Woa! Flare-senpai!
+
+34
+01:07,800 --> 01:10,000
+Em đang định bụng lát nữa sẽ qua chào chị đây!!
+
+35
+01:10,500 --> 01:12,800
+Ể? Noel-senpai đâu rồi ạ? Chị không đi cùng chị ấy à?
+
+36
+01:12,100 --> 01:12,800
+(Thân nhau ghê!)
+
+37
+01:13,300 --> 01:17,500
+Hửm? À... Noel đi sinh hoạt câu lạc bộ rồi...
+Chị thì đang trên đường về.
+
+38
+01:18,300 --> 01:21,000
+Hể~. Flare-senpai mà lại ở trong hội về thẳng nhà, bất ngờ thật đó.
+
+39
+01:21,300 --> 01:22,000
+......
+
+40
+01:22,500 --> 01:24,800
+Ừm... Chị cũng muốn tham gia câu lạc bộ lắm, nhưng mà...
+
+41
+01:25,100 --> 01:28,500
+lại chẳng có gì đặc biệt muốn làm cả...
+nên vẫn đang phân vân...
+
+42
+01:28,800 --> 01:30,500
+Ể?
+Vậy thì,
+
+43
+01:31,000 --> 01:33,300
+sao chúng ta không lập một câu lạc bộ mới đi?
+
+44
+01:34,300 --> 01:35,300
+(Lập mới...)
+
+45
+01:36,400 --> 01:38,800
+Hình như trường này, nếu là hội nhóm hay hội nghiên cứu
+
+46
+01:38,800 --> 01:40,500
+thì có thể lập mà không cần số lượng thành viên, đúng không?
+
+47
+01:41,000 --> 01:43,500
+Nếu mình lập một hội kiểu như
+tụ tập lại rồi quẩy tưng bừng~
+
+48
+01:43,500 --> 01:45,000
+thì sớm muộn gì cũng...
+
+49
+01:45,100 --> 01:45,500
+Po...
+
+50
+01:46,000 --> 01:48,200
+Polka-chan là thiên tài đó! Cùng làm đi!
+
+51
+01:48,800 --> 01:50,200
+Ể!? Polka cũng tham gia á!?
+
+52
+01:51,000 --> 01:51,800
+...Không à...?
+
+53
+01:52,000 --> 01:53,500
+<i>*Nắm chặt*</i>
+Em không ghét đâu nhưng mà...
+
+54
+01:54,000 --> 01:55,500
+<i>*Phựt*</i>
+Polka mà đã vào câu lạc bộ nào...
+
+55
+01:55,500 --> 01:57,500
+...là sẽ cống hiến cả đời ở đó luôn đó!
+
+56
+01:57,500 --> 01:59,800
+Em không có ý định quyết định bừa bãi đâu—!
+
+57
+02:00,000 --> 02:01,000
+<i>*Bụ~~~p*</i>
+
+58
+02:01,000 --> 02:02,800
+(Cùng nhau)
+Cùng làm nhé?
+
+59
+02:03,100 --> 02:05,100
+Em hiểu rồi! Em vào! Em sẽ vào mà!
+
+60
+02:05,700 --> 02:07,000
+Tuyệt vời—!
+
+61
+02:10,200 --> 02:11,800
+...thì đã có chuyện như vậy đó.
+
 62
-02:32,400 --> 02:33,800
-(Câu lạc bộ à...)
+02:13,200 --> 02:14,000
+Thế còn câu lạc bộ Kendo thì sao...?
 
 63
-02:34,500 --> 02:36,800
-Đây là "Hội Nghiên cứu những điều Chưa biết"...
+02:14,400 --> 02:15,500
+Chị đang nói chuyện gì vậy?
 
 64
-02:38,500 --> 02:41,500
-...câu chuyện xảy ra một chút trước khi "Shiraken" được thành lập.
+02:16,000 --> 02:18,000
+(...!! Không lẽ Flare cũng vào câu lạc bộ của mình sao...!?)
+(※Xem lại tập 1)
 
 65
-02:52,000 --> 02:53,500
-(#2 sắp ra mắt...)
+02:18,500 --> 02:20,000
+(...Hiểu lầm rồi Hội trưởng ơi)
 
 66
-02:53,500 --> 02:54,500
-(Hội Nghiên cứu những điều Chưa biết)
+02:21,000 --> 02:23,500
+Thế nên, bây giờ chị đang cùng Polka
+nghĩ xem nên làm gì đây—!
+
+67
+02:24,000 --> 02:25,000
+......
+
+68
+02:26,000 --> 02:26,500
+<i>*Tít*</i>
+
+69
+02:27,200 --> 02:29,200
+<i>*Phịch*</i>
+(Flare trông vui vẻ quá nhỉ.)
+
+70
+02:30,200 --> 02:32,000
+(Câu lạc bộ mới à.)
+
+71
+02:33,000 --> 02:33,800
+Thích thật đó.
+
+72
+02:34,000 --> 02:36,000
+(Hội trưởng cũng muốn làm gì đó ghê~)
+
+73
+02:39,500 --> 02:43,000
+(Hội Nghiên cứu những điều chưa biết)
+
+74
+02:40,500 --> 02:43,000
+(SHIRAKEN! KENKYUUKAI)
+
+75
+02:43,000 --> 02:46,000
+(#3 sắp ra mắt ...)

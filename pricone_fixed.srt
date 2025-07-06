@@ -1,633 +1,534 @@
 1
-00:00:01,000 --> 00:00:05,000
+00:00:01,800 --> 00:00:05,500
 (Chương 4: Trang Trại Tai Ương - Elizabeth Park)
 
 2
-00:00:08,700 --> 00:00:10,200
-(Cuộc họp Guild ba bên ba kiểu)
+00:00:08,800 --> 00:00:10,500
+(Cuộc họp Guild của ba bên)
 
 3
-00:00:12,900 --> 00:00:14,400
-(Landosol ~Nhà Guild~)
+00:00:13,000 --> 00:00:14,500
+(Landsol ~Nhà Guild~)
 
 4
-00:00:16,230 --> 00:00:19,850
-A~... Thiệt là, phát chán lên được.
+00:00:16,300 --> 00:00:19,500
+Haizz... Thật là chán ngấy mà.
 
 5
-00:00:21,680 --> 00:00:25,980
-Ngày nào cũng như ngày nào... tôi phải tất bật xử lý hậu quả
-vụ Christina tấn công nhà Guild của Hội Tự Vệ (Caon).
+00:00:21,500 --> 00:00:25,250
+Ngày nào cũng như ngày nào... phải xử lý hậu quả vụ Christina
 
 6
-00:00:25,980 --> 00:00:28,880
-Thật là xoay sở không kịp.
+00:00:25,250 --> 00:00:28,800
+tấn công Nhà Guild của Hội Tự Vệ (Caon) hôm trước, khiến mình rối tung cả lên.
 
 7
-00:00:29,860 --> 00:00:32,860
-Bên này cũng có rảnh rỗi gì đâu, tha cho tôi đi mà...
+00:00:29,900 --> 00:00:33,000
+Bên này cũng đâu có rảnh rỗi, tha cho mình đi mà...
 
 8
-00:00:33,880 --> 00:00:38,980
-Cứ đà này thì công việc thường ngày của
-Viện Cứu Tế Sarendia cũng sẽ bị ảnh hưởng mất.
+00:00:34,000 --> 00:00:38,800
+Cứ đà này thì công việc thường ngày của Viện Cứu Tế Sarendia cũng sẽ bị ảnh hưởng mất.
 
 9
-00:00:40,280 --> 00:00:43,620
-Viện Cứu Tế Sarendia là nơi sinh sống của bọn trẻ mà.
+00:00:40,500 --> 00:00:43,500
+Viện Cứu Tế Sarendia là nơi sinh sống của bọn trẻ vậy mà.
 
 10
-00:00:44,790 --> 00:00:48,960
-Tôi, chiến lực gần như là duy nhất,
-lại bị quay cuồng với các cuộc họp mỗi ngày,
+00:00:44,500 --> 00:00:48,000
+Mình, chiến lực gần như duy nhất, lại bị vùi đầu
 
 11
-00:00:48,960 --> 00:00:51,550
-khiến việc phòng thủ trở nên lỏng lẻo.
+00:00:48,000 --> 00:00:51,500
+vào các cuộc họp liên miên, khiến cho việc phòng thủ trở nên lỏng lẻo.
 
 12
-00:00:52,530 --> 00:00:57,590
-Nếu bị lũ quái vật như Shadow tấn công như hôm trước
-thì sẽ không đối phó nổi.
+00:00:52,500 --> 00:00:57,500
+Nếu bị tấn công bởi thứ gì đó giống ma vật gọi là Shadow như hôm trước thì không thể đối phó được.
 
 13
-00:00:58,670 --> 00:01:03,630
-Lo quá đi~ Mà mình cũng chẳng có thời gian
-để lãng phí ở đây.
+00:00:58,500 --> 00:01:03,500
+Lo lắng quá đi~ Mình đâu có thời gian để lãng phí ở đây đâu chứ.
 
 14
-00:01:04,900 --> 00:01:10,810
-Tạm thời... tôi đã nhờ Otou-sama
-phái lính gác đến rồi, nhưng mà...
+00:01:04,800 --> 00:01:10,800
+Tạm thời... mình đã nhờ Otou-sama phái lính gác đến rồi, nhưng mà.
 
 15
-00:01:11,540 --> 00:01:14,400
-Otou-sama ấy à,
-đến người nhà mà cũng lấy tiền nữa đó.
+00:01:11,500 --> 00:01:16,500
+Otou-sama ấy à, đến cả người nhà mà cũng lấy tiền nữa. Đúng là cứng đầu mà.
 
 16
-00:01:14,400 --> 00:01:16,620
-Đúng là đồ keo kiệt.
+00:01:17,500 --> 00:01:21,500
+Nếu có thể dùng tiền để mua sự an toàn cho bọn trẻ thì cũng rẻ thôi, nhưng...
 
 17
-00:01:17,540 --> 00:01:21,500
-Nếu có thể dùng tiền mua được sự an toàn cho bọn trẻ
-thì cũng đáng,
+00:01:22,500 --> 00:01:26,500
+cứ thế này thì việc kinh doanh của Viện Cứu Tế Sarendia sẽ lao đao mất.
 
 18
-00:01:22,480 --> 00:01:26,520
-nhưng cứ thế này thì việc kinh doanh của
-Viện Cứu Tế Sarendia sẽ lao dốc mất.
+00:01:27,500 --> 00:01:31,500
+Số người phải nuôi cũng tăng lên, tài chính gia đình đang nguy cấp lắm rồi.
 
 19
-00:01:27,510 --> 00:01:31,480
-Gia đình nuôi dưỡng cũng đông lên,
-kinh tế gia đình đang khó khăn chồng chất.
+00:01:34,800 --> 00:01:37,300
+Sắc mặt cô không được tốt lắm, Saren-chan.
 
 20
-00:01:34,800 --> 00:01:37,280
-Sắc mặt cậu không tốt lắm, Saren-chan.
-
-21
-00:01:38,410 --> 00:01:41,410
+00:01:38,300 --> 00:01:41,300
 ...Xin đừng gọi tôi là "-chan" nữa, Jun-san.
 
+21
+00:01:42,300 --> 00:01:45,000
+Xin lỗi, tôi đã quá suồng sã.
+
 22
-00:01:42,500 --> 00:01:45,130
-Xin lỗi, ta đã suồng sã quá.
+00:01:46,000 --> 00:01:48,800
+Tuy nhiên, tôi biết Saren-chan...
 
 23
-00:01:46,650 --> 00:01:51,770
-Nhưng mà, ta biết Saren-chan...
-biết Saren từ lúc còn là một đứa trẻ.
+00:01:49,000 --> 00:01:51,800
+à không, Saren từ khi còn là một đứa trẻ.
 
 24
-00:01:52,690 --> 00:01:55,270
-Nên không thể không xem cậu như một đứa trẻ được.
+00:01:52,800 --> 00:01:55,300
+Thế nào tôi cũng vô tình coi cô như một đứa trẻ.
 
 25
-00:01:56,660 --> 00:01:58,970
-Ta đã thất lễ rồi, xin tạ lỗi.
+00:01:56,300 --> 00:01:59,000
+Tôi đã thất lễ rồi. Xin tạ lỗi.
 
 26
-00:02:00,340 --> 00:02:04,800
-Không sao đâu ạ.
-Jun-san cũng từng chơi với tôi mà.
+00:02:00,300 --> 00:02:04,800
+Không sao đâu ạ. Jun-san cũng từng chơi với tôi mà.
 
 27
-00:02:06,170 --> 00:02:10,950
-Lúc nào cũng phải tỏ ra cứng rắn để không bị coi thường...
-cũng mệt mỏi lắm ạ.
+00:02:06,300 --> 00:02:10,800
+Lúc nào cũng phải tỏ ra cứng rắn để không bị xem thường... cũng khá là mệt mỏi.
 
 28
-00:02:12,270 --> 00:02:15,640
-Hai vị~, dùng trà không ạ~?
+00:02:12,300 --> 00:02:15,800
+Hai vị, dùng trà không ạ~?
 
 29
-00:02:18,170 --> 00:02:23,590
-A... Xin lỗi vì đã để cô phải đóng giả người hầu,
-ta xin tạ lỗi vì đã thất lễ.
+00:02:18,000 --> 00:02:23,500
+À... xin lỗi vì đã để cô phải làm việc phục vụ thế này. Tôi xin tạ lỗi vì đã thất lễ.
 
 30
-00:02:24,960 --> 00:02:28,490
-Không sao đâu ạ~, con thích tiếp đãi khách mà...
+00:02:24,800 --> 00:02:28,500
+Không sao đâu ạ, em thích tiếp đãi mọi người lắm...
 
 31
-00:02:29,620 --> 00:02:36,130
-Ngày nào cũng tranh luận nảy lửa
-nên cổ họng con đau quá đi.
+00:02:29,500 --> 00:02:36,000
+Ngày nào cũng tranh luận gay gắt nên cổ họng em đau quá chừng.
 
 32
-00:02:37,220 --> 00:02:39,520
-Chính con mới là người muốn uống trà đó~.
+00:02:37,000 --> 00:02:39,500
+Chính em cũng muốn uống trà nữa đó~♪
 
 33
-00:02:43,440 --> 00:02:49,200
-(Ưm... Chị ấy đúng là người tốt,
-Guild Master của Caon... Maho-san.)
+00:02:43,000 --> 00:02:49,000
+(Ừm. Chị ấy đúng là người tốt nhỉ, Guild Master của Hội Tự Vệ (Caon)... Maho-san.)
 
 34
-00:02:49,700 --> 00:02:52,820
-Một người theo chủ nghĩa hòa bình,
-hiền lành và dịu dàng.
+00:02:49,500 --> 00:02:52,500
+(Một người theo chủ nghĩa hòa bình, dịu dàng và ôn hòa.)
 
 35
-00:02:53,490 --> 00:02:56,480
-Nếu là thời bình, tôi cũng muốn làm bạn với chị ấy lắm.
+00:02:53,000 --> 00:02:56,500
+(Nếu là thời bình, mình cũng muốn kết bạn với chị ấy lắm, nhưng...)
 
 36
-00:02:57,590 --> 00:03:01,230
-Nhưng giờ là tình trạng khẩn cấp, không, là thời chiến.
+00:02:57,500 --> 00:03:00,500
+(Bây giờ là tình trạng khẩn cấp, không, là thời chiến.)
 
 37
-00:03:02,110 --> 00:03:03,630
-Lòng tốt sẽ trở thành gánh nặng.
+00:03:01,500 --> 00:03:03,500
+(Sự dịu dàng sẽ trở thành gánh nặng.)
 
 38
-00:03:04,490 --> 00:03:08,010
-Hội Tự Vệ (Caon) là nạn nhân trong vụ việc lần này,
+00:03:04,500 --> 00:03:07,800
+(Hội Tự Vệ (Caon) là nạn nhân trong vụ này, vậy mà...)
 
 39
-00:03:08,890 --> 00:03:12,310
-vậy mà không thể đàm phán một cách cứng rắn,
-lại bị ép chấp nhận thỏa hiệp.
+00:03:08,800 --> 00:03:12,300
+(Họ không thể đàm phán một cách cứng rắn, và đang bị ép phải chấp nhận phương án thỏa hiệp.)
 
 40
-00:03:13,380 --> 00:03:17,440
-Thật không thể khoanh tay đứng nhìn...
-nhưng tôi là người ngoài cuộc,
+00:03:13,300 --> 00:03:15,300
+(Thật không thể nhìn nổi, nhưng...)
 
 41
-00:03:18,040 --> 00:03:22,340
-cũng không thể quá thiên vị một bên nào được.
+00:03:15,800 --> 00:03:22,300
+(mình là bên thứ ba, không thể quá thiên vị một phe nào được.)
 
 42
-00:03:24,310 --> 00:03:28,210
-Ta cảm kích lòng tốt của cô, nhưng không cần trà đâu.
+00:03:24,500 --> 00:03:28,000
+Cảm ơn lòng tốt của cô, nhưng tôi không cần trà đâu.
 
 43
-00:03:28,950 --> 00:03:31,650
-Thực tế, chúng ta không phải đang họp hội chị em.
+00:03:28,500 --> 00:03:31,500
+Thực tế thì chúng ta không phải đang mở tiệc trà con gái.
 
 44
-00:03:32,820 --> 00:03:36,920
-Đâu có, đây không phải là hối lộ đâu à nha?
+00:03:32,500 --> 00:03:37,000
+Đâu có, em đâu có ý định hối lộ đâu chứ?
 
 45
-00:03:38,620 --> 00:03:42,880
-À... Ta không có ý suy diễn lung tung,
-hay xúc phạm cô.
+00:03:38,500 --> 00:03:43,000
+À... tôi không có ý nghi ngờ, không, không có ý xúc phạm cô.
 
 46
-00:03:44,580 --> 00:03:47,840
-Như cô thấy đấy, ta không thể uống nước được.
+00:03:44,000 --> 00:03:47,500
+Như cô thấy đấy, tôi không thể uống được.
 
 47
-00:03:49,150 --> 00:03:51,210
-Đấy, mũ giáp vướng quá mà.
+00:03:48,500 --> 00:03:51,000
+Thấy không, mũ giáp vướng quá.
 
 48
-00:03:52,650 --> 00:03:55,600
-Thế thì, cởi ra là được chứ sao.
+00:03:52,500 --> 00:03:55,500
+Vậy thì, cởi nó ra là được mà, phải không ạ?
 
 49
-00:03:56,660 --> 00:03:59,970
-Không cho thấy mặt, thất lễ đó à nha?
+00:03:56,500 --> 00:03:59,500
+Không cho thấy mặt thì thất lễ lắm đó?
 
 50
-00:04:01,560 --> 00:04:05,240
-Không, ta có lý do riêng
-nên không thể cho thấy mặt thật được...
+00:04:01,500 --> 00:04:05,000
+Không, tôi có lý do riêng nên không thể cho thấy mặt được...
 
 51
-00:04:06,420 --> 00:04:11,810
-Ta tuyệt đối không có ý coi thường Maho-san,
-Hội Tự Vệ (Caon), hay các Thú Nhân đâu.
+00:04:06,000 --> 00:04:11,500
+Tuyệt đối không có ý coi thường Maho-san, Hội Tự Vệ (Caon), hay Thú nhân đâu.
 
 52
-00:04:12,710 --> 00:04:16,360
-Vụ ồn ào lần này là do Phó đoàn trưởng của
-Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE) chúng ta...
+00:04:12,500 --> 00:04:16,500
+Vụ náo loạn lần này là do phó đoàn trưởng của chúng tôi, Kỵ Sĩ Đoàn Hoàng Gia (NIGHTMARE)...
 
 53
-00:04:17,470 --> 00:04:18,970
+00:04:17,000 --> 00:04:18,800
 Christina, tự ý hành động.
 
 54
-00:04:19,850 --> 00:04:23,890
-Kịch bản là cô ta hành động cá nhân
-và gây phiền toái cho các cô.
+00:04:19,500 --> 00:04:24,500
+Cấu trúc của sự việc là cô ta đã nổi điên vì lý do cá nhân và gây phiền phức cho bên cô.
 
 55
-00:04:24,960 --> 00:04:28,850
-Ta đã ra lệnh cấm túc để cô ta tự kiểm điểm.
+00:04:25,000 --> 00:04:28,500
+Tôi đã ra lệnh cấm túc và bắt cô ta phải tự kiểm điểm.
 
 56
-00:04:29,910 --> 00:04:34,350
-Cứ như vậy, ta muốn coi như
-vụ việc lần này đã được giải quyết.
+00:04:29,500 --> 00:04:34,000
+Cứ như vậy, tôi muốn coi như vụ náo loạn lần này đã được giải quyết.
 
 57
-00:04:36,170 --> 00:04:39,890
-Ta cũng đã quá mệt mỏi
-với các cuộc họp liên miên rồi.
+00:04:35,500 --> 00:04:39,500
+Tôi cũng đã quá mệt mỏi với những cuộc họp liên miên rồi.
 
 58
-00:04:42,500 --> 00:04:46,260
-(Mà, chắc Chris-chan cũng chẳng kiểm điểm gì đâu...)
+00:04:42,800 --> 00:04:46,300
+Mà, chắc Chris-chan cũng chẳng hối lỗi chút nào đâu...
 
 59
-00:04:47,440 --> 00:04:54,720
-Việc cấm túc chỉ là bề ngoài, nghe đâu cô ta đang mang
-mật lệnh và có hành động đáng ngờ bên ngoài Landosol.
+00:04:47,300 --> 00:04:49,500
+Việc cấm túc chỉ là bề ngoài,
 
 60
-00:04:56,600 --> 00:05:01,360
-Việc không nhận được lời xin lỗi chính thức
-khiến con hơi khúc mắc.
+00:04:50,000 --> 00:04:54,800
+cô ta dường như đang thực hiện một hành động đáng ngờ theo mật lệnh bên ngoài Landsol.
 
 61
-00:05:02,320 --> 00:05:05,370
-Bên con cũng có người bị thương đó.
+00:04:57,300 --> 00:05:01,500
+Việc không nhận được lời xin lỗi chính thức làm em có chút vướng bận.
 
 62
-00:05:06,310 --> 00:05:12,140
-Còn có những đứa trẻ vì sợ hãi không biết
-khi nào bị tấn công lại mà đêm không ngủ được.
+00:05:02,500 --> 00:05:05,500
+Bên em cũng có những đứa trẻ bị thương đó.
 
 63
-00:05:13,670 --> 00:05:14,750
-Xin lỗi.
+00:05:06,500 --> 00:05:12,500
+Cũng có những đứa trẻ sợ hãi không biết khi nào lại bị tấn công mà đêm không ngủ được.
 
 64
-00:05:15,530 --> 00:05:20,290
-Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE) chúng ta
-không thể chính thức nhận lỗi và xin lỗi được.
+00:05:13,500 --> 00:05:14,500
+Xin lỗi.
 
 65
-00:05:21,280 --> 00:05:24,200
-Chúng ta là Guild trực thuộc Hoàng gia.
+00:05:15,000 --> 00:05:20,000
+Chúng tôi, Kỵ Sĩ Đoàn Hoàng Gia (NIGHTMARE), không thể chính thức thừa nhận lỗi và xin lỗi được.
 
 66
-00:05:25,050 --> 00:05:28,160
-Làm vậy sẽ khiến cả đất nước phải cúi đầu.
+00:05:21,000 --> 00:05:24,000
+Chúng tôi là Guild trực thuộc Hoàng gia.
 
 67
-00:05:29,190 --> 00:05:31,900
-Sẽ để lộ điểm yếu cho các nước khác.
+00:05:25,000 --> 00:05:28,000
+Việc đó sẽ khiến cả đất nước phải cúi đầu.
 
 68
-00:05:32,900 --> 00:05:34,920
-Người dân cũng sẽ mất lòng tin.
+00:05:29,000 --> 00:05:31,500
+Sẽ là để lộ điểm yếu cho các nước khác.
 
 69
-00:05:35,760 --> 00:05:39,120
-Hoàng gia phải luôn đường đường chính chính trị vì.
+00:05:32,500 --> 00:05:34,500
+Dân chúng cũng sẽ nảy sinh lòng bất tín.
 
 70
-00:05:40,510 --> 00:05:43,450
-Về mặt cá nhân, ta rất lấy làm tiếc.
+00:05:35,500 --> 00:05:39,000
+Hoàng gia phải luôn trị vì một cách đường đường chính chính.
 
 71
-00:05:44,720 --> 00:05:49,460
-Hơn nữa... chi phí sửa chữa nhà Guild của Hội Tự Vệ (Caon)
-bị phá hủy,
+00:05:40,500 --> 00:05:43,500
+Về mặt cá nhân, tôi thực sự cảm thấy có lỗi.
 
 72
-00:05:49,460 --> 00:05:52,650
-Christina đã trả bằng tiền bồi thường thiệt hại rồi.
+00:05:45,000 --> 00:05:49,500
+Hơn nữa... chi phí sửa chữa Nhà Guild của Hội Tự Vệ (Caon) đã bị phá hủy,
 
 73
-00:05:53,490 --> 00:05:56,120
-Cả tiền an ủi cho những người bị thương nữa.
+00:05:50,000 --> 00:05:52,800
+lẽ ra Christina đã phải trả dưới dạng tiền bồi thường thiệt hại rồi.
 
 74
-00:05:56,920 --> 00:05:59,600
-Cô ta giàu nứt đố đổ vách mà.
+00:05:53,500 --> 00:05:56,000
+Cả tiền bồi thường cho những người bị thương nữa.
 
 75
-00:06:01,090 --> 00:06:03,420
-Trả một cái vèo là xong ngay.
+00:05:56,800 --> 00:05:59,500
+Cô ta là một người cực kỳ giàu có mà.
 
 76
-00:06:04,490 --> 00:06:07,880
-Ưm ưm, đây không phải vấn đề tiền bạc đâu.
+00:06:00,500 --> 00:06:03,500
+Nên đã trả hết một cách dễ dàng rồi.
 
 77
-00:06:09,000 --> 00:06:12,180
-Đây là vấn đề thành ý, vấn đề của con tim đó.
+00:06:04,500 --> 00:06:07,500
+Không ạ, đây không phải là vấn đề tiền bạc.
 
 78
-00:06:13,850 --> 00:06:21,020
-Hừm... Nếu ta chặt đầu Christina rồi dâng lên cho cô,
-liệu cô có hài lòng không?
+00:06:08,500 --> 00:06:12,000
+Đây là vấn đề của sự chân thành, của tấm lòng đó ạ.
 
 79
-00:06:22,460 --> 00:06:26,090
-Đ-Đâu có ai nói chuyện ghê rợn như vậy.
+00:06:13,500 --> 00:06:14,500
+Hừm...
 
 80
-00:06:27,340 --> 00:06:30,490
-Mấy người các cô, tanh mùi máu quá đó?
+00:06:15,500 --> 00:06:18,500
+Nếu tôi chặt đầu Christina rồi dâng lên,
 
 81
-00:06:31,480 --> 00:06:34,800
-Vương Cung Kỵ Sĩ Đoàn (NIGHTMARE) là thế đấy.
+00:06:19,500 --> 00:06:21,000
+cô sẽ hài lòng chứ?
 
 82
-00:06:35,930 --> 00:06:38,440
-Đây là một vấn đề chính trị cấp cao.
+00:06:22,500 --> 00:06:26,000
+A-Ai mà lại nói chuyện ghê rợn như vậy chứ.
 
 83
-00:06:39,780 --> 00:06:45,300
-Coi như đây là hành động bộc phát cá nhân của Christina...
-để giải quyết ổn thỏa cho cả hai bên, phải không?
+00:06:27,000 --> 00:06:30,000
+Mấy người, tanh mùi máu quá đó?
 
 84
-00:06:46,940 --> 00:06:49,500
-Chuyện đó, thì đúng là vậy...
+00:06:31,500 --> 00:06:35,000
+Đó là phong thái của chúng tôi, Kỵ Sĩ Đoàn Hoàng Gia (NIGHTMARE).
 
 85
-00:06:50,000 --> 00:06:53,240
-nhưng mà như thế thì mọi người sẽ không chấp nhận đâu.
+00:06:35,500 --> 00:06:38,500
+Đây là một vấn đề mang tính chính trị cao.
 
 86
-00:06:56,430 --> 00:06:58,680
-U~ mệt mỏi quá đi...
+00:06:39,500 --> 00:06:45,000
+Coi đó là hành động bộc phát cá nhân của Christina... và giải quyết như vậy là tốt cho cả hai bên, phải không?
 
 87
-00:07:00,160 --> 00:07:03,170
-Nhưng mà, con phải cố gắng thôi.
+00:06:46,500 --> 00:06:48,500
+Chuyện đó thì, đúng là vậy nhưng...
 
 88
-00:07:04,330 --> 00:07:08,240
-Nếu chỉ giải quyết đơn giản bằng tiền bạc,
-thì vụ này có thể coi như xong...
+00:06:49,500 --> 00:06:53,000
+Cứ như vậy thì mọi người sẽ không chấp nhận đâu.
 
 89
-00:07:08,240 --> 00:07:12,100
-nhưng...
+00:06:56,500 --> 00:06:59,000
+(Haizz, mệt mỏi quá...)
 
 90
-00:07:12,500 --> 00:07:15,680
-nếu không giải quyết tận gốc,
+00:07:00,000 --> 00:07:03,000
+(Nhưng mà, mình phải cố gắng thôi.)
 
 91
-00:07:15,680 --> 00:07:18,200
-chuyện tương tự sẽ lại lặp lại.
+00:07:04,000 --> 00:07:08,000
+(Nếu cứ giải quyết đơn giản bằng tiền bạc,
+thì vụ việc lần này có thể sẽ xong, nhưng...)
 
 92
-00:07:18,200 --> 00:07:19,950
-Mãi mãi.
+00:07:08,000 --> 00:07:12,000
+(Nếu không giải quyết tận gốc,
+chuyện tương tự sẽ lại lặp lại mất.)
 
 93
-00:07:21,040 --> 00:07:25,560
-Nếu lần sau lại có chuyện như vậy,
-lần này có thể sẽ dẫn đến chiến tranh mất...
+00:07:13,000 --> 00:07:19,000
+(Phải làm sao đó để hướng tình thế đang dẫn đến chiến tranh này sang một hướng hòa bình.)
 
 94
-00:07:25,560 --> 00:07:28,320
-...một cuộc chiến toàn diện giữa con người và Thú nhân.
+00:07:20,000 --> 00:07:24,500
+(Những Thú nhân sống ở Landsol đã mất một thời gian dài)
 
 95
-00:07:29,480 --> 00:07:33,000
-Nếu vậy, sẽ có nhiều máu đổ hơn nữa.
+00:07:24,500 --> 00:07:29,000
+(mới có thể sống một cuộc sống yên bình.)
 
 96
-00:07:33,000 --> 00:07:34,200
-Phải không?
+00:07:30,000 --> 00:07:35,000
+(Họ đã nỗ lực, đã chịu đựng biết bao điều không vui.)
 
 97
-00:07:35,010 --> 00:07:39,950
-Mọi người trong Hội Tự Vệ (Caon) thì con sẽ xoa dịu được.
+00:07:35,500 --> 00:07:42,000
+(Mình không thể để quá khứ mà họ đã vun đắp
+bị hủy hoại chỉ vì một sự cố được.)
 
 98
-00:07:41,200 --> 00:07:45,520
-Nhưng các Thú nhân, cả Vườn Thú,
-đang trong tâm thế không ngần ngại khai chiến.
+00:07:43,000 --> 00:07:48,000
+(Làm vậy thì, em không còn mặt mũi nào nhìn tổ tiên nữa.)
 
 99
-00:07:46,650 --> 00:07:49,760
-Thú nhân, cũng khá là nóng tính đó nha?
+00:08:49,500 --> 00:08:50,500
+(Nhưng mà.)
 
 100
-00:07:51,270 --> 00:07:54,760
-Ghét quá đi, chuyện này...
+00:08:51,000 --> 00:08:55,500
+(Một sứ mệnh lịch sử, to lớn như vậy...)
 
 101
-00:07:55,270 --> 00:07:58,000
-Con muốn giải quyết mọi chuyện trong êm đẹp.
+00:08:56,000 --> 00:09:03,500
+(Gánh nặng này, trách nhiệm này, liệu mình có gánh vác nổi không?)
 
 102
-00:07:58,000 --> 00:08:02,170
-Nhưng mà.
+00:09:04,500 --> 00:09:10,000
+(Trong khi mình còn chạy trốn khỏi cả chuyện gia đình của bản thân.)
 
 103
-00:08:08,210 --> 00:08:12,250
-Chuyện đã xảy ra rồi
-thì không thể coi như "chưa từng có" được.
+00:09:14,000 --> 00:09:16,500
+Maho-san. Chuyện này không liên quan, nhưng mà,
 
 104
-00:08:13,740 --> 00:08:18,920
-Phải tìm cách hướng tình thế đang dẫn đến chiến tranh này
-theo một con đường hòa bình.
+00:09:17,000 --> 00:09:19,500
+việc điều tra về Shadow có tiến triển gì không ạ?
 
 105
-00:08:20,380 --> 00:08:26,000
-Các Thú nhân sống ở Landosol đã phải mất một thời gian dài
-mới có được cuộc sống yên bình.
+00:09:20,500 --> 00:09:27,000
+Hở? À, Kasumi-han trong guild của em đang điều tra đó ạ.
 
 106
-00:08:26,300 --> 00:08:29,200
-Họ đã nỗ lực, đã phải chịu đựng rất nhiều điều không vui.
+00:09:28,500 --> 00:09:33,500
+Hiện tại, có vẻ như Shadow chỉ được nhìn thấy trong thị trấn thôi.
 
 107
-00:08:29,500 --> 00:08:34,910
-Quá khứ mà họ đã gây dựng không thể bị hủy hoại
-chỉ bằng một câu trả lời được.
+00:09:34,500 --> 00:09:37,000
+Nếu chị thực sự cảm thấy nguy hiểm,
 
 108
-00:08:35,840 --> 00:08:42,210
-Làm vậy, con sẽ không còn mặt mũi nào
-nhìn tổ tiên nữa.
+00:09:37,500 --> 00:09:41,500
+em nghĩ sơ tán ra ngoài thị trấn là tốt nhất đó ạ.
 
 109
-00:08:43,510 --> 00:08:45,500
-Nhưng mà.
+00:09:42,500 --> 00:09:44,500
+Ừm~ Có lẽ đó là ý hay.
 
 110
-00:08:46,940 --> 00:08:49,500
-Chuyện đó...
-
-111
-00:08:49,500 --> 00:08:52,900
-một sứ mệnh lịch sử, vĩ đại như vậy...
-
-112
-00:08:53,400 --> 00:08:56,300
-một gánh nặng, một trách nhiệm,
-
-113
-00:08:56,300 --> 00:08:59,000
-liệu con có gánh vác nổi không?
-
-114
-00:09:00,500 --> 00:09:06,500
-Khi mà chính con còn đang trốn chạy
-khỏi chuyện gia đình của mình.
-
-115
-00:09:13,950 --> 00:09:16,210
-Maho-san.
-
-116
-00:09:16,210 --> 00:09:19,620
-Đổi chủ đề một chút, việc điều tra về Shadow
-có tiến triển gì không?
-
-117
-00:09:20,680 --> 00:09:21,500
-Hử?
-
-118
-00:09:22,460 --> 00:09:27,240
-À à, Kasumi-han của Guild con đang điều tra rồi ạ.
-
-119
-00:09:28,490 --> 00:09:33,780
-Hiện tại, có vẻ Shadow
-chỉ được phát hiện trong thành phố thôi.
-
-120
-00:09:34,700 --> 00:09:41,400
-Nếu thật sự lo lắng cho tính mạng của mình,
-con nghĩ di tản ra ngoài thành phố là tốt nhất.
-
-121
-00:09:42,760 --> 00:09:45,990
-Hừm~ có lẽ đó là ý hay.
-
-122
-00:09:46,470 --> 00:09:49,390
+00:09:45,500 --> 00:09:49,000
 Bọn trẻ nhà tôi đang rất sợ hãi.
 
-123
-00:09:50,300 --> 00:09:53,420
-Cho đến khi cuộc điều tra về Shadow có tiến triển...
+111
+00:09:50,000 --> 00:09:56,000
+Cho đến khi việc điều tra về Shadow có tiến triển... có lẽ tôi nên cho chúng sơ tán đến một nơi an toàn nào đó?
 
-124
-00:09:53,420 --> 00:09:56,360
-có lẽ tôi nên cho chúng đi sơ tán ở một nơi an toàn?
+112
+00:09:57,500 --> 00:10:01,500
+Nếu được thì em giới thiệu nơi sơ tán cho chị nhé?
 
-125
-00:09:57,840 --> 00:10:02,120
-Nếu được thì để con giới thiệu nơi sơ tán cho nhé?
+113
+00:10:02,000 --> 00:10:05,500
+Có một guild thân thiết với Hội Tự Vệ (Caon) của em,
 
-126
-00:10:02,680 --> 00:10:08,710
-Có một Guild tên là Trang Trại (Elizabeth Park)
-rất thân với Hội Tự Vệ (Caon) của con.
+114
+00:10:05,500 --> 00:10:08,500
+tên là Trang Trại (Elizabeth Park) đó ạ.
 
-127
-00:10:09,230 --> 00:10:14,570
-Họ sống an toàn, hòa bình
-ở một nơi sâu trong núi, cách xa thành phố.
+115
+00:10:09,500 --> 00:10:14,500
+Họ sống an toàn và yên bình ở sâu trong núi, cách xa thị trấn.
 
-128
-00:10:15,770 --> 00:10:20,830
-Guild Master ở đó là con người,
-nhưng rất thân thiết với các Thú nhân.
+116
+00:10:15,500 --> 00:10:21,000
+Guild Master ở đó là một Người, nhưng cũng rất thân với các Thú nhân.
 
-129
-00:10:21,990 --> 00:10:25,320
-Con nghĩ đó là một vùng an toàn, trung lập đó.
+117
+00:10:22,000 --> 00:10:25,000
+Em nghĩ đó là một vùng an toàn, trung lập đó ạ.
 
-130
-00:10:27,260 --> 00:10:29,900
-Hừm~ nghe có vẻ tốt đấy.
+118
+00:10:27,000 --> 00:10:29,500
+Ừm~ Nghe có vẻ tốt đấy.
 
-131
-00:10:30,810 --> 00:10:33,830
-Hơi phiền cho chị một chút,
-nhưng có thể giới thiệu giúp tôi được không?
+119
+00:10:30,500 --> 00:10:33,500
+Có thể sẽ làm phiền chị, nhưng chị giới thiệu cho tôi được không?
 
-132
-00:10:34,710 --> 00:10:40,280
-Chị còn đang giúp tôi điều tra về Shadow nữa...
-tôi cảm thấy mắc nợ chị quá.
+120
+00:10:34,500 --> 00:10:37,500
+Chị còn đang giúp điều tra về Shadow nữa...
 
-133
-00:10:41,270 --> 00:10:44,380
+121
+00:10:38,000 --> 00:10:40,500
+Tôi cảm thấy mang ơn chị rất nhiều.
+
+122
+00:10:41,500 --> 00:10:43,500
 Tôi đồng ý với ý định của Maho-san.
 
-134
-00:10:44,380 --> 00:10:47,560
-Tôi cũng muốn tránh chiến tranh, nên sẽ ủng hộ chị nhé?
+123
+00:10:44,000 --> 00:10:47,500
+Tôi cũng muốn tránh chiến tranh, nên tôi sẽ ủng hộ chị nhé?
 
-135
-00:10:51,190 --> 00:10:52,360
-Chờ đã, chờ đã.
+124
+00:10:51,000 --> 00:10:57,500
+Khoan, khoan đã. Viện Cứu Tế Sarendia không phải là bên thứ ba trung lập sao, Saren-chan?
 
-136
-00:10:52,650 --> 00:10:57,490
-Viện Cứu Tế Sarendia không phải là bên thứ ba trung lập sao,
-Saren-chan?
+125
+00:10:58,500 --> 00:11:02,000
+Viện Cứu Tế Sarendia là Guild dưới trướng của Princess Knight mà.
 
-137
-00:10:58,690 --> 00:11:02,230
-Viện Cứu Tế Sarendia là Guild trực thuộc Princess Knight mà.
+126
+00:11:02,500 --> 00:11:04,500
+Về lập trường thì, chúng tôi ở phe đó.
 
-138
-00:11:02,960 --> 00:11:04,740
-Về lập trường thì, tôi ở phe đó.
+127
+00:11:05,500 --> 00:11:10,500
+Bằng cách tiến lại gần phía Thú nhân, mọi chuyện mới trở nên công bằng, phải không?
 
-139
-00:11:05,740 --> 00:11:10,340
-Chỉ khi tiến lại gần phía Thú nhân,
-chúng ta mới có thể đạt được sự công bằng, đúng không?
+128
+00:11:11,500 --> 00:11:13,500
+Nói một câu là cãi lại một câu...
 
-140
-00:11:11,540 --> 00:11:13,440
-Nói một câu lại cãi một câu...
+129
+00:11:14,000 --> 00:11:16,000
+Cô vẫn luôn lanh miệng như vậy từ xưa.
 
-141
-00:11:14,240 --> 00:11:16,230
-Miệng lưỡi sắc sảo thật, từ xưa đã vậy.
+130
+00:11:17,000 --> 00:11:19,500
+Tôi thì vụng về ăn nói, nên ghen tị lắm đấy.
 
-142
-00:11:17,330 --> 00:11:19,850
-Ta vụng về ăn nói, nên ghen tị lắm đấy.
+131
+00:11:20,500 --> 00:11:24,500
+Thôi được rồi, tôi cũng mong muốn hòa bình.
 
-143
-00:11:20,530 --> 00:11:23,940
-Mà thôi, ta cũng mong muốn hòa bình như cậu.
+132
+00:11:25,500 --> 00:11:30,500
+Chúng ta hãy cẩn trọng và tỉ mỉ tìm kiếm một tương lai mà ai cũng có thể sống yên ổn.
 
-144
-00:11:24,930 --> 00:11:30,680
-Chúng ta hãy cùng nhau thận trọng, tỉ mỉ tìm kiếm
-một tương lai mà ai cũng có thể sống trong yên bình.
-
-145
-00:11:31,440 --> 00:11:35,760
-Thời gian không phải là vô hạn,
-nhưng chúng ta vẫn còn một chút dư dả.
+133
+00:11:31,000 --> 00:11:35,500
+Thời gian không phải là vô hạn, nhưng chúng ta vẫn còn một chút thời gian.

@@ -1,418 +1,490 @@
 1
-00:00:01,000 --> 00:00:07,000
-(Chương 5: Tập kết, Thất Quan - Seven Crowns)
+00:00:00,800 --> 00:00:07,000
+(Chương 5: Tập hợp, Thất Quan - Seven Crowns)
 
 2
-00:10,000 --> 00:11,800
-(Thú Nhân và Hiệp Sĩ Đoàn Hoàng Cung)
+00:00:09,800 --> 00:00:11,800
+(Thú Nhân và Hiệp Sĩ Đoàn Hoàng Gia)
 
 3
-00:13,100 --> 00:17,800
-(Những thành viên của [Trang Trại Elizabeth Park] bị thiêu rụi trang trại,)
-(đã xoay xở sơ tán an toàn đến chân núi.)
+00:00:12,800 --> 00:00:13,600
+(Đại lộ Estrella)
 
 4
-00:19,850 --> 00:22,350
-Một, hai, ba...
+00:00:13,700 --> 00:00:17,500
+(Những người của [Trang trại Elizabeth] bị cháy rụi trang trại,
+bằng cách nào đó đã sơ tán an toàn đến chân núi.)
 
 5
-00:23,200 --> 00:25,800
-Ừm, kể cả động vật, tất cả mọi người đều bình an!
+00:00:19,500 --> 00:00:22,000
+Một, hai, ba...
 
 6
-00:28,400 --> 00:32,800
-Haizz~ Có lúc tớ đã nghĩ không biết chuyện gì sẽ xảy ra nữa...
+00:00:22,800 --> 00:00:25,500
+Ừm, kể cả động vật,
+tất cả mọi người đều bình an♪
 
 7
-00:34,500 --> 00:38,800
-Vì vội vàng xuống núi nên chân tớ đau quá đi~
+00:00:28,500 --> 00:00:32,500
+Haizz~ Có lúc tớ đã không biết phải làm sao...
 
 8
-00:40,500 --> 00:43,800
-Shiorin, cậu xoa bóp lòng bàn chân cho tớ được không?
+00:00:34,500 --> 00:00:38,500
+Vì vội vàng xuống núi nên chân đau quá đi~
 
 9
-00:44,800 --> 00:46,500
-Nhẹ nhàng thôi nhé~?
+00:00:40,500 --> 00:00:43,500
+Shiorin, cậu xoa bóp lòng bàn chân cho tớ được không?
 
 10
-00:48,300 --> 00:48,800
-Vâng.
+00:00:44,500 --> 00:00:46,500
+Nhẹ nhàng thôi nhé~?
 
 11
-00:49,800 --> 00:53,800
-Rin-chan, thỉnh thoảng cậu cứ như một bà cụ ấy nhỉ.
+00:00:48,000 --> 00:00:48,500
+Vâng.
 
 12
-00:55,200 --> 00:58,000
-Không cần phải nuông chiều cậu ấy đâu, Shiori-chan.
+00:00:49,500 --> 00:00:53,500
+Rin-chan, thỉnh thoảng
+cậu cứ như bà cụ ấy nhỉ.
 
 13
-00:58,800 --> 01:04,000
-Rin-chan ấy à, đi được nửa đường thì bắt đầu mè nheo
-"Tớ không đi nổi nữa!".
+00:00:55,000 --> 00:00:57,500
+Không cần phải chiều cậu ấy quá đâu~ Shiori-chan.
 
 14
-01:04,800 --> 01:07,200
-Nên tớ đã phải bế cậu ấy đi đấy.
+00:00:58,500 --> 01:04,000
+Rin-chan ấy mà, giữa đường cứ ăn vạ
+"Không đi nổi nữa!",
 
 15
-01:08,500 --> 01:09,500
-Thiệt tình...
+01:04,500 --> 01:07,500
+nên tớ đã phải bế cậu ấy đi đấy.
 
 16
-01:10,200 --> 01:14,800
-Tớ đã nghĩ cậu ấy đã biết điều hơn một chút,
-nhưng Rin-chan vẫn là Rin-chan nhỉ.
+01:08,500 --> 01:12,500
+Thiệt tình... Cứ tưởng cậu ấy
+đã ngoan ngoãn hơn chút rồi,
 
 17
-01:15,800 --> 01:18,500
-Hoàn toàn trở lại thành Rin-chan của mọi khi rồi.
+01:13,000 --> 01:14,500
+ai dè Rin-chan vẫn là Rin-chan nhỉ.
 
 18
-01:19,800 --> 01:20,800
-A ha ha...
+01:15,500 --> 01:18,500
+Hoàn toàn trở lại thành
+Rin-chan của mọi khi rồi.
 
 19
-01:21,800 --> 01:29,500
-Nếu Rin-chan mà nghiêm túc thì đáng sợ lắm,
-nên tớ thấy "Rin-chan của mọi khi" vẫn an tâm hơn.
+01:19,500 --> 01:20,500
+Aha ha...
 
 20
-01:30,800 --> 01:33,000
-Hừm. Đúng rồi, đúng rồi đó.
+01:21,500 --> 01:24,000
+Rin-chan mà nghiêm túc thì đáng sợ lắm,
 
 21
-01:34,000 --> 01:36,000
-Cậu có thể khen tớ nhiều hơn mà?
+01:24,500 --> 01:29,500
+nên tớ thấy "Rin-chan của mọi khi"
+vẫn yên tâm hơn.
 
 22
-01:37,500 --> 01:39,500
-Tớ đâu có khen cậu...
+01:30,500 --> 01:31,500
+Hì hì.
 
 23
-01:40,500 --> 01:42,200
-Nhưng mà may quá.
+01:32,000 --> 01:35,500
+Phải không, phải không,
+cậu có thể khen tớ nhiều hơn nữa đó?
 
 24
-01:43,200 --> 01:45,800
-Hầu như không có ai bị thương cả.
+01:37,500 --> 01:39,500
+Tớ có khen cậu đâu...
 
 25
-01:46,200 --> 01:51,000
-Mặc dù các tòa nhà của [Trang Trại Elizabeth Park]
-đã ở trong tình trạng thê thảm.
+01:40,500 --> 01:42,000
+Nhưng mà may quá.
 
 26
-01:53,200 --> 01:55,500
-Nhà cửa thì lúc nào sửa lại cũng được mà.
+01:43,000 --> 01:45,500
+Hầu như không có ai bị thương cả.
 
 27
-01:56,500 --> 01:58,800
-Quái vật tấn công thì đã có bảo hiểm lo rồi.
+01:46,000 --> 01:50,500
+Dù các tòa nhà của [Trang trại Elizabeth]
+đang trong tình trạng thảm hại.
 
 28
-01:59,500 --> 02:03,800
-Ngược lại, nghĩ đến việc có thể xây lại nhà
-còn thấy hời ấy chứ.
+01:53,000 --> 01:55,500
+Nhà cửa thì sửa lại bao nhiêu mà chả được.
 
 29
-02:05,200 --> 02:09,800
-Phì cười, Mahiru-san thật là mạnh mẽ. Tớ rất ngưỡng mộ cậu.
+01:56,000 --> 01:58,500
+Bị quái vật tấn công thì có bảo hiểm chi trả mà.
 
 30
-02:11,200 --> 02:16,200
-Thôi mà~ Nhưng mà, tớ đã để mọi người
-phải trải qua chuyện đáng sợ.
+01:59,500 --> 02:03,500
+Nghĩ đến việc được xây lại,
+tớ còn thấy hời ấy chứ.
 
 31
-02:17,200 --> 02:19,800
-Chuyện thế này, tớ không muốn có lần thứ hai đâu.
+02:05,000 --> 02:07,500
+Phì, Mahiru-san thật mạnh mẽ nhỉ.
 
 32
-02:20,800 --> 02:24,800
-Mà chuyện gì đã xảy ra vậy,
-lũ quái vật đó lại nổi điên lên...
+02:08,500 --> 02:09,500
+Tớ rất ngưỡng mộ.
 
 33
-02:25,500 --> 02:27,800
-Có chút không bình thường.
+02:11,000 --> 02:16,000
+Thôi mà~ Nhưng mà tớ đã để mọi người
+phải sợ hãi rồi.
 
 34
-02:29,200 --> 02:33,500
-Mọi người trong [Hiệp Sĩ Đoàn Hoàng Cung (NIGHTMARE)]
-nói là sẽ điều tra giúp.
+02:17,000 --> 02:19,500
+Tớ không muốn chuyện này xảy ra lần nữa đâu.
 
 35
-02:34,500 --> 02:39,800
-Họ đã đến rất đông để giúp đỡ,
-và hộ tống chúng ta đến tận đây.
+02:20,500 --> 02:24,500
+Chuyện gì vậy nhỉ,
+vụ quái vật nổi điên đó...
 
 36
-02:40,800 --> 02:41,500
-Phì phì.
+02:25,500 --> 02:27,500
+Có chút không bình thường.
 
 37
-02:42,000 --> 02:47,500
-[Hiệp Sĩ Đoàn Hoàng Cung (NIGHTMARE)] đối xử với thú nhân rất khắt khe,
-nên tớ có hơi không thích họ.
+02:29,000 --> 02:33,500
+Mọi người trong [Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
+nói sẽ điều tra giúp chúng ta.
 
 38
-02:48,500 --> 02:49,500
-Nhưng tớ đã nghĩ lại rồi.
+02:34,000 --> 02:39,500
+Họ đã đến cứu với số lượng lớn,
+và hộ tống chúng ta đến tận đây.
 
 39
-02:50,800 --> 02:54,800
-Có lẽ họ cũng là những người tốt.
+02:40,500 --> 02:41,000
+Hì hì.
 
 40
-02:57,200 --> 03:06,800
-Ai mà biết được... Đối với những người vừa phát hiện ra ồn ào
-mà chạy đến thì họ có vẻ chuẩn bị quá kỹ lưỡng và hành động nhanh chóng.
+02:41,500 --> 02:45,500
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
+đối xử với Thú Nhân khá khắt khe,
 
 41
-03:07,800 --> 03:11,200
-Chẳng phải có gì đó rất đáng ngờ sao?
+02:45,500 --> 02:47,500
+nên tớ hơi không thích họ.
 
 42
-03:14,000 --> 03:17,800
-Hừm. Mọi người có gì phàn nàn về chúng tôi sao?
+02:48,500 --> 02:49,500
+Nhưng tớ đã có cái nhìn khác rồi.
 
 43
-03:18,500 --> 03:21,000
-Hỡi các vị của [Trang Trại Elizabeth Park]?
+02:50,500 --> 02:54,500
+Có lẽ họ là những người tốt.
 
 44
-03:22,000 --> 03:23,200
-Đ-Đâu có...
+02:57,000 --> 02:58,000
+Ai mà biết được...
 
 45
-03:24,800 --> 03:26,800
-Cảm ơn đã hộ tống nhé.
+02:58,500 --> 03:02,500
+So với việc chỉ tình cờ phát hiện và chạy đến,
+họ hành động quá nhanh
 
 46
-03:27,800 --> 03:30,800
-Nhưng mà, hôm nay bọn tớ ngủ ở đâu đây?
+03:02,500 --> 03:06,500
+và chuẩn bị kỹ càng.
 
 47
-03:32,200 --> 03:35,000
-Cậu không sắp xếp nhà trọ hay gì cho bọn tớ à?
+03:07,500 --> 03:11,000
+Tớ thấy có mùi gì đó mờ ám nha?
 
 48
-03:36,500 --> 03:37,500
-Ừm...
+03:14,000 --> 03:14,500
+Hì hì.
 
 49
-03:38,500 --> 03:42,800
-Nếu chỉ có con người và thú nhân thì không sao,
-nhưng còn có rất nhiều động vật nữa.
+03:15,000 --> 03:21,000
+Mọi người ở [Trang trại Elizabeth]
+có gì phàn nàn về chúng tôi sao?
 
 50
-03:43,500 --> 03:45,500
-Chúng tôi không thể chuẩn bị chỗ ở ngay được.
+03:22,000 --> 03:23,000
+Đ-Đâu có~...
 
 51
-03:46,200 --> 03:48,800
-Tối nay, mong mọi người hãy cắm trại tạm.
+03:24,500 --> 03:26,500
+Cảm ơn đã hộ tống.
 
 52
-03:49,500 --> 03:54,000
-Chúng tôi sẽ cố gắng chuẩn bị các vật dụng cần thiết
-như lều và thức ăn.
+03:27,500 --> 03:30,500
+Nhưng mà, hôm nay bọn tớ ngủ ở đâu đây?
 
 53
-03:55,800 --> 04:01,800
-Vậy thì tốt quá~ Tớ mệt lử rồi,
-chỉ muốn vào chỗ ngủ và nghỉ ngơi thôi.
+03:32,500 --> 03:34,500
+Mấy người không sắp xếp nhà trọ hay gì à?
 
 54
-04:02,500 --> 04:05,200
-À, cậu là người của [Hiệp Sĩ Đoàn (NIGHTMARE)]...
+03:36,000 --> 03:37,000
+Hừm...
 
 55
-04:06,200 --> 04:07,800
-Tomo-chan, phải không?
+03:38,500 --> 03:42,500
+Con người hay Thú Nhân thì không sao,
+nhưng còn có rất nhiều động vật nữa.
 
 56
-04:08,500 --> 04:11,800
-Vẫn còn là một đứa trẻ mà phải làm việc đến khuya, giỏi quá!
+03:43,500 --> 03:45,500
+Không thể chuẩn bị chỗ ở ngay được.
 
 57
-04:13,200 --> 04:14,500
-Đó là nhiệm vụ của tôi.
+03:46,500 --> 03:48,500
+Hôm nay, mong mọi người cắm trại tạm vậy.
 
 58
-04:16,200 --> 04:19,000
-...À, xin lỗi nhưng,
+03:49,500 --> 03:53,500
+Chúng tôi sẽ cố gắng chuẩn bị những vật dụng
+cần thiết như lều và thức ăn.
 
 59
-04:19,500 --> 04:21,200
-cô lớn tuổi hơn tôi sao?
+03:55,500 --> 03:57,000
+Thế thì tốt quá~
 
 60
-04:22,500 --> 04:25,800
-Bị đối xử như trẻ con, cảm giác thật kỳ lạ.
+03:58,000 --> 04:01,500
+Tớ mệt rã rời rồi,
+chỉ muốn vào chỗ ngủ nghỉ ngơi ngay thôi.
 
 61
-04:27,000 --> 04:29,800
-À, tôi hai mươi tuổi rồi đó~♪
+04:02,500 --> 04:05,500
+À, cậu là... Tomo-chan của
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
 
 62
-04:30,800 --> 04:33,000
-Quan trọng hơn, đã đến giờ trẻ ngoan đi ngủ rồi.
+04:05,500 --> 04:07,500
+phải không?
 
 63
-04:33,800 --> 04:35,800
-Đứa bé kia cũng trông buồn ngủ rồi kìa...
+04:08,000 --> 04:11,500
+Vẫn còn là trẻ con mà phải làm việc đến khuya,
+giỏi quá♪
 
 64
-04:36,500 --> 04:40,800
-Bọn tôi không sao đâu,
-mọi người cũng về nghỉ ngơi đi♪
+04:13,000 --> 04:14,500
+Đó là nhiệm vụ của tôi.
 
 65
-04:43,000 --> 04:50,800
-..................Ổn mà, em không có ngủ ạ.
+04:15,500 --> 04:16,000
+...
 
 66
-04:52,800 --> 04:55,000
-Cứ ngủ đi cũng được mà, Matsuri-chan?
+04:16,500 --> 04:21,500
+À, xin lỗi nhưng,
+cậu lớn tuổi hơn tôi à?
 
 67
-04:56,800 --> 05:00,200
-Không ạ, em cũng là một thành viên của
-[Hiệp Sĩ Đoàn (NIGHTMARE)] mà.
+04:22,000 --> 04:25,500
+Bị đối xử như trẻ con
+làm tôi thấy hơi lạ.
 
 68
-05:01,500 --> 05:05,000
-Em không thể nghỉ ngơi khi bỏ lại senpai được ạ.
+04:26,500 --> 04:29,500
+Hả, tớ 20 tuổi rồi đó~♪
 
 69
-05:06,000 --> 05:06,800
-Osu!
+04:30,500 --> 04:32,500
+Hơn nữa, trẻ ngoan thì phải đi ngủ thôi.
 
 70
-05:08,500 --> 05:11,000
-Đứa bé đó cũng là người của [NIGHTMARE] à?
+04:33,000 --> 04:35,500
+Cô bé kia cũng trông buồn ngủ rồi kìa...
 
 71
-05:11,800 --> 05:18,500
-Tớ nghe nói họ thiếu người, nhưng huy động cả
-một đứa trẻ nhỏ như vậy thì có hơi quá không?
+04:36,000 --> 04:40,500
+Bọn tớ không sao đâu,
+mấy cậu cũng về nghỉ ngơi đi♪
 
 72
-05:19,800 --> 05:23,000
-Không, con bé này vẫn còn là thực tập sinh...
+04:42,500 --> 04:44,000
+Zzz...
 
 73
-05:24,000 --> 05:26,500
-Tôi bị ép phải trông trẻ đó.
+04:45,000 --> 04:50,500
+...Không sao đâu ạ, em không có ngủ.
 
 74
-05:27,500 --> 05:31,200
-Tôi định để con bé ở lại đồn, nhưng nó lại đi theo.
+04:52,500 --> 04:55,000
+Ngủ cũng được mà, Matsuri-chan?
 
 75
-05:32,500 --> 05:35,000
-Ư~ Em không muốn bị bỏ lại một mình đâu ạ!
+04:56,500 --> 05:00,500
+Không ạ, em cũng là một thành viên của
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)] mà.
 
 76
-05:36,000 --> 06:02,800
-Tâm niệm anh hùng điều 7,
-"Tất cả mọi người cùng chung sức, đối mặt với kẻ ác" ạ!
+05:01,500 --> 05:05,000
+Sao em có thể nghỉ ngơi
+khi senpai vẫn còn ở đây được.
 
 77
-06:04,200 --> 06:06,000
-...Mà, thôi kệ đi.
+05:05,500 --> 05:06,500
+Vâng ạ!
 
 78
-06:07,000 --> 06:08,800
-Có ai tên là Kuria ở đây không?
+05:08,500 --> 05:11,500
+Cô bé đó cũng thuộc
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)] à?
 
 79
-06:09,200 --> 06:11,200
-Bệ hạ đã đích thân triệu tập.
+05:12,000 --> 05:18,500
+Tớ nghe nói họ thiếu người, nhưng huy động
+cả một cô bé nhỏ thế này thì có hơi quá không~?
 
 80
-06:12,200 --> 06:15,800
-Nếu được, chúng tôi muốn cô ấy đến hoàng cung ngay lập tức.
+05:19,500 --> 05:23,000
+Không, cô bé này vẫn còn là tập sự...
 
 81
-06:16,800 --> 06:17,800
-Kuria?
+05:24,000 --> 05:26,500
+Tôi bị ép làm bảo mẫu cho con bé.
 
 82
-06:18,200 --> 06:23,500
-À, cô bé đó, vì một cô bé tên Pecorine chưa trở về...
-nên đã lo lắng và đi vào trong núi rồi.
+05:27,500 --> 05:31,500
+Định để nó ở lại đồn
+nhưng nó cứ đòi đi theo.
 
 83
-06:24,500 --> 06:28,200
-Tớ đã nói là nguy hiểm, nên đi cùng bọn tớ, nhưng mà...
+05:32,500 --> 05:34,500
+Ư~ Em không muốn bị bỏ lại một mình đâu!
 
 84
-06:29,200 --> 06:34,000
-Cô bé ấy nói dù có tìm thấy Pecorine hay không,
-thì sau đó cũng sẽ hội ngộ với chúng ta.
+05:36,000 --> 06:02,500
+Điều răn thứ 7 của anh hùng,
+"Tất cả cùng hợp sức, đối đầu với kẻ ác" ạ!
 
 85
-06:35,000 --> 06:37,800
-Cứ chờ đi, rồi cô bé sẽ xuất hiện thôi.
+06:03,500 --> 06:04,000
+Ừm.
 
 86
-06:38,800 --> 06:42,500
-Nhưng mà, "Bệ hạ" là nói đến vua của Landsol sao?
+06:04,500 --> 06:08,500
+Tớ nghe nói [Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
+không ưa Thú Nhân.
 
 87
-06:43,500 --> 06:47,800
-Một người vĩ đại như vậy, tìm Kuria có việc gì thế?
+06:09,000 --> 06:12,000
+Chẳng lẽ cô bé này là Thú Nhân...?
 
 88
-06:49,500 --> 06:52,800
-Ai biết... Tôi chỉ là một người đưa tin thôi.
+06:12,500 --> 06:15,500
+A~, a~! Không được nói ra đâu ạ!
 
 89
-06:54,500 --> 07:01,000
-Cá nhân tôi cũng có vài điều muốn hỏi Kuria và những người khác,
-nên tôi đã muốn gặp mặt họ.
+06:16,000 --> 06:21,500
+Đồng minh của công lý có rất nhiều bí mật,
+là vậy đó ạ!
 
 90
-07:02,200 --> 07:06,200
-Suu, suu...♪
+06:22,500 --> 06:24,500
+...Thôi thì, sao cũng được.
 
 91
-07:07,800 --> 07:11,800
-Ôi, Matsuri-chan đã không chịu nổi cơn buồn ngủ
-và ngủ mất rồi...
+06:26,000 --> 06:28,500
+Có ai tên là Kuria ở đây không?
 
 92
-07:12,800 --> 07:14,800
-Tôi sẽ đưa con bé này về nhà.
+06:29,000 --> 06:31,000
+Bệ hạ đã trực tiếp triệu tập.
 
 93
-07:15,500 --> 07:18,200
-Khi người tên Kuria quay lại, xin hãy giữ cô ấy ở đây.
+06:31,500 --> 06:35,500
+Nếu được, tôi muốn người đó
+đến hoàng cung ngay lập tức.
 
 94
-07:19,200 --> 07:20,200
-Hiểu rồi.
+06:36,500 --> 06:37,500
+Kuria?
 
 95
-07:20,800 --> 07:23,000
-Cậu cũng vậy, đi đường ban đêm cẩn thận nhé?
+06:37,500 --> 06:43,500
+À, cô bé đó hả, vì người tên Pecorine
+chưa quay lại... nên đã lo lắng đi vào trong núi rồi.
 
 96
-07:25,800 --> 07:28,500
-Hừm... Muốn nói là mọi chuyện đã ổn thỏa,
+06:44,000 --> 06:47,500
+Tớ đã bảo nguy hiểm,
+nên đi cùng bọn tớ, nhưng mà...
 
 97
-07:29,200 --> 07:33,200
-nhưng không hiểu sao vẫn còn cảm giác đáng ngờ.
+06:48,500 --> 06:53,500
+Dù có tìm thấy cô bé Pecorine hay không,
+thì sau đó họ cũng sẽ tập hợp lại thôi.
 
 98
-07:34,200 --> 07:35,500
-Cảm giác thật khó chịu.
+06:54,000 --> 06:57,500
+Cứ chờ đi, rồi họ sẽ xuất hiện ấy mà.
 
 99
-07:36,200 --> 07:38,800
-Dù thế nào đi nữa, hòa bình vẫn là nhất mà.
+06:58,000 --> 07:02,000
+Mà này, "Bệ hạ" có phải là
+Vua của Landosol không?
+
+100
+07:02,500 --> 07:07,500
+Một người cao quý như vậy
+tìm Kuria có chuyện gì thế?
+
+101
+07:08,500 --> 07:10,000
+Ai biết...
+
+102
+07:10,500 --> 07:12,500
+Tôi chỉ là người đưa tin thôi.
+
+103
+07:13,000 --> 07:21,000
+Cá nhân tôi cũng có vài điều muốn hỏi Kuria,
+nên nếu được thì muốn gặp mặt một lần.
+
+104
+07:21,500 --> 07:23,500
+(Tiếng ngáy)
+
+105
+07:24,500 --> 07:28,500
+Ôi, Matsuri-chan đã thua cơn buồn ngủ
+và ngủ mất rồi...
+
+106
+07:29,000 --> 07:31,500
+Tôi sẽ đưa cô bé này về nhà.
+
+107
+07:32,000 --> 07:35,000
+Nếu người tên Kuria quay lại,
+phiền mọi người giữ cô ấy lại nhé.
+
+108
+07:36,000 --> 07:37,000
+Rõ rồi.
+
+109
+07:37,500 --> 07:39,500
+Cậu cũng cẩn thận đường tối nhé?
+
+110
+07:42,000 --> 07:47,500
+Hừm... Muốn coi như mọi chuyện đã xong,
+nhưng tớ vẫn thấy có mùi gì đó mờ ám.
+
+111
+07:48,000 --> 07:49,500
+Cảm giác không lành chút nào.
+
+112
+07:50,000 --> 07:52,500
+Lúc nào cũng hòa bình là tốt nhất mà.

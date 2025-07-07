@@ -1,763 +1,490 @@
 1
-00:00:02,150 --> 00:00:03,320
-(Điều kiện Giao dịch)
+00:00:00,800 --> 00:00:07,000
+(Chương 5: Tập hợp, Thất Quan - Seven Crowns)
 
 2
-00:00:04,450 --> 00:00:05,450
-(Rừng Misterion)
+00:00:09,800 --> 00:00:11,800
+(Thú Nhân và Hiệp Sĩ Đoàn Hoàng Gia)
 
 3
-00:00:08,790 --> 00:00:11,960
-Chết rồi...! Pecorine đang đến đây!
+00:00:12,800 --> 00:00:13,600
+(Đại lộ Estrella)
 
 4
-00:00:13,760 --> 00:00:17,590
-Có vẻ như cậu ta đã hội quân với
-đám người ở [Nông Trại (Elizabeth Park)] rồi, nhưng...
+00:00:13,700 --> 00:00:17,500
+(Những người của [Trang trại Elizabeth] bị cháy rụi trang trại,
+bằng cách nào đó đã sơ tán an toàn đến chân núi.)
 
 5
-00:00:18,520 --> 00:00:23,170
-Trong số họ có vẻ có kẻ tinh mắt,
-hoặc là có trực giác tốt thì phải?
+00:00:19,500 --> 00:00:22,000
+Một, hai, ba...
 
 6
-00:00:23,940 --> 00:00:25,720
-Vị trí của mình bị lộ rồi!
+00:00:22,800 --> 00:00:25,500
+Ừm, kể cả động vật,
+tất cả mọi người đều bình an♪
 
 7
-00:00:26,500 --> 00:00:35,500
-Chắc là họ chỉ mới nghi ngờ ở mức "có lẽ có ai đó ở đây...
-và kẻ đó đang điều khiển lũ ma vật" thôi, nhưng mà!
+00:00:28,500 --> 00:00:32,500
+Haizz~ Có lúc tớ đã không biết phải làm sao...
 
 8
-00:00:38,400 --> 00:00:39,180
-Gay go rồi!
+00:00:34,500 --> 00:00:38,500
+Vì vội vàng xuống núi nên chân đau quá đi~
 
 9
-00:00:39,600 --> 00:00:43,760
-Mình đã dùng hết ma lực và thể lực
-để điều khiển ma vật rồi!
+00:00:40,500 --> 00:00:43,500
+Shiorin, cậu xoa bóp lòng bàn chân cho tớ được không?
 
 10
-00:00:44,820 --> 00:00:48,120
-Đối đầu trực diện với Pecorine lúc này,
-quả nhiên là không thể?
+00:00:44,500 --> 00:00:46,500
+Nhẹ nhàng thôi nhé~?
 
 11
-00:00:59,750 --> 00:01:02,960
-(Hơn nữa, mình cũng khó mà đối mặt với cậu ta.)
+00:00:48,000 --> 00:00:48,500
+Vâng.
 
 12
-00:01:05,250 --> 00:01:06,580
-(Cậu ta đúng là ngốc mà.)
+00:00:49,500 --> 00:00:53,500
+Rin-chan, thỉnh thoảng
+cậu cứ như bà cụ ấy nhỉ.
 
 13
-00:01:07,250 --> 00:01:15,340
-(Đối với một người lạ hoắc như mình,
-lại cứ như bạn bè, gọi mình là Kyaru-chan rồi thân thiết như vậy.)
+00:00:55,000 --> 00:00:57,500
+Không cần phải chiều cậu ấy quá đâu~ Shiori-chan.
 
 14
-00:01:17,010 --> 00:01:20,510
-(Cứ có dịp là lại ôm chầm lấy,
-rồi bắt chuyện suồng sã.)
+00:00:58,500 --> 00:01:04,000
+Rin-chan ấy mà, giữa đường cứ ăn vạ
+"Không đi nổi nữa!",
 
 15
-00:01:20,510 --> 00:01:25,600
-(Mỗi ngày, mỗi tối chúng ta đều cùng nhau ăn tối nhỉ.)
+00:01:04,500 --> 00:01:07,500
+nên tớ đã phải bế cậu ấy đi đấy.
 
 16
-00:01:26,430 --> 00:01:33,190
-(Cùng nhau nói chuyện phiếm, cùng nhau cười đùa,
-cùng nhau thưởng thức những món ăn ngon.)
+00:01:08,500 --> 00:01:12,500
+Thiệt tình... Cứ tưởng cậu ấy
+đã ngoan ngoãn hơn chút rồi,
 
 17
-00:01:36,900 --> 00:01:41,610
-(Cậu ta lúc nào cũng nở nụ cười
-ngây thơ, rạng rỡ như vậy, thế mà...)
+00:01:13,000 --> 00:01:14,500
+ai dè Rin-chan vẫn là Rin-chan nhỉ.
 
 18
-00:01:42,990 --> 00:01:47,700
-(Nếu biết mình là kẻ xấu đã nhắm đến mạng sống của cậu ta,)
+00:01:15,500 --> 00:01:18,500
+Hoàn toàn trở lại thành
+Rin-chan của mọi khi rồi.
 
 19
-00:01:47,700 --> 00:01:50,910
-(liệu cậu ta có khóc không? Có tức giận không?)
+00:01:19,500 --> 00:01:20,500
+Aha ha...
 
 20
-00:01:51,580 --> 00:01:54,960
-(Chắc chắn là không thể cười được rồi.)
+00:01:21,500 --> 00:01:24,000
+Rin-chan mà nghiêm túc thì đáng sợ lắm,
 
 21
-00:01:56,500 --> 00:01:58,920
-(Mình không muốn cướp đi nụ cười của cậu ấy.)
+00:01:24,500 --> 00:01:29,500
+nên tớ thấy "Rin-chan của mọi khi"
+vẫn yên tâm hơn.
 
 22
-00:01:59,670 --> 00:02:09,180
-(Một người đã bị cướp đi tất cả mọi thứ như cậu ta,
-thứ ánh sáng mà cậu ta vẫn trân trọng giữ gìn...)
+00:01:30,500 --> 00:01:31,500
+Hì hì.
 
 23
-00:02:09,180 --> 00:02:10,220
-(mình lại đang định giật lấy nó sao?)
+00:01:32,000 --> 00:01:35,500
+Phải không, phải không,
+cậu có thể khen tớ nhiều hơn nữa đó?
 
 24
-00:02:11,510 --> 00:02:14,350
-(Một chuyện tàn nhẫn như vậy,
-làm sao mình có thể làm được chứ!)
+00:01:37,500 --> 00:01:39,500
+Tớ có khen cậu đâu...
 
 25
-00:02:17,980 --> 00:02:20,310
-Có vẻ như cô bé đang gặp rắc rối nhỉ.
+00:01:40,500 --> 00:01:42,000
+Nhưng mà may quá.
 
 26
-00:02:24,570 --> 00:02:26,490
-......!?
-Christina!
+00:01:43,000 --> 00:01:45,500
+Hầu như không có ai bị thương cả.
 
 27
-00:02:27,820 --> 00:02:32,870
-Ồ, gọi trống không sao?
-Tốt lắm, tốt lắm, thật là phản kháng!
+00:01:46,000 --> 00:01:50,500
+Dù các tòa nhà của [Trang trại Elizabeth]
+đang trong tình trạng thảm hại.
 
 28
-00:02:33,540 --> 00:02:42,130
-Lúc nào cũng "Christina-sama" một cách lễ phép giả tạo,
-ta đã nghĩ mi thật là một đứa nhàm chán đấy! Ahahaha☆
+00:01:53,000 --> 00:01:55,500
+Nhà cửa thì sửa lại bao nhiêu mà chả được.
 
 29
-00:02:43,590 --> 00:02:47,590
-Cô làm gì ở đây?
-Là do Bệ hạ phái tới sao?
+00:01:56,000 --> 00:01:58,500
+Bị quái vật tấn công thì có bảo hiểm chi trả mà.
 
 30
-00:02:48,590 --> 00:02:50,970
-Nói đúng cũng được, mà nói sai cũng được.
+00:01:59,500 --> 00:02:03,500
+Nghĩ đến việc được xây lại,
+tớ còn thấy hời ấy chứ.
 
 31
-00:02:52,220 --> 00:02:56,600
-Không liên quan đến ngươi,
-ta được Bệ hạ nhờ vả một chuyện thôi.
+00:02:05,000 --> 00:02:07,500
+Phì, Mahiru-san thật mạnh mẽ nhỉ.
 
 32
-00:02:57,560 --> 00:03:02,190
-Do chuyện lần trước,
-ta khó mà ở lại Landosol được.
+00:02:08,500 --> 00:02:09,500
+Tớ rất ngưỡng mộ.
 
 33
-00:03:02,940 --> 00:03:06,610
-Nên ta đang thực hiện một nhiệm vụ đặc biệt
-ở ngoài thành phố.
+00:02:11,000 --> 00:02:16,000
+Thôi mà~ Nhưng mà tớ đã để mọi người
+phải sợ hãi rồi.
 
 34
-00:03:07,400 --> 00:03:15,370
-Lần này, có vẻ như đã xác định được căn cứ của
-cái hội bí mật [Labyrinth] gì đó, nên ta sẽ đi xử lý chúng một chút.
+00:02:17,000 --> 00:02:19,500
+Tớ không muốn chuyện này xảy ra lần nữa đâu.
 
 35
-00:03:16,580 --> 00:03:20,380
-Tiện thể, ta cũng được lệnh đến
-xem tình hình của ngươi thế nào.
+00:02:20,500 --> 00:02:24,500
+Chuyện gì vậy nhỉ,
+vụ quái vật nổi điên đó...
 
 36
-00:03:21,590 --> 00:03:28,890
-Có vẻ như Bệ hạ đang nghi ngờ năng lực,
-hoặc là lòng trung thành của ngươi đấy nhỉ?
+00:02:25,500 --> 00:02:27,500
+Có chút không bình thường.
 
 37
-00:03:30,220 --> 00:03:34,270
-Nếu không thì, ngài ấy đã tin tưởng
-giao phó mọi thứ rồi.
+00:02:29,000 --> 00:02:33,500
+Mọi người trong [Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
+nói sẽ điều tra giúp chúng ta.
 
 38
-00:03:34,770 --> 00:03:37,730
-Chứ không đời nào lại bảo ta
-đi xem tình hình ngươi đâu.
+00:02:34,000 --> 00:02:39,500
+Họ đã đến cứu với số lượng lớn,
+và hộ tống chúng ta đến tận đây.
 
 39
-00:03:39,820 --> 00:03:44,700
-...Tôi vẫn đang làm rất tốt.
-Tôi vẫn đang làm theo lời Bệ hạ mà.
+00:02:40,500 --> 00:02:41,000
+Hì hì.
 
 40
-00:03:45,780 --> 00:03:54,370
-Vậy sao? Ta thấy ngươi như đứa trẻ lạc
-đang mếu máo khóc ấy, vẫn còn là con nít lắm!
+00:02:41,500 --> 00:02:45,500
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
+đối xử với Thú Nhân khá khắt khe,
 
 41
-00:03:55,330 --> 00:04:00,170
-Có vẻ ngươi chưa biết cái hay
-của việc làm kẻ xấu rồi, ahahaha☆
+00:02:45,500 --> 00:02:47,500
+nên tớ hơi không thích họ.
 
 42
-00:04:01,710 --> 00:04:04,970
-Tôi không có thời gian để nói chuyện với cô đâu!
+00:02:48,500 --> 00:02:49,500
+Nhưng tớ đã có cái nhìn khác rồi.
 
 43
-00:04:05,380 --> 00:04:08,010
-Đừng có cản đường, tôi sẽ làm cho xong!
+00:02:50,500 --> 00:02:54,500
+Có lẽ họ là những người tốt.
 
 44
-00:04:08,010 --> 00:04:13,640
-Cứ nói với Bệ hạ như vậy đi, đi chỗ khác đi!
-Ngứa mắt quá, Christina...!
+00:02:57,000 --> 00:02:58,000
+Ai mà biết được...
 
 45
-00:04:14,770 --> 00:04:19,400
-Đừng có nổi đóa lên thế.
-Con gái như vậy không được yêu thích đâu đấy~?
+00:02:58,500 --> 00:03:02,500
+So với việc chỉ tình cờ phát hiện và chạy đến,
+họ hành động quá nhanh
 
 46
-00:04:20,480 --> 00:04:23,190
-Này, Kyaru... phải không nhỉ?
+00:03:02,500 --> 00:03:06,500
+và chuẩn bị kỹ càng.
 
 47
-00:04:24,030 --> 00:04:26,110
-Bình tĩnh lại đã nào.
+00:03:07,500 --> 00:03:11,000
+Tớ thấy có mùi gì đó mờ ám nha?
 
 48
-00:04:27,240 --> 00:04:28,700
-Chúng ta giao dịch một chút không?
+00:03:14,000 --> 00:03:14,500
+Hì hì.
 
 49
-00:04:29,660 --> 00:04:30,950
-Giao dịch...?
+00:03:15,000 --> 00:03:21,000
+Mọi người ở [Trang trại Elizabeth]
+có gì phàn nàn về chúng tôi sao?
 
 50
-00:04:32,200 --> 00:04:34,290
-Phải, ta sẽ giúp ngươi một tay.
+00:03:22,000 --> 00:03:23,000
+Đ-Đâu có~...
 
 51
-00:04:34,290 --> 00:04:43,420
-Cụ thể là... ta sẽ xử lý
-cô bé đang đến gần đây cho.
+00:03:24,500 --> 00:03:26,500
+Cảm ơn đã hộ tống.
 
 52
-00:04:44,880 --> 00:04:46,840
-Ta sẽ bắt sống cô ta một cách lộng lẫy.
+00:03:27,500 --> 00:03:30,500
+Nhưng mà, hôm nay bọn tớ ngủ ở đâu đây?
 
 53
-00:04:47,590 --> 00:04:57,270
-Giết luôn cũng được... Dù cô ta có vẻ cũng là một tay cừ,
-nhưng mà không phải là đối thủ của ta đâu.
+00:03:32,500 --> 00:03:34,500
+Mấy người không sắp xếp nhà trọ hay gì à?
 
 54
-00:04:58,230 --> 00:04:59,690
-Chỉ là một việc đơn giản thôi.
+00:03:36,000 --> 00:03:37,000
+Hừm...
 
 55
-00:05:00,310 --> 00:05:04,730
-Trong lúc đó, ngươi cứ trốn
-trong bụi cây là được.
+00:03:38,500 --> 00:03:42,500
+Con người hay Thú Nhân thì không sao,
+nhưng còn có rất nhiều động vật nữa.
 
 56
-00:05:06,400 --> 00:05:07,990
-...Đúng là một đề nghị hấp dẫn.
+00:03:43,500 --> 00:03:45,500
+Không thể chuẩn bị chỗ ở ngay được.
 
 57
-00:05:08,610 --> 00:05:12,620
-Nhưng mà. Đã là giao dịch thì
-bên cô cũng có yêu cầu chứ?
+00:03:46,500 --> 00:03:48,500
+Hôm nay, mong mọi người cắm trại tạm vậy.
 
 58
-00:05:13,280 --> 00:05:15,330
-Rốt cuộc, cô muốn gì?
+00:03:49,500 --> 00:03:53,500
+Chúng tôi sẽ cố gắng chuẩn bị những vật dụng
+cần thiết như lều và thức ăn.
 
 59
-00:05:16,580 --> 00:05:18,960
-Tiền? Báu vật? Hay là quyền lực?
+00:03:55,500 --> 00:03:57,000
+Thế thì tốt quá~
 
 60
-00:05:20,330 --> 00:05:22,040
-Thứ ta muốn là thông tin.
+00:03:58,000 --> 00:04:01,500
+Tớ mệt rã rời rồi,
+chỉ muốn vào chỗ ngủ nghỉ ngơi ngay thôi.
 
 61
-00:05:22,880 --> 00:05:27,720
-Ở thời đại này, đó mới là
-báu vật giá trị nhất.
+00:04:02,500 --> 00:04:05,500
+À, cậu là... Tomo-chan của
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
 
 62
-00:05:28,510 --> 00:05:35,560
-Những sự thật mà ta chưa nắm được,
-những điều mà Bệ hạ và ngươi biết... hãy cho ta biết một vài điều.
+00:04:05,500 --> 00:04:07,500
+phải không?
 
 63
-00:05:37,390 --> 00:05:39,730
-Bảo tôi... phản bội Bệ hạ sao?
+00:04:08,000 --> 00:04:11,500
+Vẫn còn là trẻ con mà phải làm việc đến khuya,
+giỏi quá♪
 
 64
-00:05:41,270 --> 00:05:48,280
-Ta không nói vậy. Chỉ cần ngươi cho ta biết
-trong phạm vi có thể nói là được rồi.
+00:04:13,000 --> 00:04:14,500
+Đó là nhiệm vụ của tôi.
 
 65
-00:05:49,320 --> 00:05:54,830
-Dù sao thì... chuyện này cũng chỉ là
-trò tiêu khiển trong cuộc đời nhàm chán này thôi.
+00:04:15,500 --> 00:04:16,000
+...
 
 66
-00:05:55,200 --> 00:05:58,620
-Bệ hạ, có vẻ như đang che giấu điều gì đó.
+00:04:16,500 --> 00:04:21,500
+À, xin lỗi nhưng,
+cậu lớn tuổi hơn tôi à?
 
 67
-00:05:58,620 --> 00:06:06,590
-Liều mạng vì một người không chia sẻ những điều quan trọng,
-chẳng phải rất ngớ ngẩn sao?
+00:04:22,000 --> 00:04:25,500
+Bị đối xử như trẻ con
+làm tôi thấy hơi lạ.
 
 68
-00:06:07,300 --> 00:06:09,340
-Ta muốn chiến đấu khi đã thông suốt.
+00:04:26,500 --> 00:04:29,500
+Hả, tớ 20 tuổi rồi đó~♪
 
 69
-00:06:10,010 --> 00:06:15,180
-Dù ta cũng thích đắm mình trong
-khoái lạc nhất thời lắm.
+00:04:30,500 --> 00:04:32,500
+Hơn nữa, trẻ ngoan thì phải đi ngủ thôi.
 
 70
-00:06:16,430 --> 00:06:18,930
-Thời gian, cuộc đời là hữu hạn.
+00:04:33,000 --> 00:04:35,500
+Cô bé kia cũng trông buồn ngủ rồi kìa...
 
 71
-00:06:19,680 --> 00:06:25,520
-Đó là một trong số ít những chân lý
-tuyệt đối trên thế gian này.
+00:04:36,000 --> 00:04:40,500
+Bọn tớ không sao đâu,
+mấy cậu cũng về nghỉ ngơi đi♪
 
 72
-00:06:26,310 --> 00:06:31,030
-Ta không muốn lãng phí thời gian quý báu của cuộc đời
-vào những việc vô giá trị.
+00:04:42,500 --> 00:04:44,000
+Zzz...
 
 73
-00:06:31,780 --> 00:06:37,240
-Vậy nên, ta muốn làm rõ
-một vài điều còn khúc mắc.
+00:04:45,000 --> 00:04:50,500
+...Không sao đâu ạ, em không có ngủ.
 
 74
-00:06:37,990 --> 00:06:41,120
-Ta không muốn trở thành con tốt của ai cả.
+00:04:52,500 --> 00:04:55,000
+Ngủ cũng được mà, Matsuri-chan?
 
 75
-00:06:42,200 --> 00:06:50,250
-Cuộc đời của ta, dù nó có nhàm chán và vô vị đến đâu,
-thì nó vẫn là của riêng ta.
+00:04:56,500 --> 00:05:00,500
+Không ạ, em cũng là một thành viên của
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)] mà.
 
 76
-00:06:51,210 --> 00:06:57,470
-...Cô, tôi cứ tưởng chỉ là một kẻ giết người vì khoái lạc,
-không ngờ cũng lắm mưu mẹo nhỉ.
+00:05:01,500 --> 00:05:05,000
+Sao em có thể nghỉ ngơi
+khi senpai vẫn còn ở đây được.
 
 77
-00:06:58,590 --> 00:07:09,100
-Đúng vậy. Ta là nô lệ của khoái lạc, nhưng không muốn làm nô lệ cho kẻ khác.
-Chỉ vậy thôi, cô bé.
+00:05:05,500 --> 00:05:06,500
+Vâng ạ!
 
 78
-00:07:10,140 --> 00:07:11,640
-...Nào, sao đây?
+00:05:08,500 --> 00:05:11,500
+Cô bé đó cũng thuộc
+[Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)] à?
 
 79
-00:07:12,390 --> 00:07:15,310
-Không nhanh lên là hết giờ đấy?
+00:05:12,000 --> 00:05:18,500
+Tớ nghe nói họ thiếu người, nhưng huy động
+cả một cô bé nhỏ thế này thì có hơi quá không~?
 
 80
-00:07:16,350 --> 00:07:21,980
-Thay vì hối hận vì không quyết đoán,
-hối hận vì đã lựa chọn còn có ý nghĩa hơn.
+00:05:19,500 --> 00:05:23,000
+Không, cô bé này vẫn còn là tập sự...
 
 81
-00:07:22,820 --> 00:07:25,650
-Đây là lời khuyên chân thành của người đi trước đấy.
+00:05:24,000 --> 00:05:26,500
+Tôi bị ép làm bảo mẫu cho con bé.
 
 82
-00:07:27,780 --> 00:07:28,870
-...Được rồi.
+00:05:27,500 --> 00:05:31,500
+Định để nó ở lại đồn
+nhưng nó cứ đòi đi theo.
 
 83
-00:07:29,490 --> 00:07:33,830
-Giao dịch thành lập.
-Tôi chấp nhận điều kiện của cô.
+00:05:32,500 --> 00:05:34,500
+Ư~ Em không muốn bị bỏ lại một mình đâu!
 
 84
-00:07:34,330 --> 00:07:40,210
-Tôi sẽ trốn ở đâu đó gần đây.
-Việc xử lý Tiana đang đến gần, tôi giao cho cô đấy.
+00:05:36,000 --> 00:06:02,500
+Điều răn thứ 7 của anh hùng,
+"Tất cả cùng hợp sức, đối đầu với kẻ ác" ạ!
 
 85
-00:07:41,210 --> 00:07:44,260
-...Nói trước nhé, đừng có giết cô ta đấy?
-
-86
-00:07:45,130 --> 00:07:46,050
-Tiana?
-
-87
-00:07:46,920 --> 00:08:03,560
-Haha... ra là vậy sao. Chỉ cần biết được cái tên đó thôi
-cũng đủ là phần thưởng để ta vung kiếm rồi! Ra là vậy, cuộc đời thật thú vị! Ahahaha☆
-
-88
-00:08:05,480 --> 00:08:10,230
-Đúng là lắm chuyện.
-...Vậy nhé, phần còn lại nhờ cô.
-
-89
-00:08:13,230 --> 00:08:16,740
-(Mình cũng muốn tận hưởng cuộc sống chứ.)
-
-90
-00:08:17,610 --> 00:08:23,200
-(Được ăn những món ngon, được nói chuyện
-và cười đùa với những người bạn thân...)
-
-91
-00:08:24,290 --> 00:08:28,710
-(Nhưng mà, cuộc đời này của mình,
-không phải là của mình!)
-
-92
-00:08:32,800 --> 00:08:33,800
-(Còn tiếp...)
-
-93
-00:10:08,350 --> 00:10:10,390
-(Giới thiệu tập sau)
-
-94
-00:10:10,890 --> 00:10:13,770
-Trên ngai vàng của lâu đài là Nữ Vương Eustiana.
-
-95
-00:10:14,440 --> 00:10:18,230
-Để thực hiện kịch bản tồi tệ nhất mà cô ta đã vẽ ra,
-một ma pháp cực đại xuyên thủng bầu trời.
-
-96
-00:10:19,610 --> 00:10:24,030
-Tập sau, Princess Connect! Re: Dive,
-Chương 5: Tập hợp, Thất Quan - Seven Crowns.
-
-97
-00:10:25,320 --> 00:10:27,620
-(Câu chuyện kết nối cùng cậu, một lần nữa)
-
-98
-00:10:29,410 --> 00:10:30,290
-Lâu rồi không gặp!
-
-99
-00:10:30,830 --> 00:10:33,670
-Tớ có thứ muốn đưa cho cậu đây.
-
-100
-00:10:35,710 --> 00:10:37,710
-(Màn V)
-
-101
-00:10:39,420 --> 00:10:41,260
-Vâng, vất vả rồi.
-
-102
-00:10:44,300 --> 00:10:45,050
-Ahaha.
-
-103
-00:10:45,970 --> 00:10:48,010
-Cậu trông mệt mỏi thật đấy.
-
-104
-00:10:48,510 --> 00:10:52,850
-Cũng phải thôi,
-cậu đã phải leo núi mà.
-
-105
-00:10:53,520 --> 00:10:57,480
-Nhưng mà, cậu đã phải làm thêm
-để kiếm tiền sinh hoạt ở Landosol,
-
-106
-00:10:57,480 --> 00:11:02,490
-bằng cách vận chuyển bưu phẩm
-đến nông trại trên núi.
-
-107
-00:11:03,450 --> 00:11:07,910
-Cũng nhờ vậy mà cậu đã gặp được
-mọi người ở [Nông Trại (Elizabeth Park)].
-
-108
-00:11:08,410 --> 00:11:12,040
-Nếu cậu không nhớ chuyện đó,
-thì thử lục lại ký ức xem nhé.
-
-109
-00:11:12,910 --> 00:11:18,210
-Mà thôi, dù sao thì cậu cũng đã leo núi mệt mỏi,
-chân cẳng cũng được rèn luyện rồi còn gì?
-
-110
-00:11:18,920 --> 00:11:21,210
-Cậu cũng có cảm giác mình mạnh lên rồi đó.
-
-111
-00:11:22,090 --> 00:11:25,760
-Lần này cậu cũng đã hỗ trợ
-Pecorine-chan rất tốt mà.
-
-112
-00:11:26,470 --> 00:11:30,430
-...Nhưng mà, chuyện lần này
-đúng là như một thảm họa nhỉ.
-
-113
-00:11:32,220 --> 00:11:39,480
-Nhà cửa bị đốt cháy, đất đai bị giày xéo,
-rất nhiều máu đã đổ và tiếng la hét vang vọng.
-
-114
-00:11:40,440 --> 00:11:46,650
-Chính vì mọi người ở nông trại thường ngày rất vô tư,
-nên nhìn cảnh đó thật đau lòng.
-
-115
-00:11:47,400 --> 00:11:51,240
-Nếu được, tớ mong mọi người
-sớm lấy lại được hòa bình.
-
-116
-00:11:52,410 --> 00:11:58,250
-Việc hỗ trợ tái thiết đó
-sẽ là một trong những mục tiêu của các cậu sau này.
-
-117
-00:11:59,120 --> 00:12:02,500
-Để những đứa trẻ đó lấy lại được nụ cười,
-cậu hãy cố gắng lên nhé.
-
-118
-00:12:03,500 --> 00:12:04,420
-...Mà thôi.
-
-119
-00:12:05,420 --> 00:12:09,550
-Chuyện sắp tới, tớ cũng đang phân vân
-có nên nói cho cậu bây giờ không.
-
-120
-00:12:10,260 --> 00:12:18,060
-Cuộc đối thoại này cũng giống như một giấc mơ,
-cậu cũng chẳng nhớ được bao nhiêu đâu... Thôi, nói luôn vậy.
-
-121
-00:12:18,930 --> 00:12:22,020
-Dù sao thì, sớm muộn gì các cậu
-cũng phải đối mặt với vấn đề này.
-
-122
-00:12:22,980 --> 00:12:27,070
-Lần này, cậu đã cùng Pecorine-chan
-đi đến nông trại nhỉ.
-
-123
-00:12:28,280 --> 00:12:30,610
-Cậu nghĩ sao về cô bé đó?
-
-124
-00:12:31,530 --> 00:12:32,820
-Một cô bé kỳ lạ nhỉ.
-
-125
-00:12:33,530 --> 00:12:38,200
-Cậu và cô bé đó đã lập ra guild [Hội Sành Ăn]
-và đang rất thân thiết với nhau.
-
-126
-00:12:39,080 --> 00:12:44,250
-Ừm. Nếu cậu không hiểu tớ đang nói gì,
-thì cứ thử lục lại ký ức xem nhé.
-
-127
-00:12:45,210 --> 00:12:52,470
-Mà thôi. Pecorine-chan về cơ bản là một cô bé vui vẻ và ngoan ngoãn,
-nhưng cũng mang trong mình nhiều bí ẩn.
-
-128
-00:12:53,430 --> 00:12:57,560
-Trong lời nói của cô bé,
-thỉnh thoảng lại có những điều khó hiểu.
-
-129
-00:12:58,430 --> 00:13:01,810
-Cô bé đó, đang mang một số phận nặng nề.
-
-130
-00:13:02,730 --> 00:13:07,900
-Và vì thế, cô bé đang bị một thế lực đáng sợ
-nhắm đến tính mạng.
-
-131
-00:13:08,860 --> 00:13:14,240
-Lúc cậu gặp cô bé, và cả lần này nữa,
-ma vật cứ xuất hiện hàng loạt đúng không?
-
-132
-00:13:15,120 --> 00:13:19,830
-Đó là những cuộc tấn công của kẻ nào đó
-nhắm vào mạng sống của Pecorine-chan.
-
-133
-00:13:20,830 --> 00:13:27,340
-Cô bé đó ngày đêm bị ma vật tấn công,
-luôn phải đối mặt với nguy hiểm đến tính mạng.
-
-134
-00:13:28,090 --> 00:13:33,470
-Vậy mà cô bé vẫn cười và quan tâm đến người khác,
-đúng là một công chúa thực thụ nhỉ.
-
-135
-00:13:34,430 --> 00:13:40,270
-Hơn nữa, vấn đề ở đây là kẻ chủ mưu
-đang nhắm đến mạng sống của Pecorine-chan...
-
-136
-00:13:40,270 --> 00:13:45,730
-Kẻ được gọi là "Bệ hạ" đó,
-Kyaru-chan đang ở dưới trướng của hắn.
-
-137
-00:13:46,400 --> 00:13:47,070
+00:06:03,500 --> 00:06:04,000
 Ừm.
 
-138
-00:13:47,570 --> 00:13:50,490
-Là Kyaru-chan mà cậu biết đấy.
+86
+00:06:04,500 --> 00:06:08,500
+Tớ nghe nói [Hiệp Sĩ Đoàn Hoàng Gia (NIGHTMARE)]
+không ưa Thú Nhân.
 
-139
-00:13:50,990 --> 00:13:58,960
-Cô bé đó cùng với cậu, Pecorine-chan, và Kokkoro-chan,
-là một thành viên của [Hội Sành Ăn] đang sống những ngày vui vẻ.
+87
+00:06:09,000 --> 00:06:12,000
+Chẳng lẽ cô bé này là Thú Nhân...?
 
-139
-00:13:58,960 --> 00:14:06,800
-Cô bé đó được một người gọi là "Bệ hạ" ban cho năng lực đặc biệt,
-và có thể điều khiển ma vật.
+88
+00:06:12,500 --> 00:06:15,500
+A~, a~! Không được nói ra đâu ạ!
 
-140
-00:14:07,760 --> 00:14:12,640
-Dù vẫn chưa sử dụng thành thạo năng lực đó,
-và toàn thất bại thôi.
+89
+00:06:16,000 --> 00:06:21,500
+Đồng minh của công lý có rất nhiều bí mật,
+là vậy đó ạ!
 
-141
-00:14:13,350 --> 00:14:19,230
-Một trong những mục tiêu hành động của Kyaru-chan,
-có vẻ là ám sát Pecorine-chan.
+90
+00:06:22,500 --> 00:06:24,500
+...Thôi thì, sao cũng được.
 
-142
-00:14:20,360 --> 00:14:26,530
-Nếu nói là bị ma vật tấn công trên đường rồi chết,
-thì có thể xử lý như một tai nạn nhỉ.
+91
+00:06:26,000 --> 00:06:28,500
+Có ai tên là Kuria ở đây không?
 
-143
-00:14:27,450 --> 00:14:32,040
-Mà thực tế, lũ ma vật đó là do
-Kyaru-chan điều khiển.
+92
+00:06:29,000 --> 00:06:31,000
+Bệ hạ đã trực tiếp triệu tập.
 
-144
-00:14:32,660 --> 00:14:36,460
-Để thực hiện âm mưu đó,
-cô bé liên tục lặp lại những vụ ám sát bất thành.
+93
+00:06:31,500 --> 00:06:35,500
+Nếu được, tôi muốn người đó
+đến hoàng cung ngay lập tức.
 
-145
-00:14:37,580 --> 00:14:43,710
-Tất nhiên đó không phải là ý muốn của Kyaru-chan,
-mà là do "Bệ hạ" ra lệnh.
+94
+00:06:36,500 --> 00:06:37,500
+Kuria?
 
-146
-00:14:44,300 --> 00:14:46,590
-Hai người họ có mối quan hệ như vậy đấy.
+95
+00:06:37,500 --> 00:06:43,500
+À, cô bé đó hả, vì người tên Pecorine
+chưa quay lại... nên đã lo lắng đi vào trong núi rồi.
 
-147
-00:14:47,720 --> 00:14:50,470
-Bên đi săn và bên bị săn.
+96
+00:06:44,000 --> 00:06:47,500
+Tớ đã bảo nguy hiểm,
+nên đi cùng bọn tớ, nhưng mà...
 
-148
-00:14:51,390 --> 00:14:53,180
-Nạn nhân và kẻ thủ ác...
+97
+00:06:48,500 --> 00:06:53,500
+Dù có tìm thấy cô bé Pecorine hay không,
+thì sau đó họ cũng sẽ tập hợp lại thôi.
 
-149
-00:14:53,770 --> 00:15:00,860
-Vì vậy, các cậu càng thân thiết với nhau,
-thì diễn biến sau này sẽ càng éo le.
+98
+00:06:54,000 --> 00:06:57,500
+Cứ chờ đi, rồi họ sẽ xuất hiện ấy mà.
 
-150
-00:15:01,480 --> 00:15:10,030
-Lần này cũng vậy, Kyaru-chan đã định ám sát Pecorine-chan,
-nhưng lại vô cùng dằn vặt và đau khổ.
+99
+00:06:58,000 --> 00:07:02,000
+Mà này, "Bệ hạ" có phải là
+Vua của Landosol không?
 
-151
-00:15:10,820 --> 00:15:12,910
-Cô bé đó cũng chỉ là một cô bé tốt bình thường thôi.
+100
+00:07:02,500 --> 00:07:07,500
+Một người cao quý như vậy
+tìm Kuria có chuyện gì thế?
 
-152
-00:15:13,660 --> 00:15:19,120
-Ngày nào cũng cùng nhau ăn tối,
-không muốn làm hại người bạn đã trở nên thân thiết.
+101
+00:07:08,500 --> 00:07:10,000
+Ai biết...
 
-153
-00:15:19,960 --> 00:15:24,130
-Nhưng cô bé đó dường như không thể
-chống lại "Bệ hạ".
+102
+00:07:10,500 --> 00:07:12,500
+Tôi chỉ là người đưa tin thôi.
 
-154
-00:15:25,170 --> 00:15:27,510
-Cứ thế này, bi kịch sẽ xảy ra.
+103
+00:07:13,000 --> 00:07:21,000
+Cá nhân tôi cũng có vài điều muốn hỏi Kuria,
+nên nếu được thì muốn gặp mặt một lần.
 
-155
-00:15:28,260 --> 00:15:34,140
-Vì vậy, cậu, người ở gần những đứa trẻ đó nhất,
-hãy để mắt đến họ nhé.
+104
+00:07:21,500 --> 00:07:23,500
+(Tiếng ngáy)
 
-156
-00:15:34,810 --> 00:15:40,150
-Và, hãy cố gắng để không dẫn đến
-một kết cục bi thảm.
+105
+00:07:24,500 --> 00:07:28,500
+Ôi, Matsuri-chan đã thua cơn buồn ngủ
+và ngủ mất rồi...
 
-157
-00:15:40,650 --> 00:15:49,030
-Đó là điều mà chỉ có cậu, người đã trở thành
-bạn... à không, gia đình của những đứa trẻ đó, mới có thể làm được.
+106
+00:07:29,000 --> 00:07:31,500
+Tôi sẽ đưa cô bé này về nhà.
 
-158
-00:15:49,660 --> 00:15:52,240
-Mà, chắc là khó lắm đây.
+107
+00:07:32,000 --> 00:07:35,000
+Nếu người tên Kuria quay lại,
+phiền mọi người giữ cô ấy lại nhé.
 
-159
-00:15:53,240 --> 00:15:56,580
-Cố lên nhé, tớ sẽ cổ vũ cậu.
+108
+00:07:36,000 --> 00:07:37,000
+Rõ rồi.
 
-160
-00:15:57,250 --> 00:15:59,170
-Hãy hết sức cẩn thận.
+109
+00:07:37,500 --> 00:07:39,500
+Cậu cũng cẩn thận đường tối nhé?
 
-161
-00:15:59,670 --> 00:16:08,300
-"Bệ hạ" đó có vẻ không phải là người kiên nhẫn,
-nên có lẽ sắp tới hắn sẽ không giao cho thuộc hạ nữa mà tự mình ra tay.
+110
+00:07:42,000 --> 00:07:47,500
+Hừm... Muốn coi như mọi chuyện đã xong,
+nhưng tớ vẫn thấy có mùi gì đó mờ ám.
 
-162
-00:16:09,180 --> 00:16:13,430
-Hắn là một tồn tại tà ác
-từng suýt hủy diệt thế giới.
+111
+00:07:48,000 --> 00:07:49,500
+Cảm giác không lành chút nào.
 
-163
-00:16:14,890 --> 00:16:17,730
-Không thể nói là sẽ dễ dàng đánh bại đâu.
-
-164
-00:16:18,310 --> 00:16:21,860
-Chỉ có thể cầu nguyện cho các cậu
-sống sót trở về thôi.
-
-165
-00:16:22,860 --> 00:16:27,610
-Chừng nào cậu còn sống,
-thì hy vọng vẫn còn.
+112
+00:07:50,000 --> 00:07:52,500
+Lúc nào cũng hòa bình là tốt nhất mà.

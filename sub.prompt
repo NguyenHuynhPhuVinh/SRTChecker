@@ -1,0 +1,20 @@
+You are an expert subtitle analysis AI. Your task is to perform a detailed comparison of the two SRT files provided below.
+
+Your analysis should focus on the following key areas:
+
+1. Translation Quality and Consistency:
+- Compare the choice of words, tone, and character voice (e.g., pronouns, level of formality).
+- Identify any obvious translation errors, such as untranslated words, foreign words left in the text (like Thai or Japanese characters), or nonsensical phrases.
+- Detect any structural errors like duplicated or repeated blocks of dialogue.
+2. Timing Discrepancies and Content Completeness:
+- This is the most critical point: Pinpoint any significant time gaps in one file that are filled with dialogue in the other. Analyze these "abnormal time gaps" where one translation is clearly missing content.
+- Identify any missing or incomplete dialogue lines.
+- Comment on any major differences in the start and end times of the subtitles.
+
+Final Objective:
+Based on your comprehensive analysis, you must:
+
+1. Conclude which SRT file is superior, more accurate, and more complete.
+2. Provide a clear and detailed justification for your choice, referencing specific line numbers and timestamps as evidence.
+
+IMPORTANT CONSTRAINT: Your entire analysis, comparison, and final conclusion MUST be written in VIETNAMESE.

@@ -92,9 +92,10 @@ class SRTFixer:
         self.root.update_idletasks()
         
     def fix_time_format(self, time_str):
-        """Sửa định dạng thời gian"""
+        """Sửa định dạng thời gian với validation kỹ hơn"""
         # Loại bỏ khoảng trắng
         time_str = time_str.strip()
+        original_time = time_str
 
         # Các pattern để sửa lỗi định dạng thời gian
         patterns = [
@@ -109,34 +110,110 @@ class SRTFixer:
 
             # Pattern 4: H:MM,mmm -> 0H:MM,mmm
             (r'^(\d):(\d{2}),(\d{3})$', lambda m: f'00:0{m.group(1)}:{m.group(2)},{m.group(3)}'),
+
+            # Pattern 5: 00:0MM,mmm (thiếu số 0 ở phút) -> 00:MM,mmm
+            (r'^(\d{2}):0(\d{1}),(\d{3})$', lambda m: f'{m.group(1)}:0{m.group(2)},{m.group(3)}'),
+
+            # Pattern 6: 00:0MM:mmm (thiếu số 0 ở phút + dấu : thay vì ,) -> 00:0MM,mmm
+            (r'^(\d{2}):0(\d{1}):(\d{3})$', lambda m: f'{m.group(1)}:0{m.group(2)},{m.group(3)}'),
+
+            # Pattern 7: 00:MMM,mmm (3 chữ số phút - lỗi format) -> 00:0M:MM,mmm
+            (r'^(\d{2}):(\d{3}),(\d{3})$', lambda m: f'{m.group(1)}:0{m.group(2)[0]}:{m.group(2)[1:]},{m.group(3)}'),
+
+            # Pattern 8: 00:MMM:mmm (3 chữ số phút + dấu : thay vì ,) -> 00:0M:MM,mmm
+            (r'^(\d{2}):(\d{3}):(\d{3})$', lambda m: f'{m.group(1)}:0{m.group(2)[0]}:{m.group(2)[1:]},{m.group(3)}'),
         ]
 
         for pattern, replacement in patterns:
             match = re.match(pattern, time_str)
             if match:
                 if callable(replacement):
-                    return replacement(match)
+                    fixed_time = replacement(match)
+                    # Validate format sau khi sửa
+                    if self.validate_time_format(fixed_time):
+                        return fixed_time
                 else:
-                    return re.sub(pattern, replacement, time_str)
+                    fixed_time = re.sub(pattern, replacement, time_str)
+                    if self.validate_time_format(fixed_time):
+                        return fixed_time
 
-        return time_str
+        # Nếu không match pattern nào, kiểm tra format chuẩn
+        if self.validate_time_format(time_str):
+            return time_str
+
+        # Nếu vẫn không đúng format, trả về original và log warning
+        return original_time
+
+    def validate_time_format(self, time_str):
+        """Kiểm tra định dạng thời gian có đúng chuẩn SRT không"""
+        # Format chuẩn: HH:MM:SS,mmm
+        pattern = r'^(\d{2}):(\d{2}):(\d{2}),(\d{3})$'
+        match = re.match(pattern, time_str)
+        if not match:
+            return False
+
+        hours = int(match.group(1))
+        minutes = int(match.group(2))
+        seconds = int(match.group(3))
+        milliseconds = int(match.group(4))
+
+        # Kiểm tra giá trị hợp lệ
+        return (0 <= hours <= 99 and
+                0 <= minutes <= 59 and
+                0 <= seconds <= 59 and
+                0 <= milliseconds <= 999)
+
+    def time_to_milliseconds(self, time_str):
+        """Chuyển đổi thời gian sang milliseconds để so sánh"""
+        if not self.validate_time_format(time_str):
+            return None
+
+        pattern = r'^(\d{2}):(\d{2}):(\d{2}),(\d{3})$'
+        match = re.match(pattern, time_str)
+        if not match:
+            return None
+
+        hours = int(match.group(1))
+        minutes = int(match.group(2))
+        seconds = int(match.group(3))
+        milliseconds = int(match.group(4))
+
+        total_ms = (hours * 3600 + minutes * 60 + seconds) * 1000 + milliseconds
+        return total_ms
+
+    def milliseconds_to_time(self, ms):
+        """Chuyển đổi milliseconds về format thời gian SRT"""
+        hours = ms // 3600000
+        ms %= 3600000
+        minutes = ms // 60000
+        ms %= 60000
+        seconds = ms // 1000
+        milliseconds = ms % 1000
+
+        return f"{hours:02d}:{minutes:02d}:{seconds:02d},{milliseconds:03d}"
         
     def fix_srt_file(self, input_file):
-        """Sửa file SRT"""
+        """Sửa file SRT với validation timeline"""
         try:
             # Đọc file
             with open(input_file, 'r', encoding='utf-8') as f:
                 content = f.read()
-                
+
             self.log(f"Đã đọc file: {input_file}")
-            
+
             lines = content.split('\n')
             fixed_lines = []
-            fixes_count = 0
-            
+            format_fixes_count = 0
+            timeline_fixes_count = 0
+
             # Pattern cho dòng thời gian - hỗ trợ nhiều định dạng
             time_pattern = r'^(.+?)\s*-->\s*(.+?)$'
-            
+
+            # Lưu trữ thông tin subtitle để kiểm tra timeline
+            subtitles = []
+            current_subtitle = {}
+
+            # Pass 1: Sửa định dạng thời gian và thu thập thông tin subtitle
             for i, line in enumerate(lines):
                 original_line = line
                 line = line.strip()
@@ -155,28 +232,92 @@ class SRTFixer:
 
                     # Kiểm tra xem có thay đổi không
                     if fixed_line != line:
-                        self.log(f"Dòng {i+1}: {line}")
+                        self.log(f"[FORMAT] Dòng {i+1}: {line}")
                         self.log(f"  -> {fixed_line}")
-                        fixes_count += 1
+                        format_fixes_count += 1
+
+                    # Lưu thông tin subtitle
+                    current_subtitle = {
+                        'line_number': i,
+                        'start_time': fixed_start,
+                        'end_time': fixed_end,
+                        'start_ms': self.time_to_milliseconds(fixed_start),
+                        'end_ms': self.time_to_milliseconds(fixed_end)
+                    }
+                    subtitles.append(current_subtitle)
 
                     fixed_lines.append(fixed_line)
                 else:
                     # Giữ nguyên dòng không phải thời gian
                     fixed_lines.append(original_line.rstrip())
-            
+
+            # Pass 2: Kiểm tra và sửa timeline logic
+            self.log(f"\n=== KIỂM TRA TIMELINE ===")
+
+            for i, subtitle in enumerate(subtitles):
+                timeline_fixed = False
+
+                # Kiểm tra start_time < end_time
+                if subtitle['start_ms'] is not None and subtitle['end_ms'] is not None:
+                    if subtitle['start_ms'] >= subtitle['end_ms']:
+                        self.log(f"[TIMELINE] Subtitle {i+1}: Thời gian bắt đầu >= thời gian kết thúc")
+                        self.log(f"  Trước: {subtitle['start_time']} --> {subtitle['end_time']}")
+
+                        # Sửa bằng cách thêm 1 giây vào end_time
+                        new_end_ms = subtitle['start_ms'] + 1000
+                        new_end_time = self.milliseconds_to_time(new_end_ms)
+                        subtitle['end_time'] = new_end_time
+                        subtitle['end_ms'] = new_end_ms
+
+                        # Cập nhật trong fixed_lines
+                        fixed_lines[subtitle['line_number']] = f"{subtitle['start_time']} --> {subtitle['end_time']}"
+
+                        self.log(f"  Sau: {subtitle['start_time']} --> {subtitle['end_time']}")
+                        timeline_fixes_count += 1
+                        timeline_fixed = True
+
+                # Kiểm tra overlap với subtitle tiếp theo
+                if i < len(subtitles) - 1:
+                    next_subtitle = subtitles[i + 1]
+                    if (subtitle['end_ms'] is not None and
+                        next_subtitle['start_ms'] is not None and
+                        subtitle['end_ms'] > next_subtitle['start_ms']):
+
+                        self.log(f"[TIMELINE] Subtitle {i+1} và {i+2}: Thời gian overlap")
+                        self.log(f"  Subtitle {i+1} kết thúc: {subtitle['end_time']}")
+                        self.log(f"  Subtitle {i+2} bắt đầu: {next_subtitle['start_time']}")
+
+                        # Sửa bằng cách điều chỉnh end_time của subtitle hiện tại
+                        # để kết thúc 100ms trước khi subtitle tiếp theo bắt đầu
+                        new_end_ms = max(subtitle['start_ms'] + 500, next_subtitle['start_ms'] - 100)
+                        new_end_time = self.milliseconds_to_time(new_end_ms)
+                        subtitle['end_time'] = new_end_time
+                        subtitle['end_ms'] = new_end_ms
+
+                        # Cập nhật trong fixed_lines
+                        fixed_lines[subtitle['line_number']] = f"{subtitle['start_time']} --> {subtitle['end_time']}"
+
+                        self.log(f"  Đã sửa subtitle {i+1} kết thúc: {subtitle['end_time']}")
+                        timeline_fixes_count += 1
+                        timeline_fixed = True
+
             # Tạo tên file output
             base_name = os.path.splitext(input_file)[0]
             output_file = f"{base_name}_fixed.srt"
-            
+
             # Ghi file đã sửa
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(fixed_lines))
-                
-            self.log(f"\nĐã sửa {fixes_count} lỗi định dạng thời gian")
+
+            total_fixes = format_fixes_count + timeline_fixes_count
+            self.log(f"\n=== KẾT QUẢ ===")
+            self.log(f"Đã sửa {format_fixes_count} lỗi định dạng thời gian")
+            self.log(f"Đã sửa {timeline_fixes_count} lỗi timeline")
+            self.log(f"Tổng cộng: {total_fixes} lỗi được sửa")
             self.log(f"File đã sửa được lưu tại: {output_file}")
-            
-            return True, output_file, fixes_count
-            
+
+            return True, output_file, total_fixes
+
         except Exception as e:
             self.log(f"Lỗi: {str(e)}")
             return False, None, 0

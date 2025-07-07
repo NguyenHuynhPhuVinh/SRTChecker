@@ -193,7 +193,7 @@ class SRTFixer:
         return f"{hours:02d}:{minutes:02d}:{seconds:02d},{milliseconds:03d}"
         
     def fix_srt_file(self, input_file):
-        """Sửa file SRT với validation timeline"""
+        """Sửa file SRT - chỉ sửa định dạng, báo cáo timeline"""
         try:
             # Đọc file
             with open(input_file, 'r', encoding='utf-8') as f:
@@ -204,14 +204,13 @@ class SRTFixer:
             lines = content.split('\n')
             fixed_lines = []
             format_fixes_count = 0
-            timeline_fixes_count = 0
+            timeline_issues_count = 0
 
             # Pattern cho dòng thời gian - hỗ trợ nhiều định dạng
             time_pattern = r'^(.+?)\s*-->\s*(.+?)$'
 
             # Lưu trữ thông tin subtitle để kiểm tra timeline
             subtitles = []
-            current_subtitle = {}
 
             # Pass 1: Sửa định dạng thời gian và thu thập thông tin subtitle
             for i, line in enumerate(lines):
@@ -236,45 +235,32 @@ class SRTFixer:
                         self.log(f"  -> {fixed_line}")
                         format_fixes_count += 1
 
-                    # Lưu thông tin subtitle
-                    current_subtitle = {
-                        'line_number': i,
+                    # Lưu thông tin subtitle để kiểm tra timeline
+                    subtitle_info = {
+                        'line_number': i + 1,
+                        'subtitle_number': len(subtitles) + 1,
                         'start_time': fixed_start,
                         'end_time': fixed_end,
                         'start_ms': self.time_to_milliseconds(fixed_start),
                         'end_ms': self.time_to_milliseconds(fixed_end)
                     }
-                    subtitles.append(current_subtitle)
+                    subtitles.append(subtitle_info)
 
                     fixed_lines.append(fixed_line)
                 else:
                     # Giữ nguyên dòng không phải thời gian
                     fixed_lines.append(original_line.rstrip())
 
-            # Pass 2: Kiểm tra và sửa timeline logic
-            self.log(f"\n=== KIỂM TRA TIMELINE ===")
+            # Pass 2: Chỉ kiểm tra và báo cáo timeline (KHÔNG SỬA)
+            self.log(f"\n=== KIỂM TRA TIMELINE (CHỈ BÁO CÁO) ===")
 
             for i, subtitle in enumerate(subtitles):
-                timeline_fixed = False
-
                 # Kiểm tra start_time < end_time
                 if subtitle['start_ms'] is not None and subtitle['end_ms'] is not None:
                     if subtitle['start_ms'] >= subtitle['end_ms']:
-                        self.log(f"[TIMELINE] Subtitle {i+1}: Thời gian bắt đầu >= thời gian kết thúc")
-                        self.log(f"  Trước: {subtitle['start_time']} --> {subtitle['end_time']}")
-
-                        # Sửa bằng cách thêm 1 giây vào end_time
-                        new_end_ms = subtitle['start_ms'] + 1000
-                        new_end_time = self.milliseconds_to_time(new_end_ms)
-                        subtitle['end_time'] = new_end_time
-                        subtitle['end_ms'] = new_end_ms
-
-                        # Cập nhật trong fixed_lines
-                        fixed_lines[subtitle['line_number']] = f"{subtitle['start_time']} --> {subtitle['end_time']}"
-
-                        self.log(f"  Sau: {subtitle['start_time']} --> {subtitle['end_time']}")
-                        timeline_fixes_count += 1
-                        timeline_fixed = True
+                        self.log(f"[TIMELINE ERROR] Subtitle {subtitle['subtitle_number']} (dòng {subtitle['line_number']}): Thời gian bắt đầu >= thời gian kết thúc")
+                        self.log(f"  {subtitle['start_time']} --> {subtitle['end_time']}")
+                        timeline_issues_count += 1
 
                 # Kiểm tra overlap với subtitle tiếp theo
                 if i < len(subtitles) - 1:
@@ -283,23 +269,13 @@ class SRTFixer:
                         next_subtitle['start_ms'] is not None and
                         subtitle['end_ms'] > next_subtitle['start_ms']):
 
-                        self.log(f"[TIMELINE] Subtitle {i+1} và {i+2}: Thời gian overlap")
-                        self.log(f"  Subtitle {i+1} kết thúc: {subtitle['end_time']}")
-                        self.log(f"  Subtitle {i+2} bắt đầu: {next_subtitle['start_time']}")
+                        self.log(f"[TIMELINE ERROR] Subtitle {subtitle['subtitle_number']} và {next_subtitle['subtitle_number']}: Thời gian overlap")
+                        self.log(f"  Subtitle {subtitle['subtitle_number']} kết thúc: {subtitle['end_time']}")
+                        self.log(f"  Subtitle {next_subtitle['subtitle_number']} bắt đầu: {next_subtitle['start_time']}")
+                        timeline_issues_count += 1
 
-                        # Sửa bằng cách điều chỉnh end_time của subtitle hiện tại
-                        # để kết thúc 100ms trước khi subtitle tiếp theo bắt đầu
-                        new_end_ms = max(subtitle['start_ms'] + 500, next_subtitle['start_ms'] - 100)
-                        new_end_time = self.milliseconds_to_time(new_end_ms)
-                        subtitle['end_time'] = new_end_time
-                        subtitle['end_ms'] = new_end_ms
-
-                        # Cập nhật trong fixed_lines
-                        fixed_lines[subtitle['line_number']] = f"{subtitle['start_time']} --> {subtitle['end_time']}"
-
-                        self.log(f"  Đã sửa subtitle {i+1} kết thúc: {subtitle['end_time']}")
-                        timeline_fixes_count += 1
-                        timeline_fixed = True
+            if timeline_issues_count == 0:
+                self.log("✓ Không phát hiện lỗi timeline")
 
             # Tạo tên file output
             base_name = os.path.splitext(input_file)[0]
@@ -309,14 +285,12 @@ class SRTFixer:
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(fixed_lines))
 
-            total_fixes = format_fixes_count + timeline_fixes_count
             self.log(f"\n=== KẾT QUẢ ===")
-            self.log(f"Đã sửa {format_fixes_count} lỗi định dạng thời gian")
-            self.log(f"Đã sửa {timeline_fixes_count} lỗi timeline")
-            self.log(f"Tổng cộng: {total_fixes} lỗi được sửa")
-            self.log(f"File đã sửa được lưu tại: {output_file}")
+            self.log(f"✓ Đã sửa {format_fixes_count} lỗi định dạng thời gian")
+            self.log(f"⚠ Phát hiện {timeline_issues_count} vấn đề timeline (chỉ báo cáo)")
+            self.log(f"📁 File đã sửa được lưu tại: {output_file}")
 
-            return True, output_file, total_fixes
+            return True, output_file, format_fixes_count
 
         except Exception as e:
             self.log(f"Lỗi: {str(e)}")

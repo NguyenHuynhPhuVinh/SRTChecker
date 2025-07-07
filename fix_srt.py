@@ -274,8 +274,31 @@ class SRTFixer:
                         self.log(f"  Subtitle {next_subtitle['subtitle_number']} bắt đầu: {next_subtitle['start_time']}")
                         timeline_issues_count += 1
 
-            if timeline_issues_count == 0:
-                self.log("✓ Không phát hiện lỗi timeline")
+            # Pass 3: Kiểm tra khoảng lặng > 2.5 giây
+            self.log(f"\n=== KIỂM TRA KHOẢNG LẶNG > 2.5 GIÂY ===")
+            silence_gaps_count = 0
+            silence_threshold_ms = 2500  # 2.5 giây
+
+            for i in range(len(subtitles) - 1):
+                current_subtitle = subtitles[i]
+                next_subtitle = subtitles[i + 1]
+
+                if (current_subtitle['end_ms'] is not None and
+                    next_subtitle['start_ms'] is not None):
+
+                    gap_ms = next_subtitle['start_ms'] - current_subtitle['end_ms']
+
+                    if gap_ms > silence_threshold_ms:
+                        gap_seconds = gap_ms / 1000.0
+                        self.log(f"[SILENCE GAP] Khoảng lặng {gap_seconds:.1f}s giữa subtitle {current_subtitle['subtitle_number']} và {next_subtitle['subtitle_number']}")
+                        self.log(f"  Từ {current_subtitle['end_time']} đến {next_subtitle['start_time']}")
+                        silence_gaps_count += 1
+
+            if silence_gaps_count == 0:
+                self.log("✓ Không phát hiện khoảng lặng > 2.5 giây")
+
+            if timeline_issues_count == 0 and silence_gaps_count == 0:
+                self.log("✓ Timeline hoàn toàn ổn!")
 
             # Tạo tên file output
             base_name = os.path.splitext(input_file)[0]
@@ -288,7 +311,8 @@ class SRTFixer:
             self.log(f"\n=== KẾT QUẢ ===")
             self.log(f"✓ Đã sửa {format_fixes_count} lỗi định dạng thời gian")
             self.log(f"⚠ Phát hiện {timeline_issues_count} vấn đề timeline (chỉ báo cáo)")
-            self.log(f"📁 File đã sửa được lưu tại: {output_file}")
+            self.log(f"� Phát hiện {silence_gaps_count} khoảng lặng > 2.5 giây")
+            self.log(f"�📁 File đã sửa được lưu tại: {output_file}")
 
             return True, output_file, format_fixes_count
 

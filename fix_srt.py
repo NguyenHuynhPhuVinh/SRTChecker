@@ -276,7 +276,7 @@ class SRTFixer:
 
             # Pass 3: Kiểm tra khoảng lặng > 2.5 giây
             self.log(f"\n=== KIỂM TRA KHOẢNG LẶNG > 2.5 GIÂY ===")
-            silence_gaps_count = 0
+            silence_gaps = []
             silence_threshold_ms = 2500  # 2.5 giây
 
             for i in range(len(subtitles) - 1):
@@ -290,11 +290,25 @@ class SRTFixer:
 
                     if gap_ms > silence_threshold_ms:
                         gap_seconds = gap_ms / 1000.0
-                        self.log(f"[SILENCE GAP] Khoảng lặng {gap_seconds:.1f}s giữa subtitle {current_subtitle['subtitle_number']} và {next_subtitle['subtitle_number']}")
-                        self.log(f"  Từ {current_subtitle['end_time']} đến {next_subtitle['start_time']}")
-                        silence_gaps_count += 1
+                        silence_gaps.append({
+                            'gap_seconds': gap_seconds,
+                            'gap_ms': gap_ms,
+                            'current_sub': current_subtitle['subtitle_number'],
+                            'next_sub': next_subtitle['subtitle_number'],
+                            'end_time': current_subtitle['end_time'],
+                            'start_time': next_subtitle['start_time']
+                        })
 
-            if silence_gaps_count == 0:
+            # Sắp xếp từ cao xuống thấp
+            silence_gaps.sort(key=lambda x: x['gap_seconds'], reverse=True)
+
+            # Hiển thị kết quả đã sắp xếp
+            silence_gaps_count = len(silence_gaps)
+            if silence_gaps_count > 0:
+                for gap in silence_gaps:
+                    self.log(f"[SILENCE GAP] Khoảng lặng {gap['gap_seconds']:.1f}s giữa subtitle {gap['current_sub']} và {gap['next_sub']}")
+                    self.log(f"  Từ {gap['end_time']} đến {gap['start_time']}")
+            else:
                 self.log("✓ Không phát hiện khoảng lặng > 2.5 giây")
 
             if timeline_issues_count == 0 and silence_gaps_count == 0:

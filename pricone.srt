@@ -45,7 +45,7 @@ Lắng nghe nguyện vọng của dân chúng,
 
 12
 00:42,700 --> 00:45,500
-Watashi vẫn chưa thỏa mãn đâu!
+Ta vẫn chưa thỏa mãn đâu!
 
 13
 00:46,800 --> 00:50,400
@@ -63,7 +63,7 @@ Hãy vung kiếm với tất cả sức lực đi,
 
 16
 00:59,900 --> 01:02,700
-và giết chết sự nhàm chán của Watashi đi......!
+và giết chết sự nhàm chán của ta đi......!
 
 17
 01:05,600 --> 01:08,900
@@ -247,144 +247,159 @@ Nên "giết rồi ăn thịt" thì tội nghiệp lắm ạ.
 Làm sao đây?
 
 59
-03:52,300 --> 03:57,800
-Để chạy trốn, em phải liên tục kích hoạt "Trang Bị Hoàng Gia",
-dù chỉ ở mức năng lượng thấp.
+03:52,300 --> 03:55,500
+Để chạy trốn, em phải liên tục kích hoạt "Trang Bị Hoàng Gia".
 
 60
+03:55,500 --> 03:57,800
+Dù chỉ ở mức năng lượng thấp, nó vẫn đang hoạt động liên tục.
+
+61
 03:59,500 --> 04:01,800
 B-Bụng em đói meo rồi.
 
-61
+62
 04:02,800 --> 04:05,400
 Cứ thế này thì gay go mất.
 
-62
+63
 04:12,500 --> 04:13,500
 Hử?
 
-63
+64
 04:13,700 --> 04:16,800
 Tiana! Vừa rồi, có phải có tiếng động gì không?
 
-64
+65
 04:17,500 --> 04:19,600
 Giống như mặt đất đang rung chuyển?
 
-65
+66
 04:20,500 --> 04:22,000
 Dạ? À...
 
-66
+67
 04:22,700 --> 04:26,500
 có lẽ vậy ạ, cảm giác như có thứ gì đó vừa phát nổ!
 
-67
+68
 04:27,200 --> 04:30,500
 Mà khoan, chị tự nhiên bắt chuyện làm em giật cả mình!
 
-68
+69
 04:31,000 --> 04:33,400
 Chúng ta đang giao chiến mà, phải không?
 
-69
+70
 04:34,500 --> 04:40,500
 Ahaha☆ Tốt, tốt lắm,
 ra là ngươi vẫn nhận thức được mình đang trong trận chiến nhỉ!
 
-70
+71
 04:41,500 --> 04:44,700
 Việc ngươi cứ chạy trốn thế này,
 cũng là một chiến thuật nào đó sao?
 
-71
+72
 04:45,500 --> 04:49,500
 Tuyệt vời! Hãy làm ta vui hơn nữa đi!
 
-72
+73
 04:51,300 --> 04:53,000
 Au~...
 
-73
-04:53,300 --> 05:00,500
-Một vụ nổ giữa núi thế này thật bất thường,
-có thể là một thảm họa nhân tạo, hoặc là một tai nạn nào đó.
-
 74
+04:53,300 --> 04:57,000
+Một vụ nổ giữa núi thế này thật bất thường,
+
+75
+04:57,000 --> 05:00,500
+có thể là thảm họa nhân tạo, hoặc là một tai nạn nào đó.
+
+76
 05:01,500 --> 05:04,200
 Em đi xem tình hình một chút được không ạ?
 
-75
+77
 05:04,600 --> 05:07,000
 Nếu có người bị thương, em muốn cứu họ.
 
-76
+78
 05:08,300 --> 05:10,200
 Ha, thật là nhân từ!
 
-77
+79
 05:10,800 --> 05:14,500
 Ta không phiền đâu, cứ tạm thời đình chiến cũng được!
 
-78
-05:17,500 --> 05:25,500
-(Hướng phát ra tiếng nổ, vốn là mục tiêu của ta...
-Hướng có căn cứ bí mật của bọn [Labyrinthus].)
+80
+05:17,500 --> 05:22,000
+(Hướng phát ra tiếng nổ, vốn là mục tiêu của ta...)
 
-79
+81
+05:22,000 --> 05:25,500
+(...hướng có căn cứ bí mật của bọn [Labyrinthus].)
+
+82
 05:26,500 --> 05:30,500
 (Thật đáng để tâm.
 Tốt hơn hết là nên đi xem thử tình hình.)
 
-80
-05:31,700 --> 05:39,000
-(Nhận ra đã bị lộ vị trí... có lẽ chúng đã cho nổ căn cứ
-để phi tang chứng cứ rồi rút lui.)
+83
+05:31,700 --> 05:35,000
+(Có lẽ chúng đã nhận ra vị trí bị lộ...)
 
-81
+84
+05:35,000 --> 05:39,000
+(...nên đã cho nổ căn cứ để phi tang chứng cứ rồi rút lui.)
+
+85
 05:40,500 --> 05:42,500
 (Nếu vậy thì phiền phức đây.)
 
-82
+86
 05:43,000 --> 05:48,500
 (Ta còn được lệnh phải bắt sống
 một người của [Labyrinthus].)
 
-83
+87
 05:49,500 --> 05:54,500
 ([Labyrinthus] là một tổ chức bí mật,
 chúng rất giỏi lẩn trốn.)
 
-84
-05:55,500 --> 06:01,500
-(Nếu chúng bỏ đi căn cứ mà ta đã mất công tìm ra,
-chúng sẽ lại biến mất tăm mất dạng.)
+88
+05:55,500 --> 05:59,000
+(Nếu chúng bỏ đi căn cứ mà ta đã mất công tìm ra,)
 
-85
+89
+05:59,000 --> 06:01,500
+(chúng sẽ lại biến mất tăm mất dạng.)
+
+90
 06:03,600 --> 06:06,500
 Vậy thì, đã quyết định rồi thì nhanh lên nào Tiana!
 
-86
+91
 06:07,300 --> 06:13,300
 Chúng ta hãy nắm tay nhau đi,
 vừa đi vừa líu lo ca hát như những chú chim nhỏ!
 
-87
+92
 06:14,600 --> 06:17,500
 Sau khi xong việc, chúng ta sẽ lại tàn sát nhau tiếp nhé!
 
-88
+93
 06:18,000 --> 06:21,000
 Ahahahaha......☆
 
-89
+94
 06:23,700 --> 06:26,500
 U~... Ai đó cứu em với,
 
-90
+95
 06:27,200 --> 06:30,200
 em đang bị một chị gái kỳ lạ bám dính lấy đây này~?
 
-91
+96
 06:31,000 --> 06:34,500
 T-Tha cho em đi mà~?

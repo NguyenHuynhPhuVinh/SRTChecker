@@ -1,395 +1,523 @@
 1
-00:00:02,100 --> 00:00:03,500
+00:02:100 --> 00:03:600
 (Eternal Society)
 
 2
-00:00:04,100 --> 00:00:05,100
-(Căn cứ Guild Labyrinth)
+00:04:000 --> 00:05:300
+(Cứ điểm Guild Labyrinth)
 
 3
-00:00:05,500 --> 00:00:07,500
-(Thở dài)
+00:05:830 --> 00:06:590
+......
 
 4
-00:00:08,200 --> 00:00:12,500
-Kể từ khi bị nhốt ở nơi này, đã bao lâu rồi nhỉ?
+00:08:500 --> 00:10:500
+Kể từ khi bị nhốt ở nơi này,
 
 5
-00:00:13,300 --> 00:00:18,500
-Cùng lắm là... một tuần chăng? Uầy~ Sai lầm của cả đời mình!
+00:10:500 --> 00:12:300
+đã bao nhiêu thời gian trôi qua rồi nhỉ?
 
 6
-00:00:19,500 --> 00:00:25,500
-Tới giờ thì mình vẫn chưa bị làm hại gì... Còn được cho đồ ăn nóng và chỗ ngủ nữa.
+00:13:300 --> 00:15:100
+Chắc cũng được một tuần rồi nhỉ?
 
 7
-00:00:26,000 --> 00:00:31,500
-Tuy được đối đãi tốt, nhưng vì không hiểu ý đồ của lũ đã bắt tớ nên thấy bất an quá.
+00:16:400 --> 00:18:500
+Uu~... Sai lầm của cả đời mình!
 
 8
-00:00:32,000 --> 00:00:38,500
-Có vẻ như... cái lũ tự xưng là 【Labyrinth】 đó... có chuyện gì đó muốn hỏi tớ.
+00:19:600 --> 00:21:800
+Hiện tại thì mình chưa bị làm hại gì...
 
 9
-00:00:39,000 --> 00:00:42,800
-Nhưng mà cứ thế bô bô nói ra hết thì có hơi bất cẩn quá.
+00:22:400 --> 00:25:700
+còn được cho đồ ăn nóng và chỗ ngủ nữa.
 
 10
-00:00:43,200 --> 00:00:50,000
-Cho đến khi chúng moi được hết những gì chúng muốn biết từ tớ, tính mạng của tớ chắc vẫn sẽ được đảm bảo...
+00:26:500 --> 00:27:800
+Dù được đối đãi tốt...
 
 11
-00:00:50,500 --> 00:00:56,200
-Nhưng mà nói đi cũng phải nói lại, nếu không nói gì cả thì có khi lại bị tra tấn mất.
+00:28:000 --> 00:31:500
+nhưng vì không biết ý đồ của lũ bắt cóc mình,
+nên thấy bất an quá.
 
 12
-00:00:57,000 --> 01:01,500
-Bây giờ chúng đang tỏ ra tử tế, nhưng chính chúng đã đánh tớ bất tỉnh...
+00:32:600 --> 00:34:800
+Xem ra, cái lũ tên là 【Labyrinth】 đó...
 
 13
-01:01,500 --> 01:05,500
-...rồi bắt cóc đi, đúng là một lũ nguy hiểm.
+00:35:400 --> 00:38:000
+có vẻ như muốn hỏi mình điều gì đó.
 
 14
-01:06,000 --> 01:08,800
-Có khi xong việc rồi mình sẽ bị thủ tiêu mất.
+00:39:200 --> 00:42:500
+Nhưng mà cứ thế ba hoa thì
+có hơi bất cẩn quá.
 
 15
-01:09,500 --> 01:16,800
-(Mình phải giả vờ rằng tớ vẫn đang giấu thông tin có giá trị với chúng...)
+00:43:500 --> 00:47:000
+Cho đến khi chúng moi được hết
+những gì muốn biết từ mình...
 
 16
-01:17,200 --> 01:23,000
-(...trong lúc lấy lòng và câu giờ, mình phải tìm cách trốn thoát.)
+00:47:700 --> 00:50:000
+thì tính mạng của mình chắc vẫn được đảm bảo...
 
 17
-01:24,000 --> 01:28,500
-Ưm... Mấy trò đấu trí thế này, tớ dở tệ.
+00:50:800 --> 00:52:500
+Nhưng nói đi cũng phải nói lại,
 
 18
-01:29,500 --> 01:34,500
-Từ trước đến giờ, mấy chuyện phức tạp phiền phức kiểu đó tớ đều giao cho Okuto mà.
+00:52:700 --> 00:55:800
+nếu không nói gì cả,
+có khi lại bị tra tấn mất.
 
 19
-01:35,200 --> 01:38,500
-Okuto... Tớ muốn gặp cậu ấy quá.
+00:57:200 --> 00:59:700
+Bây giờ lũ đó đang tỏ ra tử tế,
 
 20
-01:38,800 --> 01:41,800
-Có cậu ấy ở bên, tớ thấy an tâm lắm.
+01:00:300 --> 01:05:000
+nhưng chính chúng đã đánh ngất và bắt cóc mình.
+Đúng là một lũ nguy hiểm.
 
 21
-01:42,500 --> 01:46,500
-Mà, cậu ấy của bây giờ đã quên mất tớ rồi.
+01:06:400 --> 01:08:800
+Khi mình hết giá trị lợi dụng,
+có lẽ sẽ bị thủ tiêu mất.
 
 22
-01:47,000 --> 01:49,500
-Dù vậy, tớ vẫn muốn gặp cậu ấy.
+01:10:000 --> 01:16:500
+Mình phải giả vờ như vẫn đang giấu
+thông tin có giá trị với chúng...
 
 23
-01:50,500 --> 01:53,500
-Tớ không muốn ở một mình nữa.
+01:17:500 --> 01:22:800
+rồi trong lúc nịnh nọt câu giờ,
+phải tìm cách trốn thoát.
 
 24
-01:54,500 --> 01:55,800
-(Tiếng nổ lớn)
+01:24:200 --> 01:28:500
+Uu... Mấy cái trò đấu trí này,
+mình dở tệ.
 
 25
-01:56,000 --> 02:00,000
-......!? C-Cái gì vậy? Tiếng nổ à...?
+01:29:700 --> 01:34:500
+Từ trước đến giờ, mấy chuyện rắc rối kiểu này
+toàn để cho Okuto lo hết mà.
 
 26
-02:00,500 --> 02:04,500
-Là tai nạn gì đó, hay có ai đó tấn công tới đây?
+01:35:500 --> 01:37:800
+Okuto... Mình muốn gặp cậu ấy quá.
 
 27
-02:05,000 --> 02:08,500
-Không lẽ nào Okuto... đến cứu tớ sao?
+01:39:200 --> 01:41:500
+Có cậu ấy ở bên, mình cảm thấy rất an tâm.
 
 28
-02:09,000 --> 02:15,000
-Không, làm gì có chuyện đó... Cậu ta còn định bắt tớ nữa là.
+01:42:700 --> 01:46:500
+Mà, cậu ấy của bây giờ
+đã quên mất mình rồi...
 
 29
-02:16,000 --> 02:20,000
-Cứ đợi đấy~ Khi nào cậu ta nhớ ra hết mọi chuyện, tớ sẽ trả thù.
+01:47:500 --> 01:49:800
+Dù vậy, mình vẫn muốn gặp cậu ấy.
 
 30
-02:21,000 --> 02:24,500
-Dù sao thì, rốt cuộc là chuyện gì...?
+01:50:800 --> 01:53:000
+Mình không muốn ở một mình nữa.
 
 31
-02:25,500 --> 02:26,500
-(Tiếng gõ cửa)
+01:56:500 --> 01:57:000
+...!?
 
 32
-02:26,500 --> 02:31,000
-Này~! Có chuyện gì vậy? Có ai ở đó không?
+01:57:500 --> 01:59:800
+C-Cái gì vậy? Tiếng nổ à...?
 
 33
-02:32,000 --> 02:36,500
-Đây là hang động hay gì đó mà, nổ ở một nơi thế này không phải chuyện đùa đâu!
+02:00:600 --> 02:04:100
+Là tai nạn gì đó,
+hay là có ai đó đang tấn công?
 
 34
-02:37,000 --> 02:40,000
-Sập xuống là bị chôn sống đó~!
+02:05:200 --> 02:08:800
+Không lẽ nào Okuto đã đến cứu mình sao?
 
 35
-02:42,500 --> 02:45,800
-Hả, không có ai trả lời! Không có ai ở đây sao?
+02:09:600 --> 02:12:000
+Không, làm gì có chuyện đó...
 
 36
-02:46,500 --> 02:50,000
-Ờm... Shizuru và, Rino thì phải?
+02:12:700 --> 02:15:000
+Cậu ta còn định bắt mình nữa là.
 
 37
-02:50,500 --> 02:53,500
-Lũ 【Labyrinth】 không có ở đây sao?
+02:16:200 --> 02:19:800
+Cứ đợi đấy! Khi nào cậu ta nhớ lại mọi chuyện,
+mình sẽ trả thù!
 
 38
-02:54,000 --> 02:55,500
-Này~!
+02:21:200 --> 02:24:200
+Dù sao thì... rốt cuộc là chuyện gì đang xảy ra...?
 
 39
-02:57,500 --> 03:03,000
-Lạ thật. Tớ cứ nghĩ phải có người canh gác để tớ không trốn thoát chứ.
+02:26:800 --> 02:28:800
+Này~ ơi! Có chuyện gì vậy?
 
 40
-03:03,800 --> 03:09,500
-Không có ai sao? Hay là... đã bị kẻ tấn công xử lý rồi?
+02:29:400 --> 02:31:000
+Có ai ở đó không?
 
 41
-03:10,000 --> 03:12,800
-Cơ hội! Muốn trốn thì chỉ có lúc này thôi!
+02:32:200 --> 02:36:800
+Đây là hang động hay gì đó đúng không?
+Nổ ở một nơi thế này không phải chuyện đùa đâu!
 
 42
-03:13,500 --> 03:17,800
-Nếu không có ai canh gác, chỉ cần xử lý song sắt này là có thể thoát ra được!
+02:37:500 --> 02:40:000
+Sập xuống là bị chôn sống đấy~!
 
 43
-03:18,500 --> 03:21,000
-Gừ gừ gừ!
+02:42:600 --> 02:44:000
+Hả, không có ai trả lời!
 
 44
-03:21,500 --> 03:24,800
-Hự, sức của tớ không làm gì được nó sao?
+02:44:600 --> 02:45:800
+Không có ai ở đây sao?
 
 45
-03:25,200 --> 03:29,000
-Chết tiệt~ Phải chi mình dùng được "Thiên Lâu Bá Đoạn Kiếm"...!
+02:46:800 --> 02:49:800
+Ừm, Shizuru và Rino thì phải?
 
 46
-03:32,500 --> 03:34,500
-(Thở dài)
+02:50:800 --> 02:53:500
+Lũ người của 【Labyrinth】 không có ở đây à?
 
 47
-03:38,000 --> 03:39,000
-(Tiếng bước chân)
+02:54:500 --> 02:55:500
+Này~ ơi!
 
 48
-03:39,500 --> 03:41,000
-Hả! Ai đó!
+02:57:600 --> 03:02:800
+Lạ thật. Mình cứ nghĩ phải có người canh gác
+để mình không trốn thoát chứ.
 
 49
-03:44,000 --> 03:47,500
-A-A-Ai đó! Tớ không sợ đâu!
+03:04:200 --> 03:05:500
+Không có ai sao?
 
 50
-03:47,800 --> 03:50,500
-Lộ mặt ra đi! Là người của Labyrinth à!
+03:06:200 --> 03:09:200
+Hay là... đã bị kẻ tấn công(?) xử lý rồi?
 
 51
-03:53,500 --> 03:54,500
-Hừm.
+03:10:500 --> 03:12:800
+Cơ hội! Nếu muốn trốn thì chỉ có lúc này thôi!
 
 52
-03:54,800 --> 03:57,500
-Hả? Ngươi là Giáo sư?
+03:13:800 --> 03:17:800
+Không có người canh, chỉ cần xử lý cái song sắt này
+là có thể thoát ra được!
 
 53
-03:59,500 --> 04:00,500
-Hửm?
+03:18:800 --> 03:20:500
+Nggghhh!
 
 54
-04:01,000 --> 04:03,500
-Hả, phản ứng chậm quá!
+03:21:500 --> 03:24:500
+Hự, sức của mình không làm gì được nó sao?
 
 55
-04:04,000 --> 04:10,500
-À... có lẽ "bên này" không phải là Giáo sư, gọi bằng chức danh "bên kia" cũng vô ích nhỉ?
+03:25:500 --> 03:29:000
+Chết tiệt~ Nếu mà dùng được
+"Tenrou Hadanken" thì...!
 
 56
-04:11,000 --> 04:14,500
-Ờm, tên thật là gì nhỉ?
+03:39:800 --> 03:41:000
+Ai đó!
 
 57
-04:15,000 --> 04:19,000
-Hình như là, Raji... Raji?
+03:44:800 --> 03:46:500
+A-Ai đó! Tôi không sợ đâu!
 
 58
-04:20,000 --> 04:24,800
-Rajiraji? Đó là tên của tôi sao?
+03:47:800 --> 03:50:000
+Lộ mặt ra đi!
+Là người của Labyrinth phải không!
 
 59
-04:26,000 --> 04:30,500
-À... xem ra ngươi cũng quên hết mọi chuyện rồi à?
+03:53:700 --> 03:54:200
+Hừm.
 
 60
-04:31,500 --> 04:35,000
-Không, hình như ngươi bị Minerva điều khiển mà...?
+03:54:800 --> 03:57:800
+Hả? Ngươi là Giáo sư?
 
 61
-04:36,000 --> 04:38,500
-Ưm, không hiểu gì hết!
+03:59:800 --> 04:00:500
+Hửm?
 
 62
-04:39,000 --> 04:42,500
-Mà thôi kệ, chuyện khó để sau tính!
+04:01:500 --> 04:03:200
+Hả, phản ứng chậm thế!
 
 63
-04:43,000 --> 04:47,500
-Ờm, trước mắt cứ giúp tớ đã! Này, nhổ cái song sắt này ra đi!
+04:04:000 --> 04:10:200
+À... ở "bên này" có lẽ không phải là Giáo sư,
+gọi bằng chức danh "bên đó" chắc cũng vô ích.
 
 64
-04:48,000 --> 04:51,000
-Tớ đang bị kẻ xấu bắt giữ đó!
+04:11:500 --> 04:14:500
+Ừm, tên thật là gì nhỉ?
 
 65
-04:51,500 --> 04:55,800
-Nhờ ngươi đó~! Dù sao thì ngươi cũng không nhớ đâu nhỉ!
+04:15:500 --> 04:19:000
+Hình như là Raji... Raji?
 
 66
-04:56,300 --> 05:01,500
-Ở 【Eternal Society】, tớ đã hợp tác và làm đủ thứ việc cho ngươi mà, phải không?
+04:20:200 --> 04:24:800
+Rajiraji?
+Đó là tên của tôi sao?
 
 67
-05:02,000 --> 05:09,500
-【Eternal Society】...? Xin lỗi, tôi không hiểu rõ lắm.
+04:26:200 --> 04:30:800
+À... xem ra ngươi cũng
+quên hết mọi chuyện rồi à?
 
 68
-05:10,000 --> 05:14,800
-Tôi... có vẻ như ký ức đang bị hỗn loạn.
+04:31:800 --> 04:35:000
+Không, ta nhớ là ngươi bị Minerva điều khiển mà...?
 
 69
-05:15,300 --> 05:19,500
-Tôi không nhớ rõ mình là ai nữa.
+04:36:500 --> 04:38:200
+Hừm, chẳng hiểu gì cả!
 
 70
-05:20,000 --> 05:24,500
-Nhưng tôi lại có cảm giác lờ mờ nhớ ra cô.
+04:39:500 --> 04:42:200
+Thôi kệ đi, chuyện khó để sau hẵng nghĩ!
 
 71
-05:25,000 --> 05:30,000
-Hình như là, Noem... phải không? Đúng chứ?
+04:43:200 --> 04:45:000
+Ừm, trước mắt hãy giúp tôi đã!
 
 72
-05:33,000 --> 05:37,800
-......!? Ngươi vừa gọi tớ là Noem sao?
+04:46:000 --> 04:48:000
+Này, nhổ cái song sắt này ra đi!
 
 73
-05:38,300 --> 05:41,500
-Cái tên đó, bây giờ chẳng còn ai nhớ nữa cả!
+04:48:500 --> 04:51:000
+Tôi đang bị bọn người xấu bắt giữ đó!
 
 74
-05:42,000 --> 05:44,000
-Tốt quá...!
+04:51:800 --> 04:55:800
+Làm ơn đi~!
+Dù sao thì ngươi cũng không nhớ đâu, nhưng!
 
 75
-05:44,500 --> 05:46,500
-A, tớ... tớ đã sợ lắm!
+04:56:500 --> 05:01:800
+Ở 【Eternal Society】, ta đã hợp tác
+và giúp ngươi rất nhiều việc mà, đúng không?
 
 76
-05:47,000 --> 05:51,000
-Tớ cứ nghĩ tất cả chỉ là ảo tưởng của tớ!
+05:02:500 --> 05:05:000
+【Eternal Society】...?
 
 77
-05:51,500 --> 05:54,500
-Tớ cứ nghĩ mình bị điên mất rồi!
+05:07:500 --> 05:09:800
+Xin lỗi, tôi không hiểu rõ lắm.
 
 78
-05:55,000 --> 05:58,800
-Nhưng mà, ngươi vẫn nhớ... Rajiraji?
+05:10:800 --> 05:14:000
+Tôi, có vẻ như ký ức đang bị hỗn loạn.
 
 79
-05:59,300 --> 06:03,500
-Tất cả không phải là mơ hay ảo tưởng, đúng không?
+05:16:000 --> 05:19:800
+Tôi không nhớ rõ mình là ai nữa.
 
 80
-06:04,000 --> 06:08,500
-Tớ... tớ đã lo lắng lắm!
+05:20:800 --> 05:24:000
+Về cô thì tôi có nhớ mang máng.
 
 81
-06:09,000 --> 06:12,500
-Tôi không hiểu rõ lắm. Xin lỗi...
+05:25:200 --> 05:29:800
+Hình như là, Noem... phải không? Đúng chứ?
 
 82
-06:13,500 --> 06:16,500
-Cô là Noem, phải không?
+05:33:800 --> 05:37:800
+...!? Ngươi vừa gọi ta là Noem sao?
 
 83
-06:17,000 --> 06:19,500
-Tóc cô có dài ra một chút không?
+05:38:500 --> 05:41:500
+Cái tên đó, bây giờ chẳng còn ai nhớ nữa cả!
 
 84
-06:20,000 --> 06:24,000
-Không khớp với ký ức của tôi, ưm?
+05:42:800 --> 05:43:800
+May quá...!
 
 85
-06:24,500 --> 06:27,500
-Với lại, Okuto không đi cùng cô sao?
+05:44:800 --> 05:46:500
+A, tôi... tôi đã sợ lắm!
 
 86
-06:28,000 --> 06:33,000
-Lúc nào hai người cũng hành động cùng nhau mà... Không hiểu sao, tôi lại có cảm giác như vậy.
+05:47:500 --> 05:50:800
+Cứ nghĩ rằng tất cả chỉ là ảo tưởng của mình!
 
 87
-06:33,500 --> 06:35,000
-Ừm, ừm...
+05:51:500 --> 05:54:200
+Cứ nghĩ rằng mình đã hóa điên rồi!
 
 88
-06:35,000 --> 07:48,000
-(Lỗi đồng bộ, không có lời thoại trong khoảng thời gian này)
+05:55:500 --> 05:58:500
+Nhưng mà, ngươi vẫn còn nhớ... Rajiraji?
 
 89
-07:51,500 --> 07:58,000
-Uwaa... Cảm giác lạ thật, không ngờ lại được ngươi cứu đó?
+05:59:500 --> 06:03:200
+Tất cả không phải là mơ hay ảo tưởng, đúng không?
 
 90
-07:58,500 --> 08:02,500
-Nhưng mà tớ vui lắm, cực kỳ vui! Cảm ơn nhé, Rajiraji~♪
+06:04:200 --> 06:08:000
+Tôi... tôi đã rất bất an!
 
 91
-08:03,000 --> 08:05,500
-Okuto thì quên hết mọi chuyện rồi.
+06:09:200 --> 06:10:800
+Tôi không hiểu rõ lắm.
 
 92
-08:05,800 --> 08:09,000
-Những người khác... như Daigo cũng không biết ở đâu.
+06:11:500 --> 06:16:500
+Xin lỗi... Cô là Noem, đúng không?
 
 93
-08:09,500 --> 08:13,000
-Tớ đã luôn cô đơn và lo lắng.
+06:17:500 --> 06:19:500
+Tóc cô có dài ra một chút không?
 
 94
-08:14,000 --> 08:17,500
-Vì vậy, tớ thật sự rất vui khi được gặp lại ngươi♪
+06:20:500 --> 06:24:000
+Không khớp với ký ức của tôi, hừm?
 
 95
-08:18,000 --> 08:25,000
-Vậy sao. Tôi không hiểu rõ lắm, nhưng mà... cô cười lên trông xinh hơn đó... Noem.
+06:24:800 --> 06:27:500
+Với lại, Okuto không đi cùng cô sao?
 
 96
-08:26,000 --> 08:32,500
-Làm ơn lùi lại một chút. Cơ thể này hơi cứng nhắc, khó mà điều chỉnh lực được.
+06:28:500 --> 06:33:000
+Lúc nào hai người cũng hành động cùng nhau mà...
+Tôi có cảm giác là vậy.
 
 97
-08:33,500 --> 08:34,500
+06:33:800 --> 06:35:000
 Ừm!
 
 98
-08:35,000 --> 08:40,500
-A ha, tuy chỉ có hai đứa mình... nhưng đây là sự hồi sinh của 【Eternal Society】!
+06:35:200 --> 06:40:200
+A ha, tuy chỉ có hai người...
+nhưng đây là sự hồi sinh của 【Eternal Society】!
 
 99
-08:41,000 --> 08:45,500
-Nào, bắt đầu phản công thôi~! Nhắm vào cái thế giới đầy rẫy sự dối trá này
+06:41:000 --> 06:45:800
+Nào, bắt đầu phản công thôi!
+Nhắm vào cái thế giới đầy rẫy sự dối trá này!
+
+100
+06:46:200 --> 06:47:500
+Đồng đội...
+
+101
+06:49:000 --> 07:02:000
+Nếu vậy thì, tôi nên nghe theo lời nhờ vả đó.
+
+102
+07:03:200 --> 07:08:000
+Bên trong tôi cũng có một sự thôi thúc
+muốn thực hiện nguyện vọng của người khác.
+
+103
+07:09:500 --> 07:12:200
+Rốt cuộc đây là gì nhỉ?
+
+104
+07:13:500 --> 07:14:800
+Nguyện vọng ư?
+
+105
+07:16:200 --> 07:21:800
+Hừm... Hay là bên trong ngươi
+vẫn còn tàn dư của Minerva nhỉ?
+
+106
+07:22:800 --> 07:25:800
+Bà ta chính là một hệ thống thực hiện nguyện vọng mà.
+
+107
+07:26:500 --> 07:29:800
+Ừm, chuyện khó quá tôi cũng không hiểu.
+
+108
+07:30:800 --> 07:36:800
+Hừm... Tôi phán đoán rằng
+mình nên nói chuyện nhiều hơn với cô.
+
+109
+07:38:000 --> 07:41:000
+Để bổ sung cho ý thức của bản thân,
+và vì sự thôi thúc này.
+
+110
+07:42:200 --> 07:45:800
+...Song sắt, chỉ cần nhổ nó ra là được phải không?
+
+111
+07:46:500 --> 07:48:000
+Ừm, nhờ ngươi!
+
+112
+07:52:200 --> 07:57:800
+Uwaa... Cảm giác lạ thật đấy,
+không ngờ lại được ngươi cứu.
+
+113
+07:58:500 --> 08:02:800
+Nhưng mà vui lắm, cực kỳ vui luôn!
+Cảm ơn nhé, Rajiraji~♪
+
+114
+08:03:200 --> 08:05:200
+Okuto thì quên hết mọi chuyện rồi,
+
+115
+08:05:800 --> 08:08:800
+những người khác... như Daigo cũng không biết ở đâu.
+
+116
+08:09:800 --> 08:12:800
+Tôi đã luôn cô đơn và bất an.
+
+117
+08:14:200 --> 08:17:800
+Thế nên, được gặp lại ngươi, tôi thật sự rất vui♪
+
+118
+08:18:800 --> 08:25:800
+Vậy sao. Tôi không hiểu rõ lắm, nhưng
+cô cười lên trông xinh hơn đấy... Noem.
+
+119
+08:26:500 --> 08:28:200
+Lùi lại một chút đi.
+
+120
+08:28:800 --> 08:32:800
+Cơ thể này hơi trục trặc,
+khó mà điều chỉnh lực được.
+
+121
+08:33:800 --> 08:40:200
+Ừm! A ha, tuy chỉ có hai người...
+nhưng đây là sự hồi sinh của 【Eternal Society】!
+
+122
+08:41:000 --> 08:45:800
+Nào, bắt đầu phản công thôi!
+Nhắm vào cái thế giới đầy rẫy sự dối trá này

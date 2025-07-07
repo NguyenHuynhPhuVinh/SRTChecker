@@ -1,550 +1,484 @@
 1
-00:00:01,800 --> 00:00:03,500
-(Eternal Society)
+00:00:02,100 --> 00:00:03,500
+(Bá Đồng Hoàng Đế)
 
 2
-00:00:03,800 --> 00:00:05,500
-(Cứ điểm Guild Labyrinth)
+00:00:04,100 --> 00:00:05,000
+(Phòng Ngai Vàng)
 
 3
-00:00:05,800 --> 00:00:07,000
-............
+00:00:05,500 --> 00:00:07,500
+…Ưm, ưmm.
 
 4
-00:00:08,200 --> 00:00:12,100
-Từ lúc bị nhốt ở đây,
-không biết đã bao lâu rồi nhỉ?
+00:010,500 --> 00:012,000
+Hả?
 
 5
-00:00:13,200 --> 00:00:15,300
-Chắc cũng được một tuần rồi...
+00:012,000 --> 00:014,500
+A, khoan đã? Đây là... đâu...?
 
 6
-00:00:16,200 --> 00:00:18,500
-Uuu~ Đúng là sai lầm của cả đời!
+00:015,200 --> 00:018,000
+Đây là hoàng cung, phòng ngai vàng sao?
 
 7
-00:00:19,200 --> 00:00:21,500
-Tạm thời thì mình không bị làm hại gì...
+00:018,500 --> 00:021,500
+Mình, sao mình lại ở một nơi thế này?
 
 8
-00:00:22,200 --> 00:00:25,500
-còn được cho đồ ăn nóng và chỗ ngủ nữa.
+00:022,200 --> 00:026,500
+Mới lúc nãy, mình còn đang ở trong ngọn núi có nông trại mà...
 
 9
-00:00:26,200 --> 00:00:27,500
-Được đối đãi tốt thật đấy.
+00:27,500 --> 00:30,500
+Việc đối phó với Tiana thì mình đã giao cho Christina.
 
 10
-00:00:27,700 --> 00:00:31,500
-Nhưng vì không biết ý đồ của lũ đã bắt tớ,
-nên thấy bất an quá.
+00:30,800 --> 00:36,000
+Còn lũ quái vật đang nổi loạn, mình đã dùng toàn lực khống chế và trấn an chúng.
 
 11
-00:00:32,300 --> 00:00:35,200
-Xem ra, cái đám gọi là Labyrinth đó...
+00:37,500 --> 00:41,500
+Vừa mới thở phào nhẹ nhõm, thì mình đã tìm thấy cậu ta.
 
 12
-00:00:35,500 --> 00:00:38,200
-có vẻ muốn hỏi tớ chuyện gì đó.
+00:42,500 --> 00:47,500
+Hình như là, vì lo lắng cho Tiana... à không, Pecorine, nên cậu ta đã đến tìm.
 
 13
-00:00:39,200 --> 00:00:42,500
-Nhưng mà cứ bô bô cái miệng ra thì
-cảm thấy hơi bất cẩn quá.
+00:48,500 --> 00:50,500
+Cậu ta đúng là yếu đuối mà.
 
 14
-00:00:43,400 --> 00:00:47,000
-Cho đến khi chúng moi được hết
-những gì muốn biết từ tớ...
+00:51,000 --> 00:54,000
+Một mình đi vào trong núi, đúng là hành vi tự sát mà.
 
 15
-00:00:47,700 --> 00:00:50,000
-thì tính mạng của tớ vẫn được đảm bảo...
+00:55,200 --> 00:59,000
+Lũ quái vật thì mình đã xử lý được rồi, nhưng cậu ta lại sắp rơi xuống vách đá.
 
 16
-00:00:50,500 --> 00:00:55,800
-Nhưng nói vậy chứ, nếu không nói gì cả,
-có khi lại bị tra tấn mất.
+00:59,000 --> 01:04,000
+Thế là mình đã vội vàng cứu cậu ta đó.
 
 17
-00:57,000 --> 00:59,500
-Bây giờ chúng đang tỏ ra tử tế,
+01:05,000 --> 01:08,500
+Vả lại, Bệ hạ cũng đã dặn là không được để cậu ta chết.
 
 18
-00:59,800 --> 01:05,500
-nhưng chính chúng đã đánh ngất rồi bắt cóc tớ,
-đúng là một lũ nguy hiểm.
+01:09,500 --> 01:12,000
+Đ-Đâu phải là vì cậu ta quan trọng với mình đâu nhé.
 
 19
-01:06,500 --> 01:08,800
-Khi hết giá trị lợi dụng, có khi mình sẽ bị thủ tiêu mất.
+01:12,000 --> 01:13,500
+Đừng có mà hiểu lầm!
 
 20
-01:09,800 --> 01:13,800
-Vừa phải giả vờ là mình đang giấu thông tin
-có giá trị với chúng...
+01:17,000 --> 01:20,000
+(Mình đang bao biện với ai thế này...)
 
 21
-01:14,000 --> 01:16,800
-vừa phải tỏ ra ngoan ngoãn để câu giờ,
+01:21,000 --> 01:25,500
+Haizz~ Hôm nay đúng là một ngày tồi tệ mà.
 
 22
-01:17,800 --> 01:23,000
-trong lúc đó phải tìm cách trốn thoát mới được.
+01:26,500 --> 01:29,500
+Mình đúng là... như lời Bệ hạ nói...
 
 23
-01:24,200 --> 01:28,500
-Ư~... Mấy trò đấu trí thế này,
-tớ tệ lắm.
+01:30,000 --> 01:33,500
+Một kẻ vô dụng, một món đồ lỗi sao?
 
 24
-01:29,500 --> 01:34,500
-Từ trước đến giờ, mấy chuyện lằng nhằng
-kiểu đó tớ toàn giao cho Okutoo mà.
+01:36,000 --> 01:38,000
+……Hửm?
 
 25
-01:35,500 --> 01:38,000
-Okutoo... muốn gặp cậu ấy quá.
+01:38,000 --> 01:39,500
+Khoan đã, cậu!
 
 26
-01:38,800 --> 01:41,500
-Có cậu ấy ở bên là mình thấy an tâm.
+01:41,500 --> 01:44,000
+C-C-C-Cậu làm gì mà ôm chầm lấy mình thế hả?
 
 27
-01:42,500 --> 01:46,500
-Mà, cậu ấy của bây giờ
-đã quên mất tớ rồi.
+01:44,500 --> 01:46,000
+Cậu thích mình à?
 
 28
-01:47,000 --> 01:50,000
-Dù vậy, mình vẫn muốn gặp cậu ấy.
+01:46,500 --> 01:49,500
+N-Này, bỏ ra mau, mình giết cậu bây giờ!? Xììì!
 
 29
-01:50,500 --> 01:53,000
-Mình không muốn cô đơn một mình nữa.
+01:53,000 --> 01:57,000
+……Hửm~? Cậu, ngất rồi à?
 
 30
-01:56,500 --> 01:59,800
-...!? C-Cái gì vậy? Tiếng nổ à...?
+01:57,500 --> 02:01,000
+Chỉ là ngủ mơ rồi ôm chầm lấy mình thôi sao?
 
 31
-02:00,500 --> 02:04,500
-Là tai nạn, hay có ai đó đang tấn công?
+02:02,500 --> 02:05,500
+Phu phu. Tốt nhất là đừng cử động.
 
 32
-02:05,000 --> 02:08,500
-Không lẽ nào Okutoo...
-đến để cứu tớ sao?
+02:06,000 --> 02:08,500
+Nếu cậu thấy cậu bé đó quan trọng.
 
 33
-02:09,200 --> 02:11,500
-Không, không thể nào...
+02:09,500 --> 02:11,500
+Chắc là đang trong trạng thái sốc nhẹ thôi.
 
 34
-02:12,200 --> 02:14,800
-Cậu ta còn định bắt tớ nữa là.
+02:12,000 --> 02:15,000
+Tính mạng không có gì nguy hiểm đâu, cứ yên tâm đi.
 
 35
-02:16,200 --> 02:19,800
-Cứ đợi đấy~ Khi nào cậu ta nhớ lại hết,
-tớ sẽ trả thù!
+02:15,500 --> 02:20,500
+Chỉ là không chịu nổi dịch chuyển không gian nên ngất đi thôi.
 
 36
-02:21,200 --> 02:24,000
-Dù sao thì... rốt cuộc là chuyện gì...?
+02:21,500 --> 02:24,000
+Hí!? B-Bệ hạ...!
 
 37
-02:26,500 --> 02:29,000
-Này~! Có chuyện gì vậy?
+02:27,500 --> 02:31,500
+Thiệt tình, con bé này... Lại còn kêu "Hí" nữa chứ.
 
 38
-02:29,500 --> 02:31,500
-Có ai ở đó không?
+02:32,500 --> 02:36,500
+Phản ứng cứ như là gặp phải quái vật không bằng.
 
 39
-02:32,200 --> 02:34,800
-Đây là hang động hay gì đó đúng không?
+02:37,500 --> 02:39,500
+Ta tổn thương đó~ Phu phu♪
 
 40
-02:35,000 --> 02:37,000
-Nổ ở một nơi thế này không phải chuyện đùa đâu!
+02:40,500 --> 02:44,500
+Ta đã nghĩ là mình đối xử khá tốt với ngươi rồi đấy chứ...
 
 41
-02:37,500 --> 02:40,000
-Nó mà sập là bị chôn sống đấy~!
+02:45,500 --> 02:48,000
+Đừng có gọi ta là "Bệ hạ" một cách khách sáo như thế.
 
 42
-02:42,500 --> 02:44,000
-Ủa, không có ai trả lời!
+02:48,500 --> 02:50,000
+Chúng ta là gia đình mà, phải không?
 
 43
-02:44,500 --> 02:46,000
-Không có ai ở đây sao?
+02:51,000 --> 02:55,500
+X-X-Xin, xin lỗi người! Ờm, Eustiana-sama...!
 
 44
-02:46,800 --> 02:49,000
-À thì, Shizuru và, Rino à?
+02:56,500 --> 02:58,500
+Cả "-sama" cũng thừa thãi nữa.
 
 45
-02:49,500 --> 02:53,000
-Lũ người của Labyrinth, không có ở đây sao?
+02:59,500 --> 03:03,000
+Mà thôi được rồi, hôm nay ta đang có hứng.
 
 46
-02:54,000 --> 02:55,500
-Này~!
+03:04,000 --> 03:08,000
+Dù gì thì, ta cũng sắp xử lý được hết lũ ngứa mắt rồi.
 
 47
-02:57,500 --> 02:58,500
-Lạ thật.
+03:09,000 --> 03:12,000
+Dọn dẹp xong, tâm trạng cũng sảng khoái hẳn ra nhỉ.
 
 48
-02:59,000 --> 03:03,000
-Mình cứ nghĩ ít nhất cũng phải có người canh gác
-để tớ không trốn thoát chứ.
+03:16,500 --> 03:18,000
+Nói chung là.
 
 49
-03:04,000 --> 03:05,500
-Không có ai sao?
+03:18,000 --> 03:22,000
+Các ngươi cứ ngây thơ đi lạc trong núi như thế...
 
 50
-03:06,000 --> 03:09,500
-Hay là... bị kẻ tấn công (?) xử lý rồi?
+03:22,500 --> 03:24,500
+Ta đây đợi đến mệt luôn rồi.
 
 51
-03:10,500 --> 03:12,800
-Cơ hội! Phải trốn ngay bây giờ!
+03:25,500 --> 03:30,000
+Trời cũng tối rồi, ta muốn đi ngủ sớm, nên đã trực tiếp gọi các ngươi đến đây luôn♪
 
 52
-03:13,500 --> 03:17,800
-Nếu không có lính canh, chỉ cần xử lý
-cái song sắt này là thoát được!
+03:30,500 --> 03:35,500
+Ta đã dùng ngươi làm vật chỉ điểm, để triệu hồi cả cậu bé đó đến nơi này.
 
 53
-03:18,500 --> 03:20,500
-Gừ gừ gừ!
+03:36,500 --> 03:44,500
+D-Dịch chuyển không gian... Người đã... dịch chuyển tức thời mình và cậu ta từ trong núi đến tận hoàng cung này sao?
 
 54
-03:21,000 --> 03:24,500
-Phù, sức của tớ không đủ sao?
+03:45,500 --> 03:48,000
+Chuyện đó, kể cả là ma pháp cũng không thể nào!
 
 55
-03:25,500 --> 03:28,800
-Chết tiệt~ Phải chi dùng được
-"Thiên Lâu Bá Đoạn Kiếm"...!
+03:49,500 --> 03:51,500
+Không phải là không thể đâu.
 
 56
-03:39,800 --> 03:40,800
-Ai đó!
+03:51,500 --> 03:54,500
+Kyaru à, ngươi nghĩ ta là ai chứ?
 
 57
-03:44,500 --> 03:46,500
-A-Ai đó! Tớ không sợ đâu!
+03:55,500 --> 04:02,500
+Có một thứ gọi là "Cổng Dịch Chuyển" đấy, vì một vài lý do nên ta đã phong ấn nó, và thường dân hiếm khi được sử dụng.
 
 58
-03:47,500 --> 03:50,500
-Lộ mặt ra đi! Là người của Labyrinth phải không!
+04:03,000 --> 04:06,000
+Nhưng ngày xưa, đó là một phương tiện di chuyển rất phổ biến.
 
 59
-03:55,000 --> 03:57,500
-Hả? Ngươi là Giáo sư?
+04:07,000 --> 04:13,500
+Ta đã can thiệp vào mạch ma thuật của "Cổng Dịch Chuyển" đó, rồi tận dụng nó một chút thôi.
 
 60
-03:59,500 --> 04:00,500
-Hửm?
+04:14,000 --> 04:19,000
+Lãng phí ma lực quá đi, trong khi bây giờ ta đang muốn tiết kiệm từng chút một.
 
 61
-04:01,500 --> 04:03,000
-Ủa, phản ứng chậm quá!
+04:19,500 --> 04:22,500
+Biết ơn ta đi chứ, Kyaru đáng yêu...
 
 62
-04:04,000 --> 04:10,500
-À... có lẽ ở "bên này" ngươi không phải Giáo sư,
-gọi bằng chức danh "bên đó" cũng vô ích nhỉ?
+04:23,000 --> 04:28,000
+Cứ ở trong núi như thế, có khi ngươi đã bị vạ lây mà đi đời rồi đấy.
 
 63
-04:11,500 --> 04:14,000
-Ừm, tên thật của ngươi là gì nhỉ?
+04:29,500 --> 04:31,500
+……?
 
 64
-04:15,000 --> 04:19,000
-Hình như là, Raji... Raji?
+04:31,500 --> 04:36,000
+Tôi không hiểu lắm, nhưng mà, người có việc gì với cậu ta sao?
 
 65
-04:20,000 --> 04:24,500
-Rajiraji? Đó là tên của tôi sao?
+04:37,000 --> 04:45,000
+Theo lệnh Bệ hạ, tôi đã quan sát cậu ta suốt... nhưng cậu ta chỉ là một cậu bé bình thường, không có gì đặc biệt cả.
 
 66
-04:26,000 --> 04:30,500
-À... xem ra ngươi cũng
-quên hết mọi chuyện rồi à?
+04:45,500 --> 04:48,500
+Tôi không hiểu lý do tại sao Bệ hạ lại chú ý đến cậu ta như vậy.
 
 67
-04:31,500 --> 04:35,000
-Không, hình như ngươi bị Minerva điều khiển mà...?
+04:50,500 --> 04:53,000
+Vậy nên hãy tha cho cậu ta, ý ngươi là vậy sao?
 
 68
-04:36,000 --> 04:38,500
-Hừm, chẳng hiểu gì cả!
+04:53,500 --> 04:58,000
+Xem ra hai đứa thân thiết với nhau gớm nhỉ~ ngươi?
 
 69
-04:39,500 --> 04:42,000
-Thôi kệ, chuyện khó cứ để sau!
+04:58,500 --> 05:03,500
+(Hội Sành Ăn) thì phải? Lại còn gia nhập vào một cái hội kỳ quặc như thế nữa.
 
 70
-04:43,000 --> 04:45,000
-À, trước mắt cứu tớ đã!
+05:04,500 --> 05:07,500
+À... Đ-Đó là nhiệm vụ trà trộn.
 
 71
-04:45,500 --> 04:48,000
-Này, bẻ gãy song sắt này đi!
+05:08,000 --> 05:11,000
+Tôi nghĩ nếu trở thành đồng đội, sẽ khiến cậu ta lơ là cảnh giác.
 
 72
-04:48,500 --> 04:51,000
-Tớ đang bị bọn xấu bắt giữ đó!
+05:12,500 --> 05:17,500
+Ừm, ta biết mà. Kyaru đáng yêu, Kyaru của ta...♪
 
 73
-04:51,500 --> 04:53,500
-Làm ơn đi~!
+05:18,500 --> 05:21,500
+Ta đã nói rồi mà, ngươi giống như một phần của ta vậy.
 
 74
-04:53,700 --> 04:56,000
-Dù sao thì ngươi cũng không nhớ đâu nhỉ!
+05:22,000 --> 05:27,000
+Cảm xúc của ngươi, ta đều nắm rõ trong lòng bàn tay.
 
 75
-04:56,500 --> 05:01,500
-Ở Eternal Society, tớ đã hợp tác
-và giúp ngươi rất nhiều mà, đúng không?
+05:28,000 --> 05:30,500
+Này, ngươi muốn có bạn bè sao?
 
 76
-05:02,500 --> 05:05,000
-Eternal Society...?
+05:31,000 --> 05:33,500
+Không, là muốn được yêu thương à?
 
 77
-05:07,000 --> 05:10,000
-Xin lỗi, tôi không hiểu rõ lắm.
+05:34,000 --> 05:37,000
+Ta hiểu mà~ Cô đơn thì buồn lắm nhỉ.
 
 78
-05:10,500 --> 05:14,000
-Tôi, dường như ký ức đang bị hỗn loạn.
+05:38,500 --> 05:40,000
+……Nhưng mà này, Kyaru.
 
 79
-05:16,000 --> 05:19,500
-Tôi không nhớ rõ mình là ai nữa.
+05:40,500 --> 05:44,000
+Thần thánh thì không cần bạn bè đâu.
 
 80
-05:20,500 --> 05:24,000
-Tôi có nhớ mang máng về cô.
+05:44,500 --> 05:48,000
+Chỉ cần một mình là đủ, để thống trị vạn vật.
 
 81
-05:25,000 --> 05:29,500
-Hình như là, Noem... phải không? Đúng chứ?
+05:48,500 --> 05:51,000
+Đó mới là cách tồn tại của chúng ta.
 
 82
-05:33,500 --> 05:35,000
-...!?
+05:51,500 --> 05:58,000
+Ngươi đáng lẽ là một phần của ta, vậy mà sao chuyện đơn giản thế cũng không hiểu nhỉ?
 
 83
-05:35,500 --> 05:38,000
-Ngươi, ngươi vừa gọi tớ là Noem?
+05:59,000 --> 06:05,500
+A~a, thất bại rồi. Quả nhiên ở thế giới này, "Tiên Tri Tương Lai" cũng chẳng đáng tin chút nào.
 
 84
-05:38,500 --> 05:41,500
-Cái tên đó, bây giờ không ai còn nhớ nữa!
+06:13,500 --> 06:21,500
+Haizz. Ta đã không lường trước được tình huống này. Phải rồi, thế giới này là hiện thực chứ đâu phải game.
 
 85
-05:42,500 --> 05:43,500
-Tốt quá...!
+06:22,500 --> 06:25,500
+Bệ hạ, người đang nói gì vậy ạ?
 
 86
-05:44,500 --> 05:46,500
-A, tớ, tớ đã rất sợ!
+06:26,500 --> 06:30,000
+Đã bảo đừng có gọi ta là Bệ hạ nữa. Đồ ngốc.
 
 87
-05:47,500 --> 05:50,500
-Tớ đã nghĩ, liệu tất cả có phải là ảo tưởng của mình không!
+06:39,000 --> 06:45,000
+Ồn ào quá đấy. Đừng có mà la lối om sòm nữa. Bực mình thật.
 
 88
-05:51,000 --> 05:54,500
-Liệu tớ, có phải đã hóa điên rồi không!
+06:45,500 --> 06:48,000
+Cẩn thận kẻo cắn vào lưỡi đấy.
 
 89
-05:55,500 --> 05:58,500
-Nhưng, ngươi vẫn còn nhớ... Rajiraji?
+06:48,500 --> 06:52,000
+Bây giờ mà ngươi chết thì ta cũng hơi phiền phức.
 
 90
-05:59,500 --> 06:03,000
-Tất cả không phải là mơ hay ảo tưởng, đúng không?
+06:52,500 --> 06:55,000
+Hả, không!
 
 91
-06:04,500 --> 06:08,000
-Tớ, tớ, đã luôn bất an!
+06:55,500 --> 06:58,500
+Tại sao, tôi đã nghe lời Bệ hạ mà!
 
 92
-06:09,000 --> 06:10,500
-Tôi không hiểu rõ lắm.
+06:59,000 --> 07:02,000
+Tôi đã cố gắng hết sức rồi mà! Aaaaaa!
 
 93
-06:11,500 --> 06:16,500
-Xin lỗi... Cô là Noem, phải không?
+07:06,000 --> 07:08,000
+Đừng hiểu lầm.
 
 94
-06:17,500 --> 06:19,500
-Tóc cô có dài ra một chút không?
+07:08,000 --> 07:12,000
+Đây không phải là trừng phạt đâu, ngươi không có lỗi gì cả.
 
 95
-06:20,000 --> 06:24,000
-Không khớp với ký ức của tôi, hừm?
+07:12,500 --> 07:18,000
+Dù ngươi chẳng hoàn thành được mệnh lệnh nào của ta, lại còn làm ra bộ dạng xấu xí.
 
 96
-06:24,500 --> 06:27,500
-Với lại, Okutoo không đi cùng cô sao?
+07:18,500 --> 07:21,500
+Nhưng đó không phải là trách nhiệm của ngươi.
 
 97
-06:28,000 --> 06:33,000
-Lúc nào hai người cũng hành động cùng nhau mà...
-Không hiểu sao, tôi lại có cảm giác như vậy.
+07:22,000 --> 07:25,000
+Kyaru đáng yêu, Kyaru ngoan ngoãn...
 
 98
-06:35,000 --> 06:39,500
-Quả nhiên ký ức của tôi đang hỗn loạn
-và rất mơ hồ.
+07:26,000 --> 07:31,500
+Là do ta đã quá nhân từ. Ta đã đối xử với ngươi quá giống con người.
 
 99
-06:40,500 --> 06:42,000
-Ừm, ừm...
+07:32,000 --> 07:34,500
+Trong khi ngươi chỉ là một công cụ.
 
 100
-06:42,500 --> 06:45,000
-Bọn tớ đã luôn ở bên nhau.
+07:35,000 --> 07:45,500
+Sức mạnh của "Princess Knight" quá lớn, ta đã nghĩ cơ thể ngươi không chịu nổi... nên đã từ từ truyền cho ngươi từng chút một để làm quen.
 
 101
-06:46,000 --> 06:49,000
-Tuy tớ chỉ quen ngươi một thời gian ngắn!
+07:46,500 --> 07:52,000
+Kết quả là, ngươi không thể khống chế quái vật, không hoàn thành được vai trò của mình.
 
 102
-06:49,500 --> 06:54,500
-Nhưng chúng ta là đồng đội!
-Dù mọi người đã quên hết rồi!
+07:53,000 --> 08:00,500
+Dù vậy, ta vẫn mong rằng nếu tích lũy kinh nghiệm, ngươi sẽ trưởng thành... và mang lại kết quả...
 
 103
-06:55,500 --> 06:57,000
-Đồng đội...
+08:01,000 --> 08:05,000
+Nhưng ta không có thời gian, mà cũng thấy phiền phức rồi.
 
 104
-06:59,000 --> 07:02,500
-Nếu vậy thì, tôi nên lắng nghe lời thỉnh cầu đó.
+08:05,500 --> 08:11,500
+Ta sẽ không quan tâm đến cơ thể của ngươi nữa, và ban cho ngươi toàn bộ sức mạnh của "Princess Knight".
 
 105
-07:03,500 --> 07:08,000
-Trong tôi, cũng có một sự thôi thúc
-muốn thực hiện nguyện vọng của người khác.
+08:12,000 --> 08:18,500
+Nếu ngươi có bị hủy hoại... thì ta chỉ cần tạo ra một cái mới là được mà.
 
 106
-07:09,000 --> 07:12,000
-Đây rốt cuộc là gì vậy?
+08:19,000 --> 08:21,500
+Thử và sai chính là bí quyết của thành công.
 
 107
-07:13,500 --> 07:14,500
-Nguyện vọng?
+08:22,000 --> 08:28,500
+"Kyaru tiếp theo" có khi lại là một đứa trẻ ngoan ngoãn và hữu dụng hơn thì sao?
 
 108
-07:16,000 --> 07:21,000
-Ưm... trong ngươi, có lẽ có tàn dư của Minerva?
+08:31,000 --> 08:35,500
+T-Tại sao...? Tại sao lại tàn nhẫn như vậy!
 
 109
-07:22,000 --> 07:25,000
-Cô ta chính là hệ thống thực hiện nguyện vọng mà.
+08:36,000 --> 08:38,000
+Dừng, dừng lại đi!
 
 110
-07:25,500 --> 07:29,500
-À thì, mấy chuyện khó hiểu tớ cũng không biết.
+08:39,000 --> 08:43,500
+Mình, mình đã cố gắng làm một đứa trẻ ngoan mà...!
 
 111
-07:30,500 --> 07:32,000
-Hừm...
+08:44,000 --> 08:45,500
+> Vội vàng đứng dậy.
+> Hét lên "Dừng lại!"
 
 112
-07:32,500 --> 07:36,500
-Tôi quyết định rằng, tôi nên nói chuyện
-với cô nhiều hơn về mọi thứ.
+08:47,000 --> 08:51,500
+……Hửm? Ara, cậu bé Yuuki dậy rồi kìa.
 
 113
-07:37,500 --> 07:41,000
-Để bổ sung cho ý thức của bản thân,
-và vì sự thôi thúc này.
+08:52,000 --> 08:55,500
+Là tại ngươi cứ la hét một cách thô thiển đấy~ Kyaru.
 
 114
-07:42,500 --> 07:45,500
-...Song sắt, chỉ cần bẻ nó ra là được chứ?
+08:56,000 --> 08:59,500
+Xin lỗi nhé, cậu bé Yuuki, ồn ào lắm phải không?
 
 115
-07:46,500 --> 07:48,000
-Ừm, nhờ ngươi!
+09:03,000 --> 09:04,500
+Hửm?
 
 116
-07:52,500 --> 07:55,000
-Uwaaa... Cảm giác lạ quá,
+09:04,500 --> 09:07,500
+Sao thế, cậu bé Yuuki?
 
 117
-07:55,500 --> 07:57,500
-không ngờ lại được ngươi cứu.
+09:07,500 --> 09:12,000
+Cậu dang rộng hai tay ra, chẳng lẽ định bảo vệ Kyaru sao?
 
 118
-07:58,500 --> 08:00,000
-Nhưng mà vui lắm, cực kỳ vui!
+09:12,500 --> 09:18,500
+Trong khi còn chưa hiểu rõ tình hình... Đúng là một đứa trẻ ngoan~ Thật tốt bụng♪
 
 119
-08:00,500 --> 08:02,500
-Cảm ơn, Rajiraji~♪
+09:19,000 --> 09:21,500
+Điểm đó của cậu vẫn không thay đổi nhỉ.
 
 120
-08:03,500 --> 08:05,500
-Okutoo đã quên hết mọi thứ,
+09:22,000 --> 09:26,000
+Nhưng thật đáng tiếc, đây là hiện thực chứ không phải game...
 
 121
-08:05,700 --> 08:08,500
-những người khác... như Daigo cũng không biết ở đâu.
-
-122
-08:10,000 --> 08:13,000
-Tớ, đã luôn cô đơn và bất an.
-
-123
-08:14,500 --> 08:17,500
-Thế nên, tớ thật sự rất vui khi gặp lại ngươi♪
-
-124
-08:18,500 --> 08:19,500
-Vậy sao.
-
-125
-08:20,000 --> 08:25,500
-Tuy tôi không hiểu rõ, nhưng...
-nụ cười của cô trông tuyệt hơn nhiều đấy... Noem.
-
-126
-08:26,500 --> 08:28,000
-Làm ơn lùi lại một chút.
-
-127
-08:28,500 --> 08:32,500
-Cơ thể tôi hơi vụng về,
-khó mà điều chỉnh lực được.
-
-128
-08:33,500 --> 08:34,500
-Ừm!
-
-129
-08:35,000 --> 08:39,500
-A ha ha, tuy chỉ có hai đứa mình...
-nhưng đây là sự hồi sinh của Eternal Society!
-
-130
-08:40,500 --> 08:42,500
-Nào, bắt đầu phản công thôi~!
-
-131
-08:43,500 --> 08:45,500
-Vào thế giới đầy rẫy sự dối trá này
+09:26,500 --> 09:31,000
+Những kẻ đạo đức giả tốt bụng, chỉ có chết sớm mà thôi.

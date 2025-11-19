@@ -90,15 +90,26 @@ class VideoStreamHandler(SimpleHTTPRequestHandler):
                 <div class="video-list">
             """
             
-            # Liệt kê các file video
-            video_files = []
-            for file in os.listdir(self.video_dir):
-                if file.endswith(('.mp4', '.mkv', '.avi', '.webm')):
-                    video_files.append(file)
+            # Liệt kê các thư mục video
+            video_items = []
             
-            if video_files:
-                for video in sorted(video_files):
-                    html += f'<div class="video-item"><a href="/{video}">🎬 {video}</a></div>'
+            # Duyệt qua các thư mục
+            for folder in os.listdir(self.video_dir):
+                folder_path = os.path.join(self.video_dir, folder)
+                if os.path.isdir(folder_path):
+                    # Tìm file video trong thư mục
+                    for file in os.listdir(folder_path):
+                        if file.endswith(('.mp4', '.mkv', '.avi', '.webm')):
+                            # Lưu: (tên thư mục, đường dẫn file)
+                            video_path = f"{folder}/{file}"
+                            video_items.append((folder, video_path))
+                            break  # Chỉ lấy 1 video đầu tiên trong thư mục
+            
+            if video_items:
+                for folder_name, video_path in sorted(video_items):
+                    # Hiển thị tên thư mục, link tới file video
+                    display_name = folder_name.replace('COMPLETE_', '')  # Bỏ prefix COMPLETE
+                    html += f'<div class="video-item"><a href="/{video_path}">🎬 {display_name}</a></div>'
             else:
                 html += '<p>Không có video nào</p>'
             

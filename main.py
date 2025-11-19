@@ -65,35 +65,21 @@ if errorlevel 1 (
 )
 
 echo.
-echo Bước 3: Đổi tên video...
 echo.
-REM Xóa file cũ nếu tồn tại
-if exist "%VIDEO_TITLE% - AIVietSub.mp4" del "%VIDEO_TITLE% - AIVietSub.mp4"
-set FINAL_VIDEO=%VIDEO_TITLE% - AIVietSub.mp4
-move "%OUTPUT_VIDEO%" "%FINAL_VIDEO%"
-
-if errorlevel 1 (
-    echo [WARNING] Không thể đổi tên video, giữ tên gốc
-    set FINAL_VIDEO=%OUTPUT_VIDEO%
-) else (
-    echo Đã đổi tên: %FINAL_VIDEO%
-)
-
-echo.
-echo Bước 4: Khởi động Stream Server...
+echo Bước 3: Khởi động Stream Server...
 echo.
 echo Video đã sẵn sàng! Mở trên điện thoại:
 echo   http://192.168.137.1:8000
 echo.
 echo Đang khởi động server...
-start "Video Stream Server" python "%SCRIPT_DIR%\\stream_server.py" "."
+start "Video Stream Server" python "%SCRIPT_DIR%\\stream_server.py" "%SCRIPT_DIR%\\video"
 timeout /t 3 /nobreak >nul
 echo.
 echo Server đã khởi động! Mở link trên điện thoại để xem video
 echo (Đóng cửa sổ server khi xong)
 
 echo.
-echo Bước 5: Đổi tên thư mục thành COMPLETE...
+echo Bước 4: Đổi tên thư mục thành COMPLETE...
 echo.
 
 REM Lấy tên thư mục hiện tại

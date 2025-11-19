@@ -14,25 +14,43 @@ Critical Rules:
 
 Output Format Example:
 1
-00:00:13,100 --> 00:00:15,050
-(Bảng hiệu: Hội Sành Ăn)
+00:00:05,150 --> 00:00:08,400
+(Nhiệm vụ chính: Chương 1 - Bữa tối sóng gió)
 
 2
-00:00:15,250 --> 00:00:17,890
-Kyaru-chan, cậu lại cau có nữa rồi.
+00:02:14,200 --> 00:02:16,800
+Oa~! Mùi thơm quá đi mất!
+Bụng mình réo ầm ĩ rồi nè, Kyaru-chan!
 
 3
-00:00:18,100 --> 00:00:20,500
-(Sao cậu ta cứ nhìn mình chằm chằm vậy?)
+00:02:17,100 --> 00:02:20,050
+Đừng có lôi tôi vào!
+Mà sao cậu lúc nào cũng chỉ nghĩ đến ăn vậy hả?
 
 4
-00:00:20,650 --> 00:00:22,980
-K-Không phải chuyện của cậu, Yuuki-kun!
+00:05:45,600 --> 00:05:48,100
+(K-Kyaru-chan trông dữ dằn quá...)
 
 5
-00:00:23,500 --> 00:00:26,000
-> Hỏi xem có chuyện gì không.
-> An ủi Kyaru-chan.
+00:05:48,300 --> 00:05:51,200
+Chủ nhân, xin ngài đừng lo lắng.
+Em sẽ chuẩn bị bữa ăn ngay đây ạ.
+
+6
+00:45:22,500 --> 00:45:25,100
+Khoan đã mọi người!
+Có gì đó đang đến gần!
+
+7
+01:12:03,500 --> 01:12:07,000
+> Rút kiếm bảo vệ mọi người.
+> Ra lệnh cho Kokkoro-chan hỗ trợ.
+> Nắm tay Pecorine kéo chạy.
+
+8
+01:12:08,150 --> 01:12:10,900
+Oa, sức mạnh này...
+Thật là "Yabai desu ne"!
 
 Now, proceed with the provided video and generate the complete SRT file.
 

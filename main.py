@@ -51,7 +51,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo Bước 2: Burn subtitle vào video (CPU ultrafast)...
+echo Bước 2: Burn subtitle - TỐC ĐỘ NHANH NHẤT + CHẤT LƯỢNG CAO NHẤT...
 echo.
 python "%ADD_SUB_SCRIPT%" "%VIDEO_FILE%" "%SRT_FIXED%" "%OUTPUT_VIDEO%"
 

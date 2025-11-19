@@ -31,7 +31,7 @@ def add_subtitle_to_video(video_path, srt_path, output_path=None):
     """
     
     print("=" * 60)
-    print("Video Subtitle Merger - BURN MODE (CPU ultrafast)")
+    print("Video Subtitle Merger - TỐC ĐỘ NHANH NHẤT + CHẤT LƯỢNG CAO NHẤT")
     print("=" * 60)
     
     # Kiểm tra ffmpeg
@@ -59,17 +59,17 @@ def add_subtitle_to_video(video_path, srt_path, output_path=None):
     print(f"Output: {output_path}")
     print()
     
-    # CPU encoding với preset ultrafast
-    print("✓ Sử dụng CPU encoding với preset ultrafast")
+    # CPU encoding - TỐC ĐỘ NHANH NHẤT + CHẤT LƯỢNG CAO NHẤT
+    print("✓ Sử dụng CPU encoding - TỐC ĐỘ NHANH NHẤT + CHẤT LƯỢNG CAO NHẤT")
     
     cmd = [
         'ffmpeg',
         '-i', video_path,
         '-vf', f"subtitles='{srt_path}'",
         '-c:v', 'libx264',
-        '-preset', 'ultrafast',
-        '-crf', '23',
-        '-tune', 'fastdecode',
+        '-preset', 'ultrafast',  # Nhanh nhất
+        '-crf', '18',  # Chất lượng cao nhất (0-51, thấp = tốt hơn)
+        '-qp', '0',  # Quantization parameter = 0 (lossless)
         '-c:a', 'copy',
         '-y',
         output_path

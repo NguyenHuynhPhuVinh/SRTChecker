@@ -103,8 +103,8 @@ def upload_video(youtube, video_path, title, description, category='22', privacy
     log(f"Kích thước file: {file_size_mb:.2f} MB")
     print()
     
-    # Tạo media upload với chunk size 10MB
-    chunk_size = 10 * 1024 * 1024  # 10 MB chunks
+    # Tạo media upload với chunk size nhỏ để cập nhật liên tục
+    chunk_size = 256 * 1024  # 256 KB chunks (cập nhật mượt mà hơn)
     media = MediaFileUpload(video_path, chunksize=chunk_size, resumable=True)
     
     log("Tạo upload request...")

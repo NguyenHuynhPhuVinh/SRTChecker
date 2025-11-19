@@ -1,786 +1,471 @@
 1
-00:00:00,800 --> 00:00:02,400
-(Buổi họp lớp đầu tiên và cuối cùng)
+00:00:00,000 --> 00:00:05,000
+(Một cô gái bí ẩn rơi xuống từ bầu trời. Khoảnh khắc đỡ lấy cô ấy,
+cơn đau đầu dữ dội ập đến, và tôi mất đi ý thức...)
 
 2
-00:00:03,400 --> 00:00:06,000
-Kuria bị bao bọc trong một ánh sáng kỳ lạ,
-và trong khoảnh khắc, cậu đã mất đi ý thức.
+00:00:10,000 --> 00:00:12,500
+(...Và rồi, 3 ngày trôi qua.)
 
 3
-00:00:07,200 --> 00:00:08,800
-Và rồi, khi cậu giật mình mở mắt ra...
+00:00:13,800 --> 00:00:17,800
+Ra là vậy, chuyện đó đã xảy ra sao.
+Kokkoro-chan chắc vất vả lắm nhỉ.
 
 4
-00:00:08,800 --> 00:00:11,500
-khung cảnh là ở giữa bầu trời cao vời vợi,
-với những dãy núi ngay bên dưới.
+00:00:22,500 --> 00:00:26,400
+Không, tôi không sao cả.
+Chuyện của tôi không quan trọng...
 
 5
-00:00:11,700 --> 00:00:13,000
-Kuria bị trọng lực kéo xuống, rơi tự do...
+00:00:26,600 --> 00:00:31,800
+Quan trọng hơn là, tại sao Chủ nhân vẫn chưa tỉnh lại?
+Tôi thật sự không biết nguyên nhân là gì.
 
 6
-00:00:24,550 --> 00:00:25,150
-Ồ?
+00:00:37,000 --> 00:00:41,500
+Không có thương tích hay bất thường về thể chất.
+Các bác sĩ đã khám và nói rằng...
 
 7
-00:00:26,500 --> 00:00:29,500
-Ơi! Sao cậu lại rơi từ trên trời xuống vậy?
+00:00:41,700 --> 00:00:46,500
+Có thể ngài ấy chỉ bị kiệt sức về mặt tinh thần thôi, nhưng mà...
 
 8
-00:00:32,500 --> 00:00:35,000
-Cậu lúc nào cũng làm những chuyện bất ngờ nhỉ.
+00:00:52,800 --> 00:00:55,500
+Yui-sama.
 
 9
-00:00:36,000 --> 00:00:38,500
-Khoan, đây không phải lúc
-để thong thả gọi cậu đâu nhỉ!
+00:00:55,700 --> 00:01:00,000
+Yui-sama sử dụng hồi phục ma pháp giỏi hơn tôi nhiều.
 
 10
-00:00:42,800 --> 00:00:45,800
-Nếu rơi từ độ cao đó mà đập xuống đất,
+00:01:01,500 --> 00:01:06,000
+Xin ngài hãy xem qua cho Chủ nhân và vị này với ạ.
 
 11
-00:00:45,800 --> 00:00:47,000
-cậu sẽ bẹp dí mất!
+00:01:07,000 --> 00:01:09,500
+Tất nhiên rồi, Kokkoro-chan!
 
 12
-00:00:48,500 --> 00:00:49,500
-Vì cậu yếu ớt lắm mà!
+00:01:09,700 --> 00:01:12,500
+Mình sẽ cố gắng hết sức theo cách của mình.
 
 13
-00:01:03,800 --> 00:01:05,800
-Trang bị Hoàng Gia, công suất tối đa!
+00:01:13,000 --> 00:01:15,000
+Hỡi tinh linh ánh sáng...
 
 14
-00:01:16,800 --> 00:01:17,800
-Bắt được rồi!
+00:01:15,500 --> 00:01:20,000
+Đây là cô bé "rơi từ trên trời xuống" mà Kokkoro kể sao.
 
 15
-00:01:19,500 --> 00:01:22,000
-Hehe. Một cú va chạm thật mạnh!
+00:01:22,000 --> 00:01:24,000
+Rốt cuộc cô ấy là ai vậy?
 
 16
-00:01:24,500 --> 00:01:27,800
-Aaa. Bụng tôi đói mất rồi.
+00:01:24,800 --> 00:01:28,000
+Tôi cũng mới gặp lần đầu.
 
 17
-00:01:30,500 --> 00:01:31,000
-Ehehe.
+00:01:29,000 --> 00:01:33,500
+Chủ nhân có quan hệ rất rộng với phái nữ...
 
 18
-00:01:31,500 --> 00:01:34,000
-Cậu có sao không, Kuria-kun?
-Có bị thương ở đâu không?
+00:01:33,700 --> 00:01:36,500
+Nên có thể là người quen chăng...
 
 19
-00:01:34,500 --> 00:01:38,500
-Fufu. Xin lỗi nhé,
-vì đã bế cậu kiểu công chúa thế này.
+00:01:37,800 --> 00:01:40,500
+Đợi hai người họ tỉnh lại rồi hỏi xem!
 
 20
-00:01:39,500 --> 00:01:41,800
-Như thế này thì vai vế bị đảo ngược mất rồi~
+00:01:41,500 --> 00:01:43,500
+Yui-chan, sao rồi?
 
 21
-00:01:42,500 --> 00:01:44,800
-Thiệt tình, cậu đúng là một người
-không thể bỏ mặc được mà♪
+00:01:47,000 --> 00:01:50,500
+Ừm... Mình đã kiểm tra sơ bộ hết rồi.
 
 22
-00:01:45,500 --> 00:01:48,200
-Ngoan ngoan nào♪ Cậu bình an là trên hết.
+00:01:50,700 --> 00:01:55,000
+Không có thương tích, cũng không có dấu vết ma thuật nào cả.
 
 23
-00:01:49,000 --> 00:01:52,000
-Ahaha, sao cậu lại run lên thế kia?
+00:01:55,200 --> 00:01:57,500
+Tất nhiên là cũng không có lời nguyền nào.
 
 24
-00:01:53,000 --> 00:01:54,500
-Cậu sợ à?
+00:01:57,700 --> 00:02:02,000
+Tạm thời mình sẽ thử dùng hết các phép hồi phục mà mình biết xem sao.
 
 25
-00:01:55,500 --> 00:01:59,000
-Phải rồi nhỉ~
-Vì cậu vừa rơi từ một nơi cao như thế mà♪
+00:02:03,000 --> 00:02:05,500
+Mong là việc này sẽ giúp họ tỉnh lại...
 
 26
-00:02:00,000 --> 00:02:02,500
-Không sao đâu, cứ làm nũng với tôi đi.
+00:02:08,000 --> 00:02:12,500
+Kyahaha! Ngây thơ quá đi à!
+Làm thế sao mà hiệu quả được chứ!
 
 27
-00:02:03,000 --> 00:02:06,500
-Con trai mà, lúc nào cũng tỏ ra ngầu
-thì sẽ mệt lắm.
+00:02:15,000 --> 00:02:18,500
+Ơ!? Cô là... một tinh linh sao?
 
 28
-00:02:07,500 --> 00:02:10,800
-Thỉnh thoảng hãy thả lỏng,
-sợ hãi hay khóc lóc cũng được.
+00:02:21,000 --> 00:02:22,500
+...Nebia-sama.
 
 29
-00:02:11,500 --> 00:02:14,500
-Tôi sẽ an ủi và động viên cậu mà.
+00:02:22,700 --> 00:02:26,500
+Đây là tinh linh hướng dẫn sống tại Guild House này.
 
 30
-00:02:15,500 --> 00:02:16,800
-Ngoan nào, ngoan nào...♪
+00:02:28,500 --> 00:02:31,500
+Còn đây là các vị trong nhóm [Twinkle Wish].
 
 31
-00:02:17,500 --> 00:02:22,800
-Khi nào thấy an tâm rồi thì hãy lấy lại tinh thần...
-Một ngày nào đó, cậu hãy cứu tôi nhé.
+00:02:32,500 --> 00:02:35,000
+Hể, dễ thương quá!
 
 32
-00:02:23,500 --> 00:02:26,500
-Một vị hoàng tử mà lúc nào cũng
-được công chúa bảo vệ,
+00:02:35,500 --> 00:02:40,000
+Thích thật đấy, được sống cùng tinh linh thế này chắc vui lắm nhỉ!
 
 33
-00:02:27,000 --> 00:02:29,500
-quả nhiên là có hơi mất hình tượng đó nha.
+00:02:43,000 --> 00:02:45,500
+Fufun! Cảm ơn nha!
 
 34
-00:02:32,000 --> 00:02:32,800
-(Núi Oral ~Sườn núi~)
+00:02:46,000 --> 00:02:49,500
+Cô bé tộc thú nhân kia, hảo cảm của ta dành cho cô tăng mạnh rồi đấy!
 
 35
-00:02:34,000 --> 00:02:36,000
-Thân thiết với nhau là tốt rồi nhưng...
+00:02:52,000 --> 00:02:56,500
+Nebia. Vừa rồi cô nói "làm thế không hiệu quả".
 
 36
-00:02:37,000 --> 00:02:38,000
-đừng có lơ là.
+00:02:57,500 --> 00:03:02,000
+Cô có manh mối gì về nguyên nhân họ không tỉnh lại sao?
 
 37
-00:02:38,500 --> 00:02:40,500
-Có kẻ nào đó đang đến gần đây.
+00:03:05,000 --> 00:03:07,500
+Hả? Làm gì có chuyện đó.
 
 38
-00:02:41,500 --> 00:02:46,000
-Tôi không có lơ là đâu~
-Vì có một người nguy hiểm như cậu ở bên cạnh mà.
+00:03:08,000 --> 00:03:10,500
+Nếu biết thì ta đã chỉ cho Kokkoro-chan ngay rồi.
 
 39
-00:02:47,500 --> 00:02:49,000
-Thế thì tốt quá rồi.
+00:03:11,000 --> 00:03:15,500
+Nhưng mà... ta biết một cách có thể đánh thức cậu ta đấy.
 
 40
-00:02:50,000 --> 00:02:51,000
-Kẻ đó là ai?
+00:03:18,500 --> 00:03:21,000
+Nebia-chan, thật sao!?
 
 41
-00:02:52,000 --> 00:02:54,500
-Trông như vừa ra từ căn cứ bí mật của [Labyrinth].
+00:03:21,500 --> 00:03:23,000
+Cách đó là gì vậy?
 
 42
-00:02:56,000 --> 00:03:00,000
-Hừm, hình như tôi đã gặp ở đâu đó rồi.
+00:03:25,000 --> 00:03:28,500
+Fufu! Đó là...
 
 43
-00:03:03,500 --> 00:03:05,500
-Hử, dừng lại Rajiraji!
+00:03:28,700 --> 00:03:30,000
+HÔN đấy!
 
 44
-00:03:06,000 --> 00:03:08,000
-Có ai đó ở kia, cảnh giác đi!
+00:03:31,500 --> 00:03:34,500
+Ơ!? H-H-Hôn á...!?
 
 45
-00:03:09,500 --> 00:03:12,000
-Vâng. Nếu ngài bảo dừng, tôi sẽ dừng.
+00:03:37,000 --> 00:03:40,000
+Phải! Được một cô bé dễ thương "chụt" một cái...
 
 46
-00:03:13,000 --> 00:03:16,000
-Hiện tại, tôi sẽ tuân theo chỉ thị của ngài.
+00:03:40,200 --> 00:03:43,500
+Tim cậu ta sẽ đập thình thịch và tỉnh lại ngay thôi!
+Kiểu nó là thế đấy!
 
 47
-00:03:17,000 --> 00:03:19,000
-...Xin hãy cẩn thận, Noem.
+00:03:46,500 --> 00:03:48,500
+...Lại nữa sao.
 
 48
-00:03:20,000 --> 00:03:21,500
-Tôi cảm thấy một luồng khí tức bất thường.
+00:03:49,000 --> 00:03:53,000
+Tính tò mò của Nebia-sama thật khiến người ta đau đầu mà...
 
 49
-00:03:22,500 --> 00:03:24,000
-Như của một con dã thú vậy.
+00:03:56,000 --> 00:03:58,500
+Gì chứ, không thử sao biết!
 
 50
-00:03:26,500 --> 00:03:29,000
-Dã thú à, nói năng khó nghe thật đấy.
+00:03:59,000 --> 00:04:03,000
+Không phải lên trán như lúc Kyaru làm đâu, lần này phải là môi chạm môi nhé!
 
 51
-00:03:30,500 --> 00:03:32,500
-Lại đi gọi một mỹ nhân như thế này...
+00:04:06,000 --> 00:04:10,000
+Tưởng gì, hóa ra là hôn à...
 
 52
-00:03:33,500 --> 00:03:37,000
-Ngươi là, ờm... ai ấy nhỉ?
+00:04:11,000 --> 00:04:14,500
+Tôi không nghĩ thứ đó thực sự có hiệu quả đâu...
 
 53
-00:03:38,000 --> 00:03:42,800
-Tự dưng quên mất.
-Ta cứ tưởng trí nhớ của mình tốt lắm chứ.
+00:04:16,000 --> 00:04:18,500
+Đ-Đúng vậy, không được đâu!
 
 54
-00:03:45,000 --> 00:03:49,000
-Hừm. Ngài quen biết tôi sao?
+00:04:19,000 --> 00:04:23,000
+Kishi-kun đang bất tỉnh, tự tiện hôn cậu ấy thì...!
 
 55
-00:03:50,000 --> 00:03:53,000
-Xin lỗi, trí nhớ của tôi đang bị hỗn loạn...
+00:04:24,500 --> 00:04:27,000
+Nh-Nhưng mà...
 
 56
-00:03:55,000 --> 00:03:58,500
-Noem, ngài có quen biết họ không?
+00:04:27,500 --> 00:04:31,000
+Nebia-chan nói phải thử mới biết được...
 
 57
-00:04:00,000 --> 00:04:01,000
-Hả?
+00:04:31,200 --> 00:04:34,000
+Đúng không...?
 
 58
-00:04:01,500 --> 00:04:04,800
-A, Christina!
-Ngươi, sao lại ở đây!?
+00:04:35,500 --> 00:04:38,000
+A, a...
 
 59
-00:04:06,000 --> 00:04:07,000
-...Hử?
+00:04:38,500 --> 00:04:42,000
+Cái này nếu coi là một phần của việc điều trị...
 
 60
-00:04:07,500 --> 00:04:10,000
-Ngươi biết ta sao?
+00:04:42,500 --> 00:04:45,000
+Như hô hấp nhân tạo chẳng hạn.
 
 61
-00:04:11,500 --> 00:04:13,800
-Ta cũng nổi tiếng ra phết nhỉ.
+00:04:45,500 --> 00:04:49,000
+Cứ nghĩ là để cứu người thì... ừm, chắc là...
 
 62
-00:04:15,500 --> 00:04:18,000
-A, xem bộ dạng đó thì...
+00:04:52,000 --> 00:04:55,000
+Ơ, ơ... Ơ ơ!?
 
 63
-00:04:18,500 --> 00:04:20,800
-Ngươi cũng không nhớ gì về ta à?
+00:04:56,000 --> 00:05:00,000
+Chẳng lẽ Rei-chan và Hiyori-chan cũng nghĩ là trị liệu thì được sao...!?
 
 64
-00:04:22,500 --> 00:04:25,000
-Hừm? Xin lỗi nhé,
+00:05:02,000 --> 00:05:05,000
+M-Mình phải làm sao đây!?
 
 65
-00:04:25,500 --> 00:04:27,500
-ta không nhớ ra?
+00:05:09,000 --> 00:05:12,000
+Hôn đi~ Hôn đi~
+Nào nào, ai sẽ là người tiên phong đây?
 
 66
-00:04:28,500 --> 00:04:31,500
-Chúng ta từng gặp nhau ở đâu à, tiểu thư?
+00:05:15,500 --> 00:05:18,000
+Khoan đã, Nebia-sama.
 
 67
-00:04:32,500 --> 00:04:33,500
-Vậy à...
+00:05:19,000 --> 00:05:21,000
+Chẳng lẽ, Chủ nhân...?
 
 68
-00:04:34,500 --> 00:04:36,000
-Thôi, không nhớ thì cũng được.
+00:05:26,000 --> 00:05:29,000
+Kishi-kun! May quá, cậu tỉnh lại rồi sao...!
 
 69
-00:04:36,500 --> 00:04:40,500
-Dù không tốt lắm, nhưng giờ không có
-thời gian để giải thích nhiều đâu!
+00:05:32,000 --> 00:05:34,000
+Thật nè! Cậu ổn không?
 
 70
-00:04:44,000 --> 00:04:47,800
-Hử, Kuria! Kuria cũng ở đây à,
-cái đội hình gì thế này!?
+00:05:34,500 --> 00:05:37,500
+Có đau ở đâu không? Có đói bụng không?
 
 71
-00:04:48,500 --> 00:04:49,500
-> Các vị là ai vậy?
-> Cậu vẫn bình an nhỉ, Muimi-chan.
+00:05:40,500 --> 00:05:44,000
+...Có khi nào do chúng ta ồn ào quá không?
 
 72
-00:04:50,500 --> 00:04:55,500
-Ahaha. Bị gọi là Muimi thì tôi quen rồi,
-nhưng thêm -chan vào thì không quen chút nào.
+00:05:46,000 --> 00:05:48,500
+Dù sao thì, cậu tỉnh lại là tốt rồi.
 
 73
-00:04:56,000 --> 00:04:57,000
-Ngứa ngáy quá!
+00:05:53,500 --> 00:05:56,500
+Tôi cũng thực sự an tâm rồi.
 
 74
-00:04:58,000 --> 00:05:00,500
-Cậu là kiểu người như vậy à?
+00:05:57,500 --> 00:06:02,000
+Nếu ý thức của ngài cứ mãi không trở lại thì tôi không biết phải làm sao...
 
 75
-00:05:01,000 --> 00:05:06,000
-Sao tôi thấy cậu cứ như trẻ con ấy,
-do mất trí nhớ à?
+00:06:04,000 --> 00:06:05,500
+Tốt quá rồi Kokkoro-chan!
 
 76
-00:05:07,000 --> 00:05:08,500
-Mà thôi kệ!
+00:06:06,000 --> 00:06:09,500
+Có khi Kishi-kun chỉ là mệt quá nên ngủ say thôi!
 
 77
-00:05:09,000 --> 00:05:11,000
-Dù sao thì, tốt quá rồi~!
+00:06:12,500 --> 00:06:15,500
+Đã khoảng một tháng kể từ trận chiến khốc liệt với Kaiser Insight...
 
 78
-00:05:11,500 --> 00:05:13,500
-Kuria, cậu vẫn bình an nhỉ...♪
+00:06:16,500 --> 00:06:20,000
+Cậu ấy đã làm việc rất chăm chỉ dọn dẹp và tình nguyện.
 
 79
-00:05:14,500 --> 00:05:17,000
-Lần cuối gặp cậu tình hình hỗn loạn lắm,
+00:06:21,000 --> 00:06:23,000
+Cứ nghỉ ngơi ở đây đi.
 
 80
-00:05:17,500 --> 00:05:19,500
-nên tôi có hơi lo đó~?
+00:06:25,500 --> 00:06:27,500
+Kishi-kun, cậu đói bụng rồi nhỉ?
 
 81
-00:05:20,000 --> 00:05:21,000
-(Tôi cũng lo cho cậu lắm.)
+00:06:28,000 --> 00:06:31,000
+Để tớ nấu món gì dễ tiêu nhé.
 
 82
-00:05:22,000 --> 00:05:23,000
-Vậy à.
+00:06:31,500 --> 00:06:33,000
+Cậu muốn ăn gì nào?
 
 83
-00:05:23,500 --> 00:05:25,000
-Ừm, chắc là vậy rồi.
+00:06:49,000 --> 00:06:52,000
+Chủ nhân...? Kishi-kun?
 
 84
-00:05:26,000 --> 00:05:27,500
-Vì cậu là một người tốt bụng mà.
+00:06:55,000 --> 00:06:58,000
+Này! Ngươi bị sao thế hả? Trông lạ lắm đấy nhé?
 
 85
-00:05:30,000 --> 00:05:31,500
-Nhưng không cần lo đâu...
+00:07:11,000 --> 00:07:14,000
+Sao thế Kishi-kun!? Thả Nebia-chan ra đi!
 
 86
-00:05:32,500 --> 00:05:36,500
-Tôi bị đám gọi là [Labyrinth]
-bắt giam trong hang ổ của chúng,
+00:07:16,000 --> 00:07:18,000
+Thả ta ra!!
 
 87
-00:05:37,000 --> 00:05:40,500
-nhưng vừa được Rajiraji đây cứu ra rồi♪
+00:07:36,000 --> 00:07:39,000
+Ueeee...! Dính đầy nước miếng rồi...!
 
 88
-00:05:42,000 --> 00:05:44,000
-Noem, xin hãy im lặng một chút.
+00:07:40,000 --> 00:07:42,500
+Thiệt tình, ngươi làm cái trò gì vậy hả~
 
 89
-00:05:45,000 --> 00:05:49,000
-...Xin hãy nhìn lên trên,
-có thứ gì đó nguy hiểm đang ở đó.
+00:07:45,500 --> 00:07:48,500
+Nè, nè...! Tình trạng của Kishi-kun...
 
 90
-00:06:14,500 --> 00:06:17,000
-Kia là... Bệ hạ, sao?
+00:07:50,000 --> 00:07:52,500
+Chẳng lẽ là...
 
 91
-00:06:18,000 --> 00:06:19,500
-Tại sao lại ở bên ngoài hoàng cung?
+00:07:54,000 --> 00:07:58,000
+A! Giống như lúc đầu gặp cậu ấy, khi bị mất trí nhớ và cái tôi còn mờ nhạt...
 
 92
-00:06:20,500 --> 00:06:22,500
-Bộ dạng gớm ghiếc đó là sao?
+00:08:00,000 --> 00:08:03,000
+Không, có lẽ cậu ấy còn trở nên ngây ngô hơn thế nữa...
 
 93
-00:06:24,000 --> 00:06:25,500
-Người đó là...!?
+00:08:07,000 --> 00:08:10,000
+Chủ nhân...
 
 94
-00:06:28,500 --> 00:06:29,000
-Fufufu.
+00:08:10,500 --> 00:08:14,000
+Chẳng lẽ do cú sốc nào đó mà tinh thần bị thoái hóa sao...?
 
 95
-00:06:30,000 --> 00:06:34,500
-Không chỉ có "Nữ Quân Giao Ước" Christina,
+00:08:16,000 --> 00:08:19,000
+Không thể nào...! Phải làm sao đây...!?
 
 96
-00:06:35,000 --> 00:06:37,500
-mà cả "Khiêu Dược Vương" Rajinikant cũng ở đây à.
+00:08:21,000 --> 00:08:23,500
+Tạm thời đừng cho hắn lại gần ta nhé?
 
 97
-00:06:38,500 --> 00:06:44,000
-"Akira" chắc cũng ở gần đây thôi,
-tính cả tôi nữa thì toàn là [Thất Quan] nhỉ.
+00:08:24,000 --> 00:08:27,500
+Lại bị cho vào mồm nữa thì ai mà chịu nổi chứ...!
 
 98
-00:06:45,000 --> 00:06:48,500
-Lại còn có Noem, và Kuria-kun...
+00:08:36,000 --> 00:08:38,500
+Ơ kìa? Cô bé này cũng tỉnh lại rồi...
 
 99
-00:06:49,000 --> 00:06:54,500
-A~ Cứ như đang họp lớp vậy,
-toàn những gương mặt thân quen.
+00:08:40,500 --> 00:08:43,000
+Ờ thì... đúng rồi.
 
 100
-00:06:55,500 --> 00:07:00,500
-Dù là do chính tay ta sắp đặt,
-nhưng không ngờ lại tập hợp được đông đủ thế này.
+00:08:43,500 --> 00:08:46,500
+Tên em là gì? Chị là Hiyori! Rất vui được gặp em!
 
 101
-00:07:01,500 --> 00:07:04,000
-Fufu. Chào buổi tối, các vị.
+00:08:52,000 --> 00:08:54,500
+...Hửm? Không hiểu tiếng mình sao ta?
 
 102
-00:07:05,000 --> 00:07:08,500
-Ta là Eustiana, bá chủ của thế giới này.
+00:08:56,000 --> 00:08:58,500
+Tên ấy. Tên của em là gì nè?
 
 103
-00:07:11,500 --> 00:07:12,500
-Eustiana?
+00:09:06,000 --> 00:09:08,000
+She... ffy...
 
 104
-00:07:13,000 --> 00:07:16,000
-Đồ trơ tráo, gặp ngươi ở đây đúng là hết đời rồi!
+00:09:10,000 --> 00:09:13,000
+Có lẽ do mới tỉnh dậy nên em ấy chưa nói rõ được chăng...
 
 105
-00:07:16,500 --> 00:07:18,800
-Trả lại đây, trả lại tất cả cho ta!
+00:09:16,000 --> 00:09:19,000
+...Không, cô bé này trông cũng có vẻ không bình thường...
 
 106
-00:07:20,500 --> 00:07:22,000
-Ara, ufu.
+00:09:23,000 --> 00:09:25,500
+...Đa. A a~
 
 107
-00:07:22,500 --> 00:07:25,000
-Ngươi, sao lại ở đây?
+00:09:28,000 --> 00:09:30,000
+G-Gì thế hả?
 
 108
-00:07:26,000 --> 00:07:30,000
-Mức độ ưu tiên của ngươi thấp lắm đấy,
-"Công chúa-sama"...
+00:09:30,500 --> 00:09:33,000
+Sao lại nhìn ta chằm chằm như vậy... ...Á!
 
 109
-00:07:31,500 --> 00:07:35,500
-Mà thôi, cũng chướng mắt,
-tiện tay xử lý luôn nhỉ?
+00:09:36,000 --> 00:09:39,000
+A a!? Cô bé đó tóm lấy Nebia-chan rồi...!
 
 110
-00:07:36,500 --> 00:07:39,500
-Bị các ngươi kháng cự thì phiền phức lắm,
-nên ta nói trước.
+00:09:42,000 --> 00:09:44,500
+Em ấy cũng định cho vào miệng luôn kìa~!?
 
 111
-00:07:40,000 --> 00:07:47,500
-Trên những ngọn núi quanh đây, các pháp sư
-ta tập hợp từ khắp vương quốc đang chờ sẵn.
+00:09:46,000 --> 00:09:48,000
+Này mấy người kia!
 
 112
-00:07:48,000 --> 00:07:52,500
-Một khi họ dựng kết giới,
-không ai có thể trốn thoát.
+00:09:48,500 --> 00:09:51,500
+Đừng có đứng nhìn nữa, mau cứu ta với! Cứu ta đi mà~!
 
 113
-00:07:53,000 --> 00:07:56,000
-"Khiêu Dược Vương" cũng không ở
-trạng thái tốt nhất nhỉ...
+00:10:05,000 --> 00:10:08,000
+Ờ thì... Tạm thời, để tôi tổng hợp lại tình hình nhé...
 
 114
-00:07:57,000 --> 00:08:01,500
-Ta cũng sẽ cản trở,
-nên các ngươi không thể phá kết giới được đâu.
+00:10:14,000 --> 00:10:17,000
+Kishi-kun, và cả cô bé này nữa... Cả hai người họ...
 
 115
-00:08:02,000 --> 00:08:06,500
-Nơi đây là mạng nhện, không, là hố kiến sư tử...
+00:10:20,000 --> 00:10:23,000
+Tinh thần đều giống như... trẻ sơ sinh vậy.
 
 116
-00:08:07,500 --> 00:08:10,000
-Không, là mồ chôn của các ngươi.
-
-117
-00:08:11,000 --> 00:08:14,500
-Các ngươi sẽ cùng nhau chết ở đây.
-
-118
-00:08:15,000 --> 00:08:22,000
-Ta sẽ tiêu thụ lượng ma lực khổng lồ đã tích trữ,
-để giải phóng một ma pháp tấn công cấp chiến lược...♪
-
-119
-00:08:22,500 --> 00:08:27,000
-Cách diễn đạt này chắc các ngươi không hiểu,
-nhưng uy lực của nó cũng cỡ vũ khí hạt nhân đấy.
-
-120
-00:08:27,500 --> 00:08:36,000
-Các ngươi sẽ bị hủy diệt không còn một mảnh thịt,
-và chết.
-
-121
-00:08:37,000 --> 00:08:42,500
-Dọn dẹp sạch sẽ đám chướng mắt
-có thể cản trở bá đạo của ta...
-
-122
-00:08:43,000 --> 00:08:48,500
-A~, mọi chuyện diễn ra theo kế hoạch
-thật là dễ chịu.
-
-123
-00:08:49,000 --> 00:08:55,500
-Niệm chú thì ta cũng có thể niệm cho các ngươi,
-nhưng ta chuyên về Thần đạo.
-
-124
-00:08:56,000 --> 00:09:00,500
-Về tôn giáo của thế giới này,
-ta hoàn toàn không biết gì.
-
-125
-00:09:02,500 --> 00:09:03,500
-Nói chuyện gì thế?
-
-126
-00:09:05,000 --> 00:09:11,000
-Xem ra, ý định của cô ta là
-giết sạch tất cả mọi người ở đây, bao gồm cả ta...
-
-127
-00:09:11,500 --> 00:09:20,000
-Để làm được điều đó, cô ta đã điều ta đến đây?
-Dụ ta vào chỗ chết này, để tiện tay xử lý luôn sao?
-
-128
-00:09:21,500 --> 00:09:24,500
-Bệ hạ... không, Eustiana.
-
-129
-00:09:25,500 --> 00:09:27,500
-Hãy giải thích tình hình đi.
-
-130
-00:09:28,500 --> 00:09:30,000
-Nếu thú vị, ta sẽ vỗ tay.
-
-131
-00:09:31,500 --> 00:09:34,500
-Còn nếu nhàm chán, ta sẽ giết ngươi.
-
-132
-00:09:35,500 --> 00:09:36,500
-Giết?
-
-133
-00:09:38,000 --> 00:09:39,500
-Vô ích thôi.
-
-134
-00:09:40,000 --> 00:09:44,500
-Các ngươi, những con người tầm thường...
-không thể giết được một vị thần.
-
-135
-00:09:45,000 --> 00:09:49,500
-Ta, sẽ là vị thần của thế giới mới tuyệt vời này.
-
-136
-00:09:50,000 --> 00:09:53,500
-Để làm được điều đó, các ngươi là những kẻ ngáng đường.
-
-137
-00:09:54,000 --> 00:09:56,500
-Ta sẽ quét sạch tất cả.
-
-138
-00:09:57,000 --> 00:10:03,000
-"Thất Quan" chỉ còn một nửa,
-tiện thể cả bí ẩn của thế giới [Labyrinth]...
-
-139
-00:10:03,500 --> 00:10:06,500
-Thêm vào đó, "Công chúa-sama" cũng sẽ bị tiêu diệt.
-
-140
-00:10:07,000 --> 00:10:12,000
-Cậu cũng vậy, ta đã nghe đủ những gì cần nghe rồi,
-nên cậu cũng hết giá trị lợi dụng.
-
-141
-00:10:12,500 --> 00:10:22,500
-Dù sao thì để thi triển ma pháp,
-ta cũng cần dịch chuyển tức thời đến đây...
-nên tiện thể mang các ngươi theo luôn.
-
-142
-00:10:21,500 --> 00:10:23,000
-A~, thật là nhẹ nhõm.
-
-143
-00:10:23,500 --> 00:10:27,500
-Nhờ vậy, kế hoạch của ta
-sẽ chuyển sang giai đoạn tiếp theo.
-
-144
-00:10:29,500 --> 00:10:34,500
-Kế hoạch đó là gì vậy?
-Nói cho tôi nghe với, tò mò ghê~♪
-
-145
-00:10:38,500 --> 00:10:42,000
-Ara, cuối cùng cũng chịu ra mặt rồi à.
-"Akira"...
-
-146
-00:10:43,500 --> 00:10:49,000
-Không, bây giờ là thủ lĩnh của [Labyrinth],
-tự xưng là Labyrista thì phải?
-
-147
-00:10:50,500 --> 00:10:51,500
-Ừ.
-
-148
-00:10:52,000 --> 00:10:57,000
-Cậu đã phá tan tành căn cứ bí mật
-mà tôi dày công xây dựng đấy~
-
-149
-00:10:57,500 --> 00:11:03,000
-Lại còn gửi cả quân đội đến,
-làm tôi hết cả hồn. A~, cứ tưởng chết đến nơi rồi.
-
-150
-00:11:04,500 --> 00:11:08,000
-Nhưng mà... "Thay đổi Object" là nghề của tôi mà,
-
-151
-00:11:08,500 --> 00:11:10,500
-nên cũng có chuẩn bị sẵn đường thoát rồi.
-
-152
-00:11:11,000 --> 00:11:15,000
-Shizuru-chan và mọi người,
-nếu may mắn thì chắc cũng thoát được thôi.
-
-153
-00:11:16,000 --> 00:11:18,500
-Ngươi cũng nên chạy trốn cùng họ mới phải.
-
-154
-00:11:19,000 --> 00:11:22,000
-Nhưng vì tò mò tình hình
-nên đã đến xem à.
-
-155
-00:11:22,500 --> 00:11:26,000
-Vẫn như mọi khi,
-không thắng nổi sự tò mò tri thức của mình nhỉ.
-
-156
-00:11:27,000 --> 00:11:31,000
-Đó chính là khuyết điểm lớn nhất của ngươi đấy.
-
-157
-00:11:32,500 --> 00:11:34,000
-Hừm~
-
-158
-00:11:34,500 --> 00:11:37,500
-Cậu nói chuyện cứ như bạn bè ấy nhỉ...
-
-159
-00:11:38,500 --> 00:11:40,500
-Mà cậu là ai thế?
-
-160
-00:11:41,500 --> 00:11:44,000
-Xin lỗi nha~ Quên mất rồi!
-
-161
-00:11:44,500 --> 00:11:48,500
-Tôi vốn giỏi nhớ mặt người khác lắm mà ta~♪
-
-162
-00:11:49,000 --> 00:11:51,500
-Vì tôi rất yêu quý con người mà.
-
-163
-00:11:53,500 --> 00:11:56,000
-Hừm... Chỉ có điểm đó,
-
-164
-00:11:57,000 --> 00:12:03,000
-không, tất cả mọi thứ,
-ta và ngươi chưa bao giờ có cùng quan điểm nhỉ.
-
-165
-00:12:04,000 --> 00:12:07,000
-Thôi được rồi, nói chuyện đến đây thôi.
-
-166
-00:12:08,000 --> 00:12:11,500
-Tất cả các ngươi, hãy cùng nhau biến mất đi.
-
-167
-00:12:12,000 --> 00:12:17,500
-Nhân vật trong thế giới mới tuyệt vời của ta,
-chỉ cần một mình ta là đủ rồi.
-
-168
-00:12:18,500 --> 00:12:22,500
-Tất cả, ta sẽ cho các ngươi Game Over tại đây...♪
-
-169
-00:12:26,000 --> 00:12:30,000
-Kết thúc cuộc đời mình khi nào,
-không phải là chuyện để người khác quyết định đâu.
-
-170
-00:12:30,500 --> 00:12:32,000
-Nào, làm sao đây.
-
-171
-00:12:32,500 --> 00:12:36,000
-Cứ há hốc mồm chờ như tên ngốc thế này,
-là bị giết sạch cả lũ đấy.
-
-172
-00:12:37,000 --> 00:12:41,500
-Chắc cậu đang nghĩ "tự dưng ở đâu ra vậy",
-nhưng sao chúng ta không hợp tác?
-
-173
-00:12:41,500 --> 00:12:45,500
-Nếu tất cả cùng hợp sức,
-ít nhất cũng có thể sống sót được.
-
-174
-00:12:46,500 --> 00:12:48,500
-Nhân tiện, tôi vẫn chưa muốn chết đâu.
-
-175
-00:12:49,500 --> 00:12:51,500
-Vì tôi đang giữ một "vật gửi gắm" quan trọng.
-
-176
-00:12:52,000 --> 00:12:55,000
-Cậu nhóc đằng kia... Kuria-kun,
-tôi có thứ muốn trao cho cậu.
-
-177
-00:12:55,000 --> 00:12:56,500
-> Cho tôi ư? Ý cậu là sao?
-
-178
-00:12:57,500 --> 00:13:00,000
-Mà, chuyện đó để sau khi thoát khỏi đây đã...
-
-179
-00:13:00,500 --> 00:13:06,000
-Giới thiệu hay gì cũng để sau,
-trước hết phải sống sót qua chỗ này đã chứ nhỉ~?
-
-180
-00:13:06,500 --> 00:13:11,000
-...A~ thiệt tình.
-Lúc nào cuộc đời cũng vất vả ghê♪
-
-181
-00:14:11,000 --> 00:14:12,000
-(Còn tiếp...)
+00:10:30,000 --> 00:10:34,000
+...Phải làm sao đây~!?

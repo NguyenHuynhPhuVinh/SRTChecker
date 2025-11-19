@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Script để tự động ghép file SRT vào video
-Sử dụng ffmpeg
+Sử dụng ffmpeg với CPU encoding (ultrafast)
 """
 
 import sys
@@ -22,7 +22,7 @@ def check_ffmpeg():
 
 def add_subtitle_to_video(video_path, srt_path, output_path=None):
     """
-    Ghép file SRT vào video
+    Ghép file SRT vào video (BURN - CPU ultrafast)
     
     Args:
         video_path: Đường dẫn file video
@@ -31,7 +31,7 @@ def add_subtitle_to_video(video_path, srt_path, output_path=None):
     """
     
     print("=" * 60)
-    print("Video Subtitle Merger")
+    print("Video Subtitle Merger - BURN MODE (CPU ultrafast)")
     print("=" * 60)
     
     # Kiểm tra ffmpeg
@@ -59,27 +59,32 @@ def add_subtitle_to_video(video_path, srt_path, output_path=None):
     print(f"Output: {output_path}")
     print()
     
-    # Lệnh ffmpeg để ghép subtitle (hardcode vào video)
+    # CPU encoding với preset ultrafast
+    print("✓ Sử dụng CPU encoding với preset ultrafast")
+    
     cmd = [
         'ffmpeg',
         '-i', video_path,
         '-vf', f"subtitles='{srt_path}'",
+        '-c:v', 'libx264',
+        '-preset', 'ultrafast',
+        '-crf', '23',
+        '-tune', 'fastdecode',
         '-c:a', 'copy',
-        '-y',  # Ghi đè file nếu đã tồn tại
+        '-y',
         output_path
     ]
     
-    print("Đang ghép subtitle vào video...")
-    print("(Quá trình này có thể mất vài phút)")
+    print()
+    print("Đang burn subtitle vào video...")
     print()
     
     try:
-        # Chạy ffmpeg
         result = subprocess.run(cmd, check=True)
         
         print()
         print("=" * 60)
-        print("✓ GHÉP SUBTITLE THÀNH CÔNG!")
+        print("✓ BURN SUBTITLE THÀNH CÔNG!")
         print(f"✓ File đã lưu: {output_path}")
         print("=" * 60)
         return True

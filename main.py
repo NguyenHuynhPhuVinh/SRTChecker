@@ -65,19 +65,32 @@ if errorlevel 1 (
 )
 
 echo.
-echo Bước 3: Upload video lên YouTube...
+echo Bước 3: Đổi tên video...
 echo.
-python "%UPLOAD_SCRIPT%" "%OUTPUT_VIDEO%" "%VIDEO_TITLE%" private
+set FINAL_VIDEO=%VIDEO_TITLE% - AIVietSub.mp4
+ren "%OUTPUT_VIDEO%" "%FINAL_VIDEO%"
+
+if errorlevel 1 (
+    echo [WARNING] Không thể đổi tên video
+    set FINAL_VIDEO=%OUTPUT_VIDEO%
+) else (
+    echo Đã đổi tên: %FINAL_VIDEO%
+)
+
+echo.
+echo Bước 4: Upload video lên VLC Mobile...
+echo.
+python "%SCRIPT_DIR%\\upload_vlc.py" "%FINAL_VIDEO%" "http://192.168.137.92:8080"
 
 if errorlevel 1 (
     echo.
-    echo [ERROR] Không thể upload video lên YouTube!
+    echo [ERROR] Không thể upload video lên VLC!
     pause
     exit /b 1
 )
 
 echo.
-echo Bước 4: Đổi tên thư mục thành COMPLETE...
+echo Bước 5: Đổi tên thư mục thành COMPLETE...
 echo.
 
 REM Lấy tên thư mục hiện tại

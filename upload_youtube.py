@@ -20,9 +20,14 @@ def get_authenticated_service():
     """Xác thực với Google API"""
     credentials = None
     
+    # Tìm thư mục gốc của script (nơi có client_secrets.json)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    token_path = os.path.join(script_dir, 'token.pickle')
+    client_secrets_path = os.path.join(script_dir, 'client_secrets.json')
+    
     # Token file lưu credentials
-    if os.path.exists('token.pickle'):
-        with open('token.pickle', 'rb') as token:
+    if os.path.exists(token_path):
+        with open(token_path, 'rb') as token:
             credentials = pickle.load(token)
     
     # Nếu không có credentials hợp lệ, yêu cầu đăng nhập
@@ -30,18 +35,20 @@ def get_authenticated_service():
         if credentials and credentials.expired and credentials.refresh_token:
             credentials.refresh(Request())
         else:
-            if not os.path.exists('client_secrets.json'):
+            if not os.path.exists(client_secrets_path):
                 print("ERROR: Không tìm thấy file client_secrets.json!")
-                print("Vui lòng tải OAuth 2.0 credentials từ Google Cloud Console")
+                print(f"Vui lòng đặt file vào: {script_dir}")
                 print("Hướng dẫn: https://developers.google.com/youtube/v3/guides/uploading_a_video")
+                print()
+                print("Hoặc xem file SETUP_YOUTUBE.md để biết chi tiết")
                 return None
             
             flow = InstalledAppFlow.from_client_secrets_file(
-                'client_secrets.json', SCOPES)
+                client_secrets_path, SCOPES)
             credentials = flow.run_local_server(port=0)
         
         # Lưu credentials
-        with open('token.pickle', 'wb') as token:
+        with open(token_path, 'wb') as token:
             pickle.dump(credentials, token)
     
     return build('youtube', 'v3', credentials=credentials)

@@ -19,12 +19,12 @@ def sanitize_filename(filename):
         filename = filename[:200]
     return filename
 
-def create_process_bat(folder_path, video_name, srt_name, script_dir):
-    """Tạo file BAT để xử lý subtitle và ghép vào video"""
+def create_process_bat(folder_path, video_name, srt_name, script_dir, video_title):
+    """Tạo file BAT để xử lý subtitle, ghép vào video và upload lên YouTube"""
     bat_content = f"""@echo off
 chcp 65001 >nul
 echo ============================================================
-echo Video Subtitle Processing
+echo Video Subtitle Processing + YouTube Upload
 echo ============================================================
 echo.
 
@@ -32,12 +32,14 @@ REM Đường dẫn tới các script
 set SCRIPT_DIR={script_dir}
 set FIX_SRT_SCRIPT=%SCRIPT_DIR%\\fix_srt_dynamic.py
 set ADD_SUB_SCRIPT=%SCRIPT_DIR%\\add_subtitle.py
+set UPLOAD_SCRIPT=%SCRIPT_DIR%\\upload_youtube.py
 
 REM File trong thư mục hiện tại
 set VIDEO_FILE={video_name}
 set SRT_FILE={srt_name}
 set SRT_FIXED=video_fixed.srt
 set OUTPUT_VIDEO=video_with_sub.mp4
+set VIDEO_TITLE={video_title}
 
 echo Bước 1: Kiểm tra và sửa file SRT...
 echo.
@@ -63,8 +65,20 @@ if errorlevel 1 (
 )
 
 echo.
+echo Bước 3: Upload video lên YouTube...
+echo.
+python "%UPLOAD_SCRIPT%" "%OUTPUT_VIDEO%" "%VIDEO_TITLE%" private
+
+if errorlevel 1 (
+    echo.
+    echo [ERROR] Không thể upload video lên YouTube!
+    pause
+    exit /b 1
+)
+
+echo.
 echo ============================================================
-echo HOÀN THÀNH! Video đã có subtitle: %OUTPUT_VIDEO%
+echo HOÀN THÀNH! Video đã được upload lên YouTube
 echo ============================================================
 pause
 """
@@ -166,7 +180,7 @@ def main():
     print()
     
     # Tạo file BAT
-    bat_path = create_process_bat(video_folder, "video.mp4", "video.srt", script_dir)
+    bat_path = create_process_bat(video_folder, "video.mp4", "video.srt", script_dir, video_title)
     print(f"✓ Đã tạo file xử lý: {bat_path}")
     print()
     

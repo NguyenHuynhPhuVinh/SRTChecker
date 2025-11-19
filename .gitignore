@@ -201,6 +201,10 @@ video/
 *.mpg
 *.mpeg
 
+# YouTube API credentials
+client_secrets.json
+token.pickle
+
 # Windows
 Thumbs.db
 ehthumbs.db

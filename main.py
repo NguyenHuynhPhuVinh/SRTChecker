@@ -77,6 +77,26 @@ if errorlevel 1 (
 )
 
 echo.
+echo Bước 4: Đổi tên thư mục thành COMPLETE...
+echo.
+
+REM Lấy tên thư mục hiện tại
+for %%I in (.) do set CURRENT_FOLDER=%%~nxI
+
+REM Tạo tên thư mục mới với prefix COMPLETE
+set NEW_FOLDER=COMPLETE_%CURRENT_FOLDER%
+
+REM Di chuyển lên thư mục cha và đổi tên
+cd ..
+ren "%CURRENT_FOLDER%" "%NEW_FOLDER%"
+
+if errorlevel 1 (
+    echo [WARNING] Không thể đổi tên thư mục
+) else (
+    echo Đã đổi tên thư mục thành: %NEW_FOLDER%
+)
+
+echo.
 echo ============================================================
 echo HOÀN THÀNH! Video đã được upload lên YouTube
 echo ============================================================

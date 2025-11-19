@@ -67,27 +67,30 @@ if errorlevel 1 (
 echo.
 echo Bước 3: Đổi tên video...
 echo.
+REM Xóa file cũ nếu tồn tại
+if exist "%VIDEO_TITLE% - AIVietSub.mp4" del "%VIDEO_TITLE% - AIVietSub.mp4"
 set FINAL_VIDEO=%VIDEO_TITLE% - AIVietSub.mp4
-ren "%OUTPUT_VIDEO%" "%FINAL_VIDEO%"
+move "%OUTPUT_VIDEO%" "%FINAL_VIDEO%"
 
 if errorlevel 1 (
-    echo [WARNING] Không thể đổi tên video
+    echo [WARNING] Không thể đổi tên video, giữ tên gốc
     set FINAL_VIDEO=%OUTPUT_VIDEO%
 ) else (
     echo Đã đổi tên: %FINAL_VIDEO%
 )
 
 echo.
-echo Bước 4: Upload video lên VLC Mobile...
+echo Bước 4: Khởi động Stream Server...
 echo.
-python "%SCRIPT_DIR%\\upload_vlc.py" "%FINAL_VIDEO%" "http://192.168.137.92:8080"
-
-if errorlevel 1 (
-    echo.
-    echo [ERROR] Không thể upload video lên VLC!
-    pause
-    exit /b 1
-)
+echo Video đã sẵn sàng! Mở trên điện thoại:
+echo   http://192.168.137.1:8000
+echo.
+echo Đang khởi động server...
+start "Video Stream Server" python "%SCRIPT_DIR%\\stream_server.py" "."
+timeout /t 3 /nobreak >nul
+echo.
+echo Server đã khởi động! Mở link trên điện thoại để xem video
+echo (Đóng cửa sổ server khi xong)
 
 echo.
 echo Bước 5: Đổi tên thư mục thành COMPLETE...

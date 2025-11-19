@@ -45,8 +45,12 @@ def upload_to_vlc(video_path, vlc_url):
     log(f"VLC URL: {vlc_url}")
     print()
     
-    # Chuẩn bị upload
-    upload_url = f"{vlc_url}/upload.json"
+    # VLC có nhiều endpoint khác nhau, thử cả 3
+    upload_endpoints = [
+        f"{vlc_url}/upload.json",
+        f"{vlc_url}/upload",
+        vlc_url
+    ]
     
     try:
         # Mở file và upload
@@ -56,22 +60,41 @@ def upload_to_vlc(video_path, vlc_url):
             log("Đang upload...")
             print()
             
-            # Upload với progress tracking
-            response = requests.post(
-                upload_url,
-                files=files,
-                timeout=300  # 5 phút timeout
-            )
+            # Thử từng endpoint
+            success = False
+            for upload_url in upload_endpoints:
+                try:
+                    log(f"Thử endpoint: {upload_url}")
+                    response = requests.post(
+                        upload_url,
+                        files=files,
+                        timeout=300  # 5 phút timeout
+                    )
+                    
+                    if response.status_code == 200 or response.status_code == 201:
+                        print()
+                        log("✓ Upload thành công!")
+                        log("Video đã có sẵn trong VLC trên điện thoại")
+                        success = True
+                        break
+                    else:
+                        log(f"  Status code: {response.status_code}, thử endpoint khác...")
+                        # Reset file pointer
+                        f.seek(0)
+                except Exception as e:
+                    log(f"  Lỗi: {str(e)}, thử endpoint khác...")
+                    f.seek(0)
+                    continue
             
-            if response.status_code == 200:
+            if not success:
                 print()
-                log("✓ Upload thành công!")
-                log("Video đã có sẵn trong VLC trên điện thoại")
-                return True
-            else:
-                print()
-                log(f"✗ Upload thất bại! Status code: {response.status_code}")
+                log("✗ Upload thất bại với tất cả endpoint!")
+                log("Vui lòng upload thủ công qua browser:")
+                log(f"  1. Mở {vlc_url} trên browser")
+                log(f"  2. Kéo thả file: {file_name}")
                 return False
+            
+            return True
                 
     except requests.exceptions.ConnectionError:
         print()
